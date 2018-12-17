@@ -42,10 +42,11 @@
         <mark key="^" line="83" column="47" />
         <mark key="." line="83" column="22" />
       </file>
-      <file name="D:/aizuoye_mall/server/php/database/migrations/2018_12_17_172822_add_member_price_into_product_table.php" timestamp="1545038913890">
+      <file name="D:/aizuoye_mall/server/php/database/migrations/2018_12_17_172822_add_member_price_into_product_table.php" timestamp="1545040554669">
         <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="8" />
-        <mark key="." line="14" column="8" />
+        <mark key="]" line="29" column="10" />
+        <mark key="." line="29" column="10" />
+        <mark key="^" line="29" column="10" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-13.log" timestamp="1544710039140">
         <mark key="[" line="0" column="0" />
