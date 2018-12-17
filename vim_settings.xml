@@ -84,7 +84,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/thirdparty/UMPush/UmengNotification.php" timestamp="1545013290391" />
-      <file name="D:/aizuoye_mall/server/php/app/Model/Address.php" timestamp="1545042757671">
+      <file name="D:/aizuoye_mall/server/php/app/Model/Address.php" timestamp="1545043778031">
         <mark key="[" line="44" column="33" />
       </file>
       <file name="D:/aizuoye_mall/server/php/app/Model/Order.php" timestamp="1544596705689">
@@ -94,6 +94,7 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/Middleware/Authenticate.php" timestamp="1545028614907" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushAllManager.php" timestamp="1545033512903" />
+      <file name="D:/aizuoye_pc_v21/server/php/API/Generated/enums/DeviceType.php" timestamp="1545044612081" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/TestPage.vue" timestamp="1544766301108">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="5" />
