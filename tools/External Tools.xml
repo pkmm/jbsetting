@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="php_cbf" description="Automatically correct coding standard violations." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\User\vendor\bin\php-cs-fixer.bat" />
+      <option name="PARAMETERS" value="fix &quot;$FileDir$/$FileName$&quot; --rules=@PSR2" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

@@ -1,0 +1,301 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushAllManager.php" timestamp="1545013150032" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_2/UserService.php" timestamp="1545016496911" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" timestamp="1545016484453" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_2/ClassHomeworkService.php" timestamp="1544794735518">
+        <mark key="a" line="156" column="9" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1545015238392">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="52" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1545016460736" />
+      <file name="D:/aizuoye_pc_v21/server/php/resources/views/test.blade.php" timestamp="1544768843880">
+        <mark key="'" line="163" column="4" />
+        <mark key="[" line="104" column="10" />
+        <mark key="]" line="65" column="10" />
+        <mark key="." line="55" column="8" />
+        <mark key="^" line="55" column="7" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallUserMapper.php" timestamp="1545016132657">
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Account/Login/BaseLogin.php" timestamp="1545016407408" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/api_routes_WeChatIntegralMall.php" timestamp="1545014941988" />
+      <file name="D:/aizuoye_pc_v21/server/php/thirdparty/UMPush/UmengNotification.php" timestamp="1545013290391" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Model/User.php" timestamp="1545014712756" />
+    </filemarks>
+    <jumps>
+      <jump line="67" column="35" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_2/UserService.php" />
+      <jump line="3" column="0" filename="D:/aizuoye_API_demo/server/php/storage/logs/laravel.log" />
+      <jump line="36" column="55" filename="D:/aizuoye_API_demo/server/php/storage/logs/laravel.log" />
+      <jump line="87" column="93" filename="D:/aizuoye_API_demo/server/php/storage/logs/laravel.log" />
+      <jump line="62" column="71" filename="D:/aizuoye_API_demo/server/php/storage/logs/laravel.log" />
+      <jump line="25" column="100" filename="D:/aizuoye_API_demo/server/php/storage/logs/laravel.log" />
+      <jump line="26" column="0" filename="D:/aizuoye_API_demo/server/php/storage/logs/laravel.log" />
+      <jump line="21" column="69" filename="D:/aizuoye_API_demo/server/php/storage/logs/laravel.log" />
+      <jump line="0" column="0" filename="D:/aizuoye_API_demo/server/php/storage/logs/laravel.log" />
+      <jump line="5" column="0" filename="D:/aizuoye_API_demo/server/php/storage/logs/laravel.log" />
+      <jump line="15" column="33" filename="D:/aizuoye_API_demo/server/php/app/Manager/DetectorManager.php" />
+      <jump line="32" column="99" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-26.log" />
+      <jump line="101" column="79" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-26.log" />
+      <jump line="12" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-26.log" />
+      <jump line="11" column="80" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-26.log" />
+      <jump line="9" column="92" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-26.log" />
+      <jump line="15" column="87" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-26.log" />
+      <jump line="10" column="78" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-26.log" />
+      <jump line="725" column="55" filename="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" />
+      <jump line="757" column="41" filename="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" />
+      <jump line="8" column="35" filename="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" />
+      <jump line="51" column="51" filename="D:/aizuoye_pc_v21/server/php/app/Services/WechatMiniProgramV1_3/SmallProgramServerService.php" />
+      <jump line="83" column="44" filename="D:/aizuoye_pc_v21/server/php/app/Services/WechatMiniProgramV1_3/SmallProgramServerService.php" />
+      <jump line="1439" column="106" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-28.log" />
+      <jump line="2385" column="83" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-28.log" />
+      <jump line="0" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-28.log" />
+      <jump line="426" column="89" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-28.log" />
+      <jump line="197" column="104" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-28.log" />
+      <jump line="18" column="70" filename="D:/aizuoye_pc_v21/server/php/app/Utils/WechatUtil.php" />
+      <jump line="149" column="57" filename="D:/aizuoye_pc_v21/server/php/app/Utils/WechatUtil.php" />
+      <jump line="0" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Utils/WechatUtil.php" />
+      <jump line="60" column="16" filename="D:/aizuoye_pc_v21/server/php/app/Manager/Account/Login/WeChatLogin.php" />
+      <jump line="737" column="25" filename="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" />
+      <jump line="150" column="25" filename="D:/aizuoye_pc_v21/server/php/app/Utils/WechatUtil.php" />
+      <jump line="21" column="102" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="1053" column="117" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="1121" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="1096" column="83" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="26" column="89" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="76" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="835" column="82" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-11-29.log" />
+      <jump line="5111" column="49" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="97" column="11" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-11-29.log" />
+      <jump line="25" column="102" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="161" column="125" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-11-29.log" />
+      <jump line="182" column="100" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="1939" column="136" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="0" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="2" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-11-29.log" />
+      <jump line="2572" column="115" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="231" column="132" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="16" column="159" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-11-29.log" />
+      <jump line="453" column="96" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="237" column="127" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-11-29.log" />
+      <jump line="0" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-11-29.log" />
+      <jump line="3929" column="109" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="58" column="130" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
+      <jump line="162" column="11" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-11-29.log" />
+      <jump line="34" column="6" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_2/User/UserMapper.php" />
+      <jump line="85" column="5" filename="D:/aizuoye_pc_v21/server/php/app/Model/User.php" />
+      <jump line="137" column="28" filename="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallUserMapper.php" />
+      <jump line="87" column="20" filename="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallUserMapper.php" />
+      <jump line="213" column="25" filename="D:/aizuoye_pc_v21/server/php/app/Http/Controllers/Generated/V2_1/AdminLetterController.php" />
+      <jump line="0" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Http/Controllers/Generated/V2_1/AdminLetterController.php" />
+      <jump line="18" column="20" filename="D:/aizuoye_mall/server/php/database/migrations/2018_11_23_142519_create_order_table.php" />
+      <jump line="20" column="20" filename="D:/aizuoye_mall/server/php/database/migrations/2018_11_23_142519_create_order_table.php" />
+      <jump line="17" column="20" filename="D:/aizuoye_mall/server/php/database/migrations/2018_11_23_142519_create_order_table.php" />
+      <jump line="19" column="20" filename="D:/aizuoye_mall/server/php/database/migrations/2018_11_23_142519_create_order_table.php" />
+      <jump line="26" column="20" filename="D:/aizuoye_mall/server/php/database/migrations/2018_11_23_142519_create_order_table.php" />
+      <jump line="28" column="20" filename="D:/aizuoye_mall/server/php/database/migrations/2018_11_23_142519_create_order_table.php" />
+      <jump line="29" column="20" filename="D:/aizuoye_mall/server/php/database/migrations/2018_11_23_142519_create_order_table.php" />
+      <jump line="94" column="0" filename="D:/aizuoye_mall/server/php/app/Utils/WeChatUtil.php" />
+      <jump line="208" column="0" filename="D:/aizuoye_mall/server/php/app/Manager/OrderManager.php" />
+      <jump line="78" column="3" filename="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/SmallProgramServerService.php" />
+      <jump line="1885" column="84" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-10.log" />
+      <jump line="92" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" />
+      <jump line="28" column="71" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-12-10.log" />
+      <jump line="27" column="78" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-10.log" />
+      <jump line="0" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-10.log" />
+      <jump line="11" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-10.log" />
+      <jump line="782" column="34" filename="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" />
+      <jump line="934" column="37" filename="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" />
+      <jump line="795" column="7" filename="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" />
+      <jump line="931" column="6" filename="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" />
+      <jump line="0" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-12-11.log" />
+      <jump line="20" column="98" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-11.log" />
+      <jump line="56" column="226" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-11.log" />
+      <jump line="26" column="99" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-11.log" />
+      <jump line="1" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-11.log" />
+      <jump line="12" column="43" filename="D:/aizuoye_mall/server/php/storage/logs/laravel.log" />
+      <jump line="153" column="24" filename="D:/aizuoye_pc_v21/server/php/resources/views/test.blade.php" />
+      <jump line="114" column="4" filename="D:/aizuoye_pc_v21/server/php/resources/views/test.blade.php" />
+      <jump line="23" column="92" filename="D:/aizuoye_mall/server/php/storage/logs/laravel.log" />
+      <jump line="1" column="0" filename="D:/aizuoye_mall/server/php/storage/logs/laravel.log" />
+      <jump line="1083" column="81" filename="D:/aizuoye_mall/server/php/storage/logs/laravel.log" />
+      <jump line="29" column="54" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-13.log" />
+      <jump line="1" column="178" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-13.log" />
+      <jump line="39" column="79" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-12-13.log" />
+      <jump line="0" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-12-13.log" />
+      <jump line="1596" column="70" filename="D:/aizuoye_mall/server/php/storage/logs/laravel.log" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>()</text>
+      </register>
+      <register name="/" type="4">
+        <text>getUserOp</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IlFab25lIj48L29wdGlvbj4gCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIFVzZXIgJHVzZXIKICAgICAqIEByZXR1cm4gVXNlclByb2ZpbGVNb2RlbAogICAgICovCiAgICBwcml2YXRlIHN0YXRpYyBmdW5jdGlvbiBnZXRVc2VyUHJvZmlsZU1vZGVsKFVzZXIgJHVzZXIpOiBVc2VyUHJvZmlsZU1vZGVsCiAgICB7CiAgICAgICAgJHVzZXJQcm9maWxlID0gVXNlck1hbmFnZXI6OmdldFVzZXJQcm9maWxlQnlVc2VyV2l0aEZpeGVkRXJyb3JDb3VudCgkdXNlcik7CgogICAgICAgICR1c2VyUHJvZmlsZU1vZGVsID0gbmV3IFVzZXJQcm9maWxlTW9kZWwoKTsKICAgICAgICAkdXNlclByb2ZpbGVNb2RlbC0+aW5pdEZyb21Nb2RlbCgkdXNlclByb2ZpbGUpOwogICAgICAgIHJldHVybiAkdXNlclByb2ZpbGVNb2RlbDsKICAgIH0=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0VXNlckludGVncmFsTW9kZWwoVXNlciAkdXNlciwgJGFkZFNjb3JlUmVzKTogP1VzZXJJbnRlZ3JhbE1vZGVsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkaXNFbXB0eSA9ICRhZGRTY29yZVJlcyA9PT0gZmFsc2UgfHwgJGFkZFNjb3JlUmVzID09PSBudWxsOwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIEludGVncmFsUnVsZSAkcnVsZQogICAgICogQHJldHVybiBJbnRlZ3JhbFJ1bGVNb2RlbAogICAgICovCiAgICBwcml2YXRlIHN0YXRpYyBmdW5jdGlvbiBnZXRJbnRlZ3JhbFJ1bGVNb2RlbCgkcnVsZSkKICAgIHsKICAgICAgICAkaW50ZWdyYWxSdWxlTW9kZWwgPSBuZXcgSW50ZWdyYWxSdWxlTW9kZWwoKTsKICAgICAgICAkaW50ZWdyYWxSdWxlTW9kZWwtPmluaXRGcm9tTW9kZWwoJHJ1bGUpOwogICAgICAgIHJldHVybiAkaW50ZWdyYWxSdWxlTW9kZWw7CiAgICB9</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">JHVzZXJJbnRlZ3JhbE1vZGVsLT5pc0FkZFNjb3JlID0gISRpc0VtcHR5OwogICAgICAgIGlmICgkdXNlckludGVncmFsTW9kZWwtPmlzQWRkU2NvcmUpIHsKICAgICAgICAgICAgLy+808HLu/231rLF0OjSqrrzw+a1xMr9vt0KICAgICAgICAgICAgJHVzZXJJbnRlZ3JhbE1vZGVsLT5pc0xldmVsdXAgPSAkaXNFbXB0eSA/IGZhbHNlIDogJGFkZFNjb3JlUmVzWydpc0xldmVsVXAnXTsKICAgICAgICAgICAgJHVzZXJJbnRlZ3JhbE1vZGVsLT5zY29yZUdhcCA9ICRpc0VtcHR5ID8gMCA6ICRhZGRTY29yZVJlc1snc2NvcmVHYXAnXTsKICAgICAgICAgICAgJHVzZXJJbnRlZ3JhbE1vZGVsLT5pbnRlZ3JhbFJ1bGUgPSBhcnJheV9tYXAoZnVuY3Rpb24gKEludGVncmFsUnVsZSAkcnVsZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIHNlbGY6OmdldEludGVncmFsUnVsZU1vZGVsKCRydWxlKTsKICAgICAgICAgICAgfSwgSW50ZWdyYWxNYW5hZ2VyOjokYWRkVHlwZSA/PyBbXSk7CiAgICAgICAgICAgICR1c2VySW50ZWdyYWxNb2RlbC0+c2hhcmVMZXZlbFVwVGV4dCA9ICRpc0VtcHR5ID8gMCA6ICRhZGRTY29yZVJlc1snc2hhcmVMZXZlbFVwVGV4dCddOwogICAgICAgIH0=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlckluZm9Nb2RlbC0+dXNlclByb2ZpbGUgPSBzZWxmOjpnZXRVc2VyUHJvZmlsZU1vZGVsKCR1c2VyKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlckluZm9Nb2RlbC0+dXNlciA9IHNlbGY6OmdldEZ1bGxVc2VyTW9kZWwoJHVzZXIpOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>146</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>getUserOp</last-search>
+      <last-offset />
+      <last-pattern>getUserOp</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>%s</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDzK1rv6usXC67K7us+3qFw+</entry>
+        <entry encoding="base64">XDzH68rkyOvV/ci3tcTR6dakwutcPg==</entry>
+        <entry encoding="base64">XDzX6bK7tObU2lw+</entry>
+        <entry encoding="base64">XDxkZXZpY2VJbmZvc1w+</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDxHUkFORE1PVEhFUlw+</entry>
+        <entry encoding="base64">XDxHUkFORE1PVEhFUjJcPg==</entry>
+        <entry encoding="base64">XDxHUkFOREZBVEhFUjJcPg==</entry>
+        <entry encoding="base64">XDxURUFDSEVSXD4=</entry>
+        <entry>hash</entry>
+        <entry encoding="base64">XDx1bnNpZ25lZEludGVnZXJcPg==</entry>
+        <entry encoding="base64">XDx0aW1lc3RhbXBcPg==</entry>
+        <entry>%s</entry>
+        <entry>signin</entry>
+        <entry>bindOp</entry>
+        <entry>sign</entry>
+        <entry>bindOpen</entry>
+        <entry>getUserOp</entry>
+      </history-search>
+      <history-cmd>
+        <entry>134</entry>
+        <entry>64</entry>
+        <entry>321</entry>
+        <entry>419</entry>
+        <entry>172</entry>
+        <entry>778</entry>
+        <entry>173</entry>
+        <entry>272</entry>
+        <entry>53</entry>
+        <entry>/%s/data/weChatDecodeData</entry>
+        <entry>255</entry>
+        <entry>43</entry>
+        <entry>set hls</entry>
+        <entry>94,114=</entry>
+        <entry>94,.=</entry>
+        <entry>179</entry>
+        <entry>11,69d</entry>
+        <entry>113</entry>
+        <entry>141</entry>
+        <entry>146</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

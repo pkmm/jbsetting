@@ -1,0 +1,11 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="40" />
+    <option name="EDITOR_TAB_PLACEMENT" value="4" />
+    <option name="FONT_FACE" value="Microsoft YaHei UI" />
+    <option name="FONT_SCALE" value="1.0" />
+    <option name="FONT_SIZE" value="13" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="RECENT_FILES_LIMIT" value="15" />
+  </component>
+</application>
