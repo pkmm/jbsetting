@@ -36,11 +36,9 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1545026960756">
-        <mark key="[" line="92" column="38" />
-        <mark key="]" line="92" column="38" />
-        <mark key="^" line="92" column="61" />
-        <mark key="." line="92" column="38" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1545031932554">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="78" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-13.log" timestamp="1544710039140">
         <mark key="[" line="0" column="0" />
@@ -52,10 +50,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallUserMapper.php" timestamp="1545031302000">
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="39" column="8" />
-        <mark key="." line="39" column="8" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallUserMapper.php" timestamp="1545031870547">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Account/Login/QQLogin.php" timestamp="1544690520205">
         <mark key="[" line="27" column="16" />
@@ -235,10 +233,8 @@
       <jump line="1596" column="70" filename="D:/aizuoye_mall/server/php/storage/logs/laravel.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>if (is_null($user)) {
-            return $userInfoModel;
-        }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXJNYW5hZ2VyOjpjaGVjaygkdXNlcklkLCAkYWNjZXNzVG9rZW4sIDAsICRkZXZpY2VUeXBlKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PA==</text>
@@ -249,36 +245,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IlFab25lIj48L29wdGlvbj4gCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXJNYW5hZ2VyOjpjaGVjaygkdXNlcklkLCAkYWNjZXNzVG9rZW4sIDAsICRkZXZpY2VUeXBlKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBVc2VyICR1c2VyICovCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGRkKCR1c2VyKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXI6OmZpbmQoJHVzZXItPmlkKTsK</text>
+      </register>
+      <register name="5" type="4">
         <text>if (is_null($user)) {
             return $userInfoModel;
         }</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>if (is_null($user)) {
             return [];
         }</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGlmICghJHVzZXIpIHsKICAgICAgICAgICAgcmV0dXJuICR1c2VySW50ZWdyYWxNb2RlbDsKICAgICAgICB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgICAgIGRkKCRhZGRyZXNzSnNvbik7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text encoding="base64">LyoqCiAgICAgKiBAcGFyYW0gVXNlciAkdXNlcgogICAgICogQHJldHVybiBVc2VyTW9kZWwKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBnZXRGdWxsVXNlck1vZGVsKFVzZXIgJHVzZXIgPSBudWxsKTogVXNlck1vZGVsCiAgICB7CiAgICAgICAgJHVzZXJNb2RlbCA9IG5ldyBVc2VyTW9kZWwoKTsKICAgICAgICBpZiAoaXNfbnVsbCgkdXNlcikpIHsKICAgICAgICAgICAgcmV0dXJuICR1c2VyTW9kZWw7CiAgICAgICAgfQoKICAgICAgICAkdXNlck1vZGVsLT5pbml0RnJvbU9STSgkdXNlcik7CgogICAgICAgIHJldHVybiAkdXNlck1vZGVsOwogICAgfQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgKCEkdXNlck9mV2VjaGF0ICYmICFlbXB0eSgkcGhvbmUpKSB7CiAgICAgICAgICAgICR1c2VyT2ZQaG9uZSA9IFVzZXJNYW5hZ2VyOjpnZXRVc2VyQnlQaG9uZSgkcGhvbmUpOwogICAgICAgIH0=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSW52YWxpZFBhcmFtZXRlcnNFeGNlcHRpb24oJ2ludmFsaWQgcmVxdWVzdC4nKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRQYXJhbWV0ZXJzRXhjZXB0aW9uKCdpbnZhbGlkIHJlcXVlc3QuJyk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
