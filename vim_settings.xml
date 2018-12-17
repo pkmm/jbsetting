@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1545045690611">
+        <mark key="[" line="42" column="35" />
+        <mark key="]" line="70" column="26" />
+        <mark key="." line="70" column="26" />
+        <mark key="^" line="70" column="26" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/SmallProgramServerService.php" timestamp="1545027324731" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1544689990728">
         <mark key="[" line="35" column="0" />
@@ -36,11 +42,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1545038443196">
-        <mark key="[" line="83" column="22" />
-        <mark key="]" line="83" column="22" />
-        <mark key="^" line="83" column="47" />
-        <mark key="." line="83" column="22" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1545045573054">
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
       </file>
       <file name="D:/aizuoye_mall/server/php/database/migrations/2018_12_17_172822_add_member_price_into_product_table.php" timestamp="1545040554669">
         <mark key="[" line="14" column="8" />
@@ -256,10 +261,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgICR1c2VyID0gVXNlck1hbmFnZXI6OmNoZWNrKCR1c2VySWQsICRhY2Nlc3NUb2tlbiwgMCwgJGRldmljZVR5cGUpOwogICAgICAgIH0gY2F0Y2ggKEF1dGhGYWlsRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIExvZzo6ZXJyb3IoJ2NsaWVudCB1c2VyIGxvZ2luIGZyb20gbWluaXByb2dyYW0gZmFpbGVkLiAnIC4gJGUtPmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIHRocm93IG5ldyBJbnZhbGlkUGFyYW1ldGVyc0V4Y2VwdGlvbignYWNjZXNzVG9rZW4gbm90IHZhbGlkJyk7CiAgICAgICAgfQoKICAgICAgICAkc2Vzc2lvbiA9IExvZ2luU2Vzc2lvbk1hbmFnZXI6OnNhdmVVc2VyTG9naW5TZXNzaW9uKAogICAgICAgICAgICAkdXNlcklkLAogICAgICAgICAgICAnJywKICAgICAgICAgICAgRGV2aWNlVHlwZTo6SU5URUdSQUxfTUFMTF9TRVJWRVIsCiAgICAgICAgICAgICcnLAogICAgICAgICAgICAwCiAgICAgICAgKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>userOfWechat</text>
       </register>
       <register name="/" type="4">
         <text>getUserOp</text>
@@ -268,35 +273,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IlFab25lIj48L29wdGlvbj4gCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIFVzZXIgJHVzZXIKICAgICAqIEBwYXJhbSAkYWRkU2NvcmVSZXMKICAgICAqIEByZXR1cm4gVXNlckludGVncmFsTW9kZWx8bnVsbAogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGdldFVzZXJJbnRlZ3JhbE1vZGVsKFVzZXIgJHVzZXIpOiA/VXNlckludGVncmFsTW9kZWwKICAgIHsKICAgICAgICAkdXNlckludGVncmFsTW9kZWwgPSBuZXcgVXNlckludGVncmFsTW9kZWwoKTsKICAgICAgICAkdXNlckludGVncmFsID0gJHVzZXItPmludGVncmFsOwogICAgICAgIGlmIChlbXB0eSgkdXNlckludGVncmFsKSkgewogICAgICAgICAgICAvL7/JxNzV4rj208O7p7TTwLTDu9PQvNO5/bv9t9ajrL7NtLS9qNK7uPa4+Mv7CiAgICAgICAgICAgICR1c2VySW50ZWdyYWwgPSBJbnRlZ3JhbE1hbmFnZXI6OmdldFVzZXJJbnRlZ3JhbEJ5VXNlcklkKCR1c2VyLT5pZCk7CiAgICAgICAgfQogICAgICAgICR1c2VySW50ZWdyYWxNb2RlbC0+aW5pdEZyb21PUk0oJHVzZXJJbnRlZ3JhbCk7CgogICAgICAgIHJldHVybiAkdXNlckludGVncmFsTW9kZWw7CiAgICB9</text>
+        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgICR1c2VyID0gVXNlck1hbmFnZXI6OmNoZWNrKCR1c2VySWQsICRhY2Nlc3NUb2tlbiwgMCwgJGRldmljZVR5cGUpOwogICAgICAgIH0gY2F0Y2ggKEF1dGhGYWlsRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIExvZzo6ZXJyb3IoJ2NsaWVudCB1c2VyIGxvZ2luIGZyb20gbWluaXByb2dyYW0gZmFpbGVkLiAnIC4gJGUtPmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIHRocm93IG5ldyBJbnZhbGlkUGFyYW1ldGVyc0V4Y2VwdGlvbignYWNjZXNzVG9rZW4gbm90IHZhbGlkJyk7CiAgICAgICAgfQoKICAgICAgICAkc2Vzc2lvbiA9IExvZ2luU2Vzc2lvbk1hbmFnZXI6OnNhdmVVc2VyTG9naW5TZXNzaW9uKAogICAgICAgICAgICAkdXNlcklkLAogICAgICAgICAgICAnJywKICAgICAgICAgICAgRGV2aWNlVHlwZTo6SU5URUdSQUxfTUFMTF9TRVJWRVIsCiAgICAgICAgICAgICcnLAogICAgICAgICAgICAwCiAgICAgICAgKTs=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXJNYW5hZ2VyOjpjaGVjaygkdXNlcklkLCAkYWNjZXNzVG9rZW4sIDAsICRkZXZpY2VUeXBlKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">JHVzZXJPZldlY2hhdCA9IFVzZXJNYW5hZ2VyOjpnZXRVc2VyQnlVbmlvbklkKExvZ2luVHlwZTo6V2VjaGF0LCAkdW5pb25JZCk7CiAgICAgICAgJHVzZXJPZlBob25lID0gZW1wdHkoJHBob25lKSA/IG51bGwgOiBVc2VyTWFuYWdlcjo6Z2V0VXNlckJ5UGhvbmUoJHBob25lKTsKCiAgICAgICAgaWYgKCEkdXNlck9mUGhvbmUgJiYgISR1c2VyT2ZXZWNoYXQpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yV2VDaGF0TWFsbE5vdEZvdW5kVXNlckV4Y2VwdGlvbignbm90IGZvdW5kIHVzZXIuJyk7CiAgICAgICAgfQoKICAgICAgICBpZiAoJHVzZXJPZlBob25lICYmICEkdXNlck9mV2VjaGF0KSB7CiAgICAgICAgICAgIFdlQ2hhdEludGVncmFsTWFsbE1hbmFnZXI6OmJpbmRXZUNoYXQoJHVzZXJPZlBob25lLT5pZCwgJHVuaW9uSWQsICRuaWNrbmFtZSk7CiAgICAgICAgfQoKICAgICAgICAkdXNlciA9ICR1c2VyT2ZXZWNoYXQgPyAkdXNlck9mV2VjaGF0IDogJHVzZXJPZlBob25lOwoKICAgICAgICAkc2Vzc2lvbiA9IExvZ2luU2Vzc2lvbk1hbmFnZXI6OnNhdmVVc2VyTG9naW5TZXNzaW9uKAogICAgICAgICAgICAkdXNlci0+aWQsCiAgICAgICAgICAgICcnLAogICAgICAgICAgICBEZXZpY2VUeXBlOjpJTlRFR1JBTF9NQUxMX1NFUlZFUiwKICAgICAgICAgICAgJycsCiAgICAgICAgICAgIDAKICAgICAgICApOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBVc2VyICR1c2VyICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRQYXJhbWV0ZXJzRXhjZXB0aW9uKCfOotDF08O7p9LRvq205tTaJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKCR1c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRQYXJhbWV0ZXJzRXhjZXB0aW9uKCe4w9PDu6fS0b6tsPO2qM6i0MUnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXI6OmZpbmQoJHVzZXItPmlkKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoVXNlck1hbmFnZXI6OmlzV2VjaGF0VXNlcigkdXNlcikpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRQYXJhbWV0ZXJzRXhjZXB0aW9uKCe4w9PDu6fS0b6tsPO2qM6i0MUnKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>if (is_null($user)) {
-            return $userInfoModel;
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRQYXJhbWV0ZXJzRXhjZXB0aW9uKCfTzr/NsrvE3LDztqgnKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>if (is_null($user)) {
-            return [];
-        }</text>
+        <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIFVzZXIgJHVzZXIKICAgICAqIEBwYXJhbSAkYWRkU2NvcmVSZXMKICAgICAqIEByZXR1cm4gVXNlckludGVncmFsTW9kZWx8bnVsbAogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGdldFVzZXJJbnRlZ3JhbE1vZGVsKFVzZXIgJHVzZXIpOiA/VXNlckludGVncmFsTW9kZWwKICAgIHsKICAgICAgICAkdXNlckludGVncmFsTW9kZWwgPSBuZXcgVXNlckludGVncmFsTW9kZWwoKTsKICAgICAgICAkdXNlckludGVncmFsID0gJHVzZXItPmludGVncmFsOwogICAgICAgIGlmIChlbXB0eSgkdXNlckludGVncmFsKSkgewogICAgICAgICAgICAvL7/JxNzV4rj208O7p7TTwLTDu9PQvNO5/bv9t9ajrL7NtLS9qNK7uPa4+Mv7CiAgICAgICAgICAgICR1c2VySW50ZWdyYWwgPSBJbnRlZ3JhbE1hbmFnZXI6OmdldFVzZXJJbnRlZ3JhbEJ5VXNlcklkKCR1c2VyLT5pZCk7CiAgICAgICAgfQogICAgICAgICR1c2VySW50ZWdyYWxNb2RlbC0+aW5pdEZyb21PUk0oJHVzZXJJbnRlZ3JhbCk7CgogICAgICAgIHJldHVybiAkdXNlckludGVncmFsTW9kZWw7CiAgICB9</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGlmICghJHVzZXIpIHsKICAgICAgICAgICAgcmV0dXJuICR1c2VySW50ZWdyYWxNb2RlbDsKICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXJNYW5hZ2VyOjpjaGVjaygkdXNlcklkLCAkYWNjZXNzVG9rZW4sIDAsICRkZXZpY2VUeXBlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKCRhZGRyZXNzSnNvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBVc2VyICR1c2VyICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
