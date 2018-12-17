@@ -9,19 +9,11 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_2/ClassHomeworkService.php" timestamp="1544794735518">
         <mark key="a" line="156" column="9" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1545018901205">
-        <mark key="[" line="22" column="86" />
-        <mark key="]" line="22" column="85" />
-        <mark key="." line="22" column="85" />
-        <mark key="^" line="22" column="85" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1545016460736" />
-      <file name="D:/aizuoye_pc_v21/server/php/resources/views/test.blade.php" timestamp="1544768843880">
-        <mark key="'" line="163" column="4" />
-        <mark key="[" line="104" column="10" />
-        <mark key="]" line="65" column="10" />
-        <mark key="." line="55" column="8" />
-        <mark key="^" line="55" column="7" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1545019951473">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="22" column="69" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallUserMapper.php" timestamp="1545016132657">
         <mark key="[" line="42" column="8" />
@@ -136,11 +128,11 @@
       <jump line="1596" column="70" filename="D:/aizuoye_mall/server/php/storage/logs/laravel.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>XIAOCHENGXU</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>XIAOCHENGXU</text>
       </register>
       <register name="/" type="4">
         <text>getUserOp</text>
