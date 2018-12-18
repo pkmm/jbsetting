@@ -35,12 +35,6 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="7" />
       </file>
-      <file name="D:/aizuoye_mall/server/php/database/migrations/2018_12_17_172822_add_member_price_into_product_table.php" timestamp="1545040554669">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="29" column="10" />
-        <mark key="." line="29" column="10" />
-        <mark key="^" line="29" column="10" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-13.log" timestamp="1544710039140">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -61,6 +55,7 @@
         <mark key="]" line="153" column="3" />
         <mark key="." line="153" column="3" />
       </file>
+      <file name="D:/aizuoye_mall/server/php/ClientAPI/ApiSender.php" timestamp="1545105975912" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Account/Login/QQLogin.php" timestamp="1545102676103">
         <mark key="[" line="23" column="23" />
         <mark key="]" line="23" column="23" />
