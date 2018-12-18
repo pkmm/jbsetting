@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1545048692492">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/SmallProgramServerService.php" timestamp="1545027324731" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1544689990728">
         <mark key="[" line="35" column="0" />
@@ -30,7 +25,6 @@
         <mark key="]" line="38" column="19" />
         <mark key="." line="38" column="19" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" timestamp="1545016484453" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Utils/QQUtil.php" timestamp="1544690242775">
         <mark key="[" line="92" column="16" />
         <mark key="]" line="92" column="16" />
@@ -63,14 +57,14 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallUserMapper.php" timestamp="1545037695529">
-        <mark key="[" line="62" column="2" />
-        <mark key="]" line="62" column="3" />
-        <mark key="." line="62" column="3" />
+        <mark key="[" line="153" column="2" />
+        <mark key="]" line="153" column="3" />
+        <mark key="." line="153" column="3" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Account/Login/QQLogin.php" timestamp="1544690520205">
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="16" />
-        <mark key="." line="27" column="16" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Account/Login/QQLogin.php" timestamp="1545102676103">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="23" />
+        <mark key="." line="23" column="23" />
       </file>
       <file name="D:/aizuoye_mall/server/php/app/Utils/AppServerRequestUtil.php" timestamp="1544709846822">
         <mark key="[" line="36" column="0" />
@@ -122,23 +116,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545038301051">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorWeChatMallNotFoundUserException.php" timestamp="1545038326790">
-        <mark key="[" line="11" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Account/Login/WeChatLogin.php" timestamp="1545047370654">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/Middleware/WeChatIntegralMall.php" timestamp="1544708856700">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Account/Login/BaseLogin.php" timestamp="1545047412565" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Account/Login/BaseLogin.php" timestamp="1545102656998">
+        <mark key="[" line="119" column="3" />
+        <mark key="]" line="119" column="4" />
+        <mark key="." line="119" column="4" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/api_routes_WeChatIntegralMall.php" timestamp="1545014941988" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/User.php" timestamp="1545014712756" />
     </filemarks>
@@ -245,11 +232,11 @@
       <jump line="1596" column="70" filename="D:/aizuoye_mall/server/php/storage/logs/laravel.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getUserByUnionI</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>getUserByUnionI</text>
       </register>
       <register name="/" type="4">
         <text>getUserOp</text>
@@ -257,32 +244,32 @@
       <register name="0" type="4">
         <text>not found user.</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiBAcGFyYW0gJHVuaW9uSWQKICAgICAqIEBwYXJhbSAkbG9naW5UeXBlCiAgICAgKiBAcmV0dXJuIFVzZXJ8bnVsbAogICAgICovCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0VXNlckJ5VW5pb25JZCgkdW5pb25JZCwgJGxvZ2luVHlwZSkKICAgIHsKICAgICAgICBpZiAoZW1wdHkoJHVuaW9uSWQpKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICAkb3BlblBsYXRmb3JtID0gVXNlck9wZW5QbGF0Zm9ybTo6cXVlcnkoKQogICAgICAgICAgICAtPndpdGgoWyd1c2VyJ10pCiAgICAgICAgICAgIC0+d2hlcmUoJ2xvZ2luX3R5cGUnLCAkbG9naW5UeXBlKQogICAgICAgICAgICAtPndoZXJlKCd1bmlvbl9pZCcsICR1bmlvbklkKQogICAgICAgICAgICAtPmZpcnN0KCk7CgogICAgICAgICR1c2VyID0gbnVsbDsKICAgICAgICBpZiAoJG9wZW5QbGF0Zm9ybSkgewogICAgICAgICAgICAkdXNlciA9ICRvcGVuUGxhdGZvcm0tPnVzZXI7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHVzZXI7CiAgICB9</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXJNYW5hZ2VyOjpnZXRVc2VyQnlVbmlvbklkKCR3ZWNoYXRVc2VySW5mby0+dW5pb25JZCk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">aWYgKCR1c2VyKSB7CiAgICAgICAgICAgIC8vIMO709Cw87aouf1hcHC1xNPDu6cKICAgICAgICAgICAgaWYgKCR1c2VyLT5hcHBfc2VydmVyX3VzZXJfaWQgPT0gMCAmJiAkYXBwU2VydmVyVXNlcklkICE9IDAKICAgICAgICAgICAgICAgICYmICFlbXB0eSgkYXBwU2VydmVyQWNjZXNzVG9rZW4pICYmICFlbXB0eSgkZGV2aWNlVHlwZSkpIHsKICAgICAgICAgICAgICAgICRvayA9IGZhbHNlOwogICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAvLyBhcHAg08O7p8rHus+3qLXECiAgICAgICAgICAgICAgICAgICAgJG9rID0gQXBwU2VydmVyUmVxdWVzdFV0aWw6OmNoZWNrQXBwVXNlcigkYXBwU2VydmVyVXNlcklkLCAkYXBwU2VydmVyQWNjZXNzVG9rZW4sICRkZXZpY2VUeXBlKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKFxFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgICAgICAgICBMb2c6OmVycm9yKCdiaW5kIGFwcCB1c2VyIGZhaWxlZC4gJyAuICRlLT5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKCRvaykgeyAgLy8gsPO2qAogICAgICAgICAgICAgICAgICAgICR1c2VyLT5hcHBfc2VydmVyX3VzZXJfaWQgPSAkYXBwU2VydmVyVXNlcklkOwogICAgICAgICAgICAgICAgICAgICR1c2VyLT5zYXZlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkdXNlciA9IFVzZXJNYW5hZ2VyOjpjcmVhdGVVc2VyKAogICAgICAgICAgICAgICAgJGFwcFNlcnZlclVzZXJJZCwKICAgICAgICAgICAgICAgICR3ZWNoYXRVc2VySW5mby0+bmlja05hbWUsCiAgICAgICAgICAgICAgICAkd2VjaGF0VXNlckluZm8tPmxhbmd1YWdlLAogICAgICAgICAgICAgICAgJHdlY2hhdFVzZXJJbmZvLT5vcGVuSWQsCiAgICAgICAgICAgICAgICAkd2VjaGF0VXNlckluZm8tPnVuaW9uSWQsCiAgICAgICAgICAgICAgICAkd2VjaGF0VXNlckluZm8tPmNvdW50cnksCiAgICAgICAgICAgICAgICAkd2VjaGF0VXNlckluZm8tPnByb3ZpbmNlLAogICAgICAgICAgICAgICAgJHdlY2hhdFVzZXJJbmZvLT5jaXR5LAogICAgICAgICAgICAgICAgJHdlY2hhdFVzZXJJbmZvLT5nZW5kZXIsCiAgICAgICAgICAgICAgICAkd2VjaGF0VXNlckluZm8tPmF2YXRhclVybAogICAgICAgICAgICApOwogICAgICAgIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CiAgICAvKgogICAgICog0KGzzNDyuf3AtAogICAgICovCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIVVzZXJNYW5hZ2VyOjppc1dlY2hhdFVzZXIoJHVzZXIpKSB7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IFVzZXJPcGVuUGxhdGZvcm06OmNyZWF0ZShbCiAgICAgICAgICAgICAgICAndXNlcl9pZCcgPT4gJHVzZXJPZlBob25lLT5pZCwKICAgICAgICAgICAgICAgICd1bmlvbl9pZCcgPT4gJHVuaW9uSWQsCiAgICAgICAgICAgICAgICAnbmlja25hbWUnID0+ICRuaWNrbmFtZQogICAgICAgICAgICBdKTs=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlck9mV2VjaGF0ID0gVXNlck1hbmFnZXI6OmdldFVzZXJCeVVuaW9uSWQoTG9naW5UeXBlOjpXZWNoYXQsICR1bmlvbklkKTsKICAgICAgICAkdXNlck9mUGhvbmUgPSBlbXB0eSgkcGhvbmUpID8gbnVsbCA6IFVzZXJNYW5hZ2VyOjpnZXRVc2VyQnlQaG9uZSgkcGhvbmUpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZjo6ZG9CaW5kV2VDaGF0KCR1c2VyT2ZQaG9uZSwgJHVuaW9uSWQsICRuaWNrbmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlck9mV2VjaGF0ID0gVXNlck1hbmFnZXI6OmdldFVzZXJCeVVuaW9uSWQoTG9naW5UeXBlOjpXZWNoYXQsICR1bmlvbklkKTsKICAgICAgICAkdXNlck9mUGhvbmUgPSBlbXB0eSgkcGhvbmUpID8gbnVsbCA6IFVzZXJNYW5hZ2VyOjpnZXRVc2VyQnlQaG9uZSgkcGhvbmUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
