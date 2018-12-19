@@ -7,9 +7,6 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1545200943715">
         <mark key="[" line="30" column="32" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/ClientAPI/APIBase.php" timestamp="1545184777858">
-        <mark key="[" line="21" column="61" />
-      </file>
       <file name="D:/aizuoye_mall/server/php/app/Manager/AddressManager.php" timestamp="1544162566819">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -47,6 +44,7 @@
         <mark key="]" line="92" column="16" />
         <mark key="." line="92" column="16" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" timestamp="1545209422839" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1545134708748">
         <mark key="[" line="34" column="30" />
         <mark key="]" line="20" column="7" />
@@ -105,9 +103,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/aizuoye_mall/server/php/app/Utils/WeChatUtil.php" timestamp="1545112692377">
-        <mark key="[" line="158" column="60" />
-      </file>
       <file name="D:/aizuoye_mall/server/php/app/Http/api_routes_v1.php" timestamp="1545124592321">
         <mark key="[" line="35" column="4" />
         <mark key="]" line="36" column="0" />
@@ -125,6 +120,7 @@
         <mark key="." line="20" column="10" />
         <mark key="^" line="20" column="10" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V1_7/AdminHomepagePosterService.php" timestamp="1545210077754" />
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-12-10.log" timestamp="1544432663864">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -206,9 +202,6 @@
         <mark key="." line="214" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/Controllers/TestController.php" timestamp="1545114166670" />
-      <file name="/fragment.php" timestamp="1545186062597">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Utils/Http/HttpHelper.php" timestamp="1545114143343" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Account/Login/WeChatLogin.php" timestamp="1545188924575">
         <mark key="[" line="24" column="109" />
