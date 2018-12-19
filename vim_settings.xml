@@ -4,8 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="D:/aizuoye_pc_v21/server/php/ClientAPI/ApiSender.php" timestamp="1545112843224" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1545188390563">
-        <mark key="[" line="27" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1545200943715">
+        <mark key="[" line="30" column="32" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/ClientAPI/APIBase.php" timestamp="1545184777858">
         <mark key="[" line="21" column="61" />
@@ -143,6 +143,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/vendor/laravel/framework/src/Illuminate/Cache/RedisStore.php" timestamp="1545201302327">
+        <mark key="[" line="41" column="34" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/TestPage.vue" timestamp="1544766301108">
         <mark key="[" line="1" column="5" />
