@@ -113,13 +113,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/.env.dev" timestamp="1545187375650">
-        <mark key="'" line="25" column="23" />
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="20" column="10" />
-        <mark key="." line="20" column="10" />
-        <mark key="^" line="20" column="10" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V1_7/AdminHomepagePosterService.php" timestamp="1545210077754" />
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-12-10.log" timestamp="1544432663864">
         <mark key="[" line="0" column="0" />
@@ -176,6 +169,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/HomepagePosterManager.php" timestamp="1545211416976" />
       <file name="D:/aizuoye_mall/server/php/app/Services/V1/User/UserMapper.php" timestamp="1545131232352">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -186,6 +180,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_2/ExerciseService.php" timestamp="1545211451056" />
       <file name="D:/aizuoye_pc_v21/server/php/vendor/laravel/framework/src/Illuminate/Redis/Database.php" timestamp="1545204360858">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
