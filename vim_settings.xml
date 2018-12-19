@@ -205,6 +205,10 @@
         <mark key="^" line="24" column="117" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_0/User/UserMapper.php" timestamp="1545217045545" />
+      <file name="D:/aizuoye_pc_v21/server/php/resources/views/test.blade.php" timestamp="1545220410309">
+        <mark key="[" line="125" column="27" />
+        <mark key="]" line="125" column="26" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/Middleware/WeChatIntegralMall.php" timestamp="1544708856700">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -336,8 +340,8 @@
       <jump line="4884" column="73" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-12-19.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgZGQoQXJyOjpnZXQoJHRoaXMtPmNsaWVudHMsICRuYW1lID86ICdkZWZhdWx0JykpOwo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
         <text>mysql</text>
@@ -345,8 +349,8 @@
       <register name="/" type="4">
         <text>getUserOp</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQXJyOjpnZXQoJHRoaXMtPmNsaWVudHMsICRuYW1lID86ICdkZWZhdWx0Jyk7Cg==</text>
+      <register name="0" type="4">
+        <text />
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgZGQoQXJyOjpnZXQoJHRoaXMtPmNsaWVudHMsICRuYW1lID86ICdkZWZhdWx0JykpOwo=</text>
