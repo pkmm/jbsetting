@@ -41,14 +41,15 @@
         <mark key="]" line="92" column="16" />
         <mark key="." line="92" column="16" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" timestamp="1545290006664">
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" timestamp="1545292267614">
         <mark key="a" line="309" column="36" />
         <mark key="b" line="109" column="29" />
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="375" column="12" />
-        <mark key="]" line="375" column="12" />
-        <mark key="^" line="211" column="30" />
-        <mark key="." line="375" column="12" />
+        <mark key="t" line="481" column="67" />
+        <mark key="'" line="134" column="35" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="110" column="33" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1545134708748">
         <mark key="[" line="34" column="30" />
@@ -121,6 +122,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V1_7/AdminHomepagePosterService.php" timestamp="1545293532816">
+        <mark key="[" line="83" column="7" />
+        <mark key="]" line="83" column="8" />
+        <mark key="." line="83" column="8" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-12-10.log" timestamp="1544432663864">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -130,10 +136,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/aizuoye_mall/server/php/ClientAPI/Homework/Generated/model/UserModel.php" timestamp="1545122750531">
-        <mark key="[" line="75" column="20" />
-        <mark key="]" line="75" column="34" />
       </file>
       <file name="D:/aizuoye_mall/server/php/app/Model/Order.php" timestamp="1544596705689">
         <mark key="[" line="10" column="0" />
@@ -155,10 +157,6 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1545199171022">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="16" />
-      </file>
       <file name="D:/aizuoye_mall/server/php/storage/logs/laravel.log" timestamp="1544751426421">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -168,6 +166,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/HomepagePosterManager.php" timestamp="1545293079657">
+        <mark key="[" line="72" column="20" />
+        <mark key="]" line="72" column="20" />
+        <mark key="^" line="72" column="0" />
+        <mark key="." line="72" column="20" />
       </file>
       <file name="D:/aizuoye_mall/server/php/app/Services/V1/User/UserMapper.php" timestamp="1545131232352">
         <mark key="[" line="15" column="0" />
@@ -188,6 +192,9 @@
         <mark key="[" line="16" column="11" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1545292528176">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/vendor/laravel/framework/src/Illuminate/Redis/Database.php" timestamp="1545204360858">
         <mark key="[" line="75" column="0" />
@@ -242,12 +249,9 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="22" column="15" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V1_7/adminHomepagePoster/SavePosterMessage.php" timestamp="1545293570125" />
     </filemarks>
     <jumps>
-      <jump line="18" column="70" filename="D:/aizuoye_pc_v21/server/php/app/Utils/WechatUtil.php" />
-      <jump line="149" column="57" filename="D:/aizuoye_pc_v21/server/php/app/Utils/WechatUtil.php" />
-      <jump line="0" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Utils/WechatUtil.php" />
-      <jump line="60" column="16" filename="D:/aizuoye_pc_v21/server/php/app/Manager/Account/Login/WeChatLogin.php" />
       <jump line="737" column="25" filename="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" />
       <jump line="150" column="25" filename="D:/aizuoye_pc_v21/server/php/app/Utils/WechatUtil.php" />
       <jump line="21" column="102" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
@@ -339,20 +343,22 @@
       <jump line="131" column="48" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="145" column="27" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="89" column="56" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
-      <jump line="309" column="16" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="375" column="9" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="212" column="30" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
-      <jump line="310" column="16" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="135" column="0" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
+      <jump line="309" column="32" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
+      <jump line="398" column="31" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
+      <jump line="110" column="33" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
+      <jump line="310" column="16" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
+      <jump line="400" column="31" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
+      <jump line="134" column="35" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>appChanged(e) {
-                console.error(e)
-            },</text>
+        <text>modelData</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>modelData</text>
       </register>
       <register name="/" type="4">
         <text>getUserOp</text>
@@ -361,33 +367,35 @@
         <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IGJ0bi1ibG9jayIgQGNsaWNrPSJzaGFyZVBhZ2VGdW5jIj631s/t0rPD5jwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">aWYgKCFlbXB0eSgkbW9kZWxEYXRhWydwb3N0ZXJfaWQnXSkpIHsKICAgICAgICAgICAgJHNhdmVkTW9kZWwgPSBIb21lcGFnZVBvc3Rlcjo6Zmlyc3RPckNyZWF0ZShbCiAgICAgICAgICAgICAgICAnaWQnID0+ICRtb2RlbERhdGFbJ3Bvc3Rlcl9pZCddLAogICAgICAgICAgICBdKS0+ZmlsbCgkbW9kZWxEYXRhKTsKCiAgICAgICAgICAgICRzYXZlZE1vZGVsLT5zYXZlKCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJHNhdmVkTW9kZWwgPSBIb21lcGFnZVBvc3Rlcjo6Y3JlYXRlKCRtb2RlbERhdGEpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQGNoYW5nZT0idXNlckFwcFZlcnNpb25DaGFuZ2VkIgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQGNoYW5nZT0idXNlckFwcFZlcnNpb25DaGFuZ2VkIgo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">c2VsZWN0ZWRVc2VyQXBwVmVyc2lvbnMobiwgbykgewogICAgICAgICAgICAgICAgbGV0IHRtcCA9IFtdOwogICAgICAgICAgICAgICAgaWYgKG4ubGVuZ3RoID4gMSAmJiBuLmluZGV4T2YoLTEpICE9IC0xKSB7CiAgICAgICAgICAgICAgICAgICAgdG1wID0gbi5maWx0ZXIoaSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBpICE9IC0xOwogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB0aGlzLnNlbGVjdGVkVXNlckFwcFZlcnNpb25zID0gdG1wOwogICAgICAgICAgICB9</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnNlbGVjdGVkVXNlckxvY2F0aW9ucy5pbmRleE9mKGkpID09PSAtMSA/IHRtcC5wdXNoKGkpOiBudWxsOwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>hasItem(province) {
+                this.selectedUserLocations.
+            },</text>
+      </register>
+      <register name="7" type="4">
         <text>appChanged(e) {
                 console.error(e)
             },</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQGNoYW5nZT0iYXBwQ2hhbmdlZCIK</text>
       </register>
-      <register name="3" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICDKx7fxtcfCvDoge3sgaXNsIH19Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdC1maXJzdC1vcHRpb24K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdC1maXJzdC1vcHRpb24K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICctMSc6ICfIq7K/JywK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcihQQ0EpCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGVsLW9wdGlvbi1ncm91cAogICAgICAgICAgICAgICAgICAgIHYtZm9yPSJncm91cCBpbiBjaXRpZXMiCiAgICAgICAgICAgICAgICAgICAgOmxhYmVsPSJncm91cC5sYWJlbCIsCiAgICAgICAgICAgICAgICAgICAgOmtleT0iZ3JvdXAubGFiZWwiCiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgPGVsLW9wdGlvbgogICAgICAgICAgICAgICAgICAgICAgICB2LWZvcj0iY2l0eU9iaiBpbiBncm91cC5vcHRpb25zIgogICAgICAgICAgICAgICAgICAgICAgICA6a2V5PSJjaXR5T2JqLnZhbHVlIgogICAgICAgICAgICAgICAgICAgICAgICA6bGFiZWw9ImNpdHlPYmoubGFiZWwiCiAgICAgICAgICAgICAgICAgICAgICAgIDp2YWx1ZT0iY2l0eU9iai52YWx1ZSIKICAgICAgICAgICAgICAgICAgICA+CgogICAgICAgICAgICAgICAgICAgIDwvZWwtb3B0aW9uPgoKICAgICAgICAgICAgICAgIDwvZWwtb3B0aW9uLWdyb3VwPg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGVsLXNlbGVjdCBtdWx0aXBsZSB2LW1vZGVsPSJzZWxlY3RlZENpdGllcyIgcGxhY2Vob2xkZXI9ItGh1PGzx8rQIj4KICAgICAgICAgICAgICAgICAgICA8ZWwtb3B0aW9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LWZvcj0iKGNpdHksIGNvZGUpIGluIGNpdGllcyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpsYWJlbD0iY2l0eSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp2YWx1ZT0iY29kZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDprZXk9ImNvZGUiCiAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIDwvZWwtb3B0aW9uPgogICAgICAgICAgICAgICAgPC9lbC1zZWxlY3Q+</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
