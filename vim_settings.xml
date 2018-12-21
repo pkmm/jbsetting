@@ -26,11 +26,6 @@
         <mark key="]" line="38" column="19" />
         <mark key="." line="38" column="19" />
       </file>
-      <file name="D:/aizuoye_mall/server/php/app/Manager/OrderManager.php" timestamp="1545131185929">
-        <mark key="[" line="169" column="12" />
-        <mark key="]" line="169" column="12" />
-        <mark key="." line="169" column="12" />
-      </file>
       <file name="D:/dev_lll/52pkm.cn/app/Manager/NewInfoManager.php" timestamp="1545191428229">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -141,11 +136,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_mall/server/php/app/Model/Order.php" timestamp="1544596705689">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_3/model/AdminHomepagePosterModel.php" timestamp="1545304705487" />
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-12-19.log" timestamp="1545192666508">
         <mark key="[" line="0" column="0" />
@@ -175,11 +165,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/HomepagePosterManager.php" timestamp="1545361949834">
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="78" column="30" />
-        <mark key="." line="78" column="30" />
-        <mark key="^" line="78" column="30" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/HomepagePosterManager.php" timestamp="1545365805414">
+        <mark key="[" line="78" column="10" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="D:/aizuoye_mall/server/php/app/Services/V1/User/UserMapper.php" timestamp="1545131232352">
         <mark key="[" line="15" column="0" />
@@ -201,6 +190,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="D:/aizuoye_mall/server/php/ClientAPI/Homework/Generated/IntegralMallServer/GetUserMessage.php" timestamp="1545363994405" />
       <file name="/Dummy.txt" timestamp="1545292528176">
         <mark key="[" line="0" column="0" />
       </file>
@@ -220,10 +210,10 @@
         <mark key="." line="14" column="8" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/public/common/client-bridge.js" timestamp="1545287696975" />
-      <file name="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" timestamp="1545362598222">
-        <mark key="[" line="268" column="10" />
-        <mark key="]" line="268" column="11" />
-        <mark key="." line="268" column="11" />
+      <file name="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" timestamp="1545365337195">
+        <mark key="[" line="213" column="12" />
+        <mark key="]" line="213" column="12" />
+        <mark key="." line="213" column="12" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/resources/views/test.blade.php" timestamp="1545289744992">
         <mark key="[" line="118" column="17" />
@@ -254,7 +244,6 @@
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V1_7/adminHomepagePoster/SavePosterMessage.php" timestamp="1545293570125" />
     </filemarks>
     <jumps>
-      <jump line="21" column="102" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
       <jump line="1053" column="117" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
       <jump line="1121" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
       <jump line="1096" column="83" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
@@ -354,57 +343,56 @@
       <jump line="134" column="35" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="409" column="35" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="345" column="15" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
+      <jump line="243" column="4" filename="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGlmICghaXNfbnVsbCgkYXBpKSkgewoKICAgICAgICAgICAgfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkcXVlcnkxLT53aGVyZURvZXNudEhhdmUoJ3RhZ3MnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KS0+bWVyZ2Uod2l0aChjbG9uZSAkcXVlcnkpLT53aGVyZURvZXNudEhhdmUoJ3RhZ3MnKSk=</text>
+        <text encoding="base64">ICAvLyB0YWdzw7vT0LzHwry+zcrHsrvQ6NKqvfjQ0Ln9wsu1xA==</text>
       </register>
       <register name="/" type="4">
-        <text>getUserOp</text>
+        <text>**</text>
       </register>
       <register name="0" type="4">
         <text>HPT.homepage_poster_id</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGlmICghaXNfbnVsbCgkYXBpKSkgewoKICAgICAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkcXVlcnkxLT53aGVyZURvZXNudEhhdmUoJ3RhZ3MnKTsK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">LyoqIEB2YXIgVXNlclNlc3Npb25Nb2RlbCAkc2Vzc2lvbiAqLwogICAgICAgICAgICAgICAgJHNlc3Npb24gPSAkYXBpLT5nZXRTZXNzaW9uKCk7CiAgICAgICAgICAgICAgICAkdXNlci0+YXBwX3NlcnZlcl91c2VyX2lkID0gJHNlc3Npb24tPmdldFVzZXJJZCgpOwogICAgICAgICAgICAgICAgJHVzZXItPmFwcF91c2VyX2FjY2Vzc190b2tlbiA9ICRzZXNzaW9uLT5nZXRBY2Nlc3NUb2tlbigpOwogICAgICAgICAgICAgICAgJHVzZXItPnNhdmUoKTs=</text>
+        <text encoding="base64">ZWxzZSB7Ci8vICAgICAgICAgICAgJHF1ZXJ5LT5nZXQoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJvbGUgPSAnJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRxdWVyeS0+d2hlcmVEb2VzbnRIYXZlKCd0YWdzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILLp0a/Ex9Cpy/nT0NPDu6e2vMTcsum/tLXEcG9zdGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKFxEQjo6Z2V0UXVlcnlMb2coKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZGQoJHBvc3RlcnMpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>\DB::enableQueryLog();
-
-        dd(\DB::getQueryLog());</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyb2xlID0gJ8601qonOwo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">JHBvc3RlcnMgPSBIb21lcGFnZVBvc3Rlcjo6cXVlcnkoKS0+d2hlcmUoZnVuY3Rpb24gKCRxdWVyeSkgdXNlICgkbm93LCAkcG9zdGVyVHlwZXMpIHsKICAgICAgICAgICAgICAgICRxdWVyeS0+d2hlcmUoJ3N0YXJ0ZWRfYXQnLCAnPCcsICRub3cpOwogICAgICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZSgnZW5kZWRfYXQnLCAnPicsICRub3cpOwogICAgICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZUluKCdwb3N0ZXJfdHlwZScsICRwb3N0ZXJUeXBlcyk7CiAgICAgICAgICAgIH0pLQ==</text>
+        <text encoding="base64">ICAvKioKICAgICAqIEBwYXJhbSAkYXBwVXNlcklkCiAgICAgKiBAcGFyYW0gJGFwcFVzZXJBY2Nlc3NUb2tlbgogICAgICogQHJldHVybiBHZXRVc2VyTWVzc2FnZQogICAgICogQHRocm93cyBcR3V6emxlSHR0cFxFeGNlcHRpb25cR3V6emxlRXhjZXB0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0QXBwU2VydmVyVXNlckluZm8oJGFwcFVzZXJJZCwgJGFwcFVzZXJBY2Nlc3NUb2tlbikKICAgIHsKICAgICAgICAkc2VzcyA9IG5ldyBVc2VyU2Vzc2lvbk1vZGVsKCk7CiAgICAgICAgJHNlc3MtPnNldFVzZXJJZCgkYXBwVXNlcklkKTsKICAgICAgICAkc2Vzcy0+c2V0QWNjZXNzVG9rZW4oJGFwcFVzZXJBY2Nlc3NUb2tlbik7CgogICAgICAgICRhcGkgPSBuZXcgR2V0VXNlck1lc3NhZ2UoKTsKCiAgICAgICAgSHR0cFBvc3Rlcjo6cG9zdChnZXRlbnYoJ0FQUF9TRVJWRVJfSE9TVCcpLCAkYXBpLCAkc2Vzcyk7CiAgICAgICAgcmV0dXJuICRhcGk7CiAgICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT53aGVyZVJhdygnSFBULnRhZ19uYW1lID0gPycsIFskbG9jYXRpb25JbmZvXSkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">aWYgKGVtcHR5KCR1c2VyLT5hcHBfc2VydmVyX3VzZXJfaWQpKSB7CiAgICAgICAgICAgICAgICAvLyDKudPDzqLQxSC78tXfIMrHyta7+rrFwusKICAgICAgICAgICAgICAgICRhcGkgPSBzZWxmOjpzaWduSW5BcHBTZXJ2ZXIoJHdlY2hhdFVzZXJJbmZvLT51bmlvbklkLCAkd2VjaGF0VXNlckluZm8tPm5pY2tOYW1lLCAkdXNlci0+cGhvbmUpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgLy8gyrnTw8nP0ru0zsz416q5/cC0tcRhcHDTw7un0MXPogogICAgICAgICAgICAgICAgJGFwaSA9IHNlbGY6OmdldEFwcFNlcnZlclVzZXJJbmZvKCR1c2VyLT5hcHBfc2VydmVyX3VzZXJfaWQsICR1c2VyLT5hcHBfdXNlcl9hY2Nlc3NfdG9rZW4pOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGxvY2F0aW9uSW5mbyA9ICcnOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICRhcGkgPSBzZWxmOjphcHBDbGllbnRVc2VyTG9naW4oCiAgICAgICAgICAgICAgICAgICAgJHVzZXItPmFwcF9zZXJ2ZXJfdXNlcl9pZCwKICAgICAgICAgICAgICAgICAgICAkdXNlci0+YXBwX3VzZXJfYWNjZXNzX3Rva2VuLAogICAgICAgICAgICAgICAgICAgIERldmljZVR5cGU6OklOVEVHUkFMX01BTExfU0VSVkVSCiAgICAgICAgICAgICAgICApOw==</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
       </register>
     </registers>
     <search>
-      <last-search>getUserOp</last-search>
+      <last-search>**</last-search>
       <last-offset />
-      <last-pattern>getUserOp</last-pattern>
+      <last-pattern>**</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>%s</last-substitute>
       <last-dir>1</last-dir>
@@ -431,6 +419,7 @@
         <entry>sign</entry>
         <entry>bindOpen</entry>
         <entry>getUserOp</entry>
+        <entry>**</entry>
       </history-search>
       <history-cmd>
         <entry>134</entry>
