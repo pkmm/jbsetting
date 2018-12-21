@@ -236,7 +236,9 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="D:/aizuoye_release/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1545372753343" />
+      <file name="D:/aizuoye_release/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1545374237542">
+        <mark key="[" line="58" column="35" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-18.log" timestamp="1545134808830">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
