@@ -32,6 +32,13 @@
         <mark key="]" line="38" column="19" />
         <mark key="." line="38" column="19" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" timestamp="1545642384372">
+        <mark key="'" line="540" column="0" />
+        <mark key="[" line="540" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1545643380817">
+        <mark key="[" line="154" column="67" />
+      </file>
       <file name="D:/dev_lll/52pkm.cn/app/Manager/NewInfoManager.php" timestamp="1545191428229">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -80,12 +87,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="45" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1545297529137">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="15" />
-        <mark key="." line="28" column="15" />
-        <mark key="^" line="28" column="22" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-12-11.log" timestamp="1544515856278">
         <mark key="[" line="0" column="0" />
@@ -208,7 +209,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1545637807765" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1545641722431" />
       <file name="D:/aizuoye_mall/server/php/database/migrations/2018_12_18_142738_add_app_user_access_token_to_table.php" timestamp="1545114610812">
         <mark key="[" line="14" column="8" />
         <mark key="]" line="14" column="8" />
@@ -218,6 +219,13 @@
         <mark key="[" line="213" column="12" />
         <mark key="]" line="213" column="12" />
         <mark key="." line="213" column="12" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1545642401179">
+        <mark key="'" line="318" column="7" />
+        <mark key="[" line="317" column="7" />
+        <mark key="]" line="318" column="7" />
+        <mark key="^" line="318" column="7" />
+        <mark key="." line="318" column="7" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/resources/views/test.blade.php" timestamp="1545289744992">
         <mark key="[" line="118" column="17" />
@@ -244,8 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1053" column="117" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
-      <jump line="1121" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
       <jump line="1096" column="83" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
       <jump line="26" column="89" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
       <jump line="76" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
@@ -344,6 +350,8 @@
       <jump line="409" column="35" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="345" column="15" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="243" column="4" filename="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" />
+      <jump line="540" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" />
+      <jump line="318" column="7" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -353,7 +361,7 @@
         <text>nickname</text>
       </register>
       <register name="/" type="4">
-        <text>**</text>
+        <text>signIn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCduaWNrbmFtZScpOwo=</text>
@@ -390,9 +398,9 @@
       </register>
     </registers>
     <search>
-      <last-search>**</last-search>
+      <last-search>signIn</last-search>
       <last-offset />
-      <last-pattern>**</last-pattern>
+      <last-pattern>signIn</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>%s</last-substitute>
       <last-dir>1</last-dir>
@@ -400,8 +408,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
-        <entry encoding="base64">XDzK1rv6usXC67K7us+3qFw+</entry>
         <entry encoding="base64">XDzH68rkyOvV/ci3tcTR6dakwutcPg==</entry>
         <entry encoding="base64">XDzX6bK7tObU2lw+</entry>
         <entry encoding="base64">XDxkZXZpY2VJbmZvc1w+</entry>
@@ -414,12 +420,14 @@
         <entry encoding="base64">XDx1bnNpZ25lZEludGVnZXJcPg==</entry>
         <entry encoding="base64">XDx0aW1lc3RhbXBcPg==</entry>
         <entry>%s</entry>
-        <entry>signin</entry>
         <entry>bindOp</entry>
         <entry>sign</entry>
         <entry>bindOpen</entry>
         <entry>getUserOp</entry>
         <entry>**</entry>
+        <entry>signin</entry>
+        <entry>signIN</entry>
+        <entry>signIn</entry>
       </history-search>
       <history-cmd>
         <entry>134</entry>
