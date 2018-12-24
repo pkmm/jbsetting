@@ -189,7 +189,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="D:/aizuoye_release/server/php/app/Managers/User/LoginSessionManager.php" timestamp="1545615477164" />
       <file name="/Dummy.txt" timestamp="1545292528176">
         <mark key="[" line="0" column="0" />
       </file>
@@ -203,6 +202,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1545632388787" />
       <file name="D:/aizuoye_mall/server/php/database/migrations/2018_12_18_142738_add_app_user_access_token_to_table.php" timestamp="1545114610812">
         <mark key="[" line="14" column="8" />
         <mark key="]" line="14" column="8" />
@@ -236,7 +236,6 @@
       <file name="D:/aizuoye_release/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1545615347187">
         <mark key="[" line="58" column="35" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Model/ClassStudent.php" timestamp="1545618255831" />
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-18.log" timestamp="1545134808830">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
