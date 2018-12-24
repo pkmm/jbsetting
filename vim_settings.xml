@@ -11,6 +11,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2018_12_24_151814_AlertStudentTableInsertNicknameAndPortraitField.php" timestamp="1545636009089">
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="32" />
+        <mark key="." line="29" column="32" />
+        <mark key="^" line="28" column="11" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/config/session.php" timestamp="1545204299700">
         <mark key="[" line="72" column="21" />
         <mark key="]" line="72" column="21" />
@@ -345,20 +351,17 @@
       <jump line="243" column="4" filename="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGQoJHBvc3RlcnMtPnRvQXJyYXkoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>nickname</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cG9zdGVycy0+bWVyZ2UoJHF1ZXJ5LT5nZXQoKSktPnNvcnQoKTs=</text>
+        <text>nickname</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
       </register>
-      <register name="0" type="4">
-        <text>tags.push({
-                        category_id: 1,
-                        tag_name: 'all'
-                    })</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCduaWNrbmFtZScpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGQoJHBvc3RlcnMtPnRvQXJyYXkoKSk7Cg==</text>
