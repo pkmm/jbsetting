@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1545736465025" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1545656401854">
         <mark key="[" line="34" column="4" />
         <mark key="]" line="34" column="4" />
@@ -38,21 +39,22 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/HomepagePoster.php" timestamp="1545618126327">
         <mark key="[" line="137" column="5" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1545735484428">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="92" column="41" />
-        <mark key="." line="92" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1545736520791">
+        <mark key="[" line="100" column="33" />
+        <mark key="]" line="100" column="33" />
+        <mark key="." line="100" column="33" />
+        <mark key="^" line="106" column="30" />
       </file>
       <file name="/Dummy.txt" timestamp="1545721170792">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1545728252105">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1545736510470">
         <mark key="[" line="1096" column="3" />
         <mark key="]" line="1096" column="3" />
         <mark key="." line="1096" column="3" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/UpdateUserLocationForSensorsData.php" timestamp="1545654450158" />
-      <file name="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" timestamp="1545734679827">
+      <file name="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" timestamp="1545737025099">
         <mark key="[" line="261" column="15" />
         <mark key="]" line="261" column="15" />
         <mark key="." line="261" column="15" />
@@ -184,11 +186,11 @@
       <jump line="38" column="6" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfaWQnID0+ICRzdHVkZW50LT5pZCwK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>creat</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
