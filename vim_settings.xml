@@ -24,10 +24,13 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" timestamp="1545702808116">
         <mark key="'" line="864" column="26" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1545734187030">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1545738038149">
         <mark key="[" line="149" column="81" />
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
+      </file>
+      <file name="D:/aizuoye_mall/server/php/app/Http/routes.php" timestamp="1545738960063">
+        <mark key="[" line="17" column="75" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/Student.php" timestamp="1545725139646">
         <mark key="[" line="12" column="0" />
@@ -39,7 +42,7 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/HomepagePoster.php" timestamp="1545618126327">
         <mark key="[" line="137" column="5" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1545736520791">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1545738052067">
         <mark key="[" line="100" column="33" />
         <mark key="]" line="100" column="33" />
         <mark key="." line="100" column="33" />
@@ -54,7 +57,7 @@
         <mark key="." line="1096" column="3" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/UpdateUserLocationForSensorsData.php" timestamp="1545654450158" />
-      <file name="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" timestamp="1545737025099">
+      <file name="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" timestamp="1545739195483">
         <mark key="[" line="261" column="15" />
         <mark key="]" line="261" column="15" />
         <mark key="." line="261" column="15" />
@@ -66,7 +69,7 @@
         <mark key="]" line="696" column="4" />
         <mark key="." line="696" column="4" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1545734905721">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1545739297018">
         <mark key="'" line="162" column="65" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/StudentProfile.php" timestamp="1545720158914">
