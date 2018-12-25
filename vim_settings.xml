@@ -15,6 +15,11 @@
         <mark key="." line="29" column="32" />
         <mark key="^" line="28" column="11" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2018_12_25_102614_CreateStudentProfileTable.php" timestamp="1545707939817">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" timestamp="1545702808116">
         <mark key="'" line="864" column="26" />
       </file>
@@ -155,10 +160,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHN0dWRlbnQgPSAkdXNlci0+c3R1ZGVudDsKICAgICAgICBpZiAoJHN0dWRlbnQpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRQYXJhbWV0ZXJzRXhjZXB0aW9uKCcnKQogICAgICAgIH0=</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>getUserLatestClass</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
