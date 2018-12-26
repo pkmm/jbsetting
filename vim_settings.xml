@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/aizuoye_release/server/php/vendor/lokielse/laravel-mns/src/LaravelMNSServiceProvider.php" timestamp="1545826063477" />
       <file name="D:/aizuoye_release/server/php/app/Manager/SensorsManager.php" timestamp="1545823448205">
         <mark key="[" line="111" column="12" />
         <mark key="]" line="115" column="9" />
@@ -21,6 +22,7 @@
         <mark key="." line="29" column="32" />
         <mark key="^" line="28" column="11" />
       </file>
+      <file name="D:/dev_lll/52pkm.cn/app/Providers/BroadcastServiceProvider.php" timestamp="1545826332197" />
       <file name="D:/aizuoye_release/server/php/app/Console/Commands/UpdateUserRoleForSensorsData.php" timestamp="1545804255653">
         <mark key="[" line="50" column="67" />
       </file>
@@ -94,6 +96,7 @@
         <mark key="]" line="15" column="21" />
         <mark key="." line="15" column="21" />
       </file>
+      <file name="D:/dev_lll/52pkm.cn/app/Http/Controllers/WeChatController.php" timestamp="1545826758744" />
       <file name="D:/aizuoye_mall/server/php/app/Http/web_routes.php" timestamp="1545794254115">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
