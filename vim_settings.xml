@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1545741960279" />
+      <file name="D:/aizuoye_release/server/php/app/Model/GlobalSetting.php" timestamp="1545791696334" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1545656401854">
         <mark key="[" line="34" column="4" />
         <mark key="]" line="34" column="4" />
@@ -44,10 +45,11 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/SchoolClass.php" timestamp="1545656944370" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/SensorsManager.php" timestamp="1545654572187" />
-      <file name="D:/aizuoye_release/server/php/app/Manager/SensorsManager.php" timestamp="1545791133227" />
+      <file name="D:/aizuoye_release/server/php/app/Manager/SensorsManager.php" timestamp="1545791279249" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/HomepagePoster.php" timestamp="1545618126327">
         <mark key="[" line="137" column="5" />
       </file>
+      <file name="D:/aizuoye_release/server/php/app/Console/Commands/UpdateUserRoleForSensorsData.php" timestamp="1545791772093" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1545743583036">
         <mark key="[" line="101" column="34" />
         <mark key="]" line="101" column="0" />
@@ -77,6 +79,7 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/StudentProfile.php" timestamp="1545720158914">
         <mark key="[" line="9" column="20" />
       </file>
+      <file name="D:/aizuoye_release/server/php/app/Console/Commands/UpdateUserLocationForSensorsData.php" timestamp="1545791690671" />
       <file name="D:/aizuoye_release/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1545615347187">
         <mark key="[" line="58" column="35" />
       </file>
