@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/aizuoye_release/server/php/app/Manager/SensorsManager.php" timestamp="1545813040955">
+      <file name="D:/aizuoye_release/server/php/app/Manager/SensorsManager.php" timestamp="1545823448205">
         <mark key="[" line="111" column="12" />
         <mark key="]" line="115" column="9" />
         <mark key="." line="111" column="12" />
@@ -55,7 +55,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/aizuoye_release/server/php/vendor/sensorsdata/sa-sdk-php/SensorsAnalytics.php" timestamp="1545815505606" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" timestamp="1545811157379">
         <mark key="b" line="109" column="29" />
         <mark key="t" line="609" column="67" />
@@ -82,10 +81,9 @@
         <mark key="." line="261" column="15" />
         <mark key="^" line="309" column="29" />
       </file>
-      <file name="D:/aizuoye_release/server/php/app/Manager/Account/Login/BaseLogin.php" timestamp="1545813052780">
-        <mark key="[" line="66" column="71" />
+      <file name="D:/aizuoye_release/server/php/app/Manager/Account/Login/BaseLogin.php" timestamp="1545823980794">
+        <mark key="[" line="57" column="77" />
       </file>
-      <file name="D:/aizuoye_release/server/php/app/Console/Kernel.php" timestamp="1545813621548" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallUserMapper.php" timestamp="1545741752127">
         <mark key="[" line="244" column="2" />
         <mark key="]" line="244" column="3" />
