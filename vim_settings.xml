@@ -17,10 +17,10 @@
         <mark key="^" line="28" column="11" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_3/user/UpdateStudentProfileMessage.php" timestamp="1545742340804" />
-      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2018_12_25_102614_CreateStudentProfileTable.php" timestamp="1545732649531">
-        <mark key="[" line="17" column="76" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2018_12_25_102614_CreateStudentProfileTable.php" timestamp="1545790035274">
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="16" column="49" />
+        <mark key="." line="16" column="49" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" timestamp="1545742411564">
         <mark key="'" line="864" column="26" />
@@ -60,9 +60,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1545736510470">
-        <mark key="[" line="1096" column="3" />
-        <mark key="]" line="1096" column="3" />
-        <mark key="." line="1096" column="3" />
+        <mark key="[" line="1095" column="3" />
+        <mark key="]" line="1095" column="3" />
+        <mark key="." line="1095" column="3" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/UpdateUserLocationForSensorsData.php" timestamp="1545654450158" />
       <file name="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" timestamp="1545739195483">
@@ -201,10 +201,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gdXBkYXRlU3R1ZGVudFByb2ZpbGUoVXBkYXRlU3R1ZGVudFByb2ZpbGVNZXNzYWdlICRtZXNzYWdlKQogICAgewogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gY3JlYXRlU3R1ZGVudFByb2ZpbGUoQ3JlYXRlU3R1ZGVudFByb2ZpbGVNZXNzYWdlICRtZXNzYWdlKQogICAgewogICAgICAgICR1c2VyID0gQXV0aDo6dXNlcigpOwogICAgICAgICRuYW1lID0gJG1lc3NhZ2UtPmdldE5hbWUoKTsKICAgICAgICAkbmlja25hbWUgPSAkbWVzc2FnZS0+Z2V0Tmlja25hbWUoKTsKICAgICAgICAkZ2VuZGVyID0gJG1lc3NhZ2UtPmdldEdlbmRlcigpOwogICAgICAgICRzY2hvb2xJZCA9ICRtZXNzYWdlLT5nZXRTY2hvb2xJZCgpOwogICAgICAgICRncmFkZSA9ICRtZXNzYWdlLT5nZXRHcmFkZSgpOwogICAgICAgICRjbGFzc051bWJlciA9ICRtZXNzYWdlLT5nZXRDbGFzc051bWJlcigpOwogICAgICAgICRjbGFzc05hbWUgPSAkbWVzc2FnZS0+Z2V0Q2xhc3NOYW1lKCk7CiAgICAgICAgJHN0dWRlbnROdW1iZXIgPSAkbWVzc2FnZS0+Z2V0U3R1ZGVudE51bWJlcigpOwogICAgICAgIFN0dWRlbnRQcm9maWxlTWFuYWdlcjo6Y3JlYXRlT3JVcGRhdGVTdHVkZW50UHJvZmlsZSgKICAgICAgICAgICAgJHVzZXIsCiAgICAgICAgICAgICRuYW1lLAogICAgICAgICAgICAkbmlja25hbWUsCiAgICAgICAgICAgICRnZW5kZXIsCiAgICAgICAgICAgICRzY2hvb2xJZCwKICAgICAgICAgICAgJGdyYWRlLAogICAgICAgICAgICAkY2xhc3NOdW1iZXIsCiAgICAgICAgICAgICRzdHVkZW50TnVtYmVyLAogICAgICAgICAgICAkY2xhc3NOYW1lCiAgICAgICAgKTsKICAgICAgICAkbWVzc2FnZS0+c2V0UmVzcG9uc2UoVXNlck1hcHBlcjo6Z2V0U3R1ZGVudFByb2ZpbGUoJHVzZXIpKTsKICAgIH0K</text>
+        <text encoding="base64">LT5pbmRleCgnaWR4X3N0dWRlbnRfaWQnKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>warning</text>
+        <text encoding="base64">LT5pbmRleCgnaWR4X3N0dWRlbnRfaWQnKQ==</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
