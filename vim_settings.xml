@@ -27,15 +27,11 @@
         <mark key="[" line="632" column="12" />
         <mark key="]" line="642" column="12" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1545738038149">
-        <mark key="[" line="149" column="81" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-      </file>
       <file name="D:/aizuoye_mall/server/php/app/Http/routes.php" timestamp="1545738960063">
         <mark key="[" line="17" column="75" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-12-25.log" timestamp="1545742746666" />
+      <file name="D:/aizuoye_release/server/php/app/Manager/Account/Login/BaseLogin.php" timestamp="1545790471375" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallUserMapper.php" timestamp="1545741752127">
         <mark key="[" line="153" column="2" />
         <mark key="]" line="153" column="3" />
@@ -48,6 +44,7 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/SchoolClass.php" timestamp="1545656944370" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/SensorsManager.php" timestamp="1545654572187" />
+      <file name="D:/aizuoye_release/server/php/app/Manager/SensorsManager.php" timestamp="1545791133227" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/HomepagePoster.php" timestamp="1545618126327">
         <mark key="[" line="137" column="5" />
       </file>
@@ -76,11 +73,6 @@
         <mark key="[" line="696" column="4" />
         <mark key="]" line="696" column="4" />
         <mark key="." line="696" column="4" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1545743572365">
-        <mark key="[" line="366" column="2" />
-        <mark key="]" line="366" column="3" />
-        <mark key="." line="366" column="3" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/StudentProfile.php" timestamp="1545720158914">
         <mark key="[" line="9" column="20" />
