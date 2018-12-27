@@ -11,9 +11,6 @@
         <mark key="^" line="111" column="11" />
       </file>
       <file name="D:/dev_lll/52pkm.cn/app/Providers/BroadcastServiceProvider.php" timestamp="1545826332197" />
-      <file name="D:/aizuoye_release/server/php/app/Console/Commands/UpdateUserRoleForSensorsData.php" timestamp="1545804255653">
-        <mark key="[" line="50" column="67" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2018_12_25_102614_CreateStudentProfileTable.php" timestamp="1545790035274">
         <mark key="[" line="23" column="33" />
         <mark key="]" line="16" column="49" />
@@ -35,6 +32,7 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/OfficialAccount/Application.php" timestamp="1545826884414" />
+      <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_3/user/ChangeStudentProfileMessage.php" timestamp="1545880784832" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1545794421667">
         <mark key="[" line="34" column="30" />
         <mark key="]" line="20" column="7" />
@@ -46,13 +44,16 @@
         <mark key="." line="1095" column="3" />
       </file>
       <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/Kernel/ServiceContainer.php" timestamp="1545827100803" />
-      <file name="D:/aizuoye_release/server/php/app/Manager/Account/Login/BaseLogin.php" timestamp="1545823980794">
-        <mark key="[" line="57" column="77" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1545880619191">
+        <mark key="[" line="382" column="18" />
+        <mark key="]" line="382" column="18" />
+        <mark key="^" line="381" column="46" />
+        <mark key="." line="382" column="18" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallUserMapper.php" timestamp="1545874871578">
-        <mark key="[" line="147" column="2" />
-        <mark key="]" line="147" column="3" />
-        <mark key="." line="147" column="3" />
+        <mark key="[" line="153" column="2" />
+        <mark key="]" line="153" column="3" />
+        <mark key="." line="153" column="3" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/HomepagePosterTag.php" timestamp="1545806041354">
         <mark key="[" line="15" column="21" />
@@ -64,9 +65,6 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
-      </file>
-      <file name="D:/aizuoye_release/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1545803721513">
-        <mark key="[" line="70" column="78" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/Student.php" timestamp="1545725139646">
         <mark key="[" line="12" column="0" />
@@ -183,10 +181,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>publi</text>
+        <text>setFromOR</text>
       </register>
       <register name="-" type="4">
-        <text>publi</text>
+        <text>setFromOR</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
