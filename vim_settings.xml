@@ -4,28 +4,43 @@
     <globalmarks />
     <filemarks>
       <file name="D:/aizuoye_release/server/php/vendor/lokielse/laravel-mns/src/LaravelMNSServiceProvider.php" timestamp="1545826063477" />
-      <file name="D:/aizuoye_release/server/php/app/Manager/SensorsManager.php" timestamp="1545823448205">
-        <mark key="[" line="111" column="12" />
-        <mark key="]" line="115" column="9" />
-        <mark key="." line="111" column="12" />
-        <mark key="^" line="111" column="11" />
-      </file>
-      <file name="D:/dev_lll/52pkm.cn/app/Providers/BroadcastServiceProvider.php" timestamp="1545826332197" />
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2018_12_25_102614_CreateStudentProfileTable.php" timestamp="1545891277244">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="20" />
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="37" />
       </file>
+      <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/OfficialAccount/Application.php" timestamp="1545826884414" />
+      <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/Kernel/ServiceContainer.php" timestamp="1545827100803" />
+      <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1545890572488">
+        <mark key="[" line="54" column="34" />
+        <mark key="]" line="54" column="65" />
+      </file>
+      <file name="D:/dev_lll/52pkm.cn/app/Http/Controllers/WeChatController.php" timestamp="1545890391697">
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="D:/dev_lll/52pkm.cn/.env.example" timestamp="1545890493705">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="32" column="17" />
+      </file>
+      <file name="D:/aizuoye_release/server/php/app/Manager/SensorsManager.php" timestamp="1545823448205">
+        <mark key="[" line="111" column="12" />
+        <mark key="]" line="115" column="9" />
+        <mark key="." line="111" column="12" />
+        <mark key="^" line="111" column="11" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/web_routes.php" timestamp="1545892202463" />
+      <file name="D:/dev_lll/52pkm.cn/app/Providers/BroadcastServiceProvider.php" timestamp="1545826332197" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1545882962497">
         <mark key="[" line="31" column="28" />
         <mark key="]" line="31" column="7" />
         <mark key="." line="31" column="7" />
         <mark key="^" line="31" column="7" />
       </file>
-      <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/OfficialAccount/Application.php" timestamp="1545826884414" />
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_3/user/ChangeStudentProfileMessage.php" timestamp="1545880784832" />
-      <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/Kernel/ServiceContainer.php" timestamp="1545827100803" />
       <file name="D:/dev_lll/52pkm.cn/.env" timestamp="1545890582649">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="40" />
@@ -39,26 +54,12 @@
         <mark key="." line="699" column="7" />
         <mark key="^" line="699" column="6" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1545890572488">
-        <mark key="[" line="54" column="34" />
-        <mark key="]" line="54" column="65" />
-      </file>
       <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/Kernel/ServerGuard.php" timestamp="1545891085472" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1545882658873">
         <mark key="[" line="368" column="8" />
         <mark key="]" line="368" column="8" />
         <mark key="^" line="368" column="25" />
         <mark key="." line="368" column="8" />
-      </file>
-      <file name="D:/dev_lll/52pkm.cn/app/Http/Controllers/WeChatController.php" timestamp="1545890391697">
-        <mark key="[" line="25" column="46" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="D:/dev_lll/52pkm.cn/.env.example" timestamp="1545890493705">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="32" column="17" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2018_12_25_162427_AlertStudentTableAddPortraitAndNicknameTable.php" timestamp="1545882998808">
         <mark key="[" line="13" column="8" />
