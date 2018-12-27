@@ -10,18 +10,6 @@
         <mark key="." line="111" column="12" />
         <mark key="^" line="111" column="11" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1545808227113">
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="34" column="4" />
-        <mark key="^" line="34" column="14" />
-        <mark key="." line="34" column="4" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2018_12_24_151814_AlertStudentTableInsertNicknameAndPortraitField.php" timestamp="1545704860031">
-        <mark key="[" line="29" column="32" />
-        <mark key="]" line="29" column="32" />
-        <mark key="." line="29" column="32" />
-        <mark key="^" line="28" column="11" />
-      </file>
       <file name="D:/dev_lll/52pkm.cn/app/Providers/BroadcastServiceProvider.php" timestamp="1545826332197" />
       <file name="D:/aizuoye_release/server/php/app/Console/Commands/UpdateUserRoleForSensorsData.php" timestamp="1545804255653">
         <mark key="[" line="50" column="67" />
@@ -31,21 +19,15 @@
         <mark key="]" line="16" column="49" />
         <mark key="." line="16" column="49" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/HomepagePosterManager.php" timestamp="1545810365804">
-        <mark key="[" line="171" column="49" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/HomepagePosterManager.php" timestamp="1545876341916">
+        <mark key="[" line="88" column="4" />
+        <mark key="]" line="88" column="4" />
+        <mark key="." line="88" column="4" />
       </file>
       <file name="D:/aizuoye_mall/server/php/.env" timestamp="1545793852823">
         <mark key="[" line="33" column="25" />
         <mark key="]" line="33" column="25" />
         <mark key="." line="33" column="25" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2018_12_20_100734_CreateHomePagePosterTagTable.php" timestamp="1545806417198">
-        <mark key="[" line="24" column="52" />
-        <mark key="]" line="16" column="57" />
-        <mark key="." line="16" column="57" />
-        <mark key="^" line="16" column="56" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1545743583036">
         <mark key="[" line="101" column="34" />
@@ -58,16 +40,6 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/OfficialAccount/Application.php" timestamp="1545826884414" />
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" timestamp="1545811157379">
-        <mark key="b" line="109" column="29" />
-        <mark key="t" line="609" column="67" />
-        <mark key="e" line="349" column="0" />
-        <mark key="'" line="345" column="15" />
-        <mark key="[" line="543" column="23" />
-        <mark key="]" line="541" column="51" />
-        <mark key="." line="541" column="51" />
-        <mark key="^" line="541" column="51" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1545794421667">
         <mark key="[" line="34" column="30" />
         <mark key="]" line="20" column="7" />
@@ -79,12 +51,6 @@
         <mark key="." line="1095" column="3" />
       </file>
       <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/Kernel/ServiceContainer.php" timestamp="1545827100803" />
-      <file name="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" timestamp="1545739195483">
-        <mark key="[" line="261" column="15" />
-        <mark key="]" line="261" column="15" />
-        <mark key="." line="261" column="15" />
-        <mark key="^" line="309" column="29" />
-      </file>
       <file name="D:/aizuoye_release/server/php/app/Manager/Account/Login/BaseLogin.php" timestamp="1545823980794">
         <mark key="[" line="57" column="77" />
       </file>
@@ -222,10 +188,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAkc2Vuc29yVXNlciA9IHNlbGY6OmdldFNlbnNvcnNVc2VyQnlVc2VySWQoJHVzZXJJZCk7CiAgICAgICAgaWYgKCEkc2Vuc29yVXNlcikgewogICAgICAgICAgICBMb2c6OmRlYnVnKCdjYW4gbm90IHNldCBwcm9wZXJ0eSwgbm8gc2Vuc29yIHVzZXInKTsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0=</text>
+        <text>publi</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>publi</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
