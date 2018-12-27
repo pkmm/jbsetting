@@ -26,6 +26,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="32" column="17" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Model/Student.php" timestamp="1545899008168">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="D:/aizuoye_release/server/php/app/Manager/SensorsManager.php" timestamp="1545823448205">
         <mark key="[" line="111" column="12" />
         <mark key="]" line="115" column="9" />
@@ -67,6 +72,7 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Model/User.php" timestamp="1545899133886" />
     </filemarks>
     <jumps>
       <jump line="25" column="102" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
