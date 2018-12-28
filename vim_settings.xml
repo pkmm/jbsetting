@@ -4,6 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="D:/aizuoye_release/server/php/vendor/lokielse/laravel-mns/src/LaravelMNSServiceProvider.php" timestamp="1545826063477" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1545981393226">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+      </file>
       <file name="D:/aizuoye_trunk_bugfix/server/php/app/Manager/StudentProfileManager.php" timestamp="1545976662484">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
@@ -72,11 +77,13 @@
       <file name="D:/aizuoye_trunk/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1545905606487">
         <mark key="[" line="140" column="5" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1545978792611">
-        <mark key="[" line="184" column="8" />
-        <mark key="]" line="184" column="7" />
-        <mark key="." line="184" column="7" />
-        <mark key="^" line="184" column="7" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1545980891341">
+        <mark key="[" line="177" column="4" />
+        <mark key="]" line="177" column="4" />
+        <mark key="." line="177" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1545980249876">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_3/user/ChangeStudentProfileMessage.php" timestamp="1545911016451" />
       <file name="D:/dev_lll/52pkm.cn/.env" timestamp="1545890582649">
@@ -213,11 +220,11 @@
       <jump line="0" column="0" filename="D:/dev_lll/52pkm.cn/.env.example" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sprintf(self::STUDENT_PROFILE_QRCODE, $value);</text>
       </register>
       <register name="-" type="4">
-        <text>, $record</text>
+        <text>sprintf(self::STUDENT_PROFILE_QRCODE, $value);</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
@@ -225,32 +232,35 @@
       <register name="0" type="4">
         <text>NGweC7HsQossgfykmmK80b358iLVPkhi</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>public static function generateQRCode(Student $student)
+    {
+
+    }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3JlbGF0aW9uX3JvbGVfaWQnID0+ICRyZWxhdGlvbiwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiDL47eozca89rXE0afJ+rzSzaWzydSxCiAgICAgKiBAcGFyYW0gU3R1ZGVudCAkc3R1ZGVudAogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIHJlY29tbWVuZEZhbWlsaWVzT2ZTdHVkZW50KFN0dWRlbnQgJHN0dWRlbnQpCiAgICB7CiAgICAgICAgJGN1cnJlbnRVc2VyID0gJHN0dWRlbnQtPnVzZXJzOwogICAgICAgIGlmICgkY3VycmVudFVzZXItPmNvdW50KCkgPiAxKSB7CiAgICAgICAgICAgIAogICAgICAgIH0KICAgIH0KCi8vICAgIHByaXZhdGUgc3RhdGljIGZ1bmN0aW9u</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3JlbGF0aW9uX3JvbGVfaWQnID0+ICRyZWxhdGlvbiwK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBVc2VyVGFnTWFuYWdlcjo6dXBkYXRlT3JDcmVhdGVVc2VyVGFnKCR1c2VyLT5pZCwgVXNlclRhZ0lkczo6VEFHX0lEX1VQREFURV9VU0VSX1JPTEUsICRyZWxhdGlvbik7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAnc3R1ZGVudF9pZCcgPT4gJHN0dWRlbnQtPmlkLAogICAgICAgICAgICAndXNlcl9pZCcgPT4gJHVzZXItPmlkLAogICAgICAgICAgICAncmVsYXRpb25fcm9sZV9pZCcgPT4gJHJlbGF0aW9uLAogICAgICAgIF0p</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">JGRlbGV0ZWQgPSBmYWxzZTsKICAgICAgICBEQjo6dHJhbnNhY3Rpb24oZnVuY3Rpb24gKCkgdXNlICgkdXNlciwgJHN0dWRlbnRJZCwgJiRkZWxldGVkKSB7CiAgICAgICAgICAgICRyZWNvcmQgPSBTdHVkZW50VXNlcjo6d2hlcmVVc2VySWQoJHVzZXItPmlkKS0+d2hlcmVTdHVkZW50SWQoJHN0dWRlbnRJZCktPmZpcnN0KCk7CiAgICAgICAgICAgIGlmICgkcmVjb3JkKSB7CiAgICAgICAgICAgICAgICAkZGVsZXRlZCA9IFN0dWRlbnRVc2VyOjp3aGVyZUlkKCRyZWNvcmQtPmlkKS0+bG9ja0ZvclVwZGF0ZSgpLT5kZWxldGUoKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">JGRlbGV0ZWQgPSBTdHVkZW50VXNlcjo6d2hlcmVVc2VySWQoJHVzZXItPmlkKQogICAgICAgICAgICAtPndoZXJlU3R1ZGVudElkKCRzdHVkZW50SWQpCiAgICAgICAgICAgIC0+ZGVsZXRlKCk7</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN0dWRlbnRVc2VyID0gU3R1ZGVudFVzZXI6OndoZXJlSWQoJHJlY29yZC0+aWQpLT5sb2NrRm9yVXBkYXRlKCktPmRlbGV0ZSgpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICAkc3R1ZGVudFVzZXIgPSBTdHVkZW50VXNlcjo6d2hlcmVJZCgkcmVjb3JkLT5pZCktPmxvY2tGb3JVcGRhdGUoKS0+ZGVsZXRlKCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICAkc3R1ZGVudFVzZXIgPSBTdHVkZW50VXNlcjo6d2hlcmVJZCgkcmVjb3JkLT5pZCktPmxvY2tGb3JVcGRhdGUoKS0+ZGVsZXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHN0dWRlbnRVc2VyID0gU3R1ZGVudFVzZXI6OndoZXJlSWQoJHJlY29yZC0+aWQpLT5sb2NrRm9yVXBkYXRlKCktPmRlbGV0ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
