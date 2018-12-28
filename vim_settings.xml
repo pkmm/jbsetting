@@ -14,6 +14,11 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QrCodeGenerator/QrCodeGenerator.php" timestamp="1545983062703">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2018_12_25_102614_CreateStudentProfileTable.php" timestamp="1545891277244">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="20" />
@@ -82,7 +87,7 @@
         <mark key="]" line="177" column="4" />
         <mark key="." line="177" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545980249876">
+      <file name="/Dummy.txt" timestamp="1545982668703">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_3/user/ChangeStudentProfileMessage.php" timestamp="1545911016451" />
@@ -221,10 +226,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sprintf(self::STUDENT_PROFILE_QRCODE, $value);</text>
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>sprintf(self::STUDENT_PROFILE_QRCODE, $value);</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
