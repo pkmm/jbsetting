@@ -4,11 +4,14 @@
     <globalmarks />
     <filemarks>
       <file name="D:/aizuoye_release/server/php/vendor/lokielse/laravel-mns/src/LaravelMNSServiceProvider.php" timestamp="1545826063477" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1546006359226">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="8" />
-        <mark key="." line="37" column="0" />
+      <file name="/a.dummy" timestamp="1546008939799">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1546010033696">
+        <mark key="[" line="85" column="3" />
+        <mark key="]" line="85" column="3" />
+        <mark key="^" line="50" column="42" />
+        <mark key="." line="85" column="3" />
       </file>
       <file name="D:/aizuoye_trunk_bugfix/server/php/app/Manager/StudentProfileManager.php" timestamp="1545976662484">
         <mark key="[" line="109" column="0" />
@@ -58,6 +61,10 @@
       <file name="D:/aizuoye_release/server/php/app/Manager/Account/Login/BaseLogin.php" timestamp="1545823980794">
         <mark key="[" line="57" column="77" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1546009260367">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="54" column="65" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Utils/PhoneUtils.php" timestamp="1546005726071">
         <mark key="[" line="29" column="9" />
         <mark key="]" line="27" column="25" />
@@ -93,6 +100,9 @@
       </file>
       <file name="D:/aizuoye_trunk/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1545905606487">
         <mark key="[" line="140" column="5" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1546009255989">
+        <mark key="[" line="70" column="29" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546003880296">
         <mark key="[" line="190" column="4" />
@@ -240,10 +250,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gcmVmcmVzaFFyQ29kZShzdHJpbmcgJG9sZFVybCwgTW9kZWwgJG1vZGVsLCAkYWxpdmVNaW51dGUgPSA2MCkKICAgIHsKICAgICAgICAkb2xkSW5mbyA9IHNlbGY6OmRlY29kZVFyQ29kZVVSTCgkb2xkVXJsKTsKICAgICAgICAkbmV3VXJsID0gc2VsZjo6Z2VuZXJhdGVRckNvZGUoCiAgICAgICAgICAgICRtb2RlbCwKICAgICAgICAgICAgJG9sZEluZm9bJ2NhdGVnb3J5J10sCiAgICAgICAgICAgICRvbGRJbmZvWydncm91cCddLAogICAgICAgICAgICAkYWxpdmVNaW51dGUsCiAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICRvbGRJbmZvWydzY2hlbWUnXSwKICAgICAgICAgICAgJG9sZEluZm9bJ2RvbWFpbiddCiAgICAgICAgKTsKCiAgICAgICAgcmV0dXJuICRuZXdVcmw7CiAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
@@ -252,35 +262,47 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vU3VjaFVzZXJFeGNlcHRpb24oJ3N0dWRlbnQgbm90IGZvdW5kLicpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>//        $url = Cache::pull($key);
-//        if (!is_null($url)) {
-//            Cache::put($key, $url, $aliveMinute);
-//            return $url;
-//        }</text>
+        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gcmVmcmVzaFFyQ29kZShzdHJpbmcgJG9sZFVybCwgTW9kZWwgJG1vZGVsLCAkYWxpdmVNaW51dGUgPSA2MCkKICAgIHsKICAgICAgICAkb2xkSW5mbyA9IHNlbGY6OmRlY29kZVFyQ29kZVVSTCgkb2xkVXJsKTsKICAgICAgICAkbmV3VXJsID0gc2VsZjo6Z2VuZXJhdGVRckNvZGUoCiAgICAgICAgICAgICRtb2RlbCwKICAgICAgICAgICAgJG9sZEluZm9bJ2NhdGVnb3J5J10sCiAgICAgICAgICAgICRvbGRJbmZvWydncm91cCddLAogICAgICAgICAgICAkYWxpdmVNaW51dGUsCiAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICRvbGRJbmZvWydzY2hlbWUnXSwKICAgICAgICAgICAgJG9sZEluZm9bJ2RvbWFpbiddCiAgICAgICAgKTsKCiAgICAgICAgcmV0dXJuICRuZXdVcmw7CiAgICB9</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">JHVzZXIgPSBBdXRoOjp1c2VyKCk7CiAgICAgICAgJHN0dWRlbnQgPSAkdXNlci0+c3R1ZGVudDsKICAgICAgICBpZiAoISRzdHVkZW50KSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOb1N1Y2hVc2VyRXhjZXB0aW9uKCdzdHVkZW50IG5vdCBmb3VuZC4nKTsKICAgICAgICB9</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSBNb2RlbCAkbW9kZWwKICAgICAqIEBwYXJhbSAkY2F0ZWdvcnkKICAgICAqIEBwYXJhbSAkZ3JvdXAKICAgICAqIEBwYXJhbSBzdHJpbmcgJHNjaGVtZQogICAgICogQHBhcmFtIHN0cmluZyAkZG9tYWluCiAgICAgKiBAcmV0dXJuIHN0cmluZwogICAgICovCiAgICBwcml2YXRlIHN0YXRpYyBmdW5jdGlvbiBnZXRLZXkoTW9kZWwgJG1vZGVsLCAkY2F0ZWdvcnksICRncm91cCwgJHNjaGVtZSA9ICdodHRwcycsICRkb21haW4gPSAnenVveWUuYWknKQogICAgewogICAgICAgIHJldHVybiBzcHJpbnRmKCclc18lc18lc18lc18lcycsICRzY2hlbWUsICRjYXRlZ29yeSwgJGRvbWFpbiwgJGdyb3VwLCAkbW9kZWwtPmdldEtleSgpKTsKICAgIH0=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcVXNlclxVc2VyQWRkaXRpb25hbERhdGE7Cg==</text>
+      <register name="3" type="4">
+        <text>/**
+     * @param string $url
+     * @param Model $model
+     * @return bool
+     * @throws ErrorInvalidQrCode
+     */</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjJfM1x1c2VyXEdldFNpbXBsZVVzZXJCeVRva2VuRGF0YU1lc3NhZ2U7Cg==</text>
+      <register name="4" type="4">
+        <text>$data = self::decodeQrCodeURL($url);
+        $category = $data['category'];
+        $group = $data['group'];
+        $scheme = $data['scheme'];
+        $domain = $data['domain'];
+
+        $url = rtrim($url, &quot;/&quot;);
+        $key = self::getKey($model, $category, $group, $scheme, $domain);
+        $value = Cache::get($key);
+        if (is_null($value) || $value != $url) {
+            return true;
+        }</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAqIEBwYXJhbSAkY2F0ZWdvcnkKICAgICAqIEBwYXJhbSAkZ3JvdXAKICAgICAqIEBwYXJhbSBzdHJpbmcgJHNjaGVtZQogICAgICogQHBhcmFtIHN0cmluZyAkZG9tYWlu</text>
+        <text encoding="base64">ICAgICogQHBhcmFtIHN0cmluZyAkc2NoZW1lCiAgICAgKiBAcGFyYW0gc3RyaW5nICRkb21haW4=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBmdW5jdGlvbiBnZXRTaW1wbGVVc2VyQnlUb2tlbkRhdGEoR2V0U2ltcGxlVXNlckJ5VG9rZW5EYXRhTWVzc2FnZSAkbWVzc2FnZSkKICAgIHsKICAgICAgICAkdG9rZW5EYXRhID0gJG1lc3NhZ2UtPmdldFRva2VuRGF0YSgpOwogICAgICAgICRzdHVkZW5JZCA9IERlYzJUaGlydHlGb3VyTWFuYWdlcjo6ZGVjb2RlKCR0b2tlbkRhdGEpOwoKICAgICAgICAkbWVzc2FnZS0+c2V0UmVzcG9uc2UoVXNlck1hcHBlcjo6Z2V0U2ltcGxlVXNlck1vZGVsKCR1c2VyKSk7CiAgICB9</text>
+        <text encoding="base64">JGRhdGEgPSBbCiAgICAgICAgICAgICdpZCcgPT4gJG1vZGVsLT5nZXRLZXkoKSwKICAgICAgICBdOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXJNYW5hZ2VyOjpnZXRVc2VyQnlJZChEZWMyVGhpcnR5Rm91ck1hbmFnZXJkZDo6ZGVjb2RlKCR0b2tlbkRhdGEpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkb2xkVXJsID0gJG1lc3NhZ2UtPmdldFVybCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBDYWNoZTo6cHVsbCgka2V5KTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAkc2NoZW1lID0gJ2h0dHBzJywKICAgICAgICAkZG9tYWluID0gJ3p1b3llLmFpJw==</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
