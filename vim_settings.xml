@@ -10,7 +10,7 @@
       <file name="/a.dummy" timestamp="1546013718311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1546012680812">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1546016980472">
         <mark key="[" line="97" column="7" />
         <mark key="]" line="96" column="10" />
         <mark key="^" line="96" column="10" />
@@ -68,7 +68,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1546015875575">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1546016835054">
         <mark key="[" line="186" column="58" />
         <mark key="]" line="186" column="58" />
         <mark key="^" line="16" column="54" />
@@ -168,9 +168,9 @@
         <mark key="^" line="700" column="6" />
       </file>
       <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/Kernel/ServerGuard.php" timestamp="1545891085472" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1546014028552">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1546017699114">
         <mark key="'" line="17" column="53" />
-        <mark key="[" line="408" column="0" />
+        <mark key="[" line="390" column="68" />
         <mark key="]" line="408" column="0" />
         <mark key="^" line="409" column="76" />
         <mark key="." line="408" column="0" />
