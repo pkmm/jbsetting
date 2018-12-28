@@ -10,11 +10,11 @@
       <file name="/a.dummy" timestamp="1546013718311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1546016980472">
-        <mark key="[" line="97" column="7" />
-        <mark key="]" line="96" column="10" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1546020190737">
+        <mark key="[" line="143" column="4" />
+        <mark key="]" line="143" column="4" />
         <mark key="^" line="96" column="10" />
-        <mark key="." line="96" column="10" />
+        <mark key="." line="143" column="4" />
       </file>
       <file name="D:/aizuoye_trunk_bugfix/server/php/app/Manager/StudentProfileManager.php" timestamp="1545976662484">
         <mark key="[" line="109" column="0" />
@@ -134,7 +134,7 @@
       <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1546009255989">
         <mark key="[" line="70" column="29" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546015867151">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546018384524">
         <mark key="[" line="195" column="0" />
         <mark key="]" line="195" column="0" />
         <mark key="." line="195" column="0" />
@@ -168,12 +168,12 @@
         <mark key="^" line="700" column="6" />
       </file>
       <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/Kernel/ServerGuard.php" timestamp="1545891085472" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1546017699114">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1546019963872">
         <mark key="'" line="17" column="53" />
-        <mark key="[" line="390" column="68" />
-        <mark key="]" line="408" column="0" />
-        <mark key="^" line="409" column="76" />
-        <mark key="." line="408" column="0" />
+        <mark key="[" line="378" column="0" />
+        <mark key="]" line="392" column="0" />
+        <mark key="^" line="394" column="20" />
+        <mark key="." line="392" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/resources/views/test.blade.php" timestamp="1545896091388" />
       <file name="D:/aizuoye_mall/server/php/app/Http/web_routes.php" timestamp="1545794254115">
@@ -295,43 +295,71 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>expiresAt</text>
+        <text>public static function refreshQrCode(string $oldUrl, Model $model, $aliveMinute = 60)
+    {
+        $oldInfo = self::decodeQrCodeURL($oldUrl);
+        $newUrl = self::generateQrCode(
+            $model,
+            $oldInfo['category'],
+            $oldInfo['group'],
+            $aliveMinute,
+            null,
+            $oldInfo['scheme'],
+            $oldInfo['domain']
+        );
+
+        return $newUrl;
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>expiresAt</text>
+        <text>fresh</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vU3VjaFVzZXJFeGNlcHRpb24oJ3N0dWRlbnQgbm90IGZvdW5kLicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdXNlci0+ZnJlc2goWydzdHVkZW50cyddKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW10K</text>
+      <register name="1" type="4">
+        <text>public static function refreshQrCode(string $oldUrl, Model $model, $aliveMinute = 60)
+    {
+        $oldInfo = self::decodeQrCodeURL($oldUrl);
+        $newUrl = self::generateQrCode(
+            $model,
+            $oldInfo['category'],
+            $oldInfo['group'],
+            $aliveMinute,
+            null,
+            $oldInfo['scheme'],
+            $oldInfo['domain']
+        );
+
+        return $newUrl;
+    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjJfM1xtb2RlbFxTdHVkZW50UHJvZmlsZVFSQ29kZU1vZGVsOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGQoJHVzZXItPnRvQXJyYXkoKSk7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbWVzc2FnZS0+c2V0UmVzcG9uc2UoVXNlck1hcHBlcjo6Z2V0U3R1ZGVudFByb2ZpbGUoJHVzZXItPnN0dWRlbnQpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICR1c2VyLT5sb2FkKFsnc3R1ZGVudHMnXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICRzdHVkZW50ID0gU3R1ZGVudE1hbmFnZXI6OmdldFN0dWRlbnRCeUlkKCRzdHVkZW50SWQpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBmdW5jdGlvbiByZWZyZXNoUXJDb2RlKFJlZnJlc2hRckNvZGVNZXNzYWdlICRtZXNzYWdlKQogICAgewogICAgICAgICR1c2VyID0gQXV0aDo6dXNlcigpOwogICAgICAgICRjYXRlZ29yeSA9ICRtZXNzYWdlLT5nZXRDYXRlZ29yeSgpOwogICAgICAgICRncm91cCA9ICRtZXNzYWdlLT5nZXRHcm91cCgpOwoKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">JHN0dWRlbnQgPSAkdXNlci0+c3R1ZGVudDsKICAgICAgICBpZiAoISRzdHVkZW50KSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOb1N1Y2hVc2VyRXhjZXB0aW9uKCdzdHVkZW50IG5vdCBmb3VuZC4nKTsKICAgICAgICB9CiAgICAgICAgJHVybCA9ICRtZXNzYWdlLT5nZXRRckNvZGVVcmwoKTsKICAgICAgICAkcmVmcmVzaGVkVXJsID0gUVJDb2RlTWFuYWdlcjo6cmVmcmVzaFFyQ29kZSgkdXJsLCAkc3R1ZGVudCk7CgogICAgICAgICRtZXNzYWdlLT5zZXRSZXNwb25zZSgkcmVmcmVzaGVkVXJsKTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW10K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0U3R1ZGVudEZhbWlsaWVzQnlTY2FuUXJDb2RlKEdldFN0dWRlbnRGYW1pbGllc0J5U2NhblFyQ29kZU1lc3NhZ2UgJG1lc3NhZ2UpCiAgICB7CiAgICAgICAgJHVybCA9ICRtZXNzYWdlLT5nZXRRckNvZGVVcmwoKTsKICAgICAgICAkZGF0YSA9IFFSQ29kZU1hbmFnZXI6OmRlY29kZVFyQ29kZVVSTCgkdXJsKTsKICAgICAgICAkc3R1ZGVudElkID0gZXhwbG9kZSgiXyIsICRkYXRhWyd0b2tlbkRhdGEnXSlbMF07CiAgICAgICAgJHN0dWRlbnRJZCA9IERlYzJUaGlydHlGb3VyTWFuYWdlcjo6ZGVjb2RlKCRzdHVkZW50SWQpOwogICAgICAgICRzdHVkZW50ID0gU3R1ZGVudE1hbmFnZXI6OmdldFN0dWRlbnRCeUlkKCRzdHVkZW50SWQpOwogICAgICAgIGlmICghJHN0dWRlbnQpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IE5vU3VjaFVzZXJFeGNlcHRpb24oJ25vdCBmb3VuZCB1c2VyLicpOwogICAgICAgIH0KICAgICAgICBpZiAoUVJDb2RlTWFuYWdlcjo6aXNFeHBpcmVkKCR1cmwsICRzdHVkZW50KSkgewogICAgICAgIH0KCiAgICAgICAgJG1lc3NhZ2UtPnNldFJlc3BvbnNlKFVzZXJNYXBwZXI6OmdldFN0dWRlbnRGYW1pbHlNb2RlbHMoJHN0dWRlbnQpKTsKICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjJfM1xtb2RlbFxTdHVkZW50UHJvZmlsZVFSQ29kZU1vZGVsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlckluZm9Nb2RlbC0+c3R1ZGVudFByb2ZpbGUgPSBzZWxmOjpnZXRTdHVkZW50UHJvZmlsZSgkdXNlci0+c3R1ZGVudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
