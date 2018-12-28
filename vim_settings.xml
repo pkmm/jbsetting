@@ -4,11 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="D:/aizuoye_release/server/php/vendor/lokielse/laravel-mns/src/LaravelMNSServiceProvider.php" timestamp="1545826063477" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1545987813319">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="49" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="46" column="44" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1545995554118">
+        <mark key="[" line="107" column="38" />
+        <mark key="]" line="107" column="17" />
+        <mark key="^" line="107" column="17" />
+        <mark key="." line="107" column="17" />
       </file>
       <file name="D:/aizuoye_trunk_bugfix/server/php/app/Manager/StudentProfileManager.php" timestamp="1545976662484">
         <mark key="[" line="109" column="0" />
@@ -107,11 +107,11 @@
         <mark key="^" line="700" column="6" />
       </file>
       <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/Kernel/ServerGuard.php" timestamp="1545891085472" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1545975506772">
-        <mark key="[" line="368" column="8" />
-        <mark key="]" line="368" column="8" />
-        <mark key="^" line="368" column="25" />
-        <mark key="." line="368" column="8" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1545995583230">
+        <mark key="[" line="430" column="0" />
+        <mark key="]" line="430" column="0" />
+        <mark key="^" line="430" column="63" />
+        <mark key="." line="430" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/resources/views/test.blade.php" timestamp="1545896091388" />
       <file name="D:/aizuoye_release/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1545803721513">
@@ -228,10 +228,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXJNYW5hZ2VyOjpnZXRVc2VyQnlJZChEZWMyVGhpcnR5Rm91ck1hbmFnZXJkZDo6ZGVjb2RlKCR0b2tlbkRhdGEpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IFFSQ29kZU1hbmFnZXI6OmdlbmVyYXRlUXJDb2RlKCRzdHVkZW50LCAnc3R1JywgJ3AnKQ==</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
@@ -240,33 +240,33 @@
         <text encoding="base64">ICAgICAgICBDYWNoZTo6cHV0KCRrZXksICR1cmwsICRhbGl2ZU1pbnV0ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXJNYW5hZ2VyOjpnZXRVc2VyQnlJZChEZWMyVGhpcnR5Rm91ck1hbmFnZXJkZDo6ZGVjb2RlKCR0b2tlbkRhdGEpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBcREI6OmVuYWJsZVF1ZXJ5TG9nKCk7ZGQK</text>
+        <text encoding="base64">ICAgICAgICAkb2xkVXJsID0gJG1lc3NhZ2UtPmdldFVybCgpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIGRkKFxEQjo6Z2V0UXVlcnlMb2coKSk7CiAgICAgICAgZGQoJHVzZXJzLT50b0FycmF5KCkpOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkc3R1ZGVudCA9ICR1c2VyLT5zdHVkZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBcREI6OmVuYWJsZVF1ZXJ5TG9nKCk7ZGQK</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">ICAgIGRkKFxEQjo6Z2V0UXVlcnlMb2coKSk7CiAgICAgICAgZGQoJHVzZXJzLT50b0FycmF5KCkpOw==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkc3R1ZGVudCA9ICR1c2VyLT5zdHVkZW50Owo=</text>
+      </register>
+      <register name="7" type="4">
         <text>if ($student) {
             
         }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICByZXR1cm4gIWlzX251bGwoJHZhbHVlKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAka2V5ID0gc2VsZjo6Z2V0S2V5KCRzY2hlbWEsICRjYXRlZ29yeSwgJGRvbWFpbiwgJGdyb3VwLCAkbW9kZWwpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAka2V5ID0gc2VsZjo6Z2V0S2V5KCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAka2V5ID0gc3ByaW50ZignJXNfJXNfJXNfJXNfJXMnLCAkc2NoZW1hLCAkY2F0ZWdvcnksICRkb21haW4sICRncm91cCwgJG1vZGVsLT5nZXRLZXkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAka2V5ID0gc2VsZjo6Z2V0S2V5KCRzY2hlbWEsICRjYXRlZ29yeSwgJGRvbWFpbiwgJGdyb3VwLCAkbW9kZWwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
