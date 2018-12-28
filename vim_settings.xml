@@ -30,7 +30,7 @@
         <mark key="]" line="370" column="0" />
         <mark key="." line="370" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1545976238560">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1545978716464">
         <mark key="[" line="185" column="13" />
         <mark key="]" line="185" column="85" />
         <mark key="^" line="185" column="85" />
@@ -72,12 +72,12 @@
       <file name="D:/aizuoye_trunk/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1545905606487">
         <mark key="[" line="140" column="5" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1545975454237">
-        <mark key="[" line="157" column="8" />
-        <mark key="]" line="157" column="8" />
-        <mark key="." line="157" column="8" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1545978792611">
+        <mark key="[" line="184" column="8" />
+        <mark key="]" line="184" column="7" />
+        <mark key="." line="184" column="7" />
+        <mark key="^" line="184" column="7" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_3/model/StudentProfileModel.php" timestamp="1545977764309" />
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_3/user/ChangeStudentProfileMessage.php" timestamp="1545911016451" />
       <file name="D:/dev_lll/52pkm.cn/.env" timestamp="1545890582649">
         <mark key="[" line="2" column="8" />
