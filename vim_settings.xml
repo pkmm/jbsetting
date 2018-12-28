@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/aizuoye_pc_v21/server/php/tests/V2_3/UserTest.php" timestamp="1546015982927">
+        <mark key="[" line="503" column="5" />
+      </file>
       <file name="D:/aizuoye_release/server/php/vendor/lokielse/laravel-mns/src/LaravelMNSServiceProvider.php" timestamp="1545826063477" />
       <file name="/a.dummy" timestamp="1546013718311">
         <mark key="[" line="0" column="0" />
@@ -65,11 +68,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1546014504649">
-        <mark key="[" line="193" column="28" />
-        <mark key="]" line="193" column="27" />
-        <mark key="^" line="193" column="28" />
-        <mark key="." line="193" column="27" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1546015875575">
+        <mark key="[" line="186" column="58" />
+        <mark key="]" line="186" column="58" />
+        <mark key="^" line="16" column="54" />
+        <mark key="." line="186" column="58" />
       </file>
       <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/OfficialAccount/Application.php" timestamp="1545826884414" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1545794421667">
@@ -131,10 +134,10 @@
       <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1546009255989">
         <mark key="[" line="70" column="29" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546014006094">
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546015867151">
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Utils/StringUtils.php" timestamp="1545983645690" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorInvalidQrCode.php" timestamp="1546014071901">
@@ -292,10 +295,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IERhdGVVdGlsOjpub3coKS0+YWRkTWludXRlcyg2MCk=</text>
+        <text>expiresAt</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IERhdGVVdGlsOjpub3coKS0+YWRkTWludXRlcyg2MCk=</text>
+        <text>expiresAt</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
@@ -304,33 +307,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vU3VjaFVzZXJFeGNlcHRpb24oJ3N0dWRlbnQgbm90IGZvdW5kLicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gW10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbWVzc2FnZS0+c2V0UmVzcG9uc2UoVXNlck1hcHBlcjo6Z2V0U3R1ZGVudFByb2ZpbGUoJHVzZXItPnN0dWRlbnQpKTsK</text>
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjJfM1xtb2RlbFxTdHVkZW50UHJvZmlsZVFSQ29kZU1vZGVsOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkbWVzc2FnZS0+c2V0UmVzcG9uc2UoVXNlck1hcHBlcjo6Z2V0U3R1ZGVudFByb2ZpbGUoJHVzZXItPnN0dWRlbnQpKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">cHVibGljIHN0YXRpYyBmdW5jdGlvbiByZWZyZXNoUXJDb2RlKFJlZnJlc2hRckNvZGVNZXNzYWdlICRtZXNzYWdlKQogICAgewogICAgICAgICR1c2VyID0gQXV0aDo6dXNlcigpOwogICAgICAgICRjYXRlZ29yeSA9ICRtZXNzYWdlLT5nZXRDYXRlZ29yeSgpOwogICAgICAgICRncm91cCA9ICRtZXNzYWdlLT5nZXRHcm91cCgpOwoKICAgIH0=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">JHN0dWRlbnQgPSAkdXNlci0+c3R1ZGVudDsKICAgICAgICBpZiAoISRzdHVkZW50KSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOb1N1Y2hVc2VyRXhjZXB0aW9uKCdzdHVkZW50IG5vdCBmb3VuZC4nKTsKICAgICAgICB9CiAgICAgICAgJHVybCA9ICRtZXNzYWdlLT5nZXRRckNvZGVVcmwoKTsKICAgICAgICAkcmVmcmVzaGVkVXJsID0gUVJDb2RlTWFuYWdlcjo6cmVmcmVzaFFyQ29kZSgkdXJsLCAkc3R1ZGVudCk7CgogICAgICAgICRtZXNzYWdlLT5zZXRSZXNwb25zZSgkcmVmcmVzaGVkVXJsKTs=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0U3R1ZGVudEZhbWlsaWVzQnlTY2FuUXJDb2RlKEdldFN0dWRlbnRGYW1pbGllc0J5U2NhblFyQ29kZU1lc3NhZ2UgJG1lc3NhZ2UpCiAgICB7CiAgICAgICAgJHVybCA9ICRtZXNzYWdlLT5nZXRRckNvZGVVcmwoKTsKICAgICAgICAkZGF0YSA9IFFSQ29kZU1hbmFnZXI6OmRlY29kZVFyQ29kZVVSTCgkdXJsKTsKICAgICAgICAkc3R1ZGVudElkID0gZXhwbG9kZSgiXyIsICRkYXRhWyd0b2tlbkRhdGEnXSlbMF07CiAgICAgICAgJHN0dWRlbnRJZCA9IERlYzJUaGlydHlGb3VyTWFuYWdlcjo6ZGVjb2RlKCRzdHVkZW50SWQpOwogICAgICAgICRzdHVkZW50ID0gU3R1ZGVudE1hbmFnZXI6OmdldFN0dWRlbnRCeUlkKCRzdHVkZW50SWQpOwogICAgICAgIGlmICghJHN0dWRlbnQpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IE5vU3VjaFVzZXJFeGNlcHRpb24oJ25vdCBmb3VuZCB1c2VyLicpOwogICAgICAgIH0KICAgICAgICBpZiAoUVJDb2RlTWFuYWdlcjo6aXNFeHBpcmVkKCR1cmwsICRzdHVkZW50KSkgewogICAgICAgIH0KCiAgICAgICAgJG1lc3NhZ2UtPnNldFJlc3BvbnNlKFVzZXJNYXBwZXI6OmdldFN0dWRlbnRGYW1pbHlNb2RlbHMoJHN0dWRlbnQpKTsKICAgIH0=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAkdXNlckluZm9Nb2RlbC0+c3R1ZGVudFByb2ZpbGUgPSBzZWxmOjpnZXRTdHVkZW50UHJvZmlsZSgkdXNlci0+c3R1ZGVudCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdXJsID1RUkNvZGVNYW5hZ2VyOjpnZXRGdWxsUXJDb2RlVXJsKCdzdHUnLCAncCcsICR0b2tlbkRhdGEpOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>if (QRCodeManager::isExpired($url)) {
-            throw new ErrorQrCodeExpired('二维码已经过期');
-        }</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
