@@ -10,6 +10,16 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="37" />
       </file>
+      <file name="D:/aizuoye_trunk_bugfix/server/php/config/session.php" timestamp="1545962912818">
+        <mark key="[" line="72" column="21" />
+        <mark key="]" line="72" column="21" />
+        <mark key="." line="72" column="21" />
+      </file>
+      <file name="D:/aizuoye_trunk_bugfix/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1545962700737">
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="103" />
+        <mark key="." line="167" column="0" />
+      </file>
       <file name="D:/aizuoye_trunk/server/php/app/Services/V2_3/UserService.php" timestamp="1545905747065">
         <mark key="[" line="370" column="0" />
         <mark key="]" line="370" column="0" />
@@ -26,10 +36,6 @@
       <file name="D:/aizuoye_release/server/php/app/Manager/Account/Login/BaseLogin.php" timestamp="1545823980794">
         <mark key="[" line="57" column="77" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1545890572488">
-        <mark key="[" line="54" column="34" />
-        <mark key="]" line="54" column="65" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Utils/PhoneUtils.php" timestamp="1545906994471">
         <mark key="[" line="21" column="5" />
       </file>
@@ -38,11 +44,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
-      </file>
-      <file name="D:/dev_lll/52pkm.cn/.env.example" timestamp="1545890493705">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="32" column="17" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/Student.php" timestamp="1545899008168">
         <mark key="[" line="12" column="0" />
@@ -74,6 +75,13 @@
         <mark key="]" line="2" column="40" />
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="8" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1545962186042">
+        <mark key="'" line="700" column="7" />
+        <mark key="[" line="700" column="7" />
+        <mark key="]" line="700" column="7" />
+        <mark key="." line="700" column="7" />
+        <mark key="^" line="700" column="6" />
       </file>
       <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/Kernel/ServerGuard.php" timestamp="1545891085472" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1545912688224">
@@ -196,11 +204,11 @@
       <jump line="0" column="0" filename="D:/dev_lll/52pkm.cn/.env.example" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDNy7P2vNLNpdPW1tjQwrzTyOsK</text>
+      <register name="&quot;" type="4">
+        <text>mysql</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>mysql</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
@@ -209,31 +217,31 @@
         <text>NGweC7HsQossgfykmmK80b358iLVPkhi</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkc3R1ZGVudFByb2ZpbGVNb2RlbC0+Z3JhZGUgPSBDbGFzc01hbmFnZXI6OmVudHJhbmNlRGF0ZTJHcmFkZSgkc3R1ZGVudFByb2ZpbGUtPmVudHJhbmNlX3llYXIpOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAvLyDNy7P2vNLNpdPW1tjQwrzTyOsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IGlmICgkc3R1ZGVudFVzZXItPnRyYXNoZWQoKSkgewogICAgICAgICAgICAkc3R1ZGVudFVzZXItPnJlc3RvcmUoKTsKICAgICAgICB9</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IGVsc2UgewoKICAgICAgICB9</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">JHN0dWRlbnRVc2VyID0gU3R1ZGVudFVzZXI6OmZpcnN0T3JDcmVhdGUoWwogICAgICAgICAgICAnc3R1ZGVudF9pZCcgPT4gJGFpbVN0dWRlbnRJZCwKICAgICAgICAgICAgJ3VzZXJfaWQnID0+ICR1cwogICAgICAgIF0pOw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gY2hhbmdlU3R1ZGVudFByb2ZpbGUoQ2hhbmdlU3R1ZGVudFByb2ZpbGVNZXNzYWdlICRtZXNzYWdlKQogICAgewogICAgfQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CkJST0FEQ0FTVF9EUklWRVI=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkYXBwID0gYXBwKCd3ZWNoYXQub2ZmaWNpYWxfYWNjb3VudCcpOwogICAgICAgICRhcHAtPnNlcnZlci0+cHVzaChmdW5jdGlvbiAoJG1lc3NhZ2UpIHsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXBzKCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDI57n7w7vT0LXEu7CjrLDRsOC8tsimtcTQxc+i0LTI66OsILvxyKHTw7untcTX7tDCtcSw4Ly20MXPoqOso6jTxc/IyrnTw7fHxeDRtbv6ubm1xKOpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXBzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
