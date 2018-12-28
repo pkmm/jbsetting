@@ -4,11 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="D:/aizuoye_release/server/php/vendor/lokielse/laravel-mns/src/LaravelMNSServiceProvider.php" timestamp="1545826063477" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1545983662854">
-        <mark key="[" line="23" column="70" />
-        <mark key="]" line="23" column="70" />
-        <mark key="." line="23" column="70" />
-        <mark key="^" line="23" column="69" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1545987813319">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="49" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="46" column="44" />
       </file>
       <file name="D:/aizuoye_trunk_bugfix/server/php/app/Manager/StudentProfileManager.php" timestamp="1545976662484">
         <mark key="[" line="109" column="0" />
@@ -41,11 +41,11 @@
         <mark key="]" line="370" column="0" />
         <mark key="." line="370" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1545978716464">
-        <mark key="[" line="185" column="13" />
-        <mark key="]" line="185" column="85" />
-        <mark key="^" line="185" column="85" />
-        <mark key="." line="185" column="85" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1545988235993">
+        <mark key="[" line="182" column="5" />
+        <mark key="]" line="183" column="0" />
+        <mark key="^" line="183" column="33" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/OfficialAccount/Application.php" timestamp="1545826884414" />
       <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/Kernel/ServiceContainer.php" timestamp="1545827100803" />
@@ -227,47 +227,46 @@
       <jump line="0" column="0" filename="D:/dev_lll/52pkm.cn/.env.example" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mt_rand(100000, 999999)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkc3R1ZGVudCA9ICR1c2VyLT5zdHVkZW50Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>mt_rand(100000, 999999)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>signIn</text>
       </register>
-      <register name="0" type="4">
-        <text>NGweC7HsQossgfykmmK80b358iLVPkhi</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBDYWNoZTo6cHV0KCRrZXksICR1cmwsICRhbGl2ZU1pbnV0ZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>public static function generateQRCode(Student $student)
-    {
-
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkc3R1ZGVudCA9ICR1c2VyLT5zdHVkZW50Owo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">LyoqCiAgICAgKiDL47eozca89rXE0afJ+rzSzaWzydSxCiAgICAgKiBAcGFyYW0gU3R1ZGVudCAkc3R1ZGVudAogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIHJlY29tbWVuZEZhbWlsaWVzT2ZTdHVkZW50KFN0dWRlbnQgJHN0dWRlbnQpCiAgICB7CiAgICAgICAgJGN1cnJlbnRVc2VyID0gJHN0dWRlbnQtPnVzZXJzOwogICAgICAgIGlmICgkY3VycmVudFVzZXItPmNvdW50KCkgPiAxKSB7CiAgICAgICAgICAgIAogICAgICAgIH0KICAgIH0KCi8vICAgIHByaXZhdGUgc3RhdGljIGZ1bmN0aW9u</text>
+        <text>if ($student) {
+            
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICByZXR1cm4gIWlzX251bGwoJHZhbHVlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3JlbGF0aW9uX3JvbGVfaWQnID0+ICRyZWxhdGlvbiwK</text>
+        <text encoding="base64">ICAgICAgICAka2V5ID0gc2VsZjo6Z2V0S2V5KCRzY2hlbWEsICRjYXRlZ29yeSwgJGRvbWFpbiwgJGdyb3VwLCAkbW9kZWwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyVGFnTWFuYWdlcjo6dXBkYXRlT3JDcmVhdGVVc2VyVGFnKCR1c2VyLT5pZCwgVXNlclRhZ0lkczo6VEFHX0lEX1VQREFURV9VU0VSX1JPTEUsICRyZWxhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAka2V5ID0gc2VsZjo6Z2V0S2V5KCkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAnc3R1ZGVudF9pZCcgPT4gJHN0dWRlbnQtPmlkLAogICAgICAgICAgICAndXNlcl9pZCcgPT4gJHVzZXItPmlkLAogICAgICAgICAgICAncmVsYXRpb25fcm9sZV9pZCcgPT4gJHJlbGF0aW9uLAogICAgICAgIF0p</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAka2V5ID0gc3ByaW50ZignJXNfJXNfJXNfJXNfJXMnLCAkc2NoZW1hLCAkY2F0ZWdvcnksICRkb21haW4sICRncm91cCwgJG1vZGVsLT5nZXRLZXkoKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">JGRlbGV0ZWQgPSBmYWxzZTsKICAgICAgICBEQjo6dHJhbnNhY3Rpb24oZnVuY3Rpb24gKCkgdXNlICgkdXNlciwgJHN0dWRlbnRJZCwgJiRkZWxldGVkKSB7CiAgICAgICAgICAgICRyZWNvcmQgPSBTdHVkZW50VXNlcjo6d2hlcmVVc2VySWQoJHVzZXItPmlkKS0+d2hlcmVTdHVkZW50SWQoJHN0dWRlbnRJZCktPmZpcnN0KCk7CiAgICAgICAgICAgIGlmICgkcmVjb3JkKSB7CiAgICAgICAgICAgICAgICAkZGVsZXRlZCA9IFN0dWRlbnRVc2VyOjp3aGVyZUlkKCRyZWNvcmQtPmlkKS0+bG9ja0ZvclVwZGF0ZSgpLT5kZWxldGUoKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkdXJsID0gc3ByaW50ZihzZWxmOjpRUkNPREVfVVJMLCAkc2NoZW1hLCAkY2F0ZWdvcnksICRkb21haW4sICRncm91cCwgJHRva2VuRGF0YSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JGRlbGV0ZWQgPSBTdHVkZW50VXNlcjo6d2hlcmVVc2VySWQoJHVzZXItPmlkKQogICAgICAgICAgICAtPndoZXJlU3R1ZGVudElkKCRzdHVkZW50SWQpCiAgICAgICAgICAgIC0+ZGVsZXRlKCk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdmFsdWUgPSBzcHJpbnRmKHNlbGY6OlNUVURFTlRfUFJPRklMRV9RUkNPREUsICR2YWx1ZSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN0dWRlbnRVc2VyID0gU3R1ZGVudFVzZXI6OndoZXJlSWQoJHJlY29yZC0+aWQpLT5sb2NrRm9yVXBkYXRlKCktPmRlbGV0ZSgpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2VuZXJhdGVTdHVkZW50UHJvZmlsZVFSQ29kZShTdHVkZW50ICRzdHVkZW50LCAkYWxpdmVNaW51dGUgPSA2MCkKICAgIHsKICAgICAgICAka2V5ID0gJ3N0dWRlbnRfcHJvZmlsZV9xcl9jb2RlJyAuICRzdHVkZW50LT5pZDsKICAgICAgICAkdmFsdWUgPSBDYWNoZTo6Z2V0KCRrZXksIG51bGwpOwogICAgICAgIGlmICgkdmFsdWUpIHsKICAgICAgICAgICAgcmV0dXJuICR2YWx1ZTsKICAgICAgICB9CiAgICAgICAgJHZhbHVlID0gRGVjMlRoaXJ0eUZvdXJNYW5hZ2VyOjplbmNyeXB0KCRzdHVkZW50LT5pZCkgLiAnXycgLiBTdHJpbmdVdGlsczo6cmFuZG9tU3RyKDcpOwogICAgICAgICR2YWx1ZSA9IHNwcmludGYoc2VsZjo6U1RVREVOVF9QUk9GSUxFX1FSQ09ERSwgJHZhbHVlKTsKICAgICAgICBDYWNoZTo6cHV0KCRrZXksICR2YWx1ZSwgJGFsaXZlTWludXRlKTsKICAgICAgICByZXR1cm4gJHZhbHVlOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
