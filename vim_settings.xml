@@ -4,10 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="D:/aizuoye_release/server/php/vendor/lokielse/laravel-mns/src/LaravelMNSServiceProvider.php" timestamp="1545826063477" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1545981393226">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1545983662854">
+        <mark key="[" line="23" column="70" />
+        <mark key="]" line="23" column="70" />
+        <mark key="." line="23" column="70" />
+        <mark key="^" line="23" column="69" />
       </file>
       <file name="D:/aizuoye_trunk_bugfix/server/php/app/Manager/StudentProfileManager.php" timestamp="1545976662484">
         <mark key="[" line="109" column="0" />
@@ -87,6 +88,7 @@
         <mark key="]" line="177" column="4" />
         <mark key="." line="177" column="4" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Utils/StringUtils.php" timestamp="1545983645690" />
       <file name="/Dummy.txt" timestamp="1545982668703">
         <mark key="[" line="0" column="0" />
       </file>
@@ -226,10 +228,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>mt_rand(100000, 999999)</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>mt_rand(100000, 999999)</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
