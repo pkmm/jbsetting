@@ -95,6 +95,13 @@
         <mark key="^" line="111" column="11" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/web_routes.php" timestamp="1545892202463" />
+      <file name="D:/aizuoye_trunk_bugfix/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1546067035179">
+        <mark key="'" line="13" column="40" />
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="40" />
+        <mark key="." line="13" column="46" />
+      </file>
       <file name="D:/dev_lll/52pkm.cn/app/Providers/BroadcastServiceProvider.php" timestamp="1545826332197" />
       <file name="D:/aizuoye_release/server/php/app/Console/Commands/UpdateUserRoleForSensorsData.php" timestamp="1545804255653">
         <mark key="[" line="50" column="67" />
@@ -166,7 +173,6 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/User.php" timestamp="1546003373664" />
     </filemarks>
     <jumps>
-      <jump line="2572" column="115" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
       <jump line="231" column="132" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
       <jump line="16" column="159" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-11-29.log" />
       <jump line="453" column="96" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2018-11-29.log" />
@@ -266,6 +272,7 @@
       <jump line="39" column="6" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" />
       <jump line="325" column="52" filename="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" />
       <jump line="14" column="1" filename="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorQrCodeExpired.php" />
+      <jump line="13" column="40" filename="D:/aizuoye_trunk_bugfix/server/php/app/Manager/StudentFamilyRecommendManager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
