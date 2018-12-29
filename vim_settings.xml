@@ -8,6 +8,9 @@
       <file name="/a.dummy" timestamp="1546056823055">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/aizuoye_mall/server/php/database/migrations/2018_12_29_133303_create_tmp_bind_user_info_table.php" timestamp="1546061606593">
+        <mark key="[" line="16" column="37" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1546057858499">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="32" />
@@ -81,10 +84,6 @@
       <file name="D:/aizuoye_release/server/php/app/Manager/Account/Login/BaseLogin.php" timestamp="1545823980794">
         <mark key="[" line="57" column="77" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1546009260367">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="54" column="65" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Utils/PhoneUtils.php" timestamp="1546005726071">
         <mark key="[" line="29" column="9" />
         <mark key="]" line="27" column="25" />
@@ -150,12 +149,12 @@
         <mark key="]" line="1095" column="3" />
         <mark key="." line="1095" column="3" />
       </file>
-      <file name="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" timestamp="1546055729477">
-        <mark key="'" line="325" column="52" />
-        <mark key="[" line="335" column="39" />
-        <mark key="]" line="325" column="52" />
-        <mark key="." line="325" column="52" />
-        <mark key="^" line="325" column="52" />
+      <file name="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" timestamp="1546061990542">
+        <mark key="'" line="332" column="52" />
+        <mark key="[" line="318" column="15" />
+        <mark key="]" line="323" column="18" />
+        <mark key="." line="332" column="52" />
+        <mark key="^" line="332" column="52" />
       </file>
       <file name="D:/dev_lll/52pkm.cn/.env" timestamp="1545890582649">
         <mark key="[" line="2" column="8" />
@@ -179,10 +178,11 @@
         <mark key="." line="417" column="19" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/resources/views/test.blade.php" timestamp="1545896091388" />
-      <file name="D:/aizuoye_mall/server/php/app/Http/web_routes.php" timestamp="1545794254115">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="D:/aizuoye_mall/server/php/app/Http/web_routes.php" timestamp="1546062043146">
+        <mark key="[" line="51" column="47" />
+        <mark key="]" line="51" column="46" />
+        <mark key="." line="51" column="46" />
+        <mark key="^" line="51" column="46" />
       </file>
       <file name="D:/aizuoye_release/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1545803721513">
         <mark key="[" line="70" column="78" />
@@ -299,16 +299,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dXNlciBjYW4gbm90IGpvaW4gb3RoZXIgZ3JvdXAsIA==</text>
+        <text encoding="base64">ICR1c2VyLT5hcHBfdXNlcl9hY2Nlc3NfdG9rZW4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXNlciBjYW4gbm90IGpvaW4gb3RoZXIgZ3JvdXAsIA==</text>
+        <text encoding="base64">ICR1c2VyLT5hcHBfdXNlcl9hY2Nlc3NfdG9rZW4=</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PD9waHAKLyoqCiAqIEBBdXRob3IgemhhbmcuY2h1YW5jaGVuZyA8emhhbmcuY2h1YW5jaGVuZ0BkYW5hdGVjaC5jb20+CiAqIERhdGUgMjAxOC8xMi8yOAogKi8KCm5hbWVzcGFjZSBBcHBcRXhjZXB0aW9uczsKCmNsYXNzIEVycm9yUXJDb2RlRXhwaXJlZCBleHRlbmRzIFJlcXVlc3RGYWlsRXhjZXB0aW9uCnsKICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkbWVzc2FnZSA9IG51bGwpCiAgICB7CiAgICAgICAgcGFyZW50OjpfX2NvbnN0cnVjdChFcnJvckNvZGU6OkVSUk9SX1FSQ09ERV9FWFBJUkVELCAkbWVzc2FnZSk7CiAgICB9Cn0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">IERCOjp0YWJsZSgndG1wX2JpbmRfdXNlcl9pbmZvJyktPnVwZGF0ZU9ySW5zZXJ0KFsKICAgICAgICAgICAgICAgICAgICAndXNlcl9pZCcgPT4gJHVzZXItPmlkLAogICAgICAgICAgICAgICAgICAgICdhcHBfdXNlcl9pZCcgPT4gJHVzZXItPmFwcF9zZXJ2ZXJfdXNlcl9pZCwKICAgICAgICAgICAgICAgIF0sIFsKICAgICAgICAgICAgICAgICAgICAnYXBwX3VzZXJfYWNjZXNzX3Rva2VuJyA9PiAkdXNlci0+YXBwX3VzZXJfYWNjZXNzX3Rva2VuLAogICAgICAgICAgICAgICAgXSk7</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqIEB0aHJvd3MgSW52YWxpZFBhcmFtZXRlcnNFeGNlcHRpb24K</text>
