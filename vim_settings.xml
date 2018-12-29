@@ -281,8 +281,8 @@
       <jump line="13" column="40" filename="D:/aizuoye_trunk_bugfix/server/php/app/Manager/StudentFamilyRecommendManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JG1vZGVsLT5nZXRLZXko</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjJfM1x1c2VyXEdldFN0dWRlbnRGYW1pbGllc0J5U2NhblFyQ29kZU1lc3NhZ2U7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JG1vZGVsLT5nZXRLZXko</text>
@@ -293,19 +293,25 @@
       <register name="0" type="4">
         <text encoding="base64">IERCOjp0YWJsZSgndG1wX2JpbmRfdXNlcl9pbmZvJyktPnVwZGF0ZU9ySW5zZXJ0KFsKICAgICAgICAgICAgICAgICAgICAndXNlcl9pZCcgPT4gJHVzZXItPmlkLAogICAgICAgICAgICAgICAgICAgICdhcHBfdXNlcl9pZCcgPT4gJHVzZXItPmFwcF9zZXJ2ZXJfdXNlcl9pZCwKICAgICAgICAgICAgICAgIF0sIFsKICAgICAgICAgICAgICAgICAgICAnYXBwX3VzZXJfYWNjZXNzX3Rva2VuJyA9PiAkdXNlci0+YXBwX3VzZXJfYWNjZXNzX3Rva2VuLAogICAgICAgICAgICAgICAgXSk7</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjJfM1x1c2VyXEdldFN0dWRlbnRGYW1pbGllc0J5U2NhblFyQ29kZU1lc3NhZ2U7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjJfM1x1c2VyXFJlZnJlc2hRckNvZGVNZXNzYWdlOwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>private static function canJoinStudentFamily(int $userId)
     {
         $
     }</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3R1ZGVudFByb2ZpbGVNYW5hZ2VyOjpqb2luU3R1ZGVudEZhbWlseSgkdXNlciwgJHN0dWRlbnQtPmlkLCBVc2VyUm9sZTo6Tk9ORSk7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIMjnufvDu7n9xtq1xLuwo6y3tbvY1eK49ta1Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>/**
      * 根据二维码的tokendata获取学生档案的信息
      * @param string $tokenData
@@ -332,20 +338,14 @@
         return StudentManager::getStudentById($studentId);
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAqIEByZXR1cm4gU3R1ZGVudHxcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XE1vZGVsfG51bGRkZGRsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAqIEB0aHJvd3MgSW52YWxpZFBhcmFtZXRlcnNFeGNlcHRpb24K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDI57n7w7u5/cbatcS7sKOst7W72NXiuPbWtQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">PD9waHAKLyoqCiAqIEBBdXRob3IgemhhbmcuY2h1YW5jaGVuZyA8emhhbmcuY2h1YW5jaGVuZ0BkYW5hdGVjaC5jb20+CiAqIERhdGUgMjAxOC8xMi8yOQogKi8KCm5hbWVzcGFjZSBBcHBcRXhjZXB0aW9uczsKCgpjbGFzcyBFcnJvckludmFsaWRRckNvZGUKewoKfQ==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc3R1ZGVudFByb2ZpbGVNb2RlbC0+Z3JhZGUgPSBDbGFzc01hbmFnZXI6OmVudHJhbmNlRGF0ZTJHcmFkZSgkc3R1ZGVudFByb2ZpbGUtPmVudHJhbmNlX3llYXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDI57n7w7u5/cbatcS7sKOst7W72NXiuPbWtQo=</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
