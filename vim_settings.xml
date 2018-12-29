@@ -153,6 +153,12 @@
         <mark key="]" line="1095" column="3" />
         <mark key="." line="1095" column="3" />
       </file>
+      <file name="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" timestamp="1546051440141">
+        <mark key="[" line="325" column="0" />
+        <mark key="]" line="325" column="0" />
+        <mark key="." line="325" column="0" />
+        <mark key="^" line="305" column="29" />
+      </file>
       <file name="D:/dev_lll/52pkm.cn/.env" timestamp="1545890582649">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="40" />
@@ -293,8 +299,8 @@
       <jump line="39" column="6" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>studentI</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLwo=</text>
       </register>
       <register name="-" type="4">
         <text>studentI</text>
@@ -306,16 +312,19 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9ySW52YWxpZFFyQ29kZSgnsru6z7eotcS2/s6swusnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkc3R1ZGVudElkID0gRGVjMlRoaXJ0eUZvdXJNYW5hZ2VyOjpkZWNvZGUoJGRhdGFbMF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkc3R1ZGVudElkID0gRGVjMlRoaXJ0eUZvdXJNYW5hZ2VyOjpkZWNvZGUoJGRhdGFbMF0pOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgICAgIHNlbGY6OmJ1aWxkU3RyaW5nKCRjYXRlZ29yeSwgJGdyb3VwLCAkZGF0YVsndG9rZW5EYXRhJ10pLAogICAgICAgICAgICAgICAgQ2FyYm9uOjpjcmVhdGVGcm9tVGltZXN0YW1wKCRkYXRhWydleHBpcmVzQXQnXSkKICAgICAgICAgICAgXTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>if ($forceRefsh == false) {
         }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>$data = Cache::get($key);
             if ($data !== null) {
                 $data = json_decode($data, true);
@@ -325,16 +334,16 @@
                 ];
             }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>else {
             $oldData = Cache::get($key);
             if ()
         }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAkZGF0YSA9IENhY2hlOjpnZXQoJGtleSk7CiAgICAgICAgaWYgKCRkYXRhICE9PSBudWxsKSB7CiAgICAgICAgICAgICRkYXRhID0ganNvbl9kZWNvZGUoJGRhdGEsIHRydWUpOwogICAgICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAgICAgc2VsZjo6YnVpbGRTdHJpbmcoJGNhdGVnb3J5LCAkZ3JvdXAsICRkYXRhWyd0b2tlbkRhdGEnXSksCiAgICAgICAgICAgICAgICBDYXJib246OmNyZWF0ZUZyb21UaW1lc3RhbXAoJGRhdGFbJ2V4cGlyZXNBdCddKQogICAgICAgICAgICBdOwogICAgICAgIH0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>if ($data !== null) {
             $data = json_decode($data, true);
             return [
@@ -343,11 +352,8 @@
             ];
         }</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">cHVibGljIHN0YXRpYyBmdW5jdGlvbiByZWZyZXNoUXJDb2RlVXJsKE1vZGVsICRtb2RlbCwgc3RyaW5nICRjYXRlZ29yeSwgc3RyaW5nICRncm91cCwgJGFsaXZlTWludWUgPSA2MCkKICAgIHsKICAgICAgICAka2V5ID0gc2VsZjo6YnVpbGRTdHJpbmcoJGNhdGVnb3J5LCAkZ3JvdXAsICRtb2RlbC0+Z2V0S2V5KCkpOwogICAgICAgIAogICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
