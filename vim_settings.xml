@@ -38,11 +38,6 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="37" />
       </file>
-      <file name="D:/aizuoye_mall/server/php/.env" timestamp="1545793852823">
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="25" />
-      </file>
       <file name="D:/aizuoye_trunk_bugfix/server/php/config/session.php" timestamp="1545962912818">
         <mark key="[" line="72" column="21" />
         <mark key="]" line="72" column="21" />
@@ -58,16 +53,6 @@
         <mark key="]" line="370" column="0" />
         <mark key="." line="370" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/Error.php" timestamp="1546013760185">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/aizuoye_mall/server/php/app/Http/routes.php" timestamp="1545793681720">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1546054953508">
         <mark key="[" line="180" column="0" />
         <mark key="]" line="181" column="107" />
@@ -75,11 +60,6 @@
         <mark key="." line="181" column="0" />
       </file>
       <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/OfficialAccount/Application.php" timestamp="1545826884414" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1545794421667">
-        <mark key="[" line="34" column="30" />
-        <mark key="]" line="20" column="7" />
-        <mark key="." line="20" column="7" />
-      </file>
       <file name="D:/dev_lll/52pkm.cn/vendor/overtrue/wechat/src/Kernel/ServiceContainer.php" timestamp="1545827100803" />
       <file name="D:/aizuoye_release/server/php/app/Manager/Account/Login/BaseLogin.php" timestamp="1545823980794">
         <mark key="[" line="57" column="77" />
@@ -95,16 +75,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallUserMapper.php" timestamp="1545874871578">
-        <mark key="[" line="153" column="2" />
-        <mark key="]" line="153" column="3" />
-        <mark key="." line="153" column="3" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Model/HomepagePosterTag.php" timestamp="1545806041354">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="21" />
-        <mark key="." line="15" column="21" />
       </file>
       <file name="D:/dev_lll/52pkm.cn/app/Http/Controllers/WeChatController.php" timestamp="1545912863603">
         <mark key="[" line="27" column="48" />
@@ -140,7 +110,7 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Utils/StringUtils.php" timestamp="1545983645690" />
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_3/model/StudentProfileModel.php" timestamp="1546055487439" />
-      <file name="/Dummy.txt" timestamp="1546056986346">
+      <file name="/Dummy.txt" timestamp="1546065889286">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_3/user/ChangeStudentProfileMessage.php" timestamp="1545911016451" />
