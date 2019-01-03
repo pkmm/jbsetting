@@ -50,6 +50,7 @@
         <mark key="." line="23" column="108" />
         <mark key="^" line="23" column="106" />
       </file>
+      <file name="D:/aizuoye_trunk/server/php/app/Exceptions/ErrorCode.php" timestamp="1546523411095" />
       <file name="D:/aizuoye_pc_v21/server/php/_ide_helper.php" timestamp="1546417336928" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V1_3/UserService.php" timestamp="1546495705061" />
       <file name="D:/aizuoye_release/server/php/app/Console/Commands/UpdateUserRoleForSensorsData.php" timestamp="1545804255653">
@@ -67,6 +68,11 @@
       <file name="D:/aizuoye_API_demo/server/php/app/Manager/DetectorManager.php" timestamp="1546418408857" />
       <file name="/Dummy.txt" timestamp="1546520283385">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/aizuoye_trunk/server/php/tests/V2_3/UserTest.php" timestamp="1546523391168">
+        <mark key="[" line="602" column="26" />
+        <mark key="]" line="602" column="26" />
+        <mark key="." line="602" column="26" />
       </file>
       <file name="/fragment.php" timestamp="1546417412924">
         <mark key="[" line="0" column="0" />
@@ -205,10 +211,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>InvalidParametersException('users can not have student.')</text>
+        <text>二维码已经过期</text>
       </register>
       <register name="-" type="4">
-        <text>InvalidParametersException('users can not have student.')</text>
+        <text>二维码已经过期</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
