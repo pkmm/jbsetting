@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1546414773324">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1546483270771">
         <mark key="[" line="44" column="8" />
         <mark key="]" line="44" column="8" />
         <mark key="." line="44" column="8" />
         <mark key="^" line="60" column="15" />
+      </file>
+      <file name="D:/aizuoye_mall/server/php/database/migrations/2018_12_29_133303_create_tmp_bind_user_info_table.php" timestamp="1546061606593">
+        <mark key="[" line="16" column="37" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1546429697264">
         <mark key="[" line="172" column="22" />
@@ -28,6 +34,9 @@
         <mark key="]" line="40" column="53" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="D:/aizuoye_release/server/php/app/Manager/Account/Login/BaseLogin.php" timestamp="1545823980794">
+        <mark key="[" line="57" column="77" />
+      </file>
       <file name="D:/aizuoye_trunk_bugfix/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1546505056841">
         <mark key="[" line="60" column="8" />
         <mark key="]" line="60" column="8" />
@@ -43,16 +52,25 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/_ide_helper.php" timestamp="1546417336928" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V1_3/UserService.php" timestamp="1546495705061" />
+      <file name="D:/aizuoye_release/server/php/app/Console/Commands/UpdateUserRoleForSensorsData.php" timestamp="1545804255653">
+        <mark key="[" line="50" column="67" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1546414422750" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorStudentFamilyMustHaveOneMember.php" timestamp="1546495998715" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546516929782">
-        <mark key="[" line="231" column="4" />
-        <mark key="]" line="231" column="4" />
-        <mark key="^" line="140" column="12" />
-        <mark key="." line="231" column="4" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546520462687">
+        <mark key="[" line="245" column="26" />
+        <mark key="]" line="245" column="26" />
+        <mark key="^" line="245" column="26" />
+        <mark key="." line="245" column="26" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1546409578096" />
       <file name="D:/aizuoye_API_demo/server/php/app/Manager/DetectorManager.php" timestamp="1546418408857" />
+      <file name="/Dummy.txt" timestamp="1546520283385">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.php" timestamp="1546417412924">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1546512500394">
         <mark key="'" line="24" column="41" />
         <mark key="[" line="25" column="0" />
@@ -60,10 +78,19 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="424" column="41" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1546518311735">
-        <mark key="[" line="80" column="41" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="D:/aizuoye_release/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1545803721513">
+        <mark key="[" line="70" column="78" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorAddUsersToStudentFamilyFailed.php" timestamp="1546520389662">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="12" column="28" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1546520527265">
+        <mark key="[" line="49" column="69" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/User.php" timestamp="1546409508115">
         <mark key="'" line="88" column="6" />
@@ -177,11 +204,11 @@
       <jump line="24" column="41" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>InvalidParametersException('users can not have student.')</text>
       </register>
       <register name="-" type="4">
-        <text>storeRecommendGroup</text>
+        <text>InvalidParametersException('users can not have student.')</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
@@ -190,41 +217,33 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBDb2xsZWN0aW9uKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBDb2xsZWN0aW9uKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJlcGFyZUluc2VydERhdGEgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBDb2xsZWN0aW9uKCk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBDb2xsZWN0aW9uKCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkcHJlcGFyZUluc2VydERhdGEgPSBbXTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoJ3N0dWRlbnRfdXNlcnMnKS0+aW5zZXJ0KCRwcmVwYXJlSW5zZXJ0RGF0YSk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICRwcmVwYXJlSW5zZXJ0RGF0YVtdID0gWwogICAgICAgICAgICAgICAgJ3VzZXJfaWQnID0+ICR1c2VySWQsCiAgICAgICAgICAgICAgICAnc3R1ZGVudF9pZCcgPT4gJHN0dWRlbnQtPmlkLAogICAgICAgICAgICAgICAgJ3JlbGF0aW9uX3JvbGVfaWQnID0+IFVzZXJSb2xlOjpOT05FLAogICAgICAgICAgICBdOw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">aWYgKGNvdW50KCR1c2VySWRzKSA8PSAxKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>if (!self::canStoreRecommendGroup($userIds)) {
             return false;
         }</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgZnVuY3Rpb24gKGFycmF5ICR1c2VySWRzKQogICAgewogICAgICAgIHJldHVybiBSZWNvbW1lbmRTdHVkZW50RmFtaWx5Ojp3aGVyZUluKCdpZCcsICR1c2VySWRzKS0+Y291bnQoKSA9PSAwOwogICAgfQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text>f (!self::storeRecommendGroup($userIds)) {
-            return self::getRecommendGroup($user);
-        }</text>
-      </register>
-      <register name="9" type="4">
-        <text>public static function getRecommendGroup(User $user)
-    {
-        $members = self::getRecommendMembers($user);
-
-
-        return $users;
-    }</text>
       </register>
       <register name=":" type="4">
         <text>367</text>
