@@ -17,8 +17,11 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/NoSuchUserException.php" timestamp="1546497248504" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/VerifyCodeUnknownException.php" timestamp="1546498858897" />
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_02_152738_CreateRecommendStudentFamilyTable.php" timestamp="1546415372006" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1546499601107">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1546510230386">
         <mark key="'" line="396" column="0" />
+        <mark key="[" line="146" column="27" />
+        <mark key="]" line="146" column="27" />
+        <mark key="." line="146" column="27" />
       </file>
       <file name="D:/aizuoye_trunk_bugfix/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1546505212002">
         <mark key="[" line="39" column="0" />
@@ -52,11 +55,10 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/api_routes_v2_3.php" timestamp="1546499809327" />
       <file name="D:/aizuoye_API_demo/server/php/app/Manager/DetectorManager.php" timestamp="1546418408857" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1546499332719" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1546501737418">
-        <mark key="[" line="45" column="6" />
-        <mark key="]" line="45" column="6" />
-        <mark key="." line="45" column="6" />
-        <mark key="^" line="140" column="7" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1546510161993">
+        <mark key="[" line="38" column="9" />
+        <mark key="]" line="38" column="9" />
+        <mark key="." line="38" column="9" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/StudentUser.php" timestamp="1546430436188" />
     </filemarks>
@@ -163,56 +165,46 @@
       <jump line="391" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IHNlbGY6OmZpbmRVc2VyKCR1bmlvbklkLCAkcGhvbmUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAvLyAgICAgICAgZGQoJHVzZXJJZHMp</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
       </register>
-      <register name="0" type="4">
-        <text>You are not a student\'s family</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBDb2xsZWN0aW9uKCk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlci0+bG9hZCgnc3R1ZGVudHMnKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWyRjb25maWRlbmNlTGV2ZWwsICR1c2Vyc107Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICRsZXZlbCA9IGNvdW50KCR1c2VySWRzKSA8PSBzZWxmOjpUSFJFU0hPTERfT0ZfR1JPVVBfU0laRV9USEFUX0FMTE9XX0RJUkVDVF9CSU5ESU5HID8KICAgICAgICAgICAgUmVjb21tZW5kQ29uZmlkZW5jZTo6Qm91bmQgOiBSZWNvbW1lbmRDb25maWRlbmNlOjpVbmJvdW5kOw==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFtSZWNvbW1lbmRDb25maWRlbmNlOjpOb3RSZWNvbW1lbmQsIG5ldyBDb2xsZWN0aW9uKCldOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFtSZWNvbW1lbmRDb25maWRlbmNlOjpOb3RSZWNvbW1lbmQsIG5ldyBDb2xsZWN0aW9uKCldOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFtSZWNvbW1lbmRDb25maWRlbmNlOjpOb3RSZWNvbW1lbmQsIG5ldyBDb2xsZWN0aW9uKCldOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFtSZWNvbW1lbmRDb25maWRlbmNlOjpOb3RSZWNvbW1lbmQsIG5ldyBDb2xsZWN0aW9uKCldOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkdXNlciA9IHNlbGY6OmZpbmRVc2VyKCR1bmlvbklkLCAkcGhvbmUpOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>if (!$user) {
 
         }</text>
-      </register>
-      <register name="3" type="4">
-        <text>/**
-     * 合并错题本，把这几个用户进行关联
-     * @param array $userIds
-     * @param string $studentName
-     */
-    public static function mergeErrorTopic(array $userIds, string $studentName)
-    {
-        StudentFamilyRecommendManager::doBound($userIds, $studentName);
-    }</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">JHN0dWRlbnQgPSBuZXcgU3R1ZGVudCgpOwogICAgICAgICRzdHVkZW50LT5zYXZlKCk7CgogICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>else if ($level == RecommendConfidence::Bound) {
-            
-        }</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgKFRlYWNoZXJNYW5hZ2VyOjppc1RlYWNoZXIoJHVzZXIpKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKCR1c2VyLT5zdHVkZW50cy0+Y291bnQoKSA+IDApIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAkdGFnID0gVXNlclRhZ01hbmFnZXI6OmdldFRhZygkdXNlci0+aWQsIFVzZXJUYWdJZHM6OlRBR19JRF9VUERBVEVfVVNFUl9ST0xFKTsKICAgICAgICAgICAgICAgIGlmICgkdGFnICYmICR0YWctPnZhbHVlID09IFVzZXJSb2xlOjpURUFDSEVSKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC0+Z2V0KCkKICAgICAgICAgICAgLT5maWx0ZXIoZnVuY3Rpb24gKFJlY29tbWVuZFN0dWRlbnRGYW1pbHkgJG1lbWJlcikgewogICAgICAgICAgICAgICAgcmV0dXJuICRtZW1iZXItPmlzX3F1aXQgPT0gMDsKICAgICAgICAgICAgfSk7</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LT5nZXQoKQogICAgICAgIC0+ZmlsdGVyKGZ1bmN0aW9uIChSZWNvbW1lbmRTdHVkZW50RmFtaWx5ICRtZW1iZXIpIHsKICAgICAgICAgICAgcmV0dXJuICRtZW1iZXItPmlzX3F1aXQgPT0gMDsKICAgICAgICB9KTs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlcklkcyA9IGV4cGxvZGUoJywnLCAkcmVjb21tZW5kU3R1ZGVudEZhbWlseSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>367</text>
