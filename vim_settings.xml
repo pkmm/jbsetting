@@ -58,11 +58,12 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1546414422750" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorStudentFamilyMustHaveOneMember.php" timestamp="1546495998715" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546520462687">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546566701933">
+        <mark key="'" line="242" column="43" />
         <mark key="[" line="245" column="26" />
-        <mark key="]" line="245" column="26" />
-        <mark key="^" line="245" column="26" />
-        <mark key="." line="245" column="26" />
+        <mark key="]" line="242" column="43" />
+        <mark key="^" line="242" column="43" />
+        <mark key="." line="242" column="43" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1546528259160" />
       <file name="D:/aizuoye_API_demo/server/php/app/Manager/DetectorManager.php" timestamp="1546418408857" />
@@ -108,7 +109,6 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/StudentUser.php" timestamp="1546430436188" />
     </filemarks>
     <jumps>
-      <jump line="162" column="11" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-11-29.log" />
       <jump line="34" column="6" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_2/User/UserMapper.php" />
       <jump line="85" column="5" filename="D:/aizuoye_pc_v21/server/php/app/Model/User.php" />
       <jump line="137" column="28" filename="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallUserMapper.php" />
@@ -208,6 +208,7 @@
       <jump line="391" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" />
       <jump line="425" column="41" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" />
       <jump line="24" column="41" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" />
+      <jump line="242" column="43" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
