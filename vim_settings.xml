@@ -33,12 +33,12 @@
         <mark key="]" line="72" column="21" />
         <mark key="." line="72" column="21" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1546583858618">
-        <mark key="'" line="399" column="0" />
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="85" />
-        <mark key="." line="202" column="0" />
-        <mark key="^" line="202" column="11" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1546589809367">
+        <mark key="'" line="403" column="0" />
+        <mark key="[" line="168" column="30" />
+        <mark key="]" line="168" column="30" />
+        <mark key="." line="168" column="30" />
+        <mark key="^" line="205" column="11" />
       </file>
       <file name="D:/aizuoye_trunk_bugfix/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1546505212002">
         <mark key="[" line="39" column="0" />
@@ -82,7 +82,7 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1546414422750" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorStudentFamilyMustHaveOneMember.php" timestamp="1546495998715" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546584908053">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546587549573">
         <mark key="'" line="242" column="43" />
         <mark key="[" line="48" column="9" />
         <mark key="]" line="48" column="12" />
@@ -130,7 +130,7 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1546585232941" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1546586969411" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/User.php" timestamp="1546409508115">
         <mark key="'" line="88" column="6" />
         <mark key="[" line="240" column="0" />
@@ -244,12 +244,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if (!$user) {
-            $user = self::findUser($unionId, $phone);
-        }</text>
+        <text>canAutoBindRecommendFamily</text>
       </register>
       <register name="-" type="4">
-        <text>nickname</text>
+        <text>canAutoBindRecommendFamily</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
