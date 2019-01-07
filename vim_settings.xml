@@ -48,12 +48,15 @@
         <mark key="^" line="46" column="44" />
         <mark key="." line="400" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/NoSuchUserException.php" timestamp="1546497248504" />
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2018_12_25_102614_CreateStudentProfileTable.php" timestamp="1545891277244">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="20" />
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="37" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/VerifyCodeUnknownException.php" timestamp="1546498858897" />
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_02_152738_CreateRecommendStudentFamilyTable.php" timestamp="1546415372006" />
       <file name="D:/aizuoye_mall/server/php/.env" timestamp="1546597620674">
         <mark key="[" line="33" column="16" />
         <mark key="]" line="33" column="30" />
@@ -71,11 +74,12 @@
         <mark key="." line="153" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1546826579711">
-        <mark key="[" line="64" column="35" />
-        <mark key="]" line="64" column="35" />
-        <mark key="." line="64" column="35" />
-        <mark key="^" line="64" column="48" />
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="48" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V1_9/UserService.php" timestamp="1546842892671" />
       <file name="D:/aizuoye_mall/server/php/app/Utils/HttpPoster.php" timestamp="1546597781970">
         <mark key="[" line="50" column="66" />
       </file>
@@ -97,7 +101,9 @@
         <mark key="]" line="27" column="25" />
         <mark key="." line="27" column="25" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Utils/WechatUtil.php" timestamp="1546825635408">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorCode.php" timestamp="1546495649618" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V1_4/UserService.php" timestamp="1546495690557" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Utils/WechatUtil.php" timestamp="1546842994774">
         <mark key="[" line="46" column="61" />
         <mark key="]" line="46" column="62" />
         <mark key="." line="46" column="62" />
@@ -115,10 +121,14 @@
         <mark key="." line="23" column="108" />
         <mark key="^" line="23" column="106" />
       </file>
+      <file name="D:/aizuoye_trunk/server/php/app/Exceptions/ErrorCode.php" timestamp="1546523411095" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/Student.php" timestamp="1546608810197">
         <mark key="[" line="50" column="20" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_04_144722_AlterStudentsTableAddTypeField.php" timestamp="1546584774529">
+        <mark key="[" line="14" column="9" />
       </file>
       <file name="D:/aizuoye_release/server/php/app/Manager/SensorsManager.php" timestamp="1545823448205">
         <mark key="[" line="111" column="12" />
@@ -126,20 +136,29 @@
         <mark key="." line="111" column="12" />
         <mark key="^" line="111" column="11" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/_ide_helper.php" timestamp="1546417336928" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V1_3/UserService.php" timestamp="1546495705061" />
       <file name="D:/aizuoye_release/server/php/app/Console/Commands/UpdateUserRoleForSensorsData.php" timestamp="1545804255653">
         <mark key="[" line="50" column="67" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1546842951822" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorStudentFamilyMustHaveOneMember.php" timestamp="1546495998715" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546841293297">
         <mark key="[" line="109" column="36" />
         <mark key="]" line="109" column="36" />
         <mark key="^" line="112" column="32" />
         <mark key="." line="109" column="36" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1546569394318">
+        <mark key="[" line="70" column="22" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Config.php" timestamp="1546842823695" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorInvalidQrCode.php" timestamp="1546069939240">
         <mark key="[" line="12" column="46" />
         <mark key="]" line="12" column="46" />
         <mark key="." line="12" column="46" />
       </file>
+      <file name="D:/aizuoye_API_demo/server/php/app/Manager/DetectorManager.php" timestamp="1546418408857" />
       <file name="/Dummy.txt" timestamp="1546520283385">
         <mark key="[" line="0" column="0" />
       </file>
@@ -176,6 +195,9 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="424" column="41" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_0/UserService.php" timestamp="1546843068255">
+        <mark key="[" line="206" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2018_12_30_194220_AlertStudentProfileEntranceYearColumn.php" timestamp="1546170711457">
         <mark key="[" line="23" column="73" />
@@ -217,6 +239,7 @@
         <mark key="." line="240" column="0" />
         <mark key="^" line="88" column="5" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Model/StudentUser.php" timestamp="1546430436188" />
     </filemarks>
     <jumps>
       <jump line="85" column="5" filename="D:/aizuoye_pc_v21/server/php/app/Model/User.php" />
