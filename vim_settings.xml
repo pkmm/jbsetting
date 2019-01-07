@@ -17,11 +17,11 @@
       <file name="/a.dummy" timestamp="1546414773324">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1546831767293">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1546841341838">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="36" column="4" />
         <mark key="." line="36" column="4" />
-        <mark key="^" line="68" column="15" />
+        <mark key="^" line="70" column="15" />
       </file>
       <file name="D:/aizuoye_mall/server/php/database/migrations/2018_12_29_133303_create_tmp_bind_user_info_table.php" timestamp="1546061606593">
         <mark key="[" line="16" column="37" />
@@ -129,11 +129,11 @@
       <file name="D:/aizuoye_release/server/php/app/Console/Commands/UpdateUserRoleForSensorsData.php" timestamp="1545804255653">
         <mark key="[" line="50" column="67" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546831789461">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546841293297">
+        <mark key="[" line="109" column="36" />
+        <mark key="]" line="109" column="36" />
         <mark key="^" line="112" column="32" />
-        <mark key="." line="112" column="0" />
+        <mark key="." line="109" column="36" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorInvalidQrCode.php" timestamp="1546069939240">
         <mark key="[" line="12" column="46" />
@@ -322,10 +322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHVzZXIgPSBVc2VyOjpmaXJzdE9yQ3JlYXRlKFsKICAgICAgICAncGhvbmUnID0+ICcxMDAyMzQ1MDQ3MScsCiAgICBdKTs=</text>
+        <text>firstOrCreate</text>
       </register>
       <register name="-" type="4">
-        <text>bindUserWechat</text>
+        <text>firstOrCreate</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
