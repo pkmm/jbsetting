@@ -17,11 +17,11 @@
       <file name="/a.dummy" timestamp="1546414773324">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1546615493392">
-        <mark key="[" line="48" column="8" />
-        <mark key="]" line="48" column="8" />
-        <mark key="." line="48" column="8" />
-        <mark key="^" line="64" column="15" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1546831767293">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="4" />
+        <mark key="." line="36" column="4" />
+        <mark key="^" line="68" column="15" />
       </file>
       <file name="D:/aizuoye_mall/server/php/database/migrations/2018_12_29_133303_create_tmp_bind_user_info_table.php" timestamp="1546061606593">
         <mark key="[" line="16" column="37" />
@@ -64,7 +64,7 @@
         <mark key="]" line="72" column="21" />
         <mark key="." line="72" column="21" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1546613586910">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1546831071602">
         <mark key="'" line="405" column="0" />
         <mark key="[" line="153" column="0" />
         <mark key="]" line="154" column="38" />
@@ -129,11 +129,11 @@
       <file name="D:/aizuoye_release/server/php/app/Console/Commands/UpdateUserRoleForSensorsData.php" timestamp="1545804255653">
         <mark key="[" line="50" column="67" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546608975379">
-        <mark key="[" line="266" column="33" />
-        <mark key="]" line="266" column="33" />
-        <mark key="^" line="266" column="33" />
-        <mark key="." line="266" column="33" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546831789461">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="112" column="32" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorInvalidQrCode.php" timestamp="1546069939240">
         <mark key="[" line="12" column="46" />
@@ -203,12 +203,12 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1546609181401">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1546830920216">
         <mark key="'" line="71" column="58" />
-        <mark key="[" line="72" column="22" />
-        <mark key="]" line="71" column="58" />
+        <mark key="[" line="106" column="53" />
+        <mark key="]" line="106" column="0" />
         <mark key="^" line="71" column="58" />
-        <mark key="." line="71" column="58" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/User.php" timestamp="1546409508115">
         <mark key="'" line="88" column="6" />
@@ -322,7 +322,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bindUserWechat</text>
+        <text encoding="base64">JHVzZXIgPSBVc2VyOjpmaXJzdE9yQ3JlYXRlKFsKICAgICAgICAncGhvbmUnID0+ICcxMDAyMzQ1MDQ3MScsCiAgICBdKTs=</text>
       </register>
       <register name="-" type="4">
         <text>bindUserWechat</text>
@@ -333,35 +333,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkc3R1ZGVudFByb2ZpbGVNb2RlbC0+cXJDb2RlID0gc2VsZjo6Z2V0U3R1ZGVudFByb2ZpbGVRckNvZGUoJHN0dWRlbnQpOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">JHVzZXIgPSBVc2VyOjpmaXJzdE9yQ3JlYXRlKFsKICAgICAgICAncGhvbmUnID0+ICcxMDAyMzQ1MDQ3MScsCiAgICBdKTs=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGF0dHJbJ3JlbGF0aW9uX3JvbGVfaWQnXSA9ICRyZWxhdGlvbjsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTdHVkZW50VXNlcjo6Zmlyc3RPckNyZWF0ZSgkYXR0cik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlcklkc1tdID0gJHJlY29tbWVuZFN0dWRlbnRGYW1pbHktPnVzZXJfaWQ7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlcklkc1tdID0gJHJlY29tbWVuZFN0dWRlbnRGYW1pbHktPnVzZXJfaWQ7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGJpbmRVc2VyV2VjaGF0KCR1c2VyLCAkdW5pb25JZCwgJG5pY2tuYW1lKQogICAgewogICAgICAgIHJldHVybiBzZWxmOjp0cnlCaW5kVXNlcldlY2hhdCgkdXNlciwgJHVuaW9uSWQsICRuaWNrbmFtZSk7CiAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>public static function bindUserWechat($user, $unionId, $nickname)
     {
         return self::tryBindUserWechat($user, $unionId, $nickname);
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkdXNlci0+bG9hZCgnc3R1ZGVudHMnKTsKICAgICAgICAkc3R1ZGVudCA9ICR1c2VyLT5zdHVkZW50Owo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAkc3R1ZGVudFByb2ZpbGVNb2RlbC0+cXJDb2RlID0gc2VsZjo6Z2V0U3R1ZGVudFByb2ZpbGVRckNvZGUoJHN0dWRlbnQpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN0dWRlbnQgPSAkdXNlci0+c3R1ZGVudDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXItPmxvYWQoJ3N0dWRlbnRzJyk7Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICRzZXNzID0gJGFwaS0+Z2V0U2Vzc2lvbigpOwogICAgICAgICAgICBpZiAoJHNlc3MpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">JHVzZXJzID0gJHN0dWRlbnQtPnVzZXJzOwogICAgICAgICRjYW5BdXRvQmluZCA9IFN0dWRlbnRGYW1pbHlSZWNvbW1lbmRNYW5hZ2VyOjpjYW5BdXRvQmluZCgkdXNlcnMpOwogICAgICAgIHJldHVybiAkY2FuQXV0b0JpbmQgPyBTdHVkZW50UHJvZmlsZVN0YXR1czo6SElOVF9VU0VSX0FVVE9fQklORCA6IFN0dWRlbnRQcm9maWxlU3RhdHVzOjpISU5UX1VTRVJfTk9UX0JJTkQ7</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">JHVzZXItPmxvYWQoJ3N0dWRlbnRzJyk7CiAgICAgICAgJHN0dWRlbnQgPSAkdXNlci0+c3R1ZGVudDs=</text>
       </register>
       <register name=":" type="4">
         <text>367</text>
