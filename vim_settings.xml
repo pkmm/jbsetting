@@ -86,6 +86,12 @@
         <mark key="]" line="27" column="25" />
         <mark key="." line="27" column="25" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Utils/WechatUtil.php" timestamp="1546825635408">
+        <mark key="[" line="46" column="61" />
+        <mark key="]" line="46" column="62" />
+        <mark key="." line="46" column="62" />
+        <mark key="^" line="46" column="61" />
+      </file>
       <file name="D:/dev_lll/52pkm.cn/app/Http/Controllers/WeChatController.php" timestamp="1545912863603">
         <mark key="[" line="27" column="48" />
         <mark key="]" line="27" column="0" />
@@ -310,11 +316,11 @@
       <jump line="71" column="58" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlci0+bG9hZCgnc3R1ZGVudHMnKTsKICAgICAgICAkc3R1ZGVudCA9ICR1c2VyLT5zdHVkZW50Owo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZW52KCdXRUNIQVRfU0FfQVBQX1NFQ1JFVCcpICA=</text>
       </register>
       <register name="-" type="4">
-        <text>StudentCreateFrom::SERVER_RECOMMEND</text>
+        <text encoding="base64">ZW52KCdXRUNIQVRfU0FfQVBQX1NFQ1JFVCcpICA=</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
