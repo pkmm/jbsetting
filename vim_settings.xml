@@ -133,11 +133,11 @@
         <mark key="]" line="33" column="30" />
         <mark key="." line="33" column="30" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1546859163787">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1546919896729">
         <mark key="'" line="405" column="0" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="154" column="38" />
-        <mark key="." line="153" column="0" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1546826579711">
         <mark key="[" line="11" column="35" />
@@ -166,11 +166,10 @@
       <file name="D:/aizuoye_trunk/server/php/app/Exceptions/ErrorCode.php" timestamp="1546523411095" />
       <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1546842951822" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorStudentFamilyMustHaveOneMember.php" timestamp="1546495998715" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546917468669">
-        <mark key="[" line="109" column="36" />
-        <mark key="]" line="109" column="36" />
-        <mark key="^" line="112" column="32" />
-        <mark key="." line="109" column="36" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1546920118912">
+        <mark key="[" line="269" column="16" />
+        <mark key="]" line="262" column="0" />
+        <mark key="." line="262" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1546569394318">
         <mark key="[" line="70" column="22" />
@@ -329,7 +328,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZwID0gZm9wZW4oc3RvcmFnZV9wYXRoKCdzdHVkZW50X2dyYWRlX2luZm8yMDE4MTExNCcpLCAncicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcklkKTsK</text>
       </register>
       <register name="-" type="4">
         <text>command:name</text>
@@ -341,34 +340,31 @@
         <text encoding="base64">ICAgICAgICAkc3R1ZGVudFByb2ZpbGVNb2RlbC0+cXJDb2RlID0gc2VsZjo6Z2V0U3R1ZGVudFByb2ZpbGVRckNvZGUoJHN0dWRlbnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZwID0gZm9wZW4oc3RvcmFnZV9wYXRoKCdzdHVkZW50X2dyYWRlX2luZm8yMDE4MTExNCcpLCAncicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcklkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGZwID0gZm9wZW4oc3RvcmFnZV9wYXRoKCdzdHVkZW50X2dyYWRlX2luZm8yMDE4MTExNCcpLCAncicpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ3NmJyk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">JHVzZXIgPSBVc2VyOjpmaXJzdE9yQ3JlYXRlKFsKICAgICAgICAncGhvbmUnID0+ICcxMDAyMzQ1MDQ3MScsCiAgICBdKTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgnc2YnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGF0dHJbJ3JlbGF0aW9uX3JvbGVfaWQnXSA9ICRyZWxhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZwID0gZm9wZW4oc3RvcmFnZV9wYXRoKCdzdHVkZW50X2dyYWRlX2luZm8yMDE4MTExNCcpLCAncicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHVkZW50VXNlcjo6Zmlyc3RPckNyZWF0ZSgkYXR0cik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGZwID0gZm9wZW4oc3RvcmFnZV9wYXRoKCdzdHVkZW50X2dyYWRlX2luZm8yMDE4MTExNCcpLCAncicpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlcklkc1tdID0gJHJlY29tbWVuZFN0dWRlbnRGYW1pbHktPnVzZXJfaWQ7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">JHVzZXIgPSBVc2VyOjpmaXJzdE9yQ3JlYXRlKFsKICAgICAgICAncGhvbmUnID0+ICcxMDAyMzQ1MDQ3MScsCiAgICBdKTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlcklkc1tdID0gJHJlY29tbWVuZFN0dWRlbnRGYW1pbHktPnVzZXJfaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGF0dHJbJ3JlbGF0aW9uX3JvbGVfaWQnXSA9ICRyZWxhdGlvbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGJpbmRVc2VyV2VjaGF0KCR1c2VyLCAkdW5pb25JZCwgJG5pY2tuYW1lKQogICAgewogICAgICAgIHJldHVybiBzZWxmOjp0cnlCaW5kVXNlcldlY2hhdCgkdXNlciwgJHVuaW9uSWQsICRuaWNrbmFtZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHVkZW50VXNlcjo6Zmlyc3RPckNyZWF0ZSgkYXR0cik7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>public static function bindUserWechat($user, $unionId, $nickname)
-    {
-        return self::tryBindUserWechat($user, $unionId, $nickname);
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlcklkc1tdID0gJHJlY29tbWVuZFN0dWRlbnRGYW1pbHktPnVzZXJfaWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
