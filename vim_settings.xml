@@ -46,11 +46,6 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Console/Kernel.php" timestamp="1546914575024">
         <mark key="[" line="76" column="39" />
       </file>
-      <file name="D:/aizuoye_trunk_bugfix/server/php/config/session.php" timestamp="1545962912818">
-        <mark key="[" line="72" column="21" />
-        <mark key="]" line="72" column="21" />
-        <mark key="." line="72" column="21" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V1_9/UserService.php" timestamp="1546842892671" />
       <file name="D:/aizuoye_mall/server/php/app/Utils/HttpPoster.php" timestamp="1546597781970">
         <mark key="[" line="50" column="66" />
@@ -70,7 +65,7 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorCode.php" timestamp="1546495649618" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V1_4/UserService.php" timestamp="1546495690557" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Model/Student.php" timestamp="1546608810197">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Model/Student.php" timestamp="1546917621291">
         <mark key="[" line="50" column="20" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -130,11 +125,6 @@
         <mark key="." line="404" column="0" />
         <mark key="^" line="547" column="25" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QrCodeGenerator/QrCodeGenerator.php" timestamp="1545983062703">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/NoSuchUserException.php" timestamp="1546497248504" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/VerifyCodeUnknownException.php" timestamp="1546498858897" />
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_02_152738_CreateRecommendStudentFamilyTable.php" timestamp="1546415372006" />
@@ -154,11 +144,6 @@
         <mark key="]" line="11" column="35" />
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="48" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Utils/PhoneUtils.php" timestamp="1546567841366">
-        <mark key="[" line="25" column="44" />
-        <mark key="]" line="27" column="25" />
-        <mark key="." line="27" column="25" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Utils/WechatUtil.php" timestamp="1546842994774">
         <mark key="[" line="46" column="61" />
@@ -189,11 +174,6 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1546569394318">
         <mark key="[" line="70" column="22" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorInvalidQrCode.php" timestamp="1546069939240">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="12" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1546520283385">
         <mark key="[" line="0" column="0" />
@@ -228,11 +208,6 @@
       </file>
       <file name="D:/aizuoye_release/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1545803721513">
         <mark key="[" line="70" column="78" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2018_12_25_162427_AlertStudentTableAddPortraitAndNicknameTable.php" timestamp="1545882998808">
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="8" />
-        <mark key="." line="13" column="8" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1546917293066">
         <mark key="'" line="71" column="58" />
