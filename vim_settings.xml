@@ -60,7 +60,7 @@
         <mark key="." line="33" column="30" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/ClassHomeworkPicture.php" timestamp="1546935967591" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1547001903294">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1547006092664">
         <mark key="'" line="405" column="0" />
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
@@ -156,7 +156,9 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1546937144687" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1547005922074">
+        <mark key="'" line="515" column="9" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1546945089599">
         <mark key="'" line="24" column="41" />
         <mark key="[" line="427" column="79" />
@@ -200,7 +202,7 @@
         <mark key="." line="12" column="28" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/UserSchoolGrade.php" timestamp="1546933644999" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1547003970840">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1547005995409">
         <mark key="'" line="95" column="58" />
         <mark key="[" line="181" column="8" />
         <mark key="]" line="181" column="8" />
@@ -209,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="5" filename="D:/aizuoye_pc_v21/server/php/app/Model/User.php" />
       <jump line="137" column="28" filename="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallUserMapper.php" />
       <jump line="87" column="20" filename="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallUserMapper.php" />
       <jump line="213" column="25" filename="D:/aizuoye_pc_v21/server/php/app/Http/Controllers/Generated/V2_1/AdminLetterController.php" />
@@ -309,6 +310,7 @@
       <jump line="24" column="41" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" />
       <jump line="242" column="43" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
       <jump line="71" column="58" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" />
+      <jump line="515" column="9" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
