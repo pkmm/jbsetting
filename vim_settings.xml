@@ -8,12 +8,6 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/tests/V2_3/UserTest.php" timestamp="1546432966392">
-        <mark key="[" line="404" column="0" />
-        <mark key="]" line="404" column="0" />
-        <mark key="." line="404" column="0" />
-        <mark key="^" line="547" column="25" />
-      </file>
       <file name="/a.dummy" timestamp="1546414773324">
         <mark key="[" line="0" column="0" />
       </file>
@@ -27,28 +21,10 @@
       <file name="D:/aizuoye_mall/server/php/database/migrations/2018_12_29_133303_create_tmp_bind_user_info_table.php" timestamp="1546061606593">
         <mark key="[" line="16" column="37" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1546915511901">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1547021286125">
         <mark key="[" line="172" column="22" />
         <mark key="]" line="172" column="22" />
         <mark key="." line="172" column="22" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorInValidQrCode.php" timestamp="1545998641542">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="33" />
-        <mark key="^" line="11" column="43" />
-        <mark key="." line="11" column="33" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/tests/V2_3/SchoolClassTest.php" timestamp="1546169318610">
-        <mark key="[" line="400" column="0" />
-        <mark key="]" line="400" column="45" />
-        <mark key="^" line="46" column="44" />
-        <mark key="." line="400" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2018_12_25_102614_CreateStudentProfileTable.php" timestamp="1545891277244">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="20" />
-        <mark key="." line="21" column="20" />
-        <mark key="^" line="21" column="37" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Console/Kernel.php" timestamp="1546936726216">
         <mark key="[" line="75" column="0" />
@@ -60,22 +36,16 @@
         <mark key="." line="33" column="30" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/ClassHomeworkPicture.php" timestamp="1546935967591" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" timestamp="1547017037827">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" timestamp="1547022078280">
         <mark key="[" line="1040" column="10" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1547018288914">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1547018396461">
         <mark key="'" line="405" column="0" />
         <mark key="[" line="236" column="17" />
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ExerciseManager.php" timestamp="1546934179524" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/IntegralMallServerService.php" timestamp="1546826579711">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="11" column="35" />
-        <mark key="^" line="11" column="48" />
-      </file>
       <file name="D:/aizuoye_mall/server/php/app/Utils/HttpPoster.php" timestamp="1546597781970">
         <mark key="[" line="50" column="66" />
       </file>
@@ -92,24 +62,6 @@
         <mark key="]" line="60" column="8" />
         <mark key="." line="60" column="8" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Utils/WechatUtil.php" timestamp="1546842994774">
-        <mark key="[" line="46" column="61" />
-        <mark key="]" line="46" column="62" />
-        <mark key="." line="46" column="62" />
-        <mark key="^" line="46" column="61" />
-      </file>
-      <file name="D:/dev_lll/52pkm.cn/app/Http/Controllers/WeChatController.php" timestamp="1545912863603">
-        <mark key="[" line="27" column="48" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_02_152738_CreateStudentRecommendFamilyTable.php" timestamp="1546414727387">
-        <mark key="[" line="23" column="111" />
-        <mark key="]" line="23" column="108" />
-        <mark key="." line="23" column="108" />
-        <mark key="^" line="23" column="106" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/Student.php" timestamp="1546917621291">
         <mark key="[" line="50" column="20" />
         <mark key="]" line="12" column="0" />
@@ -118,21 +70,15 @@
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_04_144722_AlterStudentsTableAddTypeField.php" timestamp="1546584774529">
         <mark key="[" line="14" column="9" />
       </file>
-      <file name="D:/aizuoye_release/server/php/app/Manager/SensorsManager.php" timestamp="1545823448205">
-        <mark key="[" line="111" column="12" />
-        <mark key="]" line="115" column="9" />
-        <mark key="." line="111" column="12" />
-        <mark key="^" line="111" column="11" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Exercise/EstimateLearningProgressManager.php" timestamp="1546934200340" />
+      <file name="D:/aizuoye_pc_v21/server/php/_ide_helper.php" timestamp="1547022132807" />
       <file name="D:/aizuoye_release/server/php/app/Console/Commands/UpdateUserRoleForSensorsData.php" timestamp="1545804255653">
         <mark key="[" line="50" column="67" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1547018016884">
-        <mark key="[" line="366" column="30" />
-        <mark key="]" line="366" column="29" />
-        <mark key="." line="366" column="29" />
-        <mark key="^" line="366" column="29" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1547022819179">
+        <mark key="[" line="319" column="0" />
+        <mark key="]" line="326" column="108" />
+        <mark key="." line="326" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1546569394318">
         <mark key="[" line="70" column="22" />
@@ -145,25 +91,13 @@
         <mark key="]" line="602" column="26" />
         <mark key="." line="602" column="26" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1546169795197">
-        <mark key="[" line="777" column="9" />
-        <mark key="]" line="778" column="0" />
-        <mark key="." line="778" column="0" />
-        <mark key="^" line="778" column="9" />
-      </file>
       <file name="/fragment.php" timestamp="1546417412924">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/dev_lll/52pkm.cn/.env" timestamp="1545890582649">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="40" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="2" column="8" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1547005922074">
         <mark key="'" line="515" column="9" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1546945089599">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1547022667428">
         <mark key="'" line="24" column="41" />
         <mark key="[" line="427" column="79" />
         <mark key="]" line="25" column="0" />
@@ -173,23 +107,11 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_0/UserService.php" timestamp="1546843068255">
         <mark key="[" line="206" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2018_12_30_194220_AlertStudentProfileEntranceYearColumn.php" timestamp="1546170711457">
-        <mark key="[" line="23" column="73" />
-        <mark key="]" line="23" column="73" />
-        <mark key="^" line="13" column="84" />
-        <mark key="." line="23" column="73" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/CreateStudentProfileByStudentName.php" timestamp="1546937814170">
-        <mark key="[" line="55" column="12" />
-        <mark key="]" line="56" column="96" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="55" column="89" />
-      </file>
-      <file name="D:/aizuoye_mall/server/php/app/Http/web_routes.php" timestamp="1546597314222">
-        <mark key="[" line="45" column="32" />
-        <mark key="]" line="53" column="46" />
-        <mark key="." line="53" column="46" />
-        <mark key="^" line="53" column="46" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/CreateStudentProfileByStudentName.php" timestamp="1547022264486">
+        <mark key="[" line="44" column="14" />
+        <mark key="]" line="44" column="14" />
+        <mark key="." line="44" column="14" />
+        <mark key="^" line="46" column="11" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/ImportStudentGradeInfo.php" timestamp="1546935585250">
         <mark key="[" line="72" column="0" />
@@ -199,19 +121,13 @@
       <file name="D:/aizuoye_release/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1545803721513">
         <mark key="[" line="70" column="78" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/ErrorAddUsersToStudentFamilyFailed.php" timestamp="1546520389662">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="28" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="28" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/UserSchoolGrade.php" timestamp="1546933644999" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1547017584263">
-        <mark key="'" line="102" column="58" />
-        <mark key="[" line="188" column="8" />
-        <mark key="]" line="188" column="8" />
-        <mark key="." line="188" column="8" />
-        <mark key="^" line="86" column="7" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1547020064110">
+        <mark key="'" line="107" column="58" />
+        <mark key="[" line="193" column="8" />
+        <mark key="]" line="193" column="8" />
+        <mark key="." line="193" column="8" />
+        <mark key="^" line="91" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -318,12 +234,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>else {
-            return StudentProfileStatus::DONT_HINT_USER;
-        }</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRocm93IG5ldyBFcnJvckFkZFVzZXJzVG9TdHVkZW50RmFtaWx5RmFpbGVkKCk7</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
@@ -332,35 +246,38 @@
         <text encoding="base64">ICAgICAgICAkc3R1ZGVudFByb2ZpbGVNb2RlbC0+cXJDb2RlID0gc2VsZjo6Z2V0U3R1ZGVudFByb2ZpbGVRckNvZGUoJHN0dWRlbnQpOwo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">Zm9yZWFjaCAoJHRhZ3MgYXMgJHRhZykgewogICAgICAgICAgICAkc3R1ZGVudE5hbWUgPSAkdGFnLT52YWx1ZTsKICAgICAgICAgICAgJHVzZXJJZCA9ICR0YWctPnVzZXJfaWQ7CiAgICAgICAgICAgICR1c2VyID0gVXNlck1hbmFnZXI6OmdldFVzZXJCeUlkKCR1c2VySWQpOwogICAgICAgICAgICBpZiAoISR1c2VyKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICAkc3RhdHVzID0gU3R1ZGVudFByb2ZpbGVNYW5hZ2VyOjpjcmVhdGVTdHVkZW50UHJvZmlsZUJ5U3R1ZGVudE5hbWUoJHVzZXIsICRzdHVkZW50TmFtZSk7CiAgICAgICAgICAgICRzdGF0dXMgJiYgJHRoaXMtPmluZm8oJ2NyZWF0ZWQgc3R1ZGVudCB3aXRoIG5hbWUgOiAnIC4gJHN0dWRlbnROYW1lIC4gJywgdXNlcklkOiAnIC4gJHVzZXJJZCk7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsaXN0KCRyZWNvcmQsICRyZWNvbW1lbmRNZW1iZXJDb3VudCkgPSBTdHVkZW50RmFtaWx5UmVjb21tZW5kTWFuYWdlcjo6Z2V0UmVjb21tZW5kSW5mbygkdXNlcklkKTsK</text>
+      </register>
+      <register name="3" type="4">
+        <text>if ($record) {
+            $
+        }</text>
+      </register>
+      <register name="4" type="4">
+        <text>$users = self::getStudentFamilies($student);
+            $canAutoBind = StudentFamilyRecommendManager::canAutoBind($users);</text>
+      </register>
+      <register name="5" type="4">
         <text>else {
             return StudentProfileStatus::DONT_HINT_USER;
         }</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGlmICgkc3R1ZGVudENyZWF0ZUZyb20gPT0gU3R1ZGVudDo6Q1JFQVRFX0ZST01fVVNFUikgewogICAgICAgICAgICByZXR1cm4gU3R1ZGVudFByb2ZpbGVTdGF0dXM6OkRPTlRfSElOVF9VU0VSOwogICAgICAgIH0KCiAgICAgICAgaWYgKCRzdHVkZW50Q3JlYXRlRnJvbSA9PSBTdHVkZW50OjpDUkVBVEVfRlJPTV9TRVJWRVJfUkVDT01NRU5EKSB7CiAgICAgICAgICAgICRyZWNvcmQgPSBSZWNvbW1lbmRTdHVkZW50RmFtaWx5Ojp3aGVyZVVzZXJJZCgkdXNlcklkKS0+Zmlyc3QoKTsKICAgICAgICAgICAgaWYgKCEkcmVjb3JkIHx8ICRyZWNvcmQtPmlzX3F1aXQpIHsKICAgICAgICAgICAgICAgIHJldHVybiBTdHVkZW50UHJvZmlsZVN0YXR1czo6RE9OVF9ISU5UX1VTRVI7CiAgICAgICAgICAgIH0KCiAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkc3R1ZGVudENyZWF0ZUZyb20gPSAkc3R1ZGVudC0+Y3JlYXRlX2Zyb207Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICR1c2VycyA9ICRzdHVkZW50LT51c2VyczsKICAgICAgICAgICAgJGNhbkF1dG9CaW5kID0gU3R1ZGVudEZhbWlseVJlY29tbWVuZE1hbmFnZXI6OmNhbkF1dG9CaW5kKCR1c2Vycyk7CiAgICAgICAgICAgIHJldHVybiAkY2FuQXV0b0JpbmQgPyBTdHVkZW50UHJvZmlsZVN0YXR1czo6SElOVF9VU0VSX0FVVE9fQklORCA6IFN0dWRlbnRQcm9maWxlU3RhdHVzOjpISU5UX1VTRVJfTk9UX0JJTkQ7</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>if ($hadRecommendInfo) {
                 return StudentProfile::
             }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHVkZW50RmFtaWx5UmVjb21tZW5kTWFuYWdlcjo6Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">JGNvdW50T2ZVc2VySGFzU3R1ZGVudCA9IDA7CiAgICAgICAgJHVzZXJzLT5lYWNoKGZ1bmN0aW9uIChVc2VyICR1c2VyKSB1c2UgKCYkY291bnRPZlVzZXJIYXNTdHVkZW50LCAmJHN0dSkgewogICAgICAgICAgICBpZiAoJHVzZXItPnN0dWRlbnRzLT5jb3VudCgpID4gMCkgewogICAgICAgICAgICAgICAgJGNvdW50T2ZVc2VySGFzU3R1ZGVudCsrOwogICAgICAgICAgICAgICAgJHN0dSA9ICR1c2VyLT5zdHVkZW50OwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">JHN0dWRlbnQgPSBudWxsOwogICAgICAgICRjb3VudCA9IDA7CiAgICAgICAgJHVzZXJzLT5lYWNoKGZ1bmN0aW9uIChVc2VyICR1c2VyLCAkXykgdXNlICgmJHN0dWRlbnQsICYkY291bnQpIHsKICAgICAgICAgICAgJHN0dSA9ICR1c2VyLT5zdHVkZW50OwogICAgICAgICAgICBpZiAoJHN0dSkgewogICAgICAgICAgICAgICAgJHN0dWRlbnQgPSAkc3R1OwogICAgICAgICAgICAgICAgJGNvdW50Kys7CiAgICAgICAgICAgIH0KICAgICAgICB9KTs=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKCRjb3VudE9mVXNlckhhc1N0dWRlbnQgPT0gMSAmJiAkc3R1LT51c2VycygpLT5jb3VudCgpID4gMSkgewogICAgICAgICAgICByZXR1cm4gbmV3IENvbGxlY3Rpb24oKTsKICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>358</text>
