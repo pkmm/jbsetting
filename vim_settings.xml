@@ -45,10 +45,11 @@
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_04_144722_AlterStudentsTableAddTypeField.php" timestamp="1546584774529">
         <mark key="[" line="14" column="9" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Http/web_routes.php" timestamp="1547025158306">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/web_routes.php" timestamp="1547029840120">
         <mark key="[" line="117" column="1" />
-        <mark key="]" line="117" column="1" />
-        <mark key="." line="117" column="1" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="115" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Exercise/EstimateLearningProgressManager.php" timestamp="1546934200340" />
       <file name="D:/aizuoye_pc_v21/server/php/_ide_helper.php" timestamp="1547022132807" />
@@ -72,14 +73,15 @@
       <file name="D:/aizuoye_pc_v21/server/php/.env.stage" timestamp="1547024487477">
         <mark key="[" line="58" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Http/Controllers/QrCodeController.php" timestamp="1547027960631">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="61" />
-        <mark key="." line="19" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/Controllers/QrCodeController.php" timestamp="1547029763760">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1547023806806">
         <mark key="[" line="505" column="10" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/Controllers/WelcomeController.php" timestamp="1547029690330" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1547022667428">
         <mark key="'" line="24" column="41" />
         <mark key="]" line="25" column="0" />
@@ -208,7 +210,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFFSQ29kZU1hbmFnZXI6OmRlY29kZVFyQ29kZVVSTCgkZnVsbFVybCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlldygnYWJvdXR1cy5BYm91dFVzUGhvbmUnKTsK</text>
       </register>
       <register name="-" type="4">
         <text>oute::any('/', 'QrCodeController@studentProfileQrCode');</text>
@@ -220,36 +222,36 @@
         <text encoding="base64">ICAgICAgICAkc3R1ZGVudFByb2ZpbGVNb2RlbC0+cXJDb2RlID0gc2VsZjo6Z2V0U3R1ZGVudFByb2ZpbGVRckNvZGUoJHN0dWRlbnQpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlldygnYWJvdXR1cy5BYm91dFVzUGhvbmUnKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFtdOwo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">JGNhdGVnb3J5ID0gJGRhdGFbJ2NhdGVnb3J5J107CiAgICAgICAgJGdyb3VwID0gJGRhdGFbJ2dyb3VwJ107CiAgICAgICAgaWYgKCRjYXRlZ29yeSA9PSBRckNvZGVDYXRlZ29yeUFuZEdyb3VwOjpDQVRFR09SWV9TVFVERU5UX1BST0ZJTEUKICAgICAgICAgICAgJiYgJGdyb3VwID09IFFyQ29kZUNhdGVnb3J5QW5kR3JvdXA6OkdST1VQX1NUVURFTlRfUFJPRklMRSkgewogICAgICAgICAgICByZXR1cm4gdmlldygncGFnZS5zdHVkZW50c0ZpbGVzJyk7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkZGF0YSA9IFFSQ29kZU1hbmFnZXI6OmRlY29kZVFyQ29kZVVSTCgkZnVsbFVybCk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Zm9yZWFjaCAoJHRhZ3MgYXMgJHRhZykgewogICAgICAgICAgICAkc3R1ZGVudE5hbWUgPSAkdGFnLT52YWx1ZTsKICAgICAgICAgICAgJHVzZXJJZCA9ICR0YWctPnVzZXJfaWQ7CiAgICAgICAgICAgICR1c2VyID0gVXNlck1hbmFnZXI6OmdldFVzZXJCeUlkKCR1c2VySWQpOwogICAgICAgICAgICBpZiAoISR1c2VyKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICAkc3RhdHVzID0gU3R1ZGVudFByb2ZpbGVNYW5hZ2VyOjpjcmVhdGVTdHVkZW50UHJvZmlsZUJ5U3R1ZGVudE5hbWUoJHVzZXIsICRzdHVkZW50TmFtZSk7CiAgICAgICAgICAgICRzdGF0dXMgJiYgJHRoaXMtPmluZm8oJ2NyZWF0ZWQgc3R1ZGVudCB3aXRoIG5hbWUgOiAnIC4gJHN0dWRlbnROYW1lIC4gJywgdXNlcklkOiAnIC4gJHVzZXJJZCk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBsaXN0KCRyZWNvcmQsICRyZWNvbW1lbmRNZW1iZXJDb3VudCkgPSBTdHVkZW50RmFtaWx5UmVjb21tZW5kTWFuYWdlcjo6Z2V0UmVjb21tZW5kSW5mbygkdXNlcklkKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>if ($record) {
             $
         }</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>$users = self::getStudentFamilies($student);
             $canAutoBind = StudentFamilyRecommendManager::canAutoBind($users);</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>else {
             return StudentProfileStatus::DONT_HINT_USER;
         }</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGlmICgkc3R1ZGVudENyZWF0ZUZyb20gPT0gU3R1ZGVudDo6Q1JFQVRFX0ZST01fVVNFUikgewogICAgICAgICAgICByZXR1cm4gU3R1ZGVudFByb2ZpbGVTdGF0dXM6OkRPTlRfSElOVF9VU0VSOwogICAgICAgIH0KCiAgICAgICAgaWYgKCRzdHVkZW50Q3JlYXRlRnJvbSA9PSBTdHVkZW50OjpDUkVBVEVfRlJPTV9TRVJWRVJfUkVDT01NRU5EKSB7CiAgICAgICAgICAgICRyZWNvcmQgPSBSZWNvbW1lbmRTdHVkZW50RmFtaWx5Ojp3aGVyZVVzZXJJZCgkdXNlcklkKS0+Zmlyc3QoKTsKICAgICAgICAgICAgaWYgKCEkcmVjb3JkIHx8ICRyZWNvcmQtPmlzX3F1aXQpIHsKICAgICAgICAgICAgICAgIHJldHVybiBTdHVkZW50UHJvZmlsZVN0YXR1czo6RE9OVF9ISU5UX1VTRVI7CiAgICAgICAgICAgIH0KCiAgICAgICAgfQ==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkc3R1ZGVudENyZWF0ZUZyb20gPSAkc3R1ZGVudC0+Y3JlYXRlX2Zyb207Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICR1c2VycyA9ICRzdHVkZW50LT51c2VyczsKICAgICAgICAgICAgJGNhbkF1dG9CaW5kID0gU3R1ZGVudEZhbWlseVJlY29tbWVuZE1hbmFnZXI6OmNhbkF1dG9CaW5kKCR1c2Vycyk7CiAgICAgICAgICAgIHJldHVybiAkY2FuQXV0b0JpbmQgPyBTdHVkZW50UHJvZmlsZVN0YXR1czo6SElOVF9VU0VSX0FVVE9fQklORCA6IFN0dWRlbnRQcm9maWxlU3RhdHVzOjpISU5UX1VTRVJfTk9UX0JJTkQ7</text>
       </register>
       <register name=":" type="4">
         <text>358</text>
