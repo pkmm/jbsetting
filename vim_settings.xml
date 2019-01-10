@@ -141,7 +141,7 @@
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_04_144722_AlterStudentsTableAddTypeField.php" timestamp="1546584774529">
         <mark key="[" line="14" column="9" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Jobs/SetUserTagTask.php" timestamp="1547107560098">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Jobs/SetUserTagTask.php" timestamp="1547120745117">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -209,7 +209,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1547116210894">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1547120779365">
         <mark key="[" line="511" column="25" />
         <mark key="]" line="512" column="0" />
         <mark key="^" line="509" column="30" />
@@ -254,7 +254,7 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1547119149921">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1547120676279">
         <mark key="[" line="174" column="0" />
         <mark key="]" line="175" column="49" />
         <mark key="." line="175" column="0" />
