@@ -41,6 +41,9 @@
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_04_144722_AlterStudentsTableAddTypeField.php" timestamp="1546584774529">
         <mark key="[" line="14" column="9" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Jobs/SetUserTagTask.php" timestamp="1547101765546">
+        <mark key="[" line="32" column="77" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/web_routes.php" timestamp="1547034305553">
         <mark key="[" line="115" column="31" />
         <mark key="]" line="115" column="31" />
@@ -54,11 +57,12 @@
         <mark key="[" line="50" column="67" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1547024482015" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1547098648794">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1547102793824">
         <mark key="a" line="93" column="17" />
-        <mark key="[" line="322" column="74" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="328" column="4" />
+        <mark key="." line="328" column="4" />
+        <mark key="^" line="328" column="4" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1546569394318">
         <mark key="[" line="70" column="22" />
@@ -71,7 +75,7 @@
       <file name="/Dummy.txt" timestamp="1547024733539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1547036558776">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1547102577933">
         <mark key="[" line="777" column="9" />
         <mark key="]" line="778" column="0" />
         <mark key="." line="778" column="0" />
@@ -114,7 +118,7 @@
         <mark key="[" line="70" column="78" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/UserSchoolGrade.php" timestamp="1546933644999" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1547094712373">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1547102201257">
         <mark key="[" line="170" column="27" />
         <mark key="]" line="170" column="27" />
         <mark key="." line="170" column="27" />
@@ -223,8 +227,8 @@
       <jump line="346" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">U3R1ZGVudFVzZXI6OndoZXJlVXNlcklkKCR1c2VyLT5pZCktPndoZXJlU3R1ZGVudElkKCRzdHVkZW50LT5pZCktPmZpcnN0KCk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">U3R1ZGVudFVzZXI6OndoZXJlVXNlcklkKCR1c2VyLT5pZCktPndoZXJlU3R1ZGVudElkKCRzdHVkZW50LT5pZCktPmZpcnN0KCk7</text>
@@ -235,35 +239,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yQWRkVXNlcnNUb1N0dWRlbnRGYW1pbHlGYWlsZWQoKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">JHByZXBhcmVJbnNlcnREYXRhID0gW107CiAgICAgICAgZm9yZWFjaCAoJHVzZXJzIGFzICR1c2VyKSB7CiAgICAgICAgICAgICRwcmVwYXJlSW5zZXJ0RGF0YVtdID0gWwogICAgICAgICAgICAgICAgJ3VzZXJfaWQnID0+ICR1c2VyLT5pZCwKICAgICAgICAgICAgICAgICdzdHVkZW50X2lkJyA9PiAkc3R1ZGVudC0+aWQsCiAgICAgICAgICAgICAgICAncmVsYXRpb25fcm9sZV9pZCcgPT4gVXNlclJvbGU6Ok5PTkUsCiAgICAgICAgICAgIF07CiAgICAgICAgfQoKICAgICAgICBEQjo6dGFibGUoJ3N0dWRlbnRfdXNlcnMnKS0+aW5zZXJ0KCRwcmVwYXJlSW5zZXJ0RGF0YSk7</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcnMpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1lbWJlcnMpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJ3MnKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcnMtPnRvQXJyYXkoKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkY291bnQgPSAkc3R1ZGVudHMtPmNvdW50KCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICRzdHUgPSAkc3R1ZGVudHMtPmZpcnN0KCk7CiAgICAgICAgJGNvdW50ID0gJHN0dWRlbnRzLT5jb3VudCgpOw==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ly8gICAgICAgICRzdHVkZW50Q3JlYXRlRnJvbSA9ICRzdHVkZW50LT5jcmVhdGVfZnJvbTsKLy8gICAgICAgIGlmICgkc3R1ZGVudENyZWF0ZUZyb20gPT0gU3R1ZGVudDo6Q1JFQVRFX0ZST01fVVNFUikgewovLyAgICAgICAgICAgIHJldHVybiBTdHVkZW50UHJvZmlsZVN0YXR1czo6RE9OVF9ISU5UX1VTRVI7Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICBpZiAoJHN0dWRlbnRDcmVhdGVGcm9tID09IFN0dWRlbnQ6OkNSRUFURV9GUk9NX1NFUlZFUl9SRUNPTU1FTkQpIHs=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">JHByZXBhcmVJbnNlcnREYXRhID0gW107CiAgICAgICAgZm9yZWFjaCAoJHVzZXJzIGFzICR1c2VyKSB7CiAgICAgICAgICAgICRwcmVwYXJlSW5zZXJ0RGF0YVtdID0gWwogICAgICAgICAgICAgICAgJ3VzZXJfaWQnID0+ICR1c2VyLT5pZCwKICAgICAgICAgICAgICAgICdzdHVkZW50X2lkJyA9PiAkc3R1ZGVudC0+aWQsCiAgICAgICAgICAgICAgICAncmVsYXRpb25fcm9sZV9pZCcgPT4gVXNlclJvbGU6Ok5PTkUsCiAgICAgICAgICAgIF07CiAgICAgICAgfQoKICAgICAgICBEQjo6dGFibGUoJ3N0dWRlbnRfdXNlcnMnKS0+aW5zZXJ0KCRwcmVwYXJlSW5zZXJ0RGF0YSk7</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcnMpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1lbWJlcnMpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ3MnKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcnMtPnRvQXJyYXkoKSk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkY291bnQgPSAkc3R1ZGVudHMtPmNvdW50KCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>358</text>
+        <text>268</text>
       </register>
     </registers>
     <search>
@@ -317,8 +321,8 @@
         <entry>141</entry>
         <entry>146</entry>
         <entry>367</entry>
-        <entry>268</entry>
         <entry>358</entry>
+        <entry>268</entry>
       </history-cmd>
       <history-expr />
       <history-input />
