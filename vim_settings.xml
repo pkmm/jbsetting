@@ -7,9 +7,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1547036684175">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Tag/Constants/UserTagIds.php" timestamp="1546929587372" />
       <file name="D:/aizuoye_mall/server/php/database/migrations/2018_12_29_133303_create_tmp_bind_user_info_table.php" timestamp="1546061606593">
@@ -54,11 +54,11 @@
         <mark key="[" line="50" column="67" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1547024482015" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1547039365926">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1547084482709">
         <mark key="a" line="93" column="17" />
-        <mark key="[" line="101" column="12" />
-        <mark key="]" line="101" column="12" />
-        <mark key="." line="101" column="12" />
+        <mark key="[" line="335" column="8" />
+        <mark key="]" line="335" column="8" />
+        <mark key="." line="335" column="8" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1546569394318">
         <mark key="[" line="70" column="22" />
@@ -80,7 +80,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1547039271895">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1547084386230">
         <mark key="[" line="712" column="0" />
         <mark key="]" line="713" column="18" />
         <mark key="." line="713" column="0" />
@@ -221,7 +221,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHVzZXJJZCA9ICR1c2VyLT5pZDsKICAgICAgICAgICAgJHVzZXJSb2xlID0gVXNlclRhZ01hbmFnZXI6OmdldFRhZygkdXNlcklkLCBVc2VyVGFnSWRzOjpUQUdfSURfVVBEQVRFX1VTRVJfUk9MRSk7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBEQjo6dHJhbnNhY3Rpb24oZnVuY3Rpb24gKCkgdXNlICgkdXNlciwgJHN0dWRlbnROYW1lLCAkdXNlclJvbGUpIHsKICAgICAgICAgICAgICAgICAgICAkc3R1ZGVudCA9IG5ldyBTdHVkZW50KCk7CiAgICAgICAgICAgICAgICAgICAgJHN0dWRlbnQtPm5hbWUgPSAkc3R1ZGVudE5hbWU7CiAgICAgICAgICAgICAgICAgICAgJHN0dWRlbnQtPnNhdmUoKTsKCiAgICAgICAgICAgICAgICAgICAgJHN0dWRlbnRVc2VyID0gbmV3IFN0dWRlbnRVc2VyKCk7CiAgICAgICAgICAgICAgICAgICAgJHN0dWRlbnRVc2VyLT51c2VyX2lkID0gJHVzZXItPmlkOwogICAgICAgICAgICAgICAgICAgICRzdHVkZW50VXNlci0+c3R1ZGVudF9pZCA9ICRzdHVkZW50LT5pZDsKICAgICAgICAgICAgICAgICAgICAkc3R1ZGVudFVzZXItPnJlbGF0aW9uX3JvbGVfaWQgPSAkdXNlclJvbGUgPyAkdXNlclJvbGUtPnZhbHVlIDogVXNlclJvbGU6Ok5PTkU7CiAgICAgICAgICAgICAgICAgICAgJHN0dWRlbnRVc2VyLT5zYXZlKCk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9IGNhdGNoIChcVGhyb3dhYmxlICRlKSB7CiAgICAgICAgICAgICAgICBMb2c6OmVycm9yKCdjcmVhdGUgc3R1ZGVudCBwcm9maWxlIGJ5IHN0dWRlbnQgbmFtZSBmYWlsZWQsIHJlYXNvbjogJyAuICRlLT5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9</text>
+        <text>if (TeacherManager::isTeacher($user)) {
+            return false;
+        }</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -233,39 +235,41 @@
         <text encoding="base64">ICAgICAgICAgICAgJHVzZXJSb2xlID0gVXNlclRhZ01hbmFnZXI6OmdldFRhZygkdXNlci0+aWQsIFVzZXJUYWdJZHM6OlRBR19JRF9VUERBVEVfVVNFUl9ST0xFKTsK</text>
       </register>
       <register name="1" type="4">
+        <text>if (TeacherManager::isTeacher($user)) {
+            return false;
+        }</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">JHVzZXJJZCA9ICR1c2VyLT5pZDsKICAgICAgICAgICAgJHVzZXJSb2xlID0gVXNlclRhZ01hbmFnZXI6OmdldFRhZygkdXNlcklkLCBVc2VyVGFnSWRzOjpUQUdfSURfVVBEQVRFX1VTRVJfUk9MRSk7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBEQjo6dHJhbnNhY3Rpb24oZnVuY3Rpb24gKCkgdXNlICgkdXNlciwgJHN0dWRlbnROYW1lLCAkdXNlclJvbGUpIHsKICAgICAgICAgICAgICAgICAgICAkc3R1ZGVudCA9IG5ldyBTdHVkZW50KCk7CiAgICAgICAgICAgICAgICAgICAgJHN0dWRlbnQtPm5hbWUgPSAkc3R1ZGVudE5hbWU7CiAgICAgICAgICAgICAgICAgICAgJHN0dWRlbnQtPnNhdmUoKTsKCiAgICAgICAgICAgICAgICAgICAgJHN0dWRlbnRVc2VyID0gbmV3IFN0dWRlbnRVc2VyKCk7CiAgICAgICAgICAgICAgICAgICAgJHN0dWRlbnRVc2VyLT51c2VyX2lkID0gJHVzZXItPmlkOwogICAgICAgICAgICAgICAgICAgICRzdHVkZW50VXNlci0+c3R1ZGVudF9pZCA9ICRzdHVkZW50LT5pZDsKICAgICAgICAgICAgICAgICAgICAkc3R1ZGVudFVzZXItPnJlbGF0aW9uX3JvbGVfaWQgPSAkdXNlclJvbGUgPyAkdXNlclJvbGUtPnZhbHVlIDogVXNlclJvbGU6Ok5PTkU7CiAgICAgICAgICAgICAgICAgICAgJHN0dWRlbnRVc2VyLT5zYXZlKCk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9IGNhdGNoIChcVGhyb3dhYmxlICRlKSB7CiAgICAgICAgICAgICAgICBMb2c6OmVycm9yKCdjcmVhdGUgc3R1ZGVudCBwcm9maWxlIGJ5IHN0dWRlbnQgbmFtZSBmYWlsZWQsIHJlYXNvbjogJyAuICRlLT5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHVzZXJSb2xlID0gVXNlclRhZ01hbmFnZXI6OmdldFRhZygkdXNlci0+aWQsIFVzZXJUYWdJZHM6OlRBR19JRF9VUERBVEVfVVNFUl9ST0xFKTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIERCOjp0cmFuc2FjdGlvbihmdW5jdGlvbiAoKSB1c2UgKCR1c2VyLCAkc2Nob29sLCAkdXNlclJvbGUpIHsKICAgICAgICAgICAgICAgICAgICAkc3R1ZGVudCA9IG5ldyBTdHVkZW50KCk7CiAgICAgICAgICAgICAgICAgICAgJHN0dWRlbnQtPnNjaG9vbF9pZCA9ICRzY2hvb2wtPnNjaG9vbF9pZDsKICAgICAgICAgICAgICAgICAgICAkc3R1ZGVudC0+c2F2ZSgpOwoKICAgICAgICAgICAgICAgICAgICAkc3R1ZGVudFVzZXIgPSBuZXcgU3R1ZGVudFVzZXIoKTsKICAgICAgICAgICAgICAgICAgICAkc3R1ZGVudFVzZXItPnN0dWRlbnRfaWQgPSAkc3R1ZGVudC0+aWQ7CiAgICAgICAgICAgICAgICAgICAgJHN0dWRlbnRVc2VyLT51c2VyX2lkID0gJHVzZXItPmlkOwogICAgICAgICAgICAgICAgICAgICRzdHVkZW50VXNlci0+cmVsYXRpb25fcm9sZV9pZCA9ICR1c2VyUm9sZSA/ICR1c2VyUm9sZS0+dmFsdWUgOiBVc2VyUm9sZTo6Tk9ORTsKICAgICAgICAgICAgICAgICAgICAkc3R1ZGVudFVzZXItPnNhdmUoKTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0gY2F0Y2ggKFxUaHJvd2FibGUgJGUpIHsKICAgICAgICAgICAgICAgIExvZzo6ZXJyb3IoJ2NyZWF0ZSBzdHVkZW50IGJ5IHNjaG9vbCBpbmZvIGZhaWxlZC4gJyAuICRlLT5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgaWYgKFRlYWNoZXJNYW5hZ2VyOjppc1RlYWNoZXIoJHVzZXIpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkcG9ydHJhaXQsCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHVzZXJSb2xlID0gVXNlclRhZ01hbmFnZXI6OmdldFRhZygkdXNlci0+aWQsIFVzZXJUYWdJZHM6OlRBR19JRF9VUERBVEVfVVNFUl9ST0xFKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>if (TeacherManager::isTeacher($user)) {
             return;
         }</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>public static function createStudent(User $user, $name, $nickname, )
     {
         
     }</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>public static function createStudent(User $user, $name, $nickname, $portrait, $gender, )
     {
         
     }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkbWVtYmVyQ291bnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>358</text>
