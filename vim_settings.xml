@@ -11,6 +11,12 @@
       <file name="/a.dummy" timestamp="1547109367383">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1547113204131">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="42" column="11" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="43" column="6" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Tag/Constants/UserTagIds.php" timestamp="1546929587372" />
       <file name="D:/aizuoye_mall/server/php/database/migrations/2018_12_29_133303_create_tmp_bind_user_info_table.php" timestamp="1546061606593">
         <mark key="[" line="16" column="37" />
@@ -39,6 +45,12 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_04_144722_AlterStudentsTableAddTypeField.php" timestamp="1546584774529">
         <mark key="[" line="14" column="9" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/web_routes.php" timestamp="1547034305553">
+        <mark key="[" line="115" column="31" />
+        <mark key="]" line="115" column="31" />
+        <mark key="." line="115" column="31" />
+        <mark key="^" line="115" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/_ide_helper.php" timestamp="1547022132807" />
       <file name="D:/aizuoye_pc_v21/server/php/vendor/laravel/framework/src/Illuminate/Http/Request.php" timestamp="1547025201029" />
@@ -113,6 +125,12 @@
       <file name="/Dummy.txt" timestamp="1547109389562">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1547186484205">
+        <mark key="[" line="754" column="7" />
+        <mark key="]" line="755" column="17" />
+        <mark key="." line="755" column="17" />
+        <mark key="^" line="755" column="17" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/Controllers/WelcomeController.php" timestamp="1547029690330" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_0/UserService.php" timestamp="1546843068255">
         <mark key="[" line="206" column="0" />
@@ -121,7 +139,7 @@
         <mark key="[" line="70" column="78" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/UserSchoolGrade.php" timestamp="1546933644999" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1547184441837" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1547186680085" />
     </filemarks>
     <jumps>
       <jump line="19" column="20" filename="D:/aizuoye_mall/server/php/database/migrations/2018_11_23_142519_create_order_table.php" />
@@ -227,7 +245,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxVdGlsc1xQaG9uZVV0aWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICBEQjo6c3RhdGVtZW50KCdDT01NSVQ7IFVOTE9DSyBUQUJMRVM7Jyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>empty</text>
@@ -239,31 +257,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yQWRkVXNlcnNUb1N0dWRlbnRGYW1pbHlGYWlsZWQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxVdGlsc1xQaG9uZVV0aWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICBEQjo6c3RhdGVtZW50KCdDT01NSVQ7IFVOTE9DSyBUQUJMRVM7Jyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1vZGVsLT5waG9uZSA9IFBob25lVXRpbHM6OnBob25lRGVTZW5zaXRpdmUoJF91c2VyLT5waG9uZSk7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxVdGlsc1xQaG9uZVV0aWxzOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJG1vZGVsLT5waG9uZSA9IFBob25lVXRpbHM6OnBob25lRGVTZW5zaXRpdmUoJF91c2VyLT5waG9uZSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3N0dWRlbnRfbnVtYmVyJyA9PiAkc3R1ZGVudE51bWJlciwK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICdjbGFzc19udW1iZXInID0+ICRjbGFzc051bWJlciwKICAgICAgICAgICAgJ2NsYXNzX25hbWUnID0+ICRjbGFzc05hbWUs</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAnc2Nob29sX2lkJyA9PiAkc2Nob29sSWQsCiAgICAgICAgICAgICdlbnRyYW5jZV95ZWFyJyA9PiBDbGFzc01hbmFnZXI6OmdyYWRlMkVudHJhbmNlRGF0ZSgkZ3JhZGUpLAogICAgICAgICAgICAnY2xhc3NfbnVtYmVyJyA9PiAkY2xhc3NOdW1iZXIsCiAgICAgICAgICAgICdjbGFzc19uYW1lJyA9PiAkY2xhc3NOYW1lLAogICAgICAgICAgICAnc3R1ZGVudF9udW1iZXInID0+ICRzdHVkZW50TnVtYmVyLAogICAgICAgIF0p</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IFNjaGVtYTo6dGFibGUoJ3N0dWRlbnRfcHJvZmlsZScsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgfSk7</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgZGQgICBkZCgncycpOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">JHN0dWRlbnRQcm9maWxlID0gU3R1ZGVudFByb2ZpbGU6OmNyZWF0ZShbCiAgICAgICAgICAgICAgICAnc3R1ZGVudF9pZCcgPT4gJHN0dWRlbnQtPmlkLAogICAgICAgICAgICAgICAgJ3NjaG9vbF9pZCcgPT4gJHN0dWRlbnQtPnNjaG9vbF9pZCwKICAgICAgICAgICAgICAgICdlbnRyYW5jZV95ZWFyJyA9PiAkY2xhc3NTdHVkZW50LT5zY2hvb2xDbGFzcy0+ZW50cmFuY2VfeWVhciA/PyAkc3R1ZGVudC0+ZW50cmFuY2VfeWVhciwKICAgICAgICAgICAgICAgICdjbGFzc19udW1iZXInID0+ICRjbGFzc1N0dWRlbnQtPnNjaG9vbENsYXNzLT5jbGFzc19udW1iZXIsCiAgICAgICAgICAgICAgICAnY2xhc3NfbmFtZScgPT4gJGNsYXNzU3R1ZGVudC0+c2Nob29sQ2xhc3MtPmNsYXNzX25hbWUgPz8gJycsCiAgICAgICAgICAgICAgICAnc3R1ZGVudF9udW1iZXInID0+ICRjbGFzc1N0dWRlbnQtPnN0dWRlbnRfbnVtYmVyID8/IDAsCiAgICAgICAgICAgIF0pOw==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdHVkZW50UHJvZmlsZS0+c3R1ZGVudF9udW1iZXIgPSAkY2xhc3NTdHVkZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
