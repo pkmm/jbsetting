@@ -108,6 +108,7 @@
       <file name="D:/aizuoye_pc_v21/server/php/bootstrap/environment.php" timestamp="1547205651527" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Exercise/EstimateLearningProgressManager.php" timestamp="1546934200340" />
       <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1547205671901" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/HomepagePosterManager.php" timestamp="1547210207719" />
       <file name="D:/aizuoye_release/server/php/app/Manager/StudentProfileManager.php" timestamp="1547176262990">
         <mark key="[" line="136" column="13" />
         <mark key="]" line="136" column="13" />
@@ -132,11 +133,13 @@
         <mark key="." line="778" column="0" />
         <mark key="^" line="778" column="9" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1547210446306">
+        <mark key="'" line="745" column="27" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/Controllers/WelcomeController.php" timestamp="1547029690330" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/UserSchoolGrade.php" timestamp="1546933644999" />
     </filemarks>
     <jumps>
-      <jump line="28" column="20" filename="D:/aizuoye_mall/server/php/database/migrations/2018_11_23_142519_create_order_table.php" />
       <jump line="29" column="20" filename="D:/aizuoye_mall/server/php/database/migrations/2018_11_23_142519_create_order_table.php" />
       <jump line="94" column="0" filename="D:/aizuoye_mall/server/php/app/Utils/WeChatUtil.php" />
       <jump line="208" column="0" filename="D:/aizuoye_mall/server/php/app/Manager/OrderManager.php" />
@@ -236,6 +239,7 @@
       <jump line="333" column="93" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
       <jump line="31" column="6" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
       <jump line="0" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
+      <jump line="745" column="27" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
