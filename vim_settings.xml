@@ -17,13 +17,13 @@
         <mark key="." line="37" column="4" />
         <mark key="^" line="43" column="6" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/RedisManager.php" timestamp="1547197787324">
-        <mark key="[" line="35" column="32" />
-        <mark key="]" line="35" column="85" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="34" column="84" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/RedisManager.php" timestamp="1547200811242">
+        <mark key="[" line="558" column="4" />
+        <mark key="]" line="558" column="4" />
+        <mark key="." line="558" column="4" />
+        <mark key="^" line="32" column="84" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Tag/Constants/UserTagIds.php" timestamp="1546929587372" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Tag/Constants/UserTagIds.php" timestamp="1547200341964" />
       <file name="D:/aizuoye_mall/server/php/database/migrations/2018_12_29_133303_create_tmp_bind_user_info_table.php" timestamp="1546061606593">
         <mark key="[" line="16" column="37" />
       </file>
@@ -144,10 +144,10 @@
       <file name="/Dummy.txt" timestamp="1547109389562">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1547197652000">
-        <mark key="[" line="721" column="8" />
-        <mark key="]" line="721" column="8" />
-        <mark key="." line="721" column="8" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1547200768689">
+        <mark key="[" line="750" column="10" />
+        <mark key="]" line="750" column="10" />
+        <mark key="." line="750" column="10" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/Controllers/WelcomeController.php" timestamp="1547029690330" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1547193400565">
@@ -162,11 +162,11 @@
         <mark key="[" line="70" column="78" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/UserSchoolGrade.php" timestamp="1546933644999" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1547198575153">
-        <mark key="[" line="143" column="8" />
-        <mark key="]" line="143" column="71" />
-        <mark key="." line="143" column="71" />
-        <mark key="^" line="138" column="7" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1547200796240">
+        <mark key="[" line="172" column="12" />
+        <mark key="]" line="172" column="12" />
+        <mark key="^" line="137" column="7" />
+        <mark key="." line="172" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -273,10 +273,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICRzdHVkZW50LT5pZA==</text>
+        <text encoding="base64">cHVibGljIHN0YXRpYyBmdW5jdGlvbiBnZXRMb2NrKCRrZXksICR0dGwgPSA1LjApCiAgICB7CiAgICAgICAgJHZhbHVlID0gbXRfcmFuZCgxLCA5OTk5OTk5KTsKICAgICAgICAkb2sgPSBSZWRpczo6c2V0KCRrZXksICR2YWx1ZSwgWydueCcgPT4gWydleCcgPT4gJHR0bF1dKTsKICAgICAgICByZXR1cm4gJG9rOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gdW5Mb2NrKCRrZXkpCiAgICB7CiAgICAgICAgUmVkaXM6OmRlbCgka2V5KTsKICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICRzdHVkZW50LT5pZA==</text>
+        <text>RedisManager::unLock($redisKey);</text>
       </register>
       <register name="/" type="4">
         <text>signIn</text>
@@ -284,32 +284,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IExPQ0tfRk9SX0NSRUFURV9TVFVERU5UID0gc2VsZjo6VkVSU0lPTiAuICdob21ld29yazpsb2NrOmNyZWF0ZVN0dWRlbnQ6JXMnOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">cHVibGljIHN0YXRpYyBmdW5jdGlvbiBnZXRMb2NrKCRrZXksICR0dGwgPSA1LjApCiAgICB7CiAgICAgICAgJHZhbHVlID0gbXRfcmFuZCgxLCA5OTk5OTk5KTsKICAgICAgICAkb2sgPSBSZWRpczo6c2V0KCRrZXksICR2YWx1ZSwgWydueCcgPT4gWydleCcgPT4gJHR0bF1dKTsKICAgICAgICByZXR1cm4gJG9rOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gdW5Mb2NrKCRrZXkpCiAgICB7CiAgICAgICAgUmVkaXM6OmRlbCgka2V5KTsKICAgIH0=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">JGtleSA9ICcnOwogICAgICAgIGZvcmVhY2ggKCR1c2VycyBhcyAkdXNlcikgewogICAgICAgICAgICAka2V5IC49ICdfJyAuJHVzZXItPmlkOwogICAgICAgIH0KICAgICAgICAkcmVkaXNLZXkgPSBzcHJpbnRmKFJlZGlzTWFuYWdlcjo6TE9DS19GT1JfQklORF9TVFVERU5UX0ZBTUlMWSwgJHN0dWRlbnQtPmlkKTsKICAgICAgICAkb2sgPSBSZWRpc01hbmFnZXI6OmdldExvY2soJHJlZGlzS2V5KTsKICAgICAgICBpZiAoISRvaykgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQ==</text>
+        <text>const LOCK_FOR_CREATE_STUDENT = self::VERSION . 'homework:lock:createStudent:%s';
+    const LOCK_FOR_BIND_STUDENT_FAMILY = self::VERSION . 'homework:lock:bindStudentFamily:%s';</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkb2sgPSBSZWRpc01hbmFnZXI6OmdldExvY2soc3ByaW50ZihSZWRpc01hbmFnZXI6OkxPQ0tfRk9SX0JJTkRfU1RVREVOVF9GQU1JTFksICQpKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">JHVzZXJJZHMgPSBbXTsKICAgICAgICBmb3JlYWNoICgkdXNlcnMgYXMgJHVzZXIpIHsKICAgICAgICAgICAgJHVzZXJJZHNbXSA9ICR1c2VyLT5pZDsKICAgICAgICB9CiAgICAgICAgc29ydCgkdXNlcklkcyk7CiAgICAgICAgJHJlZGlzS2V5ID0gc3ByaW50ZihSZWRpc01hbmFnZXI6OkxPQ0tfRk9SX0JJTkRfU1RVREVOVF9GQU1JTFksIGltcGxvZGUoJ18nLCAkdXNlcklkcykpOwogICAgICAgICRvayA9IFJlZGlzTWFuYWdlcjo6Z2V0TG9jaygkcmVkaXNLZXkpOwogICAgICAgIGlmICghJG9rKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0TG9jaygka2V5LCAkdmFsdWUsICR0dGwgPSA1LjApCg==</text>
+      <register name="4" type="4">
+        <text>finally {
+            RedisManager::unLock($redisKey);
+        }</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">JHZhbHVlID0gbXRfcmFuZCgxLCA5OTk5OTk5KTsKICAgICAgICAkb2sgPSBSZWRpczo6c2V0KCRyZWRpc0tleSwgJHZhbHVlLCBbJ254JyA9PiBbJ2V4JyA9PiA1LjBdXSk7</text>
+        <text encoding="base64">JHJlZGlzS2V5ID0gc3ByaW50ZihSZWRpc01hbmFnZXI6OkxPQ0tfRk9SX0NSRUFURV9TVFVERU5ULCAkdXNlci0+aWQpOwogICAgICAgICRvayA9IFJlZGlzTWFuYWdlcjo6Z2V0TG9jaygkcmVkaXNLZXkpOwogICAgICAgIGlmICghJG9rKSB7IC8vILvxyKHL+MqnsNwKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6cmF3KCdVTkxPQ0sgVEFCTEVTOyBzZXQgQVVUT0NPTU1JVD0xOycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6YmVnaW5UcmFuc2FjdGlvbigpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">JGtleSA9ICcnOwogICAgICAgIGZvcmVhY2ggKCR1c2VycyBhcyAkdXNlcikgewogICAgICAgICAgICAka2V5IC49ICdfJyAuJHVzZXItPmlkOwogICAgICAgIH0KICAgICAgICAkcmVkaXNLZXkgPSBzcHJpbnRmKFJlZGlzTWFuYWdlcjo6TE9DS19GT1JfQklORF9TVFVERU5UX0ZBTUlMWSwgJHN0dWRlbnQtPmlkKTsKICAgICAgICAkb2sgPSBSZWRpc01hbmFnZXI6OmdldExvY2soJHJlZGlzS2V5KTsKICAgICAgICBpZiAoISRvaykgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6cmF3KCdzZXQgQVVUT0NPTU1JVD0wOyBMT0NLIFRBQkxFIHN0dWRlbnRfdXNlcnMgV1JJVEU7Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkb2sgPSBSZWRpc01hbmFnZXI6OmdldExvY2soc3ByaW50ZihSZWRpc01hbmFnZXI6OkxPQ0tfRk9SX0JJTkRfU1RVREVOVF9GQU1JTFksICQpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBcUmVkaXM6OnNldCgK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0TG9jaygka2V5LCAkdmFsdWUsICR0dGwgPSA1LjApCg==</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
