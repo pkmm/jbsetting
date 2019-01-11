@@ -96,6 +96,9 @@
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ExerciseManager.php" timestamp="1547214374914">
+        <mark key="'" line="1539" column="0" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1547208493035">
         <mark key="[" line="777" column="9" />
         <mark key="]" line="778" column="0" />
@@ -139,7 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="0" filename="D:/aizuoye_mall/server/php/app/Manager/OrderManager.php" />
       <jump line="78" column="3" filename="D:/aizuoye_pc_v21/server/php/app/Services/WeChatIntegralMall/SmallProgramServerService.php" />
       <jump line="1885" column="84" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-10.log" />
       <jump line="92" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" />
@@ -239,6 +241,7 @@
       <jump line="745" column="27" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" />
       <jump line="752" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" />
       <jump line="193" column="29" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" />
+      <jump line="1539" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Manager/ExerciseManager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
