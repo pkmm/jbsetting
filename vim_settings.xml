@@ -29,12 +29,13 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/HomepagePosterManager.php" timestamp="1547213282527">
         <mark key="[" line="35" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1547445671934">
-        <mark key="'" line="10" column="8" />
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="54" />
-        <mark key="." line="10" column="54" />
-        <mark key="^" line="10" column="54" />
+      <file name="D:/aizuoye_api_demo_new/server/php/app/Manager/DetectorManager.php" timestamp="1547450193116" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1547449820693">
+        <mark key="'" line="328" column="39" />
+        <mark key="[" line="328" column="52" />
+        <mark key="]" line="328" column="39" />
+        <mark key="." line="328" column="39" />
+        <mark key="^" line="328" column="39" />
       </file>
       <file name="/Dummy.txt" timestamp="1547435832663">
         <mark key="[" line="0" column="0" />
@@ -65,7 +66,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="78" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-10.log" />
       <jump line="0" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-10.log" />
       <jump line="11" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-10.log" />
       <jump line="782" column="34" filename="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" />
@@ -165,6 +165,7 @@
       <jump line="135" column="8" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
       <jump line="41" column="6" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" />
       <jump line="184" column="22" filename="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" />
+      <jump line="328" column="39" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -174,7 +175,7 @@
         <text>errorCode</text>
       </register>
       <register name="/" type="4">
-        <text>changStudentProfile</text>
+        <text>createOr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IExPQ0tfRk9SX0NSRUFURV9TVFVERU5UID0gc2VsZjo6VkVSU0lPTiAuICdob21ld29yazpsb2NrOmNyZWF0ZVN0dWRlbnQ6JXMnOwo=</text>
@@ -213,9 +214,9 @@
       </register>
     </registers>
     <search>
-      <last-search>changStudentProfile</last-search>
+      <last-search>createOr</last-search>
       <last-offset />
-      <last-pattern>changStudentProfile</last-pattern>
+      <last-pattern>createOr</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>signIn</last-substitute>
       <last-dir>1</last-dir>
@@ -223,7 +224,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHUkFORE1PVEhFUjJcPg==</entry>
         <entry encoding="base64">XDxHUkFOREZBVEhFUjJcPg==</entry>
         <entry encoding="base64">XDxURUFDSEVSXD4=</entry>
         <entry>hash</entry>
@@ -243,6 +243,7 @@
         <entry>change%</entry>
         <entry>change</entry>
         <entry>changStudentProfile</entry>
+        <entry>createOr</entry>
       </history-search>
       <history-cmd>
         <entry>419</entry>
