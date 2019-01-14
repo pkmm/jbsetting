@@ -8,8 +8,9 @@
         <mark key="." line="188" column="22" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/InvalidInviterCodeException.php" timestamp="1547435807721" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1547432836119">
-        <mark key="'" line="405" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1547457708271">
+        <mark key="'" line="406" column="0" />
+        <mark key="[" line="177" column="51" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ExerciseManager.php" timestamp="1547214374914">
         <mark key="'" line="1539" column="0" />
@@ -31,10 +32,10 @@
       </file>
       <file name="D:/aizuoye_api_demo_new/server/php/app/Manager/DetectorManager.php" timestamp="1547450193116" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1547450937254">
-        <mark key="'" line="327" column="39" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="135" column="59" />
-        <mark key="." line="134" column="0" />
+        <mark key="'" line="328" column="39" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="136" column="59" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1547435832663">
         <mark key="[" line="0" column="0" />
