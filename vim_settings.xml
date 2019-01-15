@@ -20,6 +20,8 @@
         <mark key="." line="779" column="0" />
         <mark key="^" line="779" column="9" />
       </file>
+      <file name="D:/aizuoye_api_demo_new/server/php/.stage.env" timestamp="1547537088471" />
+      <file name="D:/aizuoye_api_demo_new/server/php/.test.env" timestamp="1547536229639" />
       <file name="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" timestamp="1547448675279">
         <mark key="'" line="184" column="22" />
         <mark key="[" line="359" column="81" />
@@ -35,11 +37,12 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1547447680124">
         <mark key="'" line="41" column="6" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/QRCodeManager.php" timestamp="1547429877444">
-        <mark key="]" line="188" column="22" />
-        <mark key="." line="188" column="22" />
+      <file name="D:/aizuoye_api_demo_new/server/php/.env" timestamp="1547537149072">
+        <mark key="[" line="48" column="37" />
+        <mark key="]" line="47" column="54" />
+        <mark key="^" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
-      <file name="D:/aizuoye_api_demo_new/server/php/.env" timestamp="1547534738808" />
       <file name="D:/aizuoye_api_demo_new/server/php/app/Http/web_routes.php" timestamp="1547521159435">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="22" />
@@ -50,8 +53,8 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/HomepagePosterManager.php" timestamp="1547213282527">
         <mark key="[" line="35" column="0" />
       </file>
-      <file name="D:/aizuoye_api_demo_new/server/php/app/Manager/DetectorManager.php" timestamp="1547535142791">
-        <mark key="[" line="49" column="0" />
+      <file name="D:/aizuoye_api_demo_new/server/php/app/Manager/DetectorManager.php" timestamp="1547536476293">
+        <mark key="[" line="106" column="48" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
@@ -63,6 +66,10 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1547465163146">
         <mark key="[" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="D:/aizuoye_api_demo_new/server/php/.prod.env" timestamp="1547536053448">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="53" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1547457708271">
         <mark key="'" line="441" column="0" />
@@ -171,8 +178,9 @@
       <jump line="328" column="39" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGV0ZWN0UmVzdWx0KTsK</text>
+      <register name="&quot;" type="4">
+        <text>ENGINE_MATH_URL=http://engine-paper.aizuoye100.com:5005
+ENGINE_YYT_URL=http://engine-paper.aizuoye100.com:5003</text>
       </register>
       <register name="-" type="4">
         <text>mini_program_path</text>
@@ -181,7 +189,8 @@
         <text>createOr</text>
       </register>
       <register name="0" type="4">
-        <text />
+        <text>ENGINE_MATH_URL=http://engine-paper.aizuoye100.com:5005
+ENGINE_YYT_URL=http://engine-paper.aizuoye100.com:5003</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkZGV0ZWN0UmVzdWx0KTsK</text>
