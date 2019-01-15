@@ -24,9 +24,9 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="24" column="53" />
       </file>
-      <file name="D:/aizuoye_api_demo_new/server/php/.test.env" timestamp="1547540707654">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="21" column="13" />
+      <file name="D:/aizuoye_api_demo_new/server/php/.test.env" timestamp="1547543266599">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="29" column="47" />
       </file>
       <file name="D:/aizuoye_mall/server/php/app/Manager/UserManager.php" timestamp="1547448675279">
         <mark key="'" line="184" column="22" />
@@ -43,10 +43,10 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1547447680124">
         <mark key="'" line="41" column="6" />
       </file>
-      <file name="D:/aizuoye_api_demo_new/server/php/.env" timestamp="1547541751216">
-        <mark key="[" line="53" column="14" />
-        <mark key="]" line="53" column="14" />
-        <mark key="." line="53" column="14" />
+      <file name="D:/aizuoye_api_demo_new/server/php/.env" timestamp="1547543280475">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="D:/aizuoye_api_demo_new/server/php/app/Http/web_routes.php" timestamp="1547521159435">
         <mark key="[" line="6" column="5" />
@@ -183,8 +183,8 @@
       <jump line="328" column="39" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CgojbWF0aCBzZGs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -194,43 +194,43 @@
       </register>
       <register name="0" type="4">
         <text>#math sdk
-DETECTOR_SERVER=mathsdk-stg.zuoye.ai:80
+DETECTOR_SERVER=mathsdk-test.zuoye.ai:80
 CALL_YYT=true
 
 # 试卷图片的保存路径
-IMAGE_SAVE_PATH=/var/local/paper-api/data
+IMAGE_SAVE_PATH=/var/local/paper-api
 
-ENGINE_MATH_URL=http://engine-paper.aizuoye100.com:5005
-ENGINE_YYT_URL=http://engine-paper.aizuoye100.com:5003</text>
+ENGINE_MATH_URL=http://10.35.1.88:5005
+ENGINE_YYT_URL=http://10.35.1.71:5003
+
+STATIC_HOST=http://paper-api-test.aizuoye100.com</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgojbWF0aCBzZGs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyDK1L7tzbzGrLXEsaO05sK3vrYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SU1BR0VfU0FWRV9QQVRIPS92YXIvbG9jYWwvcGFwZXItYXBpL2RhdGEK</text>
+        <text encoding="base64">IyDK1L7tzbzGrLXEsaO05sK3vrYK</text>
       </register>
-      <register name="4" type="4">
-        <text>DETECTOR_SERVER=mathsdk-test.zuoye.ai:80
-CALL_YYT=true</text>
+      <register name="4" type="2">
+        <text encoding="base64">SU1BR0VfU0FWRV9QQVRIPS92YXIvbG9jYWwvcGFwZXItYXBpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">I0VOR0lORV9ZWVRfVVJMPWh0dHA6Ly8xMC4zNS4xLjcxOjUwMDMK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CkVOR0lORV9NQVRIX1VSTD1odHRwOi8vMTAuMzUuMS44ODo1MDA1CkVOR0lORV9ZWVRfVVJMPWh0dHA6Ly8xMC4zNS4xLjcxOjUwMDMKREVURUNUT1JfU0VSVkVSPW1hdGhzZGstdGVzdC56dW95ZS5haTo4MApDQUxMX1lZVD10cnVl</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">I0VOR0lORV9NQVRIX1VSTD1odHRwOi8vMTAuMzUuMS44ODo1MDA1Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CgojbWF0aCBzZGs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I0VOR0lORV9ZWVRfVVJMPWh0dHA6Ly9lbmdpbmUtcGFwZXIuYWl6dW95ZTEwMC5jb206NTAwMwo=</text>
+        <text encoding="base64">IyDK1L7tzbzGrLXEsaO05sK3vrYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I0VOR0lORV9NQVRIX1VSTD1odHRwOi8vZW5naW5lLXBhcGVyLmFpenVveWUxMDAuY29tOjUwMDUK</text>
+        <text encoding="base64">SU1BR0VfU0FWRV9QQVRIPS92YXIvbG9jYWwvcGFwZXItYXBpL2RhdGEK</text>
       </register>
       <register name="9" type="4">
-        <text>#DETECTOR_SERVER=mathsdk-stg-pub.zuoye.ai:10001
-DETECTOR_SERVER=mathsdk-test.zuoye.ai:80
+        <text>DETECTOR_SERVER=mathsdk-test.zuoye.ai:80
 CALL_YYT=true</text>
       </register>
       <register name=":" type="4">
