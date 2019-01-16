@@ -73,10 +73,11 @@
         <mark key="]" line="72" column="56" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1547618565832">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1547626101906">
         <mark key="'" line="64" column="21" />
-        <mark key="[" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="317" column="36" />
+        <mark key="]" line="317" column="36" />
+        <mark key="." line="317" column="36" />
       </file>
       <file name="D:/aizuoye_api_demo_new/server/php/.prod.env" timestamp="1547536053448">
         <mark key="[" line="23" column="0" />
@@ -85,6 +86,7 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1547457708271">
         <mark key="'" line="441" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Model/SchoolClass.php" timestamp="1547626118126" />
     </filemarks>
     <jumps>
       <jump line="11" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-10.log" />
@@ -189,11 +191,11 @@
       <jump line="64" column="21" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKCRyZXN1bHRzLCAkZGV0ZWN0UmVzdWx0LT5nZXRZeXRSZXN1bHRzKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHVzZXItPmFwcF9zZXJ2ZXJfdXNlcl9pZA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
