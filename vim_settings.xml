@@ -83,10 +83,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="53" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Model/SchoolClassTeacher.php" timestamp="1547629886108" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1547457708271">
         <mark key="'" line="441" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/SchoolClass.php" timestamp="1547626118126" />
+      <file name="D:/aizuoye_pc_v21/server/php/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1547629791162" />
     </filemarks>
     <jumps>
       <jump line="11" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-10.log" />
