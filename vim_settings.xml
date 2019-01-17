@@ -56,16 +56,6 @@
       <file name="D:/aizuoye_mall/server/php/app/Console/Kernel.php" timestamp="1547603357939">
         <mark key="[" line="22" column="57" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Http/Controllers/QrCodeController.php" timestamp="1547216654449">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="D:/aizuoye_api_demo_new/server/php/.env" timestamp="1547546736875">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="D:/aizuoye_api_demo_new/client/h5/webpack.config.prod.js" timestamp="1547690141359" />
       <file name="D:/aizuoye_api_demo_new/server/php/app/Http/web_routes.php" timestamp="1547521159435">
         <mark key="[" line="6" column="5" />
@@ -74,11 +64,6 @@
       <file name="D:/aizuoye_api_demo_new/client/h5/src/utils/request.js" timestamp="1547690847379" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/User/UserInviteManager.php" timestamp="1547435535561">
         <mark key="[" line="12" column="45" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/ImportStudentGradeInfo.php" timestamp="1547465022524">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="56" />
-        <mark key="." line="72" column="0" />
       </file>
       <file name="D:/aizuoye_api_demo_new/client/h5/package.json" timestamp="1547690643688">
         <mark key="[" line="10" column="0" />
