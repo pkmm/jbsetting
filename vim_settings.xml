@@ -3,49 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_2/SchoolService.php" timestamp="1547715347286" />
-      <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2019-01-17.log" timestamp="1547715401958">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/aizuoye_mall/server/php/app/Console/Commands/BindUserWechatInfo.php" timestamp="1547603695951">
-        <mark key="[" line="65" column="54" />
-        <mark key="]" line="65" column="54" />
-        <mark key="." line="65" column="54" />
-        <mark key="^" line="49" column="19" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V1_7/SchoolService.php" timestamp="1547713697065" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Model/SchoolClassTeacher.php" timestamp="1547629886108" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" timestamp="1547796018956">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="D:/aizuoye_api_demo_new/client/h5/src/index.js" timestamp="1547690790074" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1547801589392">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/SchoolService.php" timestamp="1547715522322">
-        <mark key="[" line="21" column="9" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/User/UserInviteManager.php" timestamp="1547435535561">
-        <mark key="[" line="12" column="45" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/SchoolClass/SchoolClassMapper.php" timestamp="1547779574284" />
-      <file name="D:/aizuoye_api_demo_new/client/h5/package.json" timestamp="1547690643688">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="19" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/SchoolManager.php" timestamp="1547715158631">
-        <mark key="[" line="115" column="75" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Model/SchoolClass.php" timestamp="1547626118126" />
-      <file name="D:/aizuoye_api_demo_new/server/php/ClientAPI/Mathengine/Generated/model/YytAnswerModel.php" timestamp="1547716006299" />
       <file name="D:/aizuoye_api_demo_new/server/php/storage/logs/laravel.log" timestamp="1547722724379">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -63,7 +20,17 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="D:/aizuoye_api_demo_new/client/h5/src/services/app.js" timestamp="1547690267599" />
+      <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2019-01-17.log" timestamp="1547715401958">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/aizuoye_mall/server/php/app/Console/Commands/BindUserWechatInfo.php" timestamp="1547603695951">
+        <mark key="[" line="65" column="54" />
+        <mark key="]" line="65" column="54" />
+        <mark key="." line="65" column="54" />
+        <mark key="^" line="49" column="19" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/SchoolService.php" timestamp="1547716129490">
         <mark key="[" line="14" column="8" />
         <mark key="]" line="14" column="0" />
@@ -78,8 +45,6 @@
         <mark key="^" line="231" column="22" />
         <mark key="." line="253" column="22" />
       </file>
-      <file name="D:/aizuoye_api_demo_new/client/h5/webpack.config.js" timestamp="1547690095774" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/AdminSchoolService.php" timestamp="1547709854532" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1547795171135">
         <mark key="'" line="23" column="6" />
         <mark key="[" line="261" column="0" />
@@ -87,7 +52,11 @@
         <mark key="^" line="239" column="26" />
         <mark key="." line="239" column="26" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1547629791162" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" timestamp="1547796018956">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Jobs/AddStudentToSchoolClass.php" timestamp="1547799808561">
         <mark key="[" line="61" column="67" />
         <mark key="]" line="61" column="26" />
@@ -121,28 +90,36 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V1_5/SchoolService.php" timestamp="1547713357971" />
       <file name="D:/aizuoye_api_demo_new/server/php/.env" timestamp="1547546736875">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="D:/aizuoye_api_demo_new/client/h5/webpack.config.prod.js" timestamp="1547690141359" />
-      <file name="D:/aizuoye_api_demo_new/client/h5/src/utils/request.js" timestamp="1547690847379" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_0/SchoolService.php" timestamp="1547714859608" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/SchoolService.php" timestamp="1547715522322">
+        <mark key="[" line="21" column="9" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/User/UserInviteManager.php" timestamp="1547435535561">
+        <mark key="[" line="12" column="45" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/ImportStudentGradeInfo.php" timestamp="1547709584661">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="56" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/SyncCities.php" timestamp="1547714244773" />
-      <file name="D:/aizuoye_pc_v21/server/php/API/Generated/Portal/model/SchoolClassTeacherModel.php" timestamp="1547720312292" />
+      <file name="D:/aizuoye_api_demo_new/client/h5/package.json" timestamp="1547690643688">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="19" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/SchoolManager.php" timestamp="1547715158631">
+        <mark key="[" line="115" column="75" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/route_includer.php" timestamp="1547711370950">
         <mark key="[" line="27" column="44" />
         <mark key="]" line="27" column="44" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Model/User.php" timestamp="1547723971267" />
     </filemarks>
     <jumps>
       <jump line="1" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-11.log" />
