@@ -52,12 +52,6 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/Middleware/Authenticate.php" timestamp="1548049041709" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/ModelMapper.php" timestamp="1548051071660">
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="20" column="5" />
-      </file>
       <file name="D:/aizuoye-paper/client/h5/config.js" timestamp="1548057825037">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
@@ -68,9 +62,16 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UploadTokenManager.php" timestamp="1548059081847" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/HomeworkService.php" timestamp="1548055674112" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UploadTokenManager.php" timestamp="1548066993964">
+        <mark key="[" line="25" column="22" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/HomeworkService.php" timestamp="1548067058174" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1548054583661" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/AliyunConfig.php" timestamp="1548066809469">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1548051306545">
         <mark key="'" line="311" column="6" />
         <mark key="[" line="1106" column="41" />
@@ -211,18 +212,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Route::any('/zcc', function () {
-    dd(bcrypt('34'));
-});</text>
+        <text>UPLOAD_RESULT_PATH</text>
       </register>
       <register name="-" type="4">
-        <text>localhost:8000</text>
+        <text>UPLOAD_RESULT_PATH</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
       </register>
-      <register name="0" type="4">
-        <text>bcrypt(&quot;123456&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IFVQTE9BRF9SRVNVTFRfUEFUSCA9ICdyZXN1bHRGaWxlcyc7Cg==</text>
       </register>
       <register name="1" type="4">
         <text>Route::any('/zcc', function () {
