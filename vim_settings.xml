@@ -8,10 +8,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/ModelMapper.php" timestamp="1547806582752">
-        <mark key="[" line="89" column="62" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/ModelMapper.php" timestamp="1548038561195">
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="43" column="19" />
+        <mark key="." line="43" column="19" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_18_110320_AlertTableTeacherAddField.php" timestamp="1547792837782">
         <mark key="'" line="22" column="0" />
@@ -70,7 +70,7 @@
         <mark key="[" line="36" column="5" />
         <mark key="]" line="36" column="45" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1548035876601">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1548038570694">
         <mark key="[" line="53" column="5" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1547799053544">
@@ -230,11 +230,11 @@
       <jump line="26" column="24" filename="D:/aizuoye_pc_v21/server/php/app/Model/SchoolClass.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkbW9kZWwtPmlzT3duZXIgPSAkc2Nob29sQ2xhc3MtPnRlYWNoZXJfdXNlcl9pZCA9PSAkdXNlci0+aWQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">WyRzY2hvb2xDbGFzcy0+aWRd</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -243,40 +243,39 @@
         <text>Portal/teacher/check_and_get_teacher_info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbW9kZWwtPmlzT3duZXIgPSAkc2Nob29sQ2xhc3MtPnRlYWNoZXJfdXNlcl9pZCA9PSAkdXNlci0+aWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbW9kZWwgPSBuZXcgVGVhY2hlck1vZGVsKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbW9kZWwtPmlzT3duZXIgPSAkc2Nob29sQ2xhc3MtPnRlYWNoZXJfdXNlcl9pZCA9PSAkdXNlci0+aWQ7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkbWVzc2FnZS0+c2V0UmVzcG9uc2UoTW9kZWxNYXBwZXI6OmdldFNjaG9vbE1vZGVsKCkpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">aWYgKGlzc2V0KCRzdHVkZW50WydzdHVkZW50X25hbWUnXSwgJHN0dWRlbnRbJ3N0dWRlbnRfbnVtYmVyJ10pKSB7CiAgICAgICAgICAgICAgICAkZGJTdHVkZW50ID0gU3R1ZGVudDo6d2hlcmVOYW1lKCRzdHVkZW50WydzdHVkZW50X25hbWUnXSkKICAgICAgICAgICAgICAgICAgICAtPndoZXJlU2Nob29sSWQoJHRoaXMtPnRlYWNoZXItPnNjaG9vbF9pZCkKICAgICAgICAgICAgICAgICAgICAtPndoZXJlRW50cmFuY2VZZWFyKCRlbnRyYW5jZVllYXItPnllYXIpCiAgICAgICAgICAgICAgICAgICAgLT53aGVyZUNsYXNzTnVtYmVyKCR0aGlzLT5jbGFzc051bWJlcikKICAgICAgICAgICAgICAgICAgICAtPmZpcnN0KCk7CiAgICAgICAgICAgICAgICBpZiAoISRkYlN0dWRlbnQpIHsKICAgICAgICAgICAgICAgICAgICAkZGJTdHVkZW50ID0gU3R1ZGVudDo6Y3JlYXRlKFsKICAgICAgICAgICAgICAgICAgICAgICAgJ25hbWUnID0+ICRzdHVkZW50WydzdHVkZW50X25hbWUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3NjaG9vbF9pZCcgPT4gJHRoaXMtPnRlYWNoZXItPnNjaG9vbF9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgJ2VudHJhbmNlX3llYXInID0+ICRlbnRyYW5jZVllYXItPnllYXIsCiAgICAgICAgICAgICAgICAgICAgICAgICdjbGFzc19udW1iZXInID0+ICR0aGlzLT5jbGFzc051bWJlcgogICAgICAgICAgICAgICAgICAgIF0pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgQ2xhc3NTdHVkZW50Ojp1cGRhdGVPckNyZWF0ZShbCiAgICAgICAgICAgICAgICAgICAgJ3N0dWRlbnRfaWQnID0+ICRkYlN0dWRlbnQtPmlkLAogICAgICAgICAgICAgICAgICAgICdjbGFzc19pZCcgPT4gJHNjaG9vbENsYXNzLT5pZCwKICAgICAgICAgICAgICAgIF0sIFsKICAgICAgICAgICAgICAgICAgICAnc3R1ZGVudF9udW1iZXInID0+ICRzdHVkZW50WydzdHVkZW50X251bWJlciddCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>private function createStudent(string $studentName, int $schoolId)
     {
         
     }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>private function createStudent()
     {
         
     }</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>else {
                     
                 }</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JGJhdGNoSW5zZXJ0W10gPSBbCiAgICAgICAgICAgICAgICAgICAgJ3N0dWRlbnRfaWQnID0+ICRzdHVkZW50WydzdHVkZW50X25hbWUnXQogICAgICAgICAgICAgICAgXTs=</text>
-      </register>
       <register name="9" type="4">
-        <text>$stuNo = $student['student_number'];
-                $stuName = $student['student_name'];</text>
+        <text encoding="base64">JGJhdGNoSW5zZXJ0W10gPSBbCiAgICAgICAgICAgICAgICAgICAgJ3N0dWRlbnRfaWQnID0+ICRzdHVkZW50WydzdHVkZW50X25hbWUnXQogICAgICAgICAgICAgICAgXTs=</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
