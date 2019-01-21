@@ -8,10 +8,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/ModelMapper.php" timestamp="1548038561195">
-        <mark key="[" line="43" column="19" />
-        <mark key="]" line="43" column="19" />
-        <mark key="." line="43" column="19" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/ModelMapper.php" timestamp="1548040733999">
+        <mark key="[" line="48" column="19" />
+        <mark key="]" line="48" column="19" />
+        <mark key="." line="48" column="19" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_18_110320_AlertTableTeacherAddField.php" timestamp="1547792837782">
         <mark key="'" line="22" column="0" />
@@ -52,11 +52,12 @@
         <mark key="^" line="239" column="26" />
         <mark key="." line="239" column="26" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" timestamp="1547796018956">
-        <mark key="[" line="24" column="8" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" timestamp="1548040200035">
+        <mark key="[" line="15" column="108" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1548039529194" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Jobs/AddStudentToSchoolClass.php" timestamp="1547799808561">
         <mark key="[" line="61" column="67" />
         <mark key="]" line="61" column="26" />
@@ -70,13 +71,13 @@
         <mark key="[" line="36" column="5" />
         <mark key="]" line="36" column="45" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1548038570694">
-        <mark key="[" line="53" column="5" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1548040257095">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="72" column="69" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="26" column="66" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1547799053544">
-        <mark key="[" line="788" column="0" />
-        <mark key="]" line="779" column="0" />
-        <mark key="." line="779" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1548040832550">
         <mark key="^" line="779" column="9" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Exceptions/UserIsnotTeacherException.php" timestamp="1547720179378">
@@ -230,52 +231,50 @@
       <jump line="26" column="24" filename="D:/aizuoye_pc_v21/server/php/app/Model/SchoolClass.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gQmFzZUNvbGxlY3Rpb258Q2xhc3NTdHVkZW50W10K</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>checkAndGetTeacherInfo</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
       </register>
-      <register name="0" type="4">
-        <text>Portal/teacher/check_and_get_teacher_info</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEFUZWFjaGVyRXhjZXB0aW9uKCd1c2VyIGlzIG5vdCBhIHRlYWNoZXIuJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbW9kZWwgPSBuZXcgVGVhY2hlck1vZGVsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gQmFzZUNvbGxlY3Rpb258Q2xhc3NTdHVkZW50W10K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbW9kZWwtPmlzT3duZXIgPSAkc2Nob29sQ2xhc3MtPnRlYWNoZXJfdXNlcl9pZCA9PSAkdXNlci0+aWQ7Cg==</text>
+      <register name="2" type="4">
+        <text>public static function updateSchoolClass(UpdateSchoolClassMessage $message)
+    {
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcUG9ydGFsXHRlYWNoZXJcR2V0U2Nob29sQ2xhc3NJbmZvTWVzc2FnZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbWVzc2FnZS0+c2V0UmVzcG9uc2UoTW9kZWxNYXBwZXI6OmdldFNjaG9vbE1vZGVsKCkpOwo=</text>
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcUG9ydGFsXHRlYWNoZXJcVXBkYXRlU2Nob29sQ2xhc3NTdHVkZW50c01lc3NhZ2U7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aWYgKGlzc2V0KCRzdHVkZW50WydzdHVkZW50X25hbWUnXSwgJHN0dWRlbnRbJ3N0dWRlbnRfbnVtYmVyJ10pKSB7CiAgICAgICAgICAgICAgICAkZGJTdHVkZW50ID0gU3R1ZGVudDo6d2hlcmVOYW1lKCRzdHVkZW50WydzdHVkZW50X25hbWUnXSkKICAgICAgICAgICAgICAgICAgICAtPndoZXJlU2Nob29sSWQoJHRoaXMtPnRlYWNoZXItPnNjaG9vbF9pZCkKICAgICAgICAgICAgICAgICAgICAtPndoZXJlRW50cmFuY2VZZWFyKCRlbnRyYW5jZVllYXItPnllYXIpCiAgICAgICAgICAgICAgICAgICAgLT53aGVyZUNsYXNzTnVtYmVyKCR0aGlzLT5jbGFzc051bWJlcikKICAgICAgICAgICAgICAgICAgICAtPmZpcnN0KCk7CiAgICAgICAgICAgICAgICBpZiAoISRkYlN0dWRlbnQpIHsKICAgICAgICAgICAgICAgICAgICAkZGJTdHVkZW50ID0gU3R1ZGVudDo6Y3JlYXRlKFsKICAgICAgICAgICAgICAgICAgICAgICAgJ25hbWUnID0+ICRzdHVkZW50WydzdHVkZW50X25hbWUnXSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3NjaG9vbF9pZCcgPT4gJHRoaXMtPnRlYWNoZXItPnNjaG9vbF9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgJ2VudHJhbmNlX3llYXInID0+ICRlbnRyYW5jZVllYXItPnllYXIsCiAgICAgICAgICAgICAgICAgICAgICAgICdjbGFzc19udW1iZXInID0+ICR0aGlzLT5jbGFzc051bWJlcgogICAgICAgICAgICAgICAgICAgIF0pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgQ2xhc3NTdHVkZW50Ojp1cGRhdGVPckNyZWF0ZShbCiAgICAgICAgICAgICAgICAgICAgJ3N0dWRlbnRfaWQnID0+ICRkYlN0dWRlbnQtPmlkLAogICAgICAgICAgICAgICAgICAgICdjbGFzc19pZCcgPT4gJHNjaG9vbENsYXNzLT5pZCwKICAgICAgICAgICAgICAgIF0sIFsKICAgICAgICAgICAgICAgICAgICAnc3R1ZGVudF9udW1iZXInID0+ICRzdHVkZW50WydzdHVkZW50X251bWJlciddCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcUG9ydGFsXHRlYWNoZXJcQ2hlY2tBbmRHZXRUZWFjaGVySW5mb01lc3NhZ2U7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>private function createStudent(string $studentName, int $schoolId)
-    {
-        
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcUG9ydGFsXHRlYWNoZXJcVXBkYXRlVGVhY2hlckluZm9NZXNzYWdlOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>private function createStudent()
-    {
-        
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gbG9naW4oTG9naW5NZXNzYWdlICRtZXNzYWdlKQogICAgewogICAgfQo=</text>
       </register>
       <register name="8" type="4">
-        <text>else {
-                    
-                }</text>
+        <text>public static function getSchoolClass(GetSchoolClassMessage $message)
+    {
+    }</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">JGJhdGNoSW5zZXJ0W10gPSBbCiAgICAgICAgICAgICAgICAgICAgJ3N0dWRlbnRfaWQnID0+ICRzdHVkZW50WydzdHVkZW50X25hbWUnXQogICAgICAgICAgICAgICAgXTs=</text>
+        <text>public static function updateTeacher(UpdateTeacherMessage $message)
+    {
+    }</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
