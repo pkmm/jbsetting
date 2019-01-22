@@ -28,6 +28,12 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_3/homework/GetUploadTokenMessage.php" timestamp="1548055556103" />
       <file name="D:/aizuoye-paper/client/h5/node_modules/react-router/es/withRouter.js" timestamp="1548136568710" />
+      <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1548157866292">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="4" column="18" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/SchoolService.php" timestamp="1547715522322">
         <mark key="[" line="21" column="9" />
       </file>
@@ -56,13 +62,10 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="20" column="5" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" timestamp="1548155595535">
-        <mark key="a" line="162" column="20" />
-        <mark key="'" line="195" column="54" />
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="195" column="54" />
-        <mark key="." line="195" column="54" />
-        <mark key="^" line="195" column="54" />
+      <file name="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" timestamp="1548157484450">
+        <mark key="[" line="146" column="33" />
+        <mark key="]" line="146" column="33" />
+        <mark key="." line="146" column="33" />
       </file>
       <file name="D:/aizuoye-paper/client/h5/config.js" timestamp="1548135737643">
         <mark key="[" line="0" column="17" />
@@ -103,8 +106,8 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/Portal/model/UploadStudentInfoModel.php" timestamp="1548125129886" />
-      <file name="D:/aizuoye-paper/client/h5/src/views/user/user-info.less" timestamp="1548148198049">
-        <mark key="[" line="34" column="0" />
+      <file name="D:/aizuoye-paper/client/h5/src/views/user/user-info.less" timestamp="1548156668333">
+        <mark key="[" line="47" column="1" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
@@ -246,25 +249,31 @@
       <jump line="187" column="54" filename="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZT17dGhpcy5zdGF0ZS5zY2hvb2xfaWR9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>homewor</text>
       </register>
       <register name="-" type="4">
-        <text>efaultValue={0}</text>
+        <text>homewor</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Rm9ybS5JdGVtIHsuLi5Gb3JtTGF5b3V0LmZvcm19IGxhYmVsPSLRp7/GIj4KICAgICAgICAgICAgICAgIHtnZXRGaWVsZERlY29yYXRvcignY29uZmlybScsIHsKICAgICAgICAgICAgICAgICAgcnVsZXM6IFt7CiAgICAgICAgICAgICAgICAgICAgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfH67b+tM7It8jPw9zC6yEnLAogICAgICAgICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICAgICAgdmFsaWRhdG9yOiB0aGlzLmNvbXBhcmVUb0ZpcnN0UGFzc3dvcmQsCiAgICAgICAgICAgICAgICAgIH1dLAogICAgICAgICAgICAgICAgfSkoCiAgICAgICAgICAgICAgICAgIDxJbnB1dCB0eXBlPSJwYXNzd29yZCIgb25CbHVyPXt0aGlzLmhhbmRsZUNvbmZpcm1CbHVyfS8+CiAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgIDwvRm9ybS5JdGVtPgo=</text>
+        <text encoding="base64">REJfREFUQUJBU0U9aG9tZXdvcmsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZT17dGhpcy5zdGF0ZS5zY2hvb2xfaWR9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtTdHlsZS5tb2RlbF9jdXN0b219Pgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZT17dGhpcy5zdGF0ZS5zY2hvb2xfaWR9Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPElucHV0IHR5cGU9InBhc3N3b3JkIiBvbkJsdXI9e3RoaXMuaGFuZGxlQ29uZmlybUJsdXJ9Lz4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>, {
                   rules: [{
                     required: false, message: '学校!',
@@ -273,10 +282,10 @@
                   }],
                 })</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPElucHV0IHR5cGU9InBhc3N3b3JkIiBvbkJsdXI9e3RoaXMuaGFuZGxlQ29uZmlybUJsdXJ9Lz4K</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>{
                   rules: [{
                     required: false, message: '请输入学科!',
@@ -285,17 +294,11 @@
                   }],
                 })</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L1NlbGVjdD4K</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgPFNlbGVjdAogICAgICAgICAgICAgID4=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb2wsIEZvcm0sIEljb24sIElucHV0LCBMYXlvdXQsIG1lc3NhZ2UsIE1vZGFsLCBSb3csfSBmcm9tICdhbnRkJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L1NlbGVjdD4K</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
