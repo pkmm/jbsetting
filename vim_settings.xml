@@ -14,11 +14,8 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/Portal/teacher/UpdateSchoolClassMessage.php" timestamp="1548125316925" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" timestamp="1548126376749">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="60" column="7" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" timestamp="1548130343002">
+        <mark key="^" line="68" column="31" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1548039529194" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1548126680672">
@@ -227,7 +224,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLyoqIEB2YXIgU2Nob29sQ2xhc3MgJHNjaG9vbENsYXNzICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN0dWRlbnROYW1lQ29uZmxpY3RJbkNsYXNzRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>studentNumber,</text>
@@ -236,7 +233,7 @@
         <text>createOr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc3R1ZGVudE5hbWUgPSAkbWVzc2FnZS0+Z2V0U3R1ZGVudE5hbWUoKTsKICAgICAgICAkc3R1ZGVudE51bWJlciA9ICRtZXNzYWdlLT5nZXRTdHVkZW50TnVtYmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN0dWRlbnROYW1lQ29uZmxpY3RJbkNsYXNzRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLyoqIEB2YXIgU2Nob29sQ2xhc3MgJHNjaG9vbENsYXNzICovCg==</text>
