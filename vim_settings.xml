@@ -7,7 +7,7 @@
         <mark key="[" line="77" column="7" />
         <mark key="]" line="83" column="9" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" timestamp="1548208068566">
+      <file name="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" timestamp="1548212636212">
         <mark key="'" line="391" column="38" />
         <mark key="[" line="367" column="0" />
         <mark key="]" line="367" column="0" />
@@ -27,8 +27,8 @@
         <mark key="[" line="45" column="19" />
         <mark key="]" line="48" column="13" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/server/app.js" timestamp="1548146026315">
-        <mark key="[" line="29" column="23" />
+      <file name="D:/aizuoye-paper/client/h5/server/app.js" timestamp="1548212375382">
+        <mark key="[" line="36" column="25" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" timestamp="1548168520611">
         <mark key="[" line="46" column="0" />
@@ -68,11 +68,11 @@
         <mark key="]" line="44" column="77" />
         <mark key="." line="44" column="77" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/database/seeds/SetUserAccessTokenAvalible.php" timestamp="1548209999284">
-        <mark key="[" line="13" column="9" />
+      <file name="D:/aizuoye_pc_v21/server/php/database/seeds/SetUserAccessTokenAvalible.php" timestamp="1548213452087">
+        <mark key="[" line="13" column="40" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" timestamp="1548211907738">
-        <mark key="[" line="156" column="41" />
+      <file name="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" timestamp="1548213155929">
+        <mark key="[" line="155" column="41" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
@@ -111,9 +111,9 @@
       </file>
       <file name="D:/aizuoye-paper/client/h5/src/views/user/user-info.less" timestamp="1548212018871">
         <mark key="[" line="56" column="0" />
-        <mark key="]" line="64" column="3" />
+        <mark key="]" line="70" column="3" />
         <mark key="." line="56" column="0" />
-        <mark key="^" line="66" column="0" />
+        <mark key="^" line="72" column="0" />
       </file>
       <file name="D:/aizuoye_mall/server/php/app/Console/Kernel.php" timestamp="1547603357939">
         <mark key="[" line="22" column="57" />
