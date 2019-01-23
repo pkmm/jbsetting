@@ -67,10 +67,10 @@
         <mark key="]" line="62" column="41" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/Middleware/Authenticate.php" timestamp="1548049041709" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/ModelMapper.php" timestamp="1548168587192">
-        <mark key="[" line="77" column="8" />
-        <mark key="]" line="77" column="8" />
-        <mark key="." line="77" column="8" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/ModelMapper.php" timestamp="1548207530825">
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="45" column="12" />
+        <mark key="." line="45" column="12" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/seeds/SetUserAccessTokenAvalible.php" timestamp="1548164468776">
         <mark key="[" line="13" column="9" />
@@ -269,10 +269,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgU3R1ZGVudDo6d2hlcmVJZCgkY2xhc3NTdHVkZW50LT5zdHVkZW50X2lkKS0+dXBkYXRlKFsKICAgICAgICAgICAgJ25hbWUnID0+ICRzdHVkZW50TmFtZQogICAgICAgIF0pOw==</text>
+        <text encoding="base64">JG1vZGVsID0gbmV3IFNjaG9vbENsYXNzTW9kZWwoKTsKICAgICAgICAgICAgJG1vZGVsLT50ZWFjaGVyVXNlcklkID0gJHNjaG9vbENsYXNzLT50ZWFjaGVyX3VzZXJfaWQ7CiAgICAgICAgICAgICRtb2RlbC0+aXNPd25lciA9ICRzY2hvb2xDbGFzcy0+dGVhY2hlcl91c2VyX2lkID09PSAkdXNlcklkOwogICAgICAgICAgICAkbW9kZWwtPnN0dWRlbnRUb3RhbENvdW50ID0gJHNjaG9vbENsYXNzLT5zdHVkZW50X3RvdGFsX2NvdW50OwogICAgICAgICAgICAkbW9kZWwtPmNsYXNzSWQgPSAkc2Nob29sQ2xhc3MtPmlkOwogICAgICAgICAgICAkbW9kZWwtPmNsYXNzTnVtYmVyID0gJHNjaG9vbENsYXNzLT5jbGFzc19udW1iZXI7CiAgICAgICAgICAgICRtb2RlbC0+Y2xhc3NOYW1lID0gJHNjaG9vbENsYXNzLT5jbGFzc19uYW1lOwogICAgICAgICAgICAkbW9kZWwtPmdyYWRlID0gQ2xhc3NNYW5hZ2VyOjplbnRyYW5jZURhdGUyR3JhZGUoJHNjaG9vbENsYXNzLT5lbnRyYW5jZV95ZWFyKTsKICAgICAgICAgICAgJG1vZGVsLT5zY2hvb2wgPSBzZWxmOjpnZXRTY2hvb2xNb2RlbCgkc2Nob29sQ2xhc3MtPnNjaG9vbCk7CiAgICAgICAgICAgICRyZXRbXSA9ICRtb2RlbDs=</text>
       </register>
       <register name="-" type="4">
-        <text>$hasSameNameStudent = false;</text>
+        <text>$ret = [];</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -281,36 +281,34 @@
         <text encoding="base64">IGlmICghQ2xhc3NNYW5hZ2VyOjppc0NsYXNzT3duZXIoQXV0aDo6aWQoKSwgJGNsYXNzSWQpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBQYXJhbWV0ZXJWZXJpZnlGYWlsZWRFeGNlcHRpb24oJ3VzZXIgaXMgbm90IGNsYXNzIG93bmVyLicpOwogICAgICAgIH0=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgU3R1ZGVudDo6d2hlcmVJZCgkY2xhc3NTdHVkZW50LT5zdHVkZW50X2lkKS0+dXBkYXRlKFsKICAgICAgICAgICAgJ25hbWUnID0+ICRzdHVkZW50TmFtZQogICAgICAgIF0pOw==</text>
+        <text encoding="base64">JG1vZGVsID0gbmV3IFNjaG9vbENsYXNzTW9kZWwoKTsKICAgICAgICAgICAgJG1vZGVsLT50ZWFjaGVyVXNlcklkID0gJHNjaG9vbENsYXNzLT50ZWFjaGVyX3VzZXJfaWQ7CiAgICAgICAgICAgICRtb2RlbC0+aXNPd25lciA9ICRzY2hvb2xDbGFzcy0+dGVhY2hlcl91c2VyX2lkID09PSAkdXNlcklkOwogICAgICAgICAgICAkbW9kZWwtPnN0dWRlbnRUb3RhbENvdW50ID0gJHNjaG9vbENsYXNzLT5zdHVkZW50X3RvdGFsX2NvdW50OwogICAgICAgICAgICAkbW9kZWwtPmNsYXNzSWQgPSAkc2Nob29sQ2xhc3MtPmlkOwogICAgICAgICAgICAkbW9kZWwtPmNsYXNzTnVtYmVyID0gJHNjaG9vbENsYXNzLT5jbGFzc19udW1iZXI7CiAgICAgICAgICAgICRtb2RlbC0+Y2xhc3NOYW1lID0gJHNjaG9vbENsYXNzLT5jbGFzc19uYW1lOwogICAgICAgICAgICAkbW9kZWwtPmdyYWRlID0gQ2xhc3NNYW5hZ2VyOjplbnRyYW5jZURhdGUyR3JhZGUoJHNjaG9vbENsYXNzLT5lbnRyYW5jZV95ZWFyKTsKICAgICAgICAgICAgJG1vZGVsLT5zY2hvb2wgPSBzZWxmOjpnZXRTY2hvb2xNb2RlbCgkc2Nob29sQ2xhc3MtPnNjaG9vbCk7CiAgICAgICAgICAgICRyZXRbXSA9ICRtb2RlbDs=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgU3R1ZGVudDo6d2hlcmVJZCgkY2xhc3NTdHVkZW50LT5zdHVkZW50X2lkKS0+dXBkYXRlKFsKICAgICAgICAgICAgJ25hbWUnID0+ICRzdHVkZW50TmFtZQogICAgICAgIF0pOw==</text>
+      </register>
+      <register name="3" type="4">
         <text>$hasSameNameStudent = true;
                 break;</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Zm9yZWFjaCAoJGNsYXNzU3R1ZGVudHMgYXMgJGNsYXNzU3R1ZGVudCkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoJGNsYXNzU3R1ZGVudC0+c3R1ZGVudCAmJiAkY2xhc3NTdHVkZW50LT5zdHVkZW50LT5uYW1lID09ICRzdHVkZW50WydzdHVkZW50X25hbWUnXSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJGhhc1NhbWVOYW1lU3R1ZGVudCA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>if (empty($student)) {
             return $model;
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkbW9kZWwtPnNjaG9vbElkID0gJHRlYWNoZXItPnNjaG9vbF9pZDsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkbW9kZWwtPmNvdXJzZUlkID0gJHRlYWNoZXItPmNvdXJzZV9pZDsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">aWYgKCEkdXNlci0+dGVhY2hlcikgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90QVRlYWNoZXJFeGNlcHRpb24oJ3VzZXIgaXMgbm90IGEgdGVhY2hlci4nKTsKICAgICAgICB9</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JGRiU3R1ZGVudCA9IFN0dWRlbnQ6OndoZXJlTmFtZSgkc3R1ZGVudFsnc3R1ZGVudF9uYW1lJ10pCiAgICAgICAgICAgICAgICAgICAgICAgIC0+d2hlcmVTY2hvb2xJZCgkdGVhY2hlci0+c2Nob29sX2lkKQogICAgICAgICAgICAgICAgICAgICAgICAtPndoZXJlRW50cmFuY2VZZWFyKCRlbnRyYW5jZVllYXItPnllYXIpCiAgICAgICAgICAgICAgICAgICAgICAgIC0+d2hlcmVDbGFzc051bWJlcigkdGhpcy0+Y2xhc3NOdW1iZXIpCiAgICAgICAgICAgICAgICAgICAgICAgIC0+Zmlyc3QoKTs=</text>
-      </register>
       <register name="9" type="4">
-        <text>foreach ( as $item) {
-                        
-                    }</text>
+        <text encoding="base64">JGRiU3R1ZGVudCA9IFN0dWRlbnQ6OndoZXJlTmFtZSgkc3R1ZGVudFsnc3R1ZGVudF9uYW1lJ10pCiAgICAgICAgICAgICAgICAgICAgICAgIC0+d2hlcmVTY2hvb2xJZCgkdGVhY2hlci0+c2Nob29sX2lkKQogICAgICAgICAgICAgICAgICAgICAgICAtPndoZXJlRW50cmFuY2VZZWFyKCRlbnRyYW5jZVllYXItPnllYXIpCiAgICAgICAgICAgICAgICAgICAgICAgIC0+d2hlcmVDbGFzc051bWJlcigkdGhpcy0+Y2xhc3NOdW1iZXIpCiAgICAgICAgICAgICAgICAgICAgICAgIC0+Zmlyc3QoKTs=</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
