@@ -24,19 +24,20 @@
       <file name="/a.dummy" timestamp="1548210936257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" timestamp="1548228645928">
+      <file name="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" timestamp="1548233892331">
         <mark key="'" line="237" column="58" />
-        <mark key="[" line="18" column="0" />
+        <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="24" />
         <mark key="." line="19" column="23" />
         <mark key="^" line="19" column="23" />
       </file>
       <file name="D:/aizuoye-paper/server/php/app/Manager/UserManager.php" timestamp="1548222349210" />
-      <file name="D:/aizuoye-paper/client/h5/src/views/mySchoolClass/index.jsx" timestamp="1548232153900">
-        <mark key="[" line="138" column="43" />
-        <mark key="]" line="139" column="7" />
-        <mark key="." line="137" column="16" />
-        <mark key="^" line="137" column="15" />
+      <file name="D:/aizuoye-paper/client/h5/src/views/mySchoolClass/index.jsx" timestamp="1548234445515">
+        <mark key="'" line="128" column="58" />
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="36" />
+        <mark key="." line="23" column="21" />
+        <mark key="^" line="128" column="58" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/HomepagePosterManager.php" timestamp="1547213282527">
         <mark key="[" line="35" column="0" />
@@ -47,7 +48,12 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UploadTokenManager.php" timestamp="1548066993964">
         <mark key="[" line="25" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548211000989">
+      <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" timestamp="1548234631448">
+        <mark key="[" line="90" column="8" />
+        <mark key="]" line="90" column="8" />
+        <mark key="." line="90" column="8" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1548232749098">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1548215938837">
@@ -57,9 +63,9 @@
         <mark key="." line="97" column="8" />
         <mark key="^" line="97" column="7" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/src/views/mySchoolClass/classStudentList.jsx" timestamp="1548230998140">
-        <mark key="[" line="38" column="29" />
-        <mark key="]" line="138" column="0" />
+      <file name="D:/aizuoye-paper/client/h5/src/views/mySchoolClass/classStudentList.jsx" timestamp="1548233870676">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="1" />
         <mark key="." line="138" column="0" />
         <mark key="^" line="138" column="8" />
       </file>
@@ -118,7 +124,6 @@
       <file name="D:/aizuoye-paper/server/php/app/Services/V1/AuthService.php" timestamp="1548222401952" />
     </filemarks>
     <jumps>
-      <jump line="90" column="22" filename="D:/aizuoye_pc_v21/server/php/app/Manager/Account/Login/BaseLogin.php" />
       <jump line="1753" column="258" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-19.log" />
       <jump line="0" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-19.log" />
       <jump line="187" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2018-12-19.log" />
@@ -218,54 +223,47 @@
       <jump line="51" column="18" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/SchoolTest.php" />
       <jump line="391" column="38" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" />
       <jump line="237" column="58" filename="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" />
+      <jump line="124" column="58" filename="D:/aizuoye-paper/client/h5/src/views/mySchoolClass/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.setState({
-      deleteModalVisible: true,
-    });</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>classesMap[currentClassId]</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>createOr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgcHJvcFR5cGVzID0ge307CmNvbnN0IGRlZmF1bHRQcm9wcyA9IHt9Owo=</text>
+        <text encoding="base64">Y29uc3QgZGVmYXVsdFByb3BzID0ge307Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>this.setState({
-      deleteModalVisible: true,
-    });</text>
+        <text encoding="base64">IGhpZGVNb2RhbCgpIHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICB2aXNpYmxlOiBmYWxzZSwKICAgIH0pCiAgfQoKICBzaG93TW9kYWwoKSB7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgdmlzaWJsZTogdHJ1ZSwKICAgIH0pCiAgfQ==</text>
       </register>
-      <register name="2" type="4">
-        <text>div {
-    text-align: right;
-  }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdmlzaWJsZTogdGhpcy5wcm9wcy52aXNpYmxlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRva2VuID0gYWN0aXZlS2V5LnNwbGl0KCcgJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNjaG9vbE9wdGlvbnMgPSB0aGlzLnN0YXRlLnNjaG9vbEluZm9zLm1hcChpdGVtID0+IHsKICAgICAgcmV0dXJuIDxTZWxlY3QuT3B0aW9uIGtleT17aXRlbS5zY2hvb2xfaWR9IHZhbHVlPXtpdGVtfT57aXRlbS5uYW1lfTwvU2VsZWN0Lk9wdGlvbj4KICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNkb25zb2xlLmxvZyhhY3RpdmVLZXkpCg==</text>
+        <text encoding="base64">aW1wb3J0IHtMYXlvdXQsIE1vZGFsfSBmcm9tICdhbnRkJwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>getClassStudents() {
-
-  }</text>
+      <register name="5" type="2">
+        <text encoding="base64">IExheW91dC5Db250ZW50Owo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmNvbnN0IENvbnRlbnQgPQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L1RhYmxlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L0xpc3RkZGQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PExpc3QKICAgICAgICAgIGdyaWQ9e3tndXR0ZXI6IDAsIGNvbHVtbjogMn19CiAgICAgICAgICBkYXRhU291cmNlPXt0aGlzLnN0YXRlLnN0dWRlbnRzfQoKICAgICAgICA+</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3QgcHJvcFR5cGVzID0ge307Cg==</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
