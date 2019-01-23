@@ -24,10 +24,10 @@
       <file name="/a.dummy" timestamp="1548210936257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" timestamp="1548233892331">
+      <file name="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" timestamp="1548236401179">
         <mark key="'" line="237" column="58" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="24" />
+        <mark key="[" line="158" column="12" />
+        <mark key="]" line="160" column="17" />
         <mark key="." line="19" column="23" />
         <mark key="^" line="19" column="23" />
       </file>
@@ -48,10 +48,11 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UploadTokenManager.php" timestamp="1548066993964">
         <mark key="[" line="25" column="22" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" timestamp="1548234631448">
-        <mark key="[" line="92" column="8" />
-        <mark key="]" line="92" column="8" />
-        <mark key="." line="92" column="8" />
+      <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" timestamp="1548236414114">
+        <mark key="[" line="51" column="16" />
+        <mark key="]" line="51" column="16" />
+        <mark key="." line="51" column="16" />
+        <mark key="^" line="49" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1548232749098">
         <mark key="[" line="0" column="0" />
@@ -227,16 +228,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>个人资料</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>个人资料</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZGVmYXVsdFByb3BzID0ge307Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PGRpdiBzdHlsZT17e3RleHRBbGlnbjogJ2NlbnRlcicsIGZvbnRTaXplOiAnMThweCcsIGNvbG9yOiAnIzMzMycsIG1hcmdpbkJvdHRvbTogJzMzcHgnLCBmb250V2VpZ2h0OiAnYmxvZCd9fT4KICAgICAgICAgICAgICA8c3Bhbj649sjL18rBzzwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IGhpZGVNb2RhbCgpIHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICB2aXNpYmxlOiBmYWxzZSwKICAgIH0pCiAgfQoKICBzaG93TW9kYWwoKSB7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgdmlzaWJsZTogdHJ1ZSwKICAgIH0pCiAgfQ==</text>
