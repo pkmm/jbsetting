@@ -9,11 +9,6 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="23" column="2" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/ModelMapper.php" timestamp="1548208312412">
-        <mark key="[" line="44" column="77" />
-        <mark key="]" line="44" column="77" />
-        <mark key="." line="44" column="77" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/seeds/SetUserAccessTokenAvalible.php" timestamp="1548213452087">
         <mark key="[" line="13" column="40" />
       </file>
@@ -23,7 +18,7 @@
       <file name="/a.dummy" timestamp="1548210936257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" timestamp="1548238512130">
+      <file name="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" timestamp="1548296754396">
         <mark key="'" line="12" column="63" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="64" />
@@ -31,12 +26,7 @@
         <mark key="^" line="19" column="23" />
       </file>
       <file name="D:/aizuoye-paper/server/php/app/Manager/UserManager.php" timestamp="1548222349210" />
-      <file name="D:/aizuoye-paper/client/h5/config.js" timestamp="1548135737643">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-      </file>
-      <file name="D:/aizuoye-paper/client/h5/src/views/mySchoolClass/index.jsx" timestamp="1548234445515">
+      <file name="D:/aizuoye-paper/client/h5/src/views/mySchoolClass/index.jsx" timestamp="1548299305338">
         <mark key="'" line="128" column="58" />
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="36" />
@@ -52,11 +42,6 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UploadTokenManager.php" timestamp="1548066993964">
         <mark key="[" line="25" column="22" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" timestamp="1548168520611">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" timestamp="1548240723931">
         <mark key="'" line="141" column="26" />
         <mark key="[" line="4" column="37" />
@@ -64,9 +49,11 @@
         <mark key="." line="141" column="26" />
         <mark key="^" line="141" column="26" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548242357211">
-        <mark key="'" line="0" column="0" />
-        <mark key="^" line="8" column="44" />
+      <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548299268345">
+        <mark key="[" line="149" column="24" />
+        <mark key="]" line="72" column="37" />
+        <mark key="." line="72" column="7" />
+        <mark key="^" line="72" column="6" />
       </file>
       <file name="/Dummy.txt" timestamp="1548232749098">
         <mark key="[" line="0" column="0" />
@@ -77,7 +64,7 @@
         <mark key="." line="138" column="0" />
         <mark key="^" line="138" column="8" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.less" timestamp="1548240875659">
+      <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.less" timestamp="1548298625071">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="16" column="1" />
         <mark key="." line="0" column="0" />
@@ -97,18 +84,8 @@
       <file name="D:/aizuoye_trunk/server/php/database/seeds/SetUserAccessTokenAvailable.php" timestamp="1548217060949">
         <mark key="[" line="13" column="75" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" timestamp="1548162940015">
-        <mark key="[" line="819" column="0" />
-        <mark key="]" line="819" column="0" />
-        <mark key="." line="819" column="0" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/SchoolService.php" timestamp="1547715522322">
         <mark key="[" line="21" column="9" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/SyncClassVerification2TeacherNameCommand.php" timestamp="1548153790417">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
       </file>
       <file name="D:/aizuoye-paper/server/php/ClientAPI/readme.txt" timestamp="1548222523440" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/User/UserInviteManager.php" timestamp="1547435535561">
@@ -137,16 +114,9 @@
       <file name="D:/aizuoye_pc_v21/server/php/database/seeds/DatabaseSeeder.php" timestamp="1548209619590">
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/package.json" timestamp="1548144739268">
-        <mark key="[" line="9" column="52" />
-        <mark key="]" line="9" column="122" />
-        <mark key="." line="9" column="76" />
-      </file>
       <file name="D:/aizuoye-paper/server/php/app/Services/V1/AuthService.php" timestamp="1548222401952" />
     </filemarks>
     <jumps>
-      <jump line="145" column="27" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
-      <jump line="89" column="56" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="375" column="9" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="212" column="30" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="135" column="0" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
@@ -245,13 +215,15 @@
       <jump line="95" column="24" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
       <jump line="8" column="44" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
       <jump line="0" column="0" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
+      <jump line="64" column="12" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
+      <jump line="14" column="22" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>labelCol={{span: 4}} wrapperCol={{span:20}}</text>
+        <text>className={Style.custom_label}</text>
       </register>
       <register name="-" type="4">
-        <text>labelCol={{span: 4}} wrapperCol={{span:20}}</text>
+        <text>className={Style.custom_label}</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -260,9 +232,20 @@
         <text encoding="base64">LnNhdmVfYnV0dG9uX3dyYXBwZXIgewogIHRleHQtYWxpZ246IGNlbnRlcjsKICAuc2F2ZV9idXR0b24gewogICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgcGFkZGluZzogOHB4IDQ5cHg7CiAgICBiYWNrZ3JvdW5kLWltYWdlOiBsaW5lYXItZ3JhZGllbnQoOTBkZWcsICMwMDk2RjQgMCUsICMyN0MwRjkgMTAwJSk7CiAgICBib3JkZXItcmFkaXVzOiAxMTEuMTFweDsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgIHdpZHRoOiAxMjhweDsKICAgIGhlaWdodDogMzhweDsKICAgIGN1cnNvcjogcG9pbnRlcjsKICAgIHVzZXItc2VsZWN0OiBub25lOwogICAgY29sb3I6ICNmZmY7CiAgICBmb250LXNpemU6IDE1cHg7CiAgfQp9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PEl0ZW0gbGFiZWw9J8TqvLYnIGNvbG9uPXtmYWxzZX0gPgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgZ2V0RmllbGREZWNvcmF0b3IoJ2dyYWRlJywgewogICAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiAxCiAgICAgICAgICAgICAgfSkoCiAgICAgICAgICAgICAgICA8U2VsZWN0PgogICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgWzEsIDIsIDMsIDQsIDUsIDZdLm1hcChpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIHJldHVybiA8U2VsZWN0Lk9wdGlvbiBrZXk9e2l9IHZhbHVlPXtpfT57Z3JhZGVfbWFwW2ldfTwvU2VsZWN0Lk9wdGlvbj47CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgPC9TZWxlY3Q+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICA8L0l0ZW0+CgogICAgICAgICAgPEl0ZW0gbGFiZWw9J7DgvLYnIGNvbG9uPXtmYWxzZX0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBnZXRGaWVsZERlY29yYXRvcignY2xhc3NfbnVtYmVyJywgewogICAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiAxCiAgICAgICAgICAgICAgfSkoCiAgICAgICAgICAgICAgICA8U2VsZWN0PgogICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgWy4uLkFycmF5KDYwKS5rZXlzKCldLm1hcChpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIHJldHVybiA8U2VsZWN0Lk9wdGlvbiBrZXk9e2l9IHZhbHVlPXtpICsgMX0+e2Ake2kgKyAxfbDgYH08L1NlbGVjdC5PcHRpb24+CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgPC9TZWxlY3Q+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICA8L0l0ZW0+CgogICAgICAgICAgPEl0ZW0gPgogICAgICAgICAgICA8QnV0dG9uPgogICAgICAgICAgICAgIMnPtKvRp8n6w/u1pQogICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIDwvSXRlbT4=</text>
+        <text>const LabelWrapperCol = {
+  style: {}
+};</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ey8qPGRpdj4qL30KICAgICAgICAgIHsvKjxsYWJlbCBodG1sRm9yPSJzY2hvb2wiPtGn0KM8L2xhYmVsPiovfQogICAgICAgICAgey8qPGRpdj4qL30KICAgICAgICAgICB7Lyo8U2VsZWN0Ki99CiAgICAgICAgICAgIHsvKnNob3dTZWFyY2gqL30KICAgICAgICAgICAgey8qdmFsdWU9J8fr0aHU8dGn0KMnKi99CiAgICAgICAgICAgIHsvKm5vdEZvdW5kQ29udGVudD17bnVsbH0qL30KICAgICAgICAgICAgey8qZmlsdGVyT3B0aW9uPXtmYWxzZX0qL30KICAgICAgICAgICAgey8qb25DaGFuZ2U9eyhzY2hvb2wpID0+IHsqL30KICAgICAgICAgICAgICB7Lyp0aGlzLnNldFN0YXRlKHsqL30KICAgICAgICAgICAgICAgIHsvKnNjaG9vbCwqL30KICAgICAgICAgICAgICB7Lyp9KSovfQogICAgICAgICAgICB7Lyp9fSovfQogICAgICAgICAgICB7LypvblNlYXJjaD17dGhpcy5oYW5kbGVTY2hvb2xTZWFyY2h9Ki99CiAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgIHsvKnsqL30KICAgICAgICAgICAgICB7LypzY2hvb2xPcHRpb25zKi99CiAgICAgICAgICAgIHsvKn0qL30KICAgICAgICAgIHsvKjwvU2VsZWN0PiovfQogICAgICAgICAgey8qPC9kaXY+Ki99CiAgICAgICAgey8qPC9kaXY+Ki99</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">PFNlbGVjdAogICAgICAgICAgICBzaG93U2VhcmNoCiAgICAgICAgICAgIHZhbHVlPSfH69Gh1PHRp9CjJwogICAgICAgICAgICBub3RGb3VuZENvbnRlbnQ9e251bGx9CiAgICAgICAgICAgIGZpbHRlck9wdGlvbj17ZmFsc2V9CiAgICAgICAgICAgIG9uQ2hhbmdlPXsoc2Nob29sKSA9PiB7CiAgICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgICBzY2hvb2wsCiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfX0KICAgICAgICAgICAgb25TZWFyY2g9e3RoaXMuaGFuZGxlU2Nob29sU2VhcmNofQogICAgICAgICAgPgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgc2Nob29sT3B0aW9ucwogICAgICAgICAgICB9CiAgICAgICAgICA8L1NlbGVjdD4=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">PEl0ZW0gbGFiZWw9J8TqvLYnIGNvbG9uPXtmYWxzZX0gPgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgZ2V0RmllbGREZWNvcmF0b3IoJ2dyYWRlJywgewogICAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiAxCiAgICAgICAgICAgICAgfSkoCiAgICAgICAgICAgICAgICA8U2VsZWN0PgogICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgWzEsIDIsIDMsIDQsIDUsIDZdLm1hcChpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIHJldHVybiA8U2VsZWN0Lk9wdGlvbiBrZXk9e2l9IHZhbHVlPXtpfT57Z3JhZGVfbWFwW2ldfTwvU2VsZWN0Lk9wdGlvbj47CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgPC9TZWxlY3Q+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICA8L0l0ZW0+CgogICAgICAgICAgPEl0ZW0gbGFiZWw9J7DgvLYnIGNvbG9uPXtmYWxzZX0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBnZXRGaWVsZERlY29yYXRvcignY2xhc3NfbnVtYmVyJywgewogICAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiAxCiAgICAgICAgICAgICAgfSkoCiAgICAgICAgICAgICAgICA8U2VsZWN0PgogICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgWy4uLkFycmF5KDYwKS5rZXlzKCldLm1hcChpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIHJldHVybiA8U2VsZWN0Lk9wdGlvbiBrZXk9e2l9IHZhbHVlPXtpICsgMX0+e2Ake2kgKyAxfbDgYH08L1NlbGVjdC5PcHRpb24+CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgPC9TZWxlY3Q+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICA8L0l0ZW0+CgogICAgICAgICAgPEl0ZW0gPgogICAgICAgICAgICA8QnV0dG9uPgogICAgICAgICAgICAgIMnPtKvRp8n6w/u1pQogICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIDwvSXRlbT4=</text>
+      </register>
+      <register name="5" type="4">
         <text>const HorizontalLayoutFormItem = {
   labelCol: {span: 8},
   wrapperCol: {span: 16}
@@ -272,28 +255,19 @@ const HorizontalLayoutButton = {
   wrapperCol: {span: 14},
 };</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PEl0ZW0gbGFiZWw9J8TqvLYnIGNvbG9uPXtmYWxzZX0gey4uLkhvcml6b250YWxMYXlvdXRGb3JtSXRlbX0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBnZXRGaWVsZERlY29yYXRvcignZ3JhZGUnLCB7CiAgICAgICAgICAgICAgICBpbml0aWFsVmFsdWU6IDEKICAgICAgICAgICAgICB9KSgKICAgICAgICAgICAgICAgIDxTZWxlY3Q+CiAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBbMSwgMiwgMywgNCwgNSwgNl0ubWFwKGkgPT4gewogICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDxTZWxlY3QuT3B0aW9uIGtleT17aX0gdmFsdWU9e2l9PntncmFkZV9tYXBbaV19PC9TZWxlY3QuT3B0aW9uPjsKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICA8L1NlbGVjdD4KICAgICAgICAgICAgICApCiAgICAgICAgICAgIH0KICAgICAgICAgIDwvSXRlbT4KCiAgICAgICAgICA8SXRlbSBsYWJlbD0nsOC8ticgY29sb249e2ZhbHNlfSB7Li4uSG9yaXpvbnRhbExheW91dEZvcm1JdGVtfT4KICAgICAgICAgICAgewogICAgICAgICAgICAgIGdldEZpZWxkRGVjb3JhdG9yKCdjbGFzc19udW1iZXInLCB7CiAgICAgICAgICAgICAgICBpbml0aWFsVmFsdWU6IDEKICAgICAgICAgICAgICB9KSgKICAgICAgICAgICAgICAgIDxTZWxlY3Q+CiAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBbLi4uQXJyYXkoNjApLmtleXMoKV0ubWFwKGkgPT4gewogICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDxTZWxlY3QuT3B0aW9uIGtleT17aX0gdmFsdWU9e2krMX0+e2Ake2krMX2w4GB9PC9TZWxlY3QuT3B0aW9uPgogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIDwvU2VsZWN0PgogICAgICAgICAgICAgICkKICAgICAgICAgICAgfQogICAgICAgICAgPC9JdGVtPgoKICAgICAgICAgIDxJdGVtIHsuLi5Ib3Jpem9udGFsTGF5b3V0QnV0dG9ufT4KICAgICAgICAgICAgPEJ1dHRvbj4KICAgICAgICAgICAgICDJz7Sr0afJ+sP7taUKICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8L0l0ZW0+</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHN1YmplY3RfbWFwID0gZ2V0U3ViamVjdHNNYXAoKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">PFJvdyBndXR0ZXI9ezB9PgogICAgICAgICAgPENvbAogICAgICAgICAgICBzcGFuPXsyfQogICAgICAgICAgPgogICAgICAgICAgICDRp9CjCiAgICAgICAgICA8L0NvbD4KICAgICAgICAgIDxDb2wgc3Bhbj17MjJ9PgoKICAgICAgICAgIDwvQ29sPgogICAgICAgIDwvUm93PgoKICAgICAgICA8Um93IGd1dHRlcj17MH0+CiAgICAgICAgICA8Q29sIHNwYW49ezJ9PgogICAgICAgICAgICDE6ry2CiAgICAgICAgICA8L0NvbD4KICAgICAgICAgIDxDb2wgc3Bhbj17N30+CiAgICAgICAgICAgIDxTZWxlY3Q+PC9TZWxlY3Q+CiAgICAgICAgICA8L0NvbD4KCiAgICAgICAgICA8Q29sIHNwYW49ezJ9PrDgvLY8L0NvbD4KICAgICAgICAgIDxDb2wgc3Bhbj17N30+CiAgICAgICAgICAgIDxTZWxlY3Q+PC9TZWxlY3Q+CiAgICAgICAgICA8L0NvbD4KICAgICAgICAgIDxDb2wgc3Bhbj17Nn0+CiAgICAgICAgICAgIDxidXR0b24+yc+0q9GnyfrD+7WlPC9idXR0b24+CiAgICAgICAgICA8L0NvbD4KCiAgICAgICAgPC9Sb3c+</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>const FormLayout = {
   
 };</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGhpZGVNb2RhbCgpIHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICB2aXNpYmxlOiBmYWxzZSwKICAgIH0pCiAgfQoKICBzaG93TW9kYWwoKSB7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgdmlzaWJsZTogdHJ1ZSwKICAgIH0pCiAgfQ==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmlzaWJsZTogdGhpcy5wcm9wcy52aXNpYmxlLAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNjaG9vbE9wdGlvbnMgPSB0aGlzLnN0YXRlLnNjaG9vbEluZm9zLm1hcChpdGVtID0+IHsKICAgICAgcmV0dXJuIDxTZWxlY3QuT3B0aW9uIGtleT17aXRlbS5zY2hvb2xfaWR9IHZhbHVlPXtpdGVtfT57aXRlbS5uYW1lfTwvU2VsZWN0Lk9wdGlvbj4KICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
