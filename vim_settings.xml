@@ -49,12 +49,10 @@
         <mark key="." line="141" column="26" />
         <mark key="^" line="141" column="26" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548308410536">
-        <mark key="'" line="152" column="15" />
-        <mark key="[" line="73" column="21" />
-        <mark key="]" line="73" column="21" />
-        <mark key="^" line="167" column="27" />
-        <mark key="." line="73" column="21" />
+      <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548310257932">
+        <mark key="[" line="178" column="90" />
+        <mark key="]" line="178" column="90" />
+        <mark key="." line="178" column="90" />
       </file>
       <file name="/Dummy.txt" timestamp="1548232749098">
         <mark key="[" line="0" column="0" />
@@ -120,10 +118,6 @@
       <file name="D:/aizuoye-paper/server/php/app/Services/V1/AuthService.php" timestamp="1548222401952" />
     </filemarks>
     <jumps>
-      <jump line="212" column="30" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
-      <jump line="135" column="0" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
-      <jump line="309" column="32" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
-      <jump line="398" column="31" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="110" column="33" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="310" column="16" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="400" column="31" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
@@ -220,27 +214,43 @@
       <jump line="64" column="12" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
       <jump line="14" column="22" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
       <jump line="157" column="15" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
+      <jump line="154" column="25" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
+      <jump line="25" column="26" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
+      <jump line="178" column="81" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
+      <jump line="6" column="29" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvL3RleHRBbGlnbjogJ2NlbnRlcicsIGZvbnRTaXplOiAnMThweCcsIGNvbG9yOiAnIzMzMycsIG1hcmdpbkJvdHRvbTogJzMzcHgnLCBmb250V2VpZ2h0OiAnYmxvZCcK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">b25DbGljaz17KCk9PnsKICAgICAgICAgICAgICB3aW5kb3cub3BlbignLi4vLi4vYXNzJykKICAgICAgICAgICAgfX0+</text>
       </register>
       <register name="-" type="4">
-        <text>textAlign: 'center', fontSize: '18px', color: '#333', marginBottom: '33px', fontWeight: 'blod'}</text>
+        <text>uploadStudentTemplate</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LnNhdmVfYnV0dG9uX3dyYXBwZXIgewogIHRleHQtYWxpZ246IGNlbnRlcjsKICAuc2F2ZV9idXR0b24gewogICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgcGFkZGluZzogOHB4IDQ5cHg7CiAgICBiYWNrZ3JvdW5kLWltYWdlOiBsaW5lYXItZ3JhZGllbnQoOTBkZWcsICMwMDk2RjQgMCUsICMyN0MwRjkgMTAwJSk7CiAgICBib3JkZXItcmFkaXVzOiAxMTEuMTFweDsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgIHdpZHRoOiAxMjhweDsKICAgIGhlaWdodDogMzhweDsKICAgIGN1cnNvcjogcG9pbnRlcjsKICAgIHVzZXItc2VsZWN0OiBub25lOwogICAgY29sb3I6ICNmZmY7CiAgICBmb250LXNpemU6IDE1cHg7CiAgfQp9Cg==</text>
+      <register name="0" type="4">
+        <text>../../assets/upload_students_template.xlsx</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAvL3RleHRBbGlnbjogJ2NlbnRlcicsIGZvbnRTaXplOiAnMThweCcsIGNvbG9yOiAnIzMzMycsIG1hcmdpbkJvdHRvbTogJzMzcHgnLCBmb250V2VpZ2h0OiAnYmxvZCcK</text>
+      <register name="1" type="4">
+        <text encoding="base64">b25DbGljaz17KCk9PnsKICAgICAgICAgICAgICB3aW5kb3cub3BlbignLi4vLi4vYXNzJykKICAgICAgICAgICAgfX0+</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHVwbG9hZFN0dWRlbnRUZW1wbGF0ZSBmcm9tICAnLi4vLi4vYXNzZXRzL3VwbG9hZF9zdHVkZW50c190ZW1wbGF0ZS54bHN4Jwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDJz7Sr0afJ+sP7taUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvL3RleHRBbGlnbjogJ2NlbnRlcicsIGZvbnRTaXplOiAnMThweCcsIGNvbG9yOiAnIzMzMycsIG1hcmdpbkJvdHRvbTogJzMzcHgnLCBmb250V2VpZ2h0OiAnYmxvZCcK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>const uploadProps = {
   name: 'student_file',
   action: '', // todo  server的接口
@@ -248,10 +258,10 @@
 
 };</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGlmIChpbmZvLmZpbGUuc3RhdHVzICE9PSAndXBsb2FkaW5nJykgewogICAgICBjb25zb2xlLmxvZyhpbmZvLmZpbGUsIGluZm8uZmlsZUxpc3QpOwogICAgfQogICAgaWYgKGluZm8uZmlsZS5zdGF0dXMgPT09ICdkb25lJykgewogICAgICBtZXNzYWdlLnN1Y2Nlc3MoYCR7aW5mby5maWxlLm5hbWV9IGZpbGUgdXBsb2FkZWQgc3VjY2Vzc2Z1bGx5YCk7CiAgICB9IGVsc2UgaWYgKGluZm8uZmlsZS5zdGF0dXMgPT09ICdlcnJvcicpIHsKICAgICAgbWVzc2FnZS5lcnJvcihgJHtpbmZvLmZpbGUubmFtZX0gZmlsZSB1cGxvYWQgZmFpbGVkLmApOwogICAgfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>onChange(info) {
     if (info.file.status !== 'uploading') {
       console.log(info.file, info.fileList);
@@ -262,20 +272,6 @@
       message.error(`${info.file.name} file upload failed.`);
     }
   }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24+CiAgICAgICAgICAgICAgICAgIMnPtKvRp8n6w/u1pQogICAgICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>const LabelWrapperCol = {
-  style: {}
-};</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ey8qPGRpdj4qL30KICAgICAgICAgIHsvKjxsYWJlbCBodG1sRm9yPSJzY2hvb2wiPtGn0KM8L2xhYmVsPiovfQogICAgICAgICAgey8qPGRpdj4qL30KICAgICAgICAgICB7Lyo8U2VsZWN0Ki99CiAgICAgICAgICAgIHsvKnNob3dTZWFyY2gqL30KICAgICAgICAgICAgey8qdmFsdWU9J8fr0aHU8dGn0KMnKi99CiAgICAgICAgICAgIHsvKm5vdEZvdW5kQ29udGVudD17bnVsbH0qL30KICAgICAgICAgICAgey8qZmlsdGVyT3B0aW9uPXtmYWxzZX0qL30KICAgICAgICAgICAgey8qb25DaGFuZ2U9eyhzY2hvb2wpID0+IHsqL30KICAgICAgICAgICAgICB7Lyp0aGlzLnNldFN0YXRlKHsqL30KICAgICAgICAgICAgICAgIHsvKnNjaG9vbCwqL30KICAgICAgICAgICAgICB7Lyp9KSovfQogICAgICAgICAgICB7Lyp9fSovfQogICAgICAgICAgICB7LypvblNlYXJjaD17dGhpcy5oYW5kbGVTY2hvb2xTZWFyY2h9Ki99CiAgICAgICAgICB7Lyo+Ki99CiAgICAgICAgICAgIHsvKnsqL30KICAgICAgICAgICAgICB7LypzY2hvb2xPcHRpb25zKi99CiAgICAgICAgICAgIHsvKn0qL30KICAgICAgICAgIHsvKjwvU2VsZWN0PiovfQogICAgICAgICAgey8qPC9kaXY+Ki99CiAgICAgICAgey8qPC9kaXY+Ki99</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PFNlbGVjdAogICAgICAgICAgICBzaG93U2VhcmNoCiAgICAgICAgICAgIHZhbHVlPSfH69Gh1PHRp9CjJwogICAgICAgICAgICBub3RGb3VuZENvbnRlbnQ9e251bGx9CiAgICAgICAgICAgIGZpbHRlck9wdGlvbj17ZmFsc2V9CiAgICAgICAgICAgIG9uQ2hhbmdlPXsoc2Nob29sKSA9PiB7CiAgICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgICBzY2hvb2wsCiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfX0KICAgICAgICAgICAgb25TZWFyY2g9e3RoaXMuaGFuZGxlU2Nob29sU2VhcmNofQogICAgICAgICAgPgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgc2Nob29sT3B0aW9ucwogICAgICAgICAgICB9CiAgICAgICAgICA8L1NlbGVjdD4=</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
