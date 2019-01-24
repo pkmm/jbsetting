@@ -75,20 +75,20 @@
         <mark key="." line="141" column="26" />
         <mark key="^" line="141" column="26" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548313985986">
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="0" />
-        <mark key="." line="178" column="0" />
+      <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548314666475">
+        <mark key="[" line="115" column="15" />
+        <mark key="]" line="115" column="15" />
+        <mark key="." line="115" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1548232749098">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1548314258728">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1548314475862">
         <mark key="'" line="135" column="0" />
-        <mark key="[" line="126" column="28" />
-        <mark key="]" line="126" column="28" />
+        <mark key="[" line="126" column="75" />
+        <mark key="]" line="128" column="0" />
         <mark key="^" line="134" column="7" />
-        <mark key="." line="126" column="28" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="D:/aizuoye-paper/client/h5/src/views/mySchoolClass/classStudentList.jsx" timestamp="1548233870676">
         <mark key="[" line="9" column="0" />
@@ -269,10 +269,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>type='flex' justify='space-between'</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>type='flex' justify='space-between'</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -280,25 +280,28 @@
       <register name="0" type="4">
         <text encoding="base64">dHJ5IHsKICAgICAgICAgICAgVXNlck1hbmFnZXI6OmNoZWNrKCR1c2VySWQsICRhY2Nlc3NUb2tlbiwgMCwgJGRldmljZVR5cGUpOwogICAgICAgICAgICAkdXNlciA9IFVzZXJNYW5hZ2VyOjpnZXRVc2VyQnlJZCgkdXNlcklkKTsKICAgICAgICB9IGNhdGNoIChBdXRoRmFpbEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICBMb2c6OmVycm9yKCdjbGllbnQgdXNlciBsb2dpbiBmcm9tIG1pbmlwcm9ncmFtIGZhaWxlZC4gJyAuICRlLT5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICB0aHJvdyBuZXcgRXJyb3JXZUNoYXRNYWxsTm90Rm91bmRVc2VyRXhjZXB0aW9uKCdub3QgZm91bmQgdXNlci4nKTsKICAgICAgICB9CgogICAgICAgICRzZXNzaW9uID0gTG9naW5TZXNzaW9uTWFuYWdlcjo6c2F2ZVVzZXJMb2dpblNlc3Npb24oCiAgICAgICAgICAgICR1c2VySWQsCiAgICAgICAgICAgICcnLAogICAgICAgICAgICBEZXZpY2VUeXBlOjpJTlRFR1JBTF9NQUxMX1NFUlZFUiwKICAgICAgICAgICAgJycsCiAgICAgICAgICAgIDAKICAgICAgICApOwogICAgICAgIHJldHVybiBbJHVzZXIsICRzZXNzaW9uXTs=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXJNYW5hZ2VyOjpnZXRVc2VyQnlJZCgkYXBwVXNlcklkKTsK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">b25DbGljaz17KCk9PnsKICAgICAgICAgICAgICB3aW5kb3cub3BlbignLi4vLi4vYXNzJykKICAgICAgICAgICAgfX0+</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHVwbG9hZFN0dWRlbnRUZW1wbGF0ZSBmcm9tICAnLi4vLi4vYXNzZXRzL3VwbG9hZF9zdHVkZW50c190ZW1wbGF0ZS54bHN4Jwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9CdXR0b24+Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDJz7Sr0afJ+sP7taUK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAvL3RleHRBbGlnbjogJ2NlbnRlcicsIGZvbnRTaXplOiAnMThweCcsIGNvbG9yOiAnIzMzMycsIG1hcmdpbkJvdHRvbTogJzMzcHgnLCBmb250V2VpZ2h0OiAnYmxvZCcK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>const uploadProps = {
   name: 'student_file',
   action: '', // todo  server的接口
@@ -306,20 +309,8 @@
 
 };</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGlmIChpbmZvLmZpbGUuc3RhdHVzICE9PSAndXBsb2FkaW5nJykgewogICAgICBjb25zb2xlLmxvZyhpbmZvLmZpbGUsIGluZm8uZmlsZUxpc3QpOwogICAgfQogICAgaWYgKGluZm8uZmlsZS5zdGF0dXMgPT09ICdkb25lJykgewogICAgICBtZXNzYWdlLnN1Y2Nlc3MoYCR7aW5mby5maWxlLm5hbWV9IGZpbGUgdXBsb2FkZWQgc3VjY2Vzc2Z1bGx5YCk7CiAgICB9IGVsc2UgaWYgKGluZm8uZmlsZS5zdGF0dXMgPT09ICdlcnJvcicpIHsKICAgICAgbWVzc2FnZS5lcnJvcihgJHtpbmZvLmZpbGUubmFtZX0gZmlsZSB1cGxvYWQgZmFpbGVkLmApOwogICAgfQ==</text>
-      </register>
       <register name="9" type="4">
-        <text>onChange(info) {
-    if (info.file.status !== 'uploading') {
-      console.log(info.file, info.fileList);
-    }
-    if (info.file.status === 'done') {
-      message.success(`${info.file.name} file uploaded successfully`);
-    } else if (info.file.status === 'error') {
-      message.error(`${info.file.name} file upload failed.`);
-    }
-  }</text>
+        <text encoding="base64">IGlmIChpbmZvLmZpbGUuc3RhdHVzICE9PSAndXBsb2FkaW5nJykgewogICAgICBjb25zb2xlLmxvZyhpbmZvLmZpbGUsIGluZm8uZmlsZUxpc3QpOwogICAgfQogICAgaWYgKGluZm8uZmlsZS5zdGF0dXMgPT09ICdkb25lJykgewogICAgICBtZXNzYWdlLnN1Y2Nlc3MoYCR7aW5mby5maWxlLm5hbWV9IGZpbGUgdXBsb2FkZWQgc3VjY2Vzc2Z1bGx5YCk7CiAgICB9IGVsc2UgaWYgKGluZm8uZmlsZS5zdGF0dXMgPT09ICdlcnJvcicpIHsKICAgICAgbWVzc2FnZS5lcnJvcihgJHtpbmZvLmZpbGUubmFtZX0gZmlsZSB1cGxvYWQgZmFpbGVkLmApOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
