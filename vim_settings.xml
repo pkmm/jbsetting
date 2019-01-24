@@ -49,9 +49,12 @@
         <mark key="." line="141" column="26" />
         <mark key="^" line="141" column="26" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548302309146">
+      <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548303284877">
         <mark key="'" line="152" column="15" />
-        <mark key="^" line="45" column="3" />
+        <mark key="[" line="49" column="14" />
+        <mark key="]" line="49" column="14" />
+        <mark key="^" line="49" column="20" />
+        <mark key="." line="49" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1548232749098">
         <mark key="[" line="0" column="0" />
@@ -103,8 +106,8 @@
         <mark key="]" line="23" column="2" />
         <mark key="." line="23" column="2" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/src/routes.js" timestamp="1548224425554">
-        <mark key="[" line="70" column="0" />
+      <file name="D:/aizuoye-paper/client/h5/src/routes.js" timestamp="1548302916468">
+        <mark key="[" line="82" column="0" />
         <mark key="]" line="71" column="69" />
         <mark key="^" line="80" column="68" />
         <mark key="." line="71" column="0" />
@@ -219,15 +222,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>const uploadProps = {
-  name: 'student_file',
-  action: '', // todo  server的接口
-  headers: {},
-
-};</text>
+        <text>success</text>
       </register>
       <register name="-" type="4">
-        <text>className={Style.custom_label}</text>
+        <text>success</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
