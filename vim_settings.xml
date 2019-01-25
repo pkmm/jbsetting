@@ -21,13 +21,10 @@
         <mark key="." line="108" column="31" />
         <mark key="^" line="104" column="42" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1548381188576" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1548314475862">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="126" column="75" />
-        <mark key="]" line="128" column="0" />
-        <mark key="^" line="134" column="7" />
-        <mark key="." line="128" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1548385786024">
+        <mark key="[" line="389" column="14" />
+        <mark key="]" line="389" column="14" />
+        <mark key="." line="389" column="14" />
       </file>
       <file name="D:/aizuoye_mall/server/php/app/Utils/HttpPoster.php" timestamp="1548308699151" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/SchoolService.php" timestamp="1547715522322">
@@ -69,13 +66,6 @@
         <mark key="]" line="64" column="35" />
         <mark key="." line="64" column="35" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/src/views/mySchoolClass/index.jsx" timestamp="1548326929107">
-        <mark key="'" line="127" column="58" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="22" column="36" />
-        <mark key="." line="22" column="21" />
-        <mark key="^" line="127" column="58" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/HomepagePosterManager.php" timestamp="1547213282527">
         <mark key="[" line="35" column="0" />
       </file>
@@ -95,12 +85,11 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1548334217594">
         <mark key="[" line="255" column="44" />
       </file>
-      <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" timestamp="1548240723931">
-        <mark key="'" line="141" column="26" />
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="141" column="26" />
-        <mark key="." line="141" column="26" />
-        <mark key="^" line="141" column="26" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1548383982955">
+        <mark key="'" line="30" column="6" />
+        <mark key="[" line="408" column="4" />
+        <mark key="]" line="408" column="4" />
+        <mark key="." line="408" column="4" />
       </file>
       <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548314666475">
         <mark key="[" line="115" column="15" />
@@ -144,6 +133,9 @@
       <file name="D:/aizuoye-paper/server/php/app/Http/Middleware/Authenticate.php" timestamp="1548329739307">
         <mark key="[" line="58" column="56" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" timestamp="1548385936848">
+        <mark key="[" line="135" column="65" />
+      </file>
       <file name="D:/aizuoye-paper/server/php/app/Services/V1/AppSchoolService.php" timestamp="1548329125839">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="11" column="0" />
@@ -171,7 +163,6 @@
       <file name="D:/aizuoye-paper/client/h5/src/stores/appStore.js" timestamp="1548331174552" />
     </filemarks>
     <jumps>
-      <jump line="310" column="16" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="400" column="31" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="134" column="35" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
       <jump line="409" column="35" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" />
@@ -271,13 +262,16 @@
       <jump line="178" column="81" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
       <jump line="6" column="29" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
       <jump line="423" column="25" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" />
+      <jump line="30" column="6" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgJGFwcFVzZXJJZCA9IDI0MjsKICAgICAgICAkYXBwVG9rZW4gPSAnMzE2NDcwNjU3NWM0OTY3MWYxNTU3MzMuNjI1MDE3MTUnOw==</text>
+        <text>else {
+                break;
+            }</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>针对2.3版本，最多只返回3个家庭成员给客户端</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -286,32 +280,58 @@
         <text encoding="base64">ICAgICAgICAgICAgd2luZG93LmxvY2FsU3RvcmFnZS5zZXRJdGVtKCdhcHBfdXNlcl90b2tlbicsIG1lc3NhZ2Uuc2Vzc2lvbik7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgJGFwcFVzZXJJZCA9IDI0MjsKICAgICAgICAkYXBwVG9rZW4gPSAnMzE2NDcwNjU3NWM0OTY3MWYxNTU3MzMuNjI1MDE3MTUnOw==</text>
+        <text>else {
+                break;
+            }</text>
       </register>
       <register name="2" type="4">
-        <text>$appUserId = 242;
-        $appToken = '3164706575c49671f155733.62501715';</text>
+        <text encoding="base64">aWYgKGNvdW50KCRyZXQpIDw9IDMpIHsKICAgICAgICAgICAgcmV0dXJuICRyZXQ7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlcyk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">aWYgKCRuZXdVc2VyLT5pZCA9PSAkc2VsZklkKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmVycm9yKHJlc3ApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZWFyY2gnLCB2YWx1ZSkK</text>
+        <text encoding="base64">Ly8gICAgICAgINXrttQyLjOw5rG+o6zX7rbg1ru3tbvYM7j2vNLNpbPJ1LG4+L/Nu6e2ywo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">LyBvbkNoYW5nZT17KHNjaG9vbCkgPT4gewogICAgICAgICAgICAgICAgICAgIC8vICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgICAgICAgLy8gICAgIHNjaG9vbCwKICAgICAgICAgICAgICAgICAgICAvLyAgIH0pCiAgICAgICAgICAgICAgICAgICAgLy8gfX0=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmdW5jdGlvbiB0cmltU3R1ZGVudEZhbWlseSgkdXNlcnMsICRzZWxmKQogICAgewogICAgICAgIAogICAgfQ==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IHNldFRpbWVvdXQoKCkgPT4gewogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBzY2hvb2xJbmZvczogW3sKICAgICAgICAgIHNjaG9vbF9pZDogMjMyMywKICAgICAgICAgIG5hbWU6ICd6aGVqaWFuZycKICAgICAgICB9XQogICAgICB9KQogICAgfSwgMTAwMCk7</text>
+        <text>/**
+     * @func 针对2.3版本，最多只返回3个家庭成员给客户端
+     * @param $users
+     * @return array
+     */</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGNvbnN0IHt0ZWFjaGVyfSA9IHRoaXMuc3RhdGU7CiAgICBjb25zdCBzY2hvb2wgPSB0ZWFjaGVyLnNjaG9vbF9jbGFzc2VzOw==</text>
+        <text>/**
+     * @func 针对2.3版本，最多只返回3个家庭成员给客户端
+     * @param int $userId
+     * @param StudentFamilyModel[] $families
+     */
+    public static function trimStudentFamilies($userId, $families)
+    {
+        $ret = [];
+        foreach ($families as $family) {
+            $ret
+        }
+    }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8K</text>
+      <register name="9" type="4">
+        <text>/**
+     * @func 针对2.3版本，最多只返回3个家庭成员给客户端
+     * @param $userId
+     * @param $families
+     */
+    public static function trimStudentFamilies($userId, $families)
+    {
+        foreach ($families as $family) {
+            
+        }
+    }</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
