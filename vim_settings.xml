@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1548311700448">
+        <mark key="[" line="69" column="8" />
+        <mark key="]" line="84" column="32" />
+      </file>
       <file name="D:/aizuoye-paper/client/h5/API/Generated/v1/appSchool/GetAppSchoolListMessage.js" timestamp="1548331297544" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1548162810346">
         <mark key="[" line="35" column="48" />
@@ -12,19 +16,19 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Tag/Constants/UserTagIds.php" timestamp="1548336689503" />
       <file name="D:/aizuoye-paper/server/php/app/Manager/UserManager.php" timestamp="1548321223071" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ABTestManager.php" timestamp="1548396424196" />
       <file name="D:/aizuoye-paper/client/h5/server/app.js" timestamp="1548212375382">
         <mark key="[" line="36" column="25" />
+      </file>
+      <file name="D:/aizuoye-paper/server/php/ClientAPI/Homework/Generated/model/SchoolClassModel.php" timestamp="1548320208540">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="44" column="29" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" timestamp="1548314099546">
         <mark key="[" line="108" column="31" />
         <mark key="]" line="108" column="31" />
         <mark key="." line="108" column="31" />
         <mark key="^" line="104" column="42" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1548385786024">
-        <mark key="[" line="389" column="14" />
-        <mark key="]" line="389" column="14" />
-        <mark key="." line="389" column="14" />
       </file>
       <file name="D:/aizuoye_mall/server/php/app/Utils/HttpPoster.php" timestamp="1548308699151" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/SchoolService.php" timestamp="1547715522322">
@@ -46,6 +50,12 @@
         <mark key="]" line="23" column="2" />
         <mark key="^" line="1" column="1" />
         <mark key="." line="23" column="2" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_25_141422_AddIsShowPortalEntranceConfig.php" timestamp="1548397078144">
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="36" column="61" />
+        <mark key="^" line="36" column="37" />
+        <mark key="." line="36" column="38" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/seeds/SetUserAccessTokenAvalible.php" timestamp="1548213452087">
         <mark key="[" line="13" column="40" />
@@ -141,6 +151,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_02_162531_add_knowledge_exercise_abtest_to_cfg_ab_tests_table.php" timestamp="1548396883815">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="82" />
+      </file>
       <file name="D:/aizuoye-paper/client/h5/src/views/schoolClass/index.jsx" timestamp="1548139068072">
         <mark key="[" line="13" column="1" />
       </file>
@@ -151,6 +165,10 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/seeds/DatabaseSeeder.php" timestamp="1548209619590">
         <mark key="[" line="27" column="0" />
+      </file>
+      <file name="D:/aizuoye-paper/server/php/.dev.env" timestamp="1548320929501">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="28" column="55" />
       </file>
       <file name="D:/aizuoye-paper/client/h5/src/views/layout/main.js" timestamp="1548324820454" />
       <file name="D:/aizuoye-paper/server/php/app/Services/V1/AppTeacherService.php" timestamp="1548334563574" />
@@ -266,18 +284,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>else {
-                break;
-            }</text>
+        <text>is_show_portal_entrance</text>
       </register>
       <register name="-" type="4">
-        <text>针对2.3版本，最多只返回3个家庭成员给客户端</text>
+        <text>enable_knowledge_exercise</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LmxvY2FsU3RvcmFnZS5zZXRJdGVtKCdhcHBfdXNlcl90b2tlbicsIG1lc3NhZ2Uuc2Vzc2lvbik7Cg==</text>
+      <register name="0" type="4">
+        <text>is_show_portal_entrance</text>
       </register>
       <register name="1" type="4">
         <text>else {
