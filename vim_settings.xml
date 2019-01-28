@@ -23,10 +23,22 @@
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Http/Controllers/SearchController.php" timestamp="1548640016646" />
       <file name="D:/aizuoye_mall/server/php/app/Utils/HttpPoster.php" timestamp="1548308699151" />
+      <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1548157866292">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="4" column="18" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/User/UserInviteManager.php" timestamp="1547435535561">
         <mark key="[" line="12" column="45" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/User/LoginSessionManager.php" timestamp="1548301551730" />
+      <file name="D:/a_web_app/101760/server/php/composer.json" timestamp="1548664900854" />
+      <file name="D:/a_web_app/101760/server/php/app/Http/web_routes.php" timestamp="1548664340504">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="D:/aizuoye-paper/client/h5/config.js" timestamp="1548326190407">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="17" />
@@ -67,6 +79,9 @@
         <mark key="]" line="23" column="2" />
         <mark key="." line="23" column="2" />
       </file>
+      <file name="D:/a_web_app/101760/server/php/config/app.php" timestamp="1548662616669">
+        <mark key="[" line="237" column="48" />
+      </file>
       <file name="D:/aizuoye-paper/server/php/app/Manager/UserManager.php" timestamp="1548321223071" />
       <file name="D:/a_web_app/101760/server/php/app/Http/Middleware/Authenticate.php" timestamp="1548661236095" />
       <file name="D:/a_web_app/101760/client/h5/src/stores/appStore.js" timestamp="1548658431530" />
@@ -97,11 +112,30 @@
         <mark key="]" line="64" column="35" />
         <mark key="." line="64" column="35" />
       </file>
+      <file name="D:/a_web_app/101760/server/php/app/Services/V1/AppTeacherService.php" timestamp="1548663079819" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/HomepagePosterManager.php" timestamp="1547213282527">
         <mark key="[" line="35" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548328729138">
+      <file name="D:/a_web_app/101760/server/php/app/Http/route_includer.php" timestamp="1548664349223">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Jobs/AddStudentToSchoolClass.php" timestamp="1548168569892">
+        <mark key="[" line="50" column="20" />
+        <mark key="]" line="50" column="20" />
+        <mark key="^" line="42" column="5" />
+        <mark key="." line="50" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1548663527866">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/api_routes_Portal.php" timestamp="1548122674764">
+        <mark key="[" line="72" column="5" />
+        <mark key="]" line="72" column="33" />
+        <mark key="^" line="30" column="18" />
+        <mark key="." line="30" column="18" />
       </file>
       <file name="D:/aizuoye-paper-trunk/server/php/app/Services/V1/AppTeacherService.php" timestamp="1548660593981">
         <mark key="[" line="29" column="0" />
@@ -112,6 +146,11 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="D:/a_web_app/101760/server/php/app/Utils/ExcelUtil.php" timestamp="1548664673528">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
       </file>
       <file name="D:/aizuoye-paper/server/php/app/Http/web_routes.php" timestamp="1548222300206">
         <mark key="[" line="14" column="55" />
@@ -131,6 +170,9 @@
         <mark key="[" line="12" column="5" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="D:/a_web_app/101760/server/php/app/Manager/TraceManager.php" timestamp="1548663097807">
+        <mark key="[" line="32" column="5" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/seeds/DatabaseSeeder.php" timestamp="1548209619590">
         <mark key="[" line="27" column="0" />
@@ -251,8 +293,8 @@
       <jump line="30" column="6" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">RXhjZWw6OmxvYWQoJGV4Y2VsUGF0aCwgZnVuY3Rpb24gKCRyZWFkZXIpIHsKICAgICAgICAgICAkZGF0YSA9ICRyZWFkZXItPmdldCgpOwogICAgICAgICAgIGRkKCRkYXRhKTsKICAgICAgICB9KTs=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IChzdHJpbmcpJHVzZXJbJ3Nlc3Npb24nXQ==</text>
@@ -263,32 +305,32 @@
       <register name="0" type="4">
         <text encoding="base64">IGNvbnN0IHthZG1pbmlzdHJhdG9yfSA9IHRoaXMucHJvcHMuYXBwU3RvcmU7CiAgICBjb25zdCB1c2VySW5mbyA9IGFkbWluaXN0cmF0b3IudXNlckluZm87</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">RXhjZWw6OmxvYWQoJGV4Y2VsUGF0aCwgZnVuY3Rpb24gKCRyZWFkZXIpIHsKICAgICAgICAgICAkZGF0YSA9ICRyZWFkZXItPmdldCgpOwogICAgICAgICAgIGRkKCRkYXRhKTsKICAgICAgICB9KTs=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RvZG8uINTabWFwcGVy1tDM7bzTCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Um91dGU6OmFueSgnL3pjYycsIGZ1bmN0aW9uICgpIHsKICAgICRmaWxlID0gcmVxdWVzdCgpLT5maWxlKCdmJyk7CiAgICBkZCgkZmlsZSk7CiAgICBkZCgKICAgICAgICBcQXBwXFV0aWxzXEV4Y2VsVXRpbDo6ZXhjZWwyYXJyYXkoJGZpbGUtPmdldFBhdGgoKSkKICAgICk7Cn0pOw==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">JGxvZ2luSW5mbyA9IG5ldyBMb2dpbkluZm9Nb2RlbCgpOwogICAgICAgICRsb2dpbkluZm8tPmlkID0gJGFwcFVzZXJJZDsKICAgICAgICAkbG9naW5JbmZvLT5zZXNzaW9uID0gJGFwcFRva2VuOwogICAgICAgICRsb2dpbkluZm8tPnN1YmplY3QgPSAkdGVhY2hlci0+Z2V0Q291cnNlSWQoKTsKICAgICAgICAkbG9naW5JbmZvLT5jbGllbnRfaWRzID0gWyR0ZWFjaGVyLT5nZXRTY2hvb2xJZCgpXTsKICAgICAgICAkbG9naW5JbmZvLT5ncmFkZSA9ICR0ZWFjaGVyLT5nZXRHcmFkZSgpOwogICAgICAgICRsb2dpbkluZm8tPm5pY2tuYW1lID0gJHRlYWNoZXItPmdldFRlYWNoZXJOYW1lKCk7</text>
+        <text encoding="base64">IEV4Y2VsOjpsb2FkKCRleGNlbFBhdGgsIGZ1bmN0aW9uICgkcmVhZGVyKSB7CiAgICAgICAgICAgIAogICAgICAgIH0pOw==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Y29uc3QgdGVhY2hlciA9IHRoaXMuc3RhdGUudGVhY2hlckluZm87CiAgICBpZiAodGVhY2hlciAmJiB0ZWFjaGVyLnNjaG9vbF9jbGFzc2VzICYmIHRlYWNoZXIuc2Nob29sX2NsYXNzZXMubGVuZ3RoID4gMCkgewogICAgICBjb25zdCBzY2hvb2wgPSB0ZWFjaGVyLnNjaG9vbF9jbGFzc2VzWzBdLnNjaG9vbDsKICAgICAgcmV0dXJuIHNjaG9vbC5wcm92aW5jZSArIHNjaG9vbC5jaXR5ICsgc2Nob29sLnJlZ2lvbiArIHNjaG9vbC5uYW1lOwogICAgfQoKICAgIHJldHVybiAnJzs=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGVhY2hlckluZm86IHt9LAo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRlYWNoZXIgPSB0aGlzLnN0YXRlLnRlYWNoZXJJbmZvOwo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvL3RvZG8uINTabWFwcGVy1tDM7bzTCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">JGxvZ2luSW5mbyA9IG5ldyBMb2dpbkluZm9Nb2RlbCgpOwogICAgICAgICRsb2dpbkluZm8tPmlkID0gJGFwcFVzZXJJZDsKICAgICAgICAkbG9naW5JbmZvLT5zZXNzaW9uID0gJGFwcFRva2VuOwogICAgICAgICRsb2dpbkluZm8tPnN1YmplY3QgPSAkdGVhY2hlci0+Z2V0Q291cnNlSWQoKTsKICAgICAgICAkbG9naW5JbmZvLT5jbGllbnRfaWRzID0gWyR0ZWFjaGVyLT5nZXRTY2hvb2xJZCgpXTsKICAgICAgICAkbG9naW5JbmZvLT5ncmFkZSA9ICR0ZWFjaGVyLT5nZXRHcmFkZSgpOwogICAgICAgICRsb2dpbkluZm8tPm5pY2tuYW1lID0gJHRlYWNoZXItPmdldFRlYWNoZXJOYW1lKCk7</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Y29uc3QgdGVhY2hlciA9IHRoaXMuc3RhdGUudGVhY2hlckluZm87CiAgICBpZiAodGVhY2hlciAmJiB0ZWFjaGVyLnNjaG9vbF9jbGFzc2VzICYmIHRlYWNoZXIuc2Nob29sX2NsYXNzZXMubGVuZ3RoID4gMCkgewogICAgICBjb25zdCBzY2hvb2wgPSB0ZWFjaGVyLnNjaG9vbF9jbGFzc2VzWzBdLnNjaG9vbDsKICAgICAgcmV0dXJuIHNjaG9vbC5wcm92aW5jZSArIHNjaG9vbC5jaXR5ICsgc2Nob29sLnJlZ2lvbiArIHNjaG9vbC5uYW1lOwogICAgfQoKICAgIHJldHVybiAnJzs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7Cg==</text>
+        <text encoding="base64">ICAgICAgdGVhY2hlckluZm86IHt9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWFjaGVySW5mbzogcmVzcC50ZWFjaGVyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
