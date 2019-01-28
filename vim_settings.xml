@@ -8,6 +8,7 @@
         <mark key="]" line="84" column="32" />
       </file>
       <file name="D:/aizuoye-paper/client/h5/API/Generated/v1/appSchool/GetAppSchoolListMessage.js" timestamp="1548331297544" />
+      <file name="D:/aizuoye-paper/server/php/app/Services/V1/Mapper/UserMapper.php" timestamp="1548652655157" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Tag/Constants/UserTagIds.php" timestamp="1548336689503" />
       <file name="D:/aizuoye-paper/server/php/app/Manager/UserManager.php" timestamp="1548321223071" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ABTestManager.php" timestamp="1548643474623" />
@@ -135,7 +136,11 @@
         <mark key="]" line="28" column="55" />
       </file>
       <file name="D:/aizuoye-paper/client/h5/src/views/layout/main.js" timestamp="1548324820454" />
-      <file name="D:/aizuoye-paper/server/php/app/Services/V1/AppTeacherService.php" timestamp="1548334563574" />
+      <file name="D:/aizuoye-paper/server/php/app/Services/V1/AppTeacherService.php" timestamp="1548652771830">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+      </file>
       <file name="D:/aizuoye-paper/server/php/app/Manager/TeacherManager.php" timestamp="1548328620972">
         <mark key="[" line="65" column="59" />
         <mark key="]" line="65" column="59" />
@@ -247,11 +252,11 @@
       <jump line="30" column="6" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjFcbW9kZWxcQXBwU2Nob29sTW9kZWw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>teache</text>
       </register>
       <register name="-" type="4">
-        <text>userInfo</text>
+        <text>teache</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -260,33 +265,33 @@
         <text>is_show_portal_entrance</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjFcbW9kZWxcQXBwU2Nob29sTW9kZWw7Cg==</text>
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjFcYXBwVGVhY2hlclxHZXRBcHBUZWFjaGVySW5mb01lc3NhZ2U7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjFcbW9kZWxcQXBwU2Nob29sQ2xhc3NNb2RlbDsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0QXBwVGVhY2hlckluZm8oR2V0QXBwVGVhY2hlckluZm9NZXNzYWdlICRtZXNzYWdlKQogICAgewogICAgICAgICRhcHBVc2VySWQgPSAoaW50KSRfR0VUWydfX3VzZXJfaWQnXTsKICAgICAgICAkYXBwVG9rZW4gPSAoc3RyaW5nKSRfR0VUWydfX2FjY2Vzc190b2tlbiddOwogICAgICAgIAogICAgICAgICR0ZWFjaGVyID0gVGVhY2hlck1hbmFnZXI6OmdldEFwcFRlYWNoZXJJbmZvKCRhcHBVc2VySWQsICRhcHBUb2tlbik7CiAgICAgICAgaWYgKCEkdGVhY2hlcikgewogICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZFBhcmFtZXRlcnNFeGNlcHRpb24oJycpOwogICAgICAgIH0KCiAgICAgICAgJG1lc3NhZ2UtPnRlYWNoZXIgPSBBcHBNb2RlbDJMb2NhbE1vZGVsQ29udmVydGVyOjpnZXRBcHBUZWFjaGVyTW9kZWwoJHRlYWNoZXIpOwogICAgfQ==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjFcbW9kZWxcQXBwU2Nob29sTW9kZWw7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjFcbW9kZWxcQXBwU2Nob29sQ2xhc3NNb2RlbDsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjFcbW9kZWxcQXBwVGVhY2hlck1vZGVsOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">aWYgKCRtZXNzYWdlLT51c2VySW5mby0+c3R1ZGVudFByb2ZpbGUgJiYgJG1lc3NhZ2UtPnVzZXJJbmZvLT5zdHVkZW50UHJvZmlsZS0+c3R1ZGVudEZhbWlsaWVzKSB7CiAgICAgICAgICAgICRtZXNzYWdlLT51c2VySW5mby0+c3R1ZGVudFByb2ZpbGUtPnN0dWRlbnRGYW1pbGllcyA9CiAgICAgICAgICAgICAgICBVc2VyTWFwcGVyOjp0cmltRmFtaWxpZXMoJG1lc3NhZ2UtPnVzZXJJbmZvLT5zdHVkZW50UHJvZmlsZS0+c3R1ZGVudEZhbWlsaWVzLCR1c2VyLT5pZCk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGlmICgkbWVzc2FnZS0+dXNlckluZm8tPnN0dWRlbnRQcm9maWxlICYmICRtZXNzYWdlLT51c2VySW5mby0+c3R1ZGVudFByb2ZpbGUtPnN0dWRlbnRGYW1pbGllcykgewogICAgICAgICAgICAkbWVzc2FnZS0+dXNlckluZm8tPnN0dWRlbnRQcm9maWxlLT5zdHVkZW50RmFtaWxpZXMgPQogICAgICAgICAgICAgICAgVXNlck1hcHBlcjo6dHJpbUZhbWlsaWVzKCRtZXNzYWdlLT51c2VySW5mby0+c3R1ZGVudFByb2ZpbGUtPnN0dWRlbnRGYW1pbGllcywgJGN1cnJlbnRVc2VyLT5pZCk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>else {
                 break;
             }</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">aWYgKGNvdW50KCRyZXQpIDw9IDMpIHsKICAgICAgICAgICAgcmV0dXJuICRyZXQ7CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">aWYgKCRuZXdVc2VyLT5pZCA9PSAkc2VsZklkKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
