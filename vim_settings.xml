@@ -16,7 +16,7 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Tag/Constants/UserTagIds.php" timestamp="1548336689503" />
       <file name="D:/aizuoye-paper/server/php/app/Manager/UserManager.php" timestamp="1548321223071" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ABTestManager.php" timestamp="1548396424196" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ABTestManager.php" timestamp="1548643474623" />
       <file name="D:/aizuoye-paper/client/h5/server/app.js" timestamp="1548212375382">
         <mark key="[" line="36" column="25" />
       </file>
@@ -52,11 +52,11 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="23" column="2" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_25_141422_AddIsShowPortalEntranceConfig.php" timestamp="1548397078144">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="36" column="61" />
-        <mark key="^" line="36" column="37" />
-        <mark key="." line="36" column="38" />
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_25_141422_AddIsShowPortalEntranceConfig.php" timestamp="1548643607498">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="42" />
+        <mark key="^" line="18" column="69" />
+        <mark key="." line="18" column="42" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/seeds/SetUserAccessTokenAvalible.php" timestamp="1548213452087">
         <mark key="[" line="13" column="40" />
@@ -140,6 +140,7 @@
         <mark key="[" line="13" column="75" />
       </file>
       <file name="D:/aizuoye-paper/server/php/app/Http/api_routes_v1.php" timestamp="1548321431237" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Model/CfgABTest.php" timestamp="1548643405072" />
       <file name="D:/aizuoye-paper/server/php/ClientAPI/readme.txt" timestamp="1548222523440" />
       <file name="D:/aizuoye-paper/server/php/app/Http/Middleware/Authenticate.php" timestamp="1548329739307">
         <mark key="[" line="58" column="56" />
@@ -285,10 +286,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>is_show_portal_entrance</text>
+        <text>AB_TEST_TYPE_ONLY_CONFIGURE</text>
       </register>
       <register name="-" type="4">
-        <text>enable_knowledge_exercise</text>
+        <text>AB_TEST_TYPE_ONLY_CONFIGURE</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
