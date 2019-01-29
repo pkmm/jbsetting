@@ -23,11 +23,11 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548745716066">
+      <file name="D:/a_web_app/101760/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548750960294">
         <mark key="'" line="10" column="52" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Http/api_routes_v1.php" timestamp="1548683103391" />
       <file name="D:/a_web_app/101760/client/h5/src/views/mySchoolClass/index.jsx" timestamp="1548749296052">
@@ -36,10 +36,10 @@
         <mark key="." line="29" column="4" />
         <mark key="^" line="29" column="20" />
       </file>
-      <file name="D:/a_web_app/101760/server/php/app/Manager/TeacherManager.php" timestamp="1548749387248">
-        <mark key="[" line="77" column="73" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="D:/a_web_app/101760/server/php/app/Manager/TeacherManager.php" timestamp="1548751308422">
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="84" column="8" />
+        <mark key="." line="84" column="8" />
       </file>
       <file name="D:/a_web_app/101760/client/h5/API/Generated/api.js" timestamp="1548741702768" />
       <file name="D:/a_web_app/101760/server/php/app/Http/Middleware/AllowCors.php" timestamp="1548683746429">
@@ -213,11 +213,11 @@
       <jump line="10" column="52" filename="D:/a_web_app/101760/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAkdXNlci0+aWQgPSAyNDI7IC8vIHRvZG8gyb6z/dTazOG9u7XEyrG68gogICAgICAgICR1c2VyLT5zZXNzaW9uID0gJzc5NTUwODAyMTVjNGVmYmY1YmVhYjg0LjAzODUwNTI1Jzs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcihyZXNwKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>dd</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -225,36 +225,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyKCdBY2Nlc3MtQ29udHJvbC1BbGxvdy1NZXRob2RzOiBQT1NULCBHRVQsIERFTEVURSwgUFVULCBPUFRJT05TLCBYLVJlcXVlc3RlZC1XaXRoJyk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcihyZXNwKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlLmVycm9yKHJlc3AubWVzc2FnZSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmhpZGVNb2RhbCgpOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>$students = array_filter($students, function ($item) {
+            return is_numeric($item['0']);
+            if (is_numeric($item[0])) {
+                return true;
+            }
+        });</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ICAkdXNlci0+aWQgPSAyNDI7IC8vIHRvZG8gyb6z/dTazOG9u7XEyrG68gogICAgICAgICR1c2VyLT5zZXNzaW9uID0gJzc5NTUwODAyMTVjNGVmYmY1YmVhYjg0LjAzODUwNTI1Jzs=</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICR1c2VyLT5pZCA9IDI0MjsgLy8gdG9kbyDJvrP91NrM4b27tcTKsbryCiAgICAgICAgJHVzZXItPnNlc3Npb24gPSAnNzk1NTA4MDIxNWM0ZWZiZjViZWFiODQuMDM4NTA1MjUnOw==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>const {administrator} = this.props.appStore;
     const userInfo = administrator.userInfo;</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgZGVzdHJveU9uQ2xvc2UK</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>// 上传成功后 隐藏掉上传的按钮 转而显示 上传的文件名称
-      this.setState({
-        uploadButtonVisible: false,
-      })</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgdmlzaWJsZTogZmFsc2UsCiAgICAgIH0pOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmlzaWJsZTogZmFsc2UsCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgY29tcG9uZW50RGlkTW91bnQoKSB7CgogIH0=</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
