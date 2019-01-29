@@ -10,7 +10,7 @@
         <mark key="^" line="65" column="26" />
       </file>
       <file name="D:/a_web_app/101760/client/h5/src/views/app.js" timestamp="1548680087611" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1548673583865">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1548726627636">
         <mark key="[" line="22" column="37" />
         <mark key="]" line="22" column="37" />
         <mark key="." line="22" column="37" />
@@ -28,10 +28,11 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548684083497">
-        <mark key="[" line="118" column="29" />
-        <mark key="]" line="118" column="29" />
-        <mark key="." line="118" column="29" />
+      <file name="D:/a_web_app/101760/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548726115855">
+        <mark key="[" line="186" column="38" />
+        <mark key="]" line="186" column="38" />
+        <mark key="." line="186" column="38" />
+        <mark key="^" line="40" column="3" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Http/api_routes_v1.php" timestamp="1548683103391" />
       <file name="D:/a_web_app/101760/client/h5/src/views/user/user-info.less" timestamp="1548677184574">
@@ -255,11 +256,11 @@
       <jump line="65" column="0" filename="D:/a_web_app/101760/client/h5/src/views/mySchoolClass/classStudentList.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyKCdBY2Nlc3MtQ29udHJvbC1BbGxvdy1NZXRob2RzOiBQT1NULCBHRVQsIERFTEVURSwgUFVULCBPUFRJT05TLCBYLVJlcXVlc3RlZC1XaXRoJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>doUpload</text>
       </register>
       <register name="-" type="4">
-        <text>Origin</text>
+        <text>doUpload</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
