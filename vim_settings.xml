@@ -30,14 +30,14 @@
         <mark key="." line="191" column="0" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Http/api_routes_v1.php" timestamp="1548683103391" />
-      <file name="D:/a_web_app/101760/client/h5/src/views/mySchoolClass/index.jsx" timestamp="1548745883723">
+      <file name="D:/a_web_app/101760/client/h5/src/views/mySchoolClass/index.jsx" timestamp="1548749296052">
         <mark key="[" line="29" column="4" />
         <mark key="]" line="29" column="4" />
         <mark key="." line="29" column="4" />
         <mark key="^" line="29" column="20" />
       </file>
-      <file name="D:/a_web_app/101760/server/php/app/Manager/TeacherManager.php" timestamp="1548743517329">
-        <mark key="[" line="88" column="0" />
+      <file name="D:/a_web_app/101760/server/php/app/Manager/TeacherManager.php" timestamp="1548749387248">
+        <mark key="[" line="77" column="73" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
@@ -74,7 +74,6 @@
         <mark key="." line="140" column="4" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Manager/UserManager.php" timestamp="1548679493311" />
-      <file name="D:/a_web_app/101760/client/h5/API/Generated/v1/appTeacher/UploadSchoolClassStudentsMessage.js" timestamp="1548741768128" />
       <file name="D:/a_web_app/101760/server/php/app/Services/V1/AppTeacherService.php" timestamp="1548746053460">
         <mark key="[" line="71" column="6" />
         <mark key="]" line="71" column="6" />
