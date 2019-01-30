@@ -56,10 +56,10 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UploadTokenManager.php" timestamp="1548848472766">
-        <mark key="[" line="163" column="47" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UploadTokenManager.php" timestamp="1548850213785">
+        <mark key="[" line="137" column="76" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Http/api_routes_v2.php" timestamp="1548836923339">
         <mark key="[" line="257" column="0" />
@@ -105,7 +105,7 @@
         <mark key="[" line="13" column="45" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Jobs/UpdateUploadTokenTask.php" timestamp="1548833040864">
-        <mark key="[" line="15" column="21" />
+        <mark key="[" line="16" column="21" />
       </file>
       <file name="D:/aizuoye-paper/client/h5/webpack.config.js" timestamp="1548222005418">
         <mark key="[" line="23" column="2" />
@@ -129,11 +129,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/HomeworkService.php" timestamp="1548836499538">
-        <mark key="[" line="36" column="12" />
-        <mark key="]" line="36" column="12" />
-        <mark key="." line="36" column="12" />
-        <mark key="^" line="36" column="41" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/HomeworkService.php" timestamp="1548850107544">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="D:/a_web_app/101760/client/h5/src/views/user/user-info.less" timestamp="1548677184574">
         <mark key="[" line="47" column="0" />
@@ -370,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZmlsdGVyU3R1ZGVudHNkZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbm93ID0gRGF0ZVV0aWw6Om5vdygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>// 删除表头</text>
+        <text>$authPath = &quot;$filePrefix/*&quot;;</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -382,9 +381,15 @@
         <text encoding="base64">ICAgIGNvbnN0IFVQTE9BRF9QT1JUQUxfUEFQRVJfU1RVREVOVF9QQVRIID0gJ3NvdXJjZS1jJzsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkbm93ID0gRGF0ZVV0aWw6Om5vdygpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIEFwcFxBbGl5dW5cQWxpeXVuTWFuYWdlcjsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkZmlsdGVyU3R1ZGVudHNkZCk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>if (!is_numeric($students[0][0])) { // 删除表头
             unset($students[0]);
         }
@@ -392,26 +397,20 @@
             unset($students[1]);
         }</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICRpID0gMCwgJGNvdW50ID0gY291bnQoJHN0dWRlbnRzKTsKICAgICAgICB3aGlsZSAoJGkgPCk=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly91c2UgTWFhdHdlYnNpdGVcRXhjZWxcRmFjYWRlc1xFeGNlbDsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIGRkKCRjZWxsLT5nZXRGb3JtYXR0ZWRWYWx1ZSgpKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBkZCgkZGF0YSk7Ci8vICAgICAgICAkZGF0YSA9IEV4Y2VsOjpsb2FkKCRleGNlbFBhdGgsIGZ1bmN0aW9uICgkcmVhZGVyKSB1c2UgKCRsaW1pdFJvdywgJGxpbWl0Q29sdW1uKSB7Ci8vICAgICAgICAgICAgJHJlYWRlci0+dGFrZUNvbHVtbnMoJGxpbWl0Q29sdW1uKS0+dGFrZVJvd3MoJGxpbWl0Um93KTsKLy8gICAgICAgIH0sICdVVEYtOCcpLT5nZXQoKS0+dG9BcnJheSgpOw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJGNlbGwtPmdldEZvcm1hdHRlZFZhbHVlKCk7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">Um91dGU6OmFueSgnL3pjYycsIGZ1bmN0aW9uICgpIHsKICAgICRmID0gcmVxdWVzdCgpLT5maWxlKCdmJyk7CiAgICBcQXBwXFV0aWxzXEV4Y2VsVXRpbDo6ZXhjZWwyYXJyYXkoJGYtPmdldFBhdGhuYW1lKCkpOwp9KTs=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgpSb3V0ZTo6YW55KCcvemNjJywgZnVuY3Rpb24gKCkgewogICAgJGYgPSByZXF1ZXN0KCktPmZpbGUoJ2YnKTsKICAgIFxBcHBcVXRpbHNcRXhjZWxVdGlsOjpleGNlbDJhcnJheSgkZi0+Z2V0UGF0aG5hbWUoKSk7Cn0pOw==</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
