@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_1/HomeworkService.php" timestamp="1548814440640" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_1/HomeworkService.php" timestamp="1548816079116" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ABTestManager.php" timestamp="1548728551077" />
       <file name="D:/a_web_app/101760/server/php/.env" timestamp="1548682716501">
         <mark key="[" line="66" column="28" />
@@ -44,6 +44,9 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UploadTokenManager.php" timestamp="1548816385466">
+        <mark key="[" line="25" column="22" />
+      </file>
       <file name="D:/aizuoye-paper/server/php/app/Services/V1/Mapper/AppModel2LocalModelConverter.php" timestamp="1548645876412">
         <mark key="[" line="39" column="24" />
         <mark key="]" line="8" column="0" />
@@ -58,6 +61,11 @@
         <mark key="[" line="115" column="15" />
         <mark key="]" line="115" column="15" />
         <mark key="." line="115" column="15" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/AliyunConfig.php" timestamp="1548816278402">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
       </file>
       <file name="D:/a_web_app/101760/client/h5/API/Generated/api.js" timestamp="1548741702768" />
       <file name="D:/a_web_app/101760/server/php/app/Http/Middleware/AllowCors.php" timestamp="1548683746429">
@@ -268,11 +276,11 @@
       <jump line="10" column="52" filename="D:/a_web_app/101760/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBcTWFhdHdlYnNpdGVcRXhjZWxcRXhjZWxTZXJ2aWNlUHJvdmlkZXI6OmNsYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>portalFiles</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>portalFiles</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
