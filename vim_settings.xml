@@ -63,11 +63,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/server/php/app/Manager/TeacherManager.php" timestamp="1548758225380">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-      </file>
       <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548314666475">
         <mark key="[" line="115" column="15" />
         <mark key="]" line="115" column="15" />
@@ -106,10 +101,10 @@
         <mark key="]" line="23" column="2" />
         <mark key="." line="23" column="2" />
       </file>
-      <file name="D:/a_web_app/101760/server/php/config/app.php" timestamp="1548814916269">
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
+      <file name="D:/a_web_app/101760/server/php/config/app.php" timestamp="1548834676157">
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
+        <mark key="." line="237" column="0" />
       </file>
       <file name="D:/aizuoye-paper-trunk/server/php/composer.json" timestamp="1548762042886" />
       <file name="D:/a_web_app/101760/client/h5/config.js" timestamp="1548656984651">
@@ -199,6 +194,11 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="D:/a_web_app/101760/server/php/app/Utils/ExcelUtil.php" timestamp="1548834756596">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1548830451362">
         <mark key="[" line="267" column="0" />
@@ -355,8 +355,8 @@
       <jump line="10" column="52" filename="D:/a_web_app/101760/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljICRidWNrZXQ7CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0QnVja2V0KCkKICAgIHsKICAgICAgICByZXR1cm4gZW1wdHkoJHRoaXMtPmJ1Y2tldCkgPyBBbGl5dW5Db25maWc6OmFsaW9zc0J1Y2tldCgpIDogJHRoaXMtPmJ1Y2tldDsKICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICdFeGNlbCcgPT4gTWFhdHdlYnNpdGVcRXhjZWxcRmFjYWRlc1xFeGNlbDo6Y2xhc3MsCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">QWxpeXVuQ29uZmlnOjphbGlvc3NVcGxvYWRQcmVmaXgoKSA=</text>
@@ -367,24 +367,30 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IFVQTE9BRF9QT1JUQUxfUEFQRVJfU1RVREVOVF9QQVRIID0gJ3NvdXJjZS1jJzsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgICdFeGNlbCcgPT4gTWFhdHdlYnNpdGVcRXhjZWxcRmFjYWRlc1xFeGNlbDo6Y2xhc3MsCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgIFxNYWF0d2Vic2l0ZVxFeGNlbFxFeGNlbFNlcnZpY2VQcm92aWRlcjo6Y2xhc3MK</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">cHVibGljICRidWNrZXQ7CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0QnVja2V0KCkKICAgIHsKICAgICAgICByZXR1cm4gZW1wdHkoJHRoaXMtPmJ1Y2tldCkgPyBBbGl5dW5Db25maWc6OmFsaW9zc0J1Y2tldCgpIDogJHRoaXMtPmJ1Y2tldDsKICAgIH0=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEJ1Y2tldCgpCiAgICB7CiAgICAgICAgcmV0dXJuIGVtcHR5KCR0aGlzLT5idWNrZXQpID8gQWxpeXVuQ29uZmlnOjphbGlvc3NCdWNrZXQoKSA6ICR0aGlzLT5idWNrZXQ7CiAgICB9</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAkbm93ID0gRGF0ZVV0aWw6Om5vdyhkZCk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Ly8gICAgICAgICAgICAkdW5pcXVlID0gdW5pcWlkKCRub3ctPmdldFRpbWVzdGFtcCgpKTsKLy8gICAgICAgICAgICAkZGF0ZURpciA9ICRub3ctPmZvcm1hdCgiWS1tLWQiKTsKCiAgICAgICAgICAgIC8vIHR5cGVuYW1lL2RhdGUvdW5pcXVlLwovLyAgICAgICAgICAgICRmaWxlUHJlZml4ID0gQWxpeXVuQ29uZmlnOjphbGlvc3NVcGxvYWRQcmVmaXgoKSAuICIvJHN1YlBhdGgvJGRhdGVEaXIvJHVuaXF1ZSI7Ci8vICAgICAgICAgICAgJGF1dGhQYXRoID0gIiRmaWxlUHJlZml4LyoiOw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>if ($uploadType == UploadType::RecognizeFile || $uploadType == UploadType::OtherFile) {
 
         }</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>switch ($uploadType) {
             case UploadType::RecognizeFile:
             case UploadType::OtherFile:
@@ -394,18 +400,8 @@
                 
         }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGVudHJhbmNlWWVhciwgJGNvdXJzZUlkLCAkc2Nob29sSWQpOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>[sprintf(
-                        self::STS_RESOURCE_OSS_STRING_FORMAT,
-                        self::getBucket(),
-                        $filePath
-                    )]</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBcTWFhdHdlYnNpdGVcRXhjZWxcRXhjZWxTZXJ2aWNlUHJvdmlkZXI6OmNsYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGVudHJhbmNlWWVhciwgJGNvdXJzZUlkLCAkc2Nob29sSWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
