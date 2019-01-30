@@ -44,7 +44,7 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UploadTokenManager.php" timestamp="1548816385466">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UploadTokenManager.php" timestamp="1548817137893">
         <mark key="[" line="25" column="22" />
       </file>
       <file name="D:/aizuoye-paper/server/php/app/Services/V1/Mapper/AppModel2LocalModelConverter.php" timestamp="1548645876412">
@@ -62,7 +62,7 @@
         <mark key="]" line="115" column="15" />
         <mark key="." line="115" column="15" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/AliyunConfig.php" timestamp="1548816278402">
+      <file name="D:/aizuoye_pc_v21/server/php/app/AliyunConfig.php" timestamp="1548818614042">
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
@@ -117,6 +117,7 @@
         <mark key="]" line="13" column="45" />
         <mark key="." line="140" column="4" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Aliyun/AliyunStsManager.php" timestamp="1548817842536" />
       <file name="D:/aizuoye-paper/server/php/.env" timestamp="1548332848054">
         <mark key="[" line="64" column="35" />
         <mark key="]" line="64" column="35" />
