@@ -42,8 +42,11 @@
         <mark key="." line="29" column="4" />
         <mark key="^" line="29" column="20" />
       </file>
+      <file name="D:/a_web_app/101760/server/php/app/Services/V2/AppTeacherService.php" timestamp="1548837497715">
+        <mark key="[" line="51" column="53" />
+      </file>
       <file name="D:/a_web_app/101760/server/php/composer.json" timestamp="1548814897477" />
-      <file name="D:/a_web_app/101760/server/php/app/Http/web_routes.php" timestamp="1548664340504">
+      <file name="D:/a_web_app/101760/server/php/app/Http/web_routes.php" timestamp="1548836875758">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -58,10 +61,18 @@
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
       </file>
+      <file name="D:/a_web_app/101760/server/php/app/Http/api_routes_v2.php" timestamp="1548836923339">
+        <mark key="[" line="257" column="0" />
+      </file>
       <file name="D:/aizuoye-paper/server/php/app/Services/V1/Mapper/AppModel2LocalModelConverter.php" timestamp="1548645876412">
         <mark key="[" line="39" column="24" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/a_web_app/101760/server/php/app/Manager/TeacherManager.php" timestamp="1548837723063">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548314666475">
         <mark key="[" line="115" column="15" />
@@ -118,7 +129,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/HomeworkService.php" timestamp="1548833893125">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/HomeworkService.php" timestamp="1548836499538">
         <mark key="[" line="36" column="12" />
         <mark key="]" line="36" column="12" />
         <mark key="." line="36" column="12" />
@@ -158,6 +169,11 @@
         <mark key="]" line="20" column="4" />
         <mark key="." line="20" column="4" />
       </file>
+      <file name="D:/a_web_app/101760/server/php/app/Http/routes.php" timestamp="1548836913133">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="D:/aizuoye-paper/server/php/.env" timestamp="1548332848054">
         <mark key="[" line="64" column="35" />
         <mark key="]" line="64" column="35" />
@@ -195,10 +211,8 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/server/php/app/Utils/ExcelUtil.php" timestamp="1548834756596">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="4" />
+      <file name="D:/a_web_app/101760/server/php/app/Utils/ExcelUtil.php" timestamp="1548837692783">
+        <mark key="[" line="24" column="35" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" timestamp="1548830451362">
         <mark key="[" line="267" column="0" />
@@ -356,10 +370,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICdFeGNlbCcgPT4gTWFhdHdlYnNpdGVcRXhjZWxcRmFjYWRlc1xFeGNlbDo6Y2xhc3MsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZmlsdGVyU3R1ZGVudHNkZCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QWxpeXVuQ29uZmlnOjphbGlvc3NVcGxvYWRQcmVmaXgoKSA=</text>
+        <text>// 删除表头</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -368,40 +382,36 @@
         <text encoding="base64">ICAgIGNvbnN0IFVQTE9BRF9QT1JUQUxfUEFQRVJfU1RVREVOVF9QQVRIID0gJ3NvdXJjZS1jJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICdFeGNlbCcgPT4gTWFhdHdlYnNpdGVcRXhjZWxcRmFjYWRlc1xFeGNlbDo6Y2xhc3MsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZmlsdGVyU3R1ZGVudHNkZCk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFxNYWF0d2Vic2l0ZVxFeGNlbFxFeGNlbFNlcnZpY2VQcm92aWRlcjo6Y2xhc3MK</text>
+      <register name="2" type="4">
+        <text>if (!is_numeric($students[0][0])) { // 删除表头
+            unset($students[0]);
+        }
+        if (!is_numeric($students[1][0])) {
+            unset($students[1]);
+        }</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">cHVibGljICRidWNrZXQ7CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0QnVja2V0KCkKICAgIHsKICAgICAgICByZXR1cm4gZW1wdHkoJHRoaXMtPmJ1Y2tldCkgPyBBbGl5dW5Db25maWc6OmFsaW9zc0J1Y2tldCgpIDogJHRoaXMtPmJ1Y2tldDsKICAgIH0=</text>
+        <text encoding="base64">ICRpID0gMCwgJGNvdW50ID0gY291bnQoJHN0dWRlbnRzKTsKICAgICAgICB3aGlsZSAoJGkgPCk=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGdldEJ1Y2tldCgpCiAgICB7CiAgICAgICAgcmV0dXJuIGVtcHR5KCR0aGlzLT5idWNrZXQpID8gQWxpeXVuQ29uZmlnOjphbGlvc3NCdWNrZXQoKSA6ICR0aGlzLT5idWNrZXQ7CiAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly91c2UgTWFhdHdlYnNpdGVcRXhjZWxcRmFjYWRlc1xFeGNlbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkbm93ID0gRGF0ZVV0aWw6Om5vdyhkZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIGRkKCRjZWxsLT5nZXRGb3JtYXR0ZWRWYWx1ZSgpKTsK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkdW5pcXVlID0gdW5pcWlkKCRub3ctPmdldFRpbWVzdGFtcCgpKTsKLy8gICAgICAgICAgICAkZGF0ZURpciA9ICRub3ctPmZvcm1hdCgiWS1tLWQiKTsKCiAgICAgICAgICAgIC8vIHR5cGVuYW1lL2RhdGUvdW5pcXVlLwovLyAgICAgICAgICAgICRmaWxlUHJlZml4ID0gQWxpeXVuQ29uZmlnOjphbGlvc3NVcGxvYWRQcmVmaXgoKSAuICIvJHN1YlBhdGgvJGRhdGVEaXIvJHVuaXF1ZSI7Ci8vICAgICAgICAgICAgJGF1dGhQYXRoID0gIiRmaWxlUHJlZml4LyoiOw==</text>
+        <text encoding="base64">ICBkZCgkZGF0YSk7Ci8vICAgICAgICAkZGF0YSA9IEV4Y2VsOjpsb2FkKCRleGNlbFBhdGgsIGZ1bmN0aW9uICgkcmVhZGVyKSB1c2UgKCRsaW1pdFJvdywgJGxpbWl0Q29sdW1uKSB7Ci8vICAgICAgICAgICAgJHJlYWRlci0+dGFrZUNvbHVtbnMoJGxpbWl0Q29sdW1uKS0+dGFrZVJvd3MoJGxpbWl0Um93KTsKLy8gICAgICAgIH0sICdVVEYtOCcpLT5nZXQoKS0+dG9BcnJheSgpOw==</text>
       </register>
-      <register name="7" type="4">
-        <text>if ($uploadType == UploadType::RecognizeFile || $uploadType == UploadType::OtherFile) {
-
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJGNlbGwtPmdldEZvcm1hdHRlZFZhbHVlKCk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>switch ($uploadType) {
-            case UploadType::RecognizeFile:
-            case UploadType::OtherFile:
-            $filePrefix = AliyunConfig::aliossUploadPrefix() . &quot;/$subPath/$dateDir/$unique&quot;;
-            $authPath = &quot;$filePrefix/*&quot;;
-                return $authPath;
-                
-        }</text>
+        <text encoding="base64">Um91dGU6OmFueSgnL3pjYycsIGZ1bmN0aW9uICgpIHsKICAgICRmID0gcmVxdWVzdCgpLT5maWxlKCdmJyk7CiAgICBcQXBwXFV0aWxzXEV4Y2VsVXRpbDo6ZXhjZWwyYXJyYXkoJGYtPmdldFBhdGhuYW1lKCkpOwp9KTs=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGVudHJhbmNlWWVhciwgJGNvdXJzZUlkLCAkc2Nob29sSWQpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgpSb3V0ZTo6YW55KCcvemNjJywgZnVuY3Rpb24gKCkgewogICAgJGYgPSByZXF1ZXN0KCktPmZpbGUoJ2YnKTsKICAgIFxBcHBcVXRpbHNcRXhjZWxVdGlsOjpleGNlbDJhcnJheSgkZi0+Z2V0UGF0aG5hbWUoKSk7Cn0pOw==</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
