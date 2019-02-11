@@ -104,14 +104,8 @@
       <file name="D:/a_web_app/101760/server/php/app/Manager/SchoolManager.php" timestamp="1548655184311">
         <mark key="[" line="13" column="45" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Jobs/UpdateUploadTokenTask.php" timestamp="1548833040864">
-        <mark key="[" line="16" column="21" />
-      </file>
       <file name="D:/a_web_app/101760/server/php/app/Http/Controllers/RESTFul/ClientController.php" timestamp="1548921006043">
         <mark key="[" line="105" column="5" />
-      </file>
-      <file name="D:/a_web_app/101760/server/php/app/Manager/ClientManager.php" timestamp="1548916333925">
-        <mark key="[" line="18" column="22" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2019-01-29.log" timestamp="1548742449038">
         <mark key="'" line="1" column="0" />
@@ -178,9 +172,6 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/seeds/SetUserAccessTokenAvalible.php" timestamp="1548213452087">
         <mark key="[" line="13" column="40" />
-      </file>
-      <file name="D:/a_web_app/101760/server/php/app/Manager/UserManager.php" timestamp="1548929685993">
-        <mark key="[" line="116" column="16" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Aliyun/AliyunStsManager.php" timestamp="1548900637030">
         <mark key="[" line="54" column="0" />
