@@ -12,11 +12,10 @@
       <file name="D:/a_web_app/101760/client/h5/src/views/layout/main.js" timestamp="1550470358554">
         <mark key="[" line="54" column="12" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/stores/appStore.js" timestamp="1550469740268">
-        <mark key="[" line="84" column="51" />
-        <mark key="]" line="84" column="83" />
-        <mark key="^" line="84" column="50" />
-        <mark key="." line="84" column="51" />
+      <file name="D:/a_web_app/101760/client/h5/src/stores/appStore.js" timestamp="1550472292558">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="D:/aizuoye-paper/client/h5/server/app.js" timestamp="1548212375382">
         <mark key="[" line="36" column="25" />
@@ -33,7 +32,7 @@
         <mark key="." line="109" column="4" />
         <mark key="^" line="104" column="42" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/views/app.js" timestamp="1550469530977" />
+      <file name="D:/a_web_app/101760/client/h5/src/views/app.js" timestamp="1550472398413" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1550456203799">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="132" column="0" />
@@ -342,8 +341,8 @@
       <jump line="24" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>7955080215c4efbf5beab84.03850525</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>app_user_i</text>
@@ -354,35 +353,35 @@
       <register name="0" type="4">
         <text>7955080215c4efbf5beab84.03850525</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKTsK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAkdGVhY2hlciA9IFRlYWNoZXJNYW5hZ2VyOjpnZXRUZWFjaGVyQnlVc2VySWQoJGFwcFVzZXJJZCk7CiAgICAgICAgaWYgKCEkdGVhY2hlcikgewogICAgICAgICAgICAkdGFnID0gVXNlclRhZ01hbmFnZXI6OmdldFRhZygkYXBwVXNlcklkLCBVc2VyVGFnSWRzOjpUQUdfSURfVVBEQVRFX1VTRVJfUk9MRSk7CiAgICAgICAgICAgIGlmICgkdGFnICYmICR0YWctPnZhbHVlID09IFVzZXJSb2xlOjpURUFDSEVSKSB7CiAgICAgICAgICAgICAgICAvLyC3tbvYbW9ja7XEwM/Kpsr9vt0KICAgICAgICAgICAgICAgICR1c2VyID0gVXNlck1hbmFnZXI6OmdldFVzZXJCeUlkKCRhcHBVc2VySWQpOwogICAgICAgICAgICAgICAgJG1lc3NhZ2UtPnRlYWNoZXIgPSBNb2RlbE1hcHBlcjo6Z2V0RmFrZVRlYWNoZXJNb2RlbEJ5VXNlcigkdXNlcik7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgTm90QVRlYWNoZXJFeGNlcHRpb24oJ3VzZXIgaXMgbm90IGEgdGVhY2hlci4nKTsKICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICRtZXNzYWdlLT50ZWFjaGVyID0gTW9kZWxNYXBwZXI6OmdldFRlYWNoZXJNb2RlbCgkdGVhY2hlcik7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILe1u9htb2NrtcTAz8qmyv2+3Qo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkdGVhY2hlck1vZGVsID0gbmV3IFRlYWNoZXJNb2RlbCgpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkdGVhY2hlck1vZGVsID0gc2VsZjo6Z2V0VGVhY2hlck1vZGVsKCR0ZWFjaGVyKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRtZXNzYWdlLT50ZWFjaGVyID0gTW9kZWxNYXBwZXI6OmdldEZha2VUZWFjaGVyTW9kZWxCeVVzZXIoJHVzZXIpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>public static function getTeacherByUser(User $user)
     {
         
     }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkbWVzc2FnZS0+dGVhY2hlciA9IE1vZGVsTWFwcGVyOjpnZXRUZWFjaGVyTW9kZWwoJHRlYWNoZXIpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEFUZWFjaGVyRXhjZXB0aW9uKCd1c2VyIGlzIG5vdCBhIHRlYWNoZXIuJyk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEFUZWFjaGVyRXhjZXB0aW9uKCd1c2VyIGlzIG5vdCBhIHRlYWNoZXIuJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
