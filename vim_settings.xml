@@ -97,8 +97,10 @@
         <mark key="." line="133" column="13" />
         <mark key="^" line="132" column="12" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" timestamp="1550457844418">
+      <file name="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" timestamp="1550481025199">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="36" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Aliyun/AliyunManager.php" timestamp="1548845675570">
         <mark key="[" line="32" column="4" />
@@ -236,6 +238,13 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/Teacher.php" timestamp="1548830246563">
         <mark key="[" line="33" column="15" />
       </file>
+      <file name="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" timestamp="1550481054232">
+        <mark key="'" line="127" column="39" />
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="40" column="0" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2019-01-29.log" timestamp="1548742449038">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="0" />
@@ -244,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="41" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" />
       <jump line="242" column="43" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
       <jump line="71" column="58" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" />
       <jump line="515" column="9" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" />
@@ -344,36 +352,40 @@
       <jump line="24" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" />
       <jump line="290" column="25" filename="D:/a_web_app/101760/client/h5/src/views/paper-source/source-edit.jsx" />
       <jump line="51" column="5" filename="D:/a_web_app/101760/client/h5/src/views/layout/main.js" />
+      <jump line="110" column="39" filename="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCBpc0VtcHR5VGVhY2hlckluZm8gPSBfLmlzRW1wdHkoYWRtaW5pc3RyYXRvci51c2VySW5mby5jbGllbnRfaWRzKSB8fCBhZG1pbmlzdHJhdG9yLnVzZXJJbmZvLmNsaWVudF9pZHNbMF0gPT09IDA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>inf</text>
       </register>
       <register name="-" type="4">
-        <text>clientIds</text>
+        <text>inf</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgYWRtaW5pc3RyYXRvciB9ID0gdGhpcy5wcm9wcy5hcHBTdG9yZTsK</text>
+        <text encoding="base64">aW1wb3J0IFN0eWxlIGZyb20gJy4vdXNlci1pbmZvLmxlc3MnCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IFN0eWxlIGZyb20gIi4uLy4uL3ZpZXdzL3VzZXIvdXNlci1pbmZvLmxlc3MiOwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGxldCBpc0VtcHR5VGVhY2hlckluZm8gPSBfLmlzRW1wdHkoYWRtaW5pc3RyYXRvci51c2VySW5mby5jbGllbnRfaWRzKSB8fCBhZG1pbmlzdHJhdG9yLnVzZXJJbmZvLmNsaWVudF9pZHNbMF0gPT09IDA7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">aWYgKGlzRW1wdHlUZWFjaGVySW5mbykgewogICAgICByZXR1cm4gKAogICAgICAgIDxkaXY+CiAgICAgICAgICA8TW9kYWwKICAgICAgICAgICAgdmlzaWJsZT17dHJ1ZX0KCiAgICAgICAgICA+CiAgICAgICAgICB3d3d3CiAgICAgICAgICA8L01vZGFsPgogICAgICAgIDwvZGl2PgogICAgICApOwoKICAgIH0=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ewogICAgICAgICAgaXNFbXB0eVRlYWNoZXJJbmZvICYmIE1vZGFsLmVycm9yKHsKICAgICAgICAgICAgdGl0bGU6ICdzZHMnLAogICAgICAgICAgICBjb250ZW50OiAnZWVyJywKICAgICAgICAgIH0pCiAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ey8qeyovfQogICAgICAgICAgey8qaXNFbXB0eVRlYWNoZXJJbmZvICYmIE1vZGFsLmVycm9yKHsqL30KICAgICAgICAgICAgey8qdGl0bGU6ICdzZCcsKi99CiAgICAgICAgICB7Lyp9KSovfQogICAgICAgIHsvKn0qL30g</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ey8qeyovfQogICAgICAgICAgey8qaXNFbXB0eVRlYWNoZXJJbmZvICYmIE1vZGFsLmVycm9yKHsqL30KICAgICAgICAgICAgey8qdGl0bGU6ICdzZCcsKi99CiAgICAgICAgICB7Lyp9KSovfQogICAgICAgIHsvKn0qL30=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>isEmptyTeacherInfo() {
     let clientIds = this.props.appStore.administrator.userInfo.client_ids;
     if (_.isEmpty(clientIds) || clientIds[0] === 0) {
@@ -382,14 +394,11 @@
     return false;
   }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoJ3RoaXMgaXMgbWFpbiBwYWdlLicpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHdpbmRvdy5sb2NhbFN0b3JhZ2Uuc2V0SXRlbSgnYXBwX3VzZXJfdG9rZW4nLCAnNzk1NTA4MDIxNWM0ZWZiZjViZWFiODQuMDM4NTA1MjUnKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKTsK</text>
+        <text encoding="base64">ICAgIC8vIHdpbmRvdy5sb2NhbFN0b3JhZ2Uuc2V0SXRlbSgnYXBwX3VzZXJfdG9rZW4nLCAnNzk1NTA4MDIxNWM0ZWZiZjViZWFiODQuMDM4NTA1MjUnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
