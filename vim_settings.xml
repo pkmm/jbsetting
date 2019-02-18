@@ -9,16 +9,21 @@
       <file name="/a.dummy" timestamp="1548671752916">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/views/layout/main.js" timestamp="1550470358554">
-        <mark key="[" line="54" column="12" />
+      <file name="D:/a_web_app/101760/client/h5/src/views/layout/main.js" timestamp="1550477473960">
+        <mark key="'" line="63" column="5" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/stores/appStore.js" timestamp="1550472292558">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="D:/a_web_app/101760/client/h5/src/stores/appStore.js" timestamp="1550475803163">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="D:/aizuoye-paper/client/h5/server/app.js" timestamp="1548212375382">
         <mark key="[" line="36" column="25" />
+      </file>
+      <file name="D:/a_web_app/101760/client/h5/src/views/paper-source/source-edit.jsx" timestamp="1550476405878">
+        <mark key="'" line="290" column="25" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="27" />
       </file>
       <file name="D:/a_web_app/101760/server/php/.env" timestamp="1548682716501">
         <mark key="[" line="66" column="28" />
@@ -239,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/User/UserMapper.php" />
-      <jump line="425" column="41" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" />
       <jump line="24" column="41" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/UserService.php" />
       <jump line="242" column="43" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
       <jump line="71" column="58" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" />
@@ -339,49 +342,54 @@
       <jump line="0" column="0" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
       <jump line="139" column="79" filename="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" />
       <jump line="24" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" />
+      <jump line="290" column="25" filename="D:/a_web_app/101760/client/h5/src/views/paper-source/source-edit.jsx" />
+      <jump line="51" column="5" filename="D:/a_web_app/101760/client/h5/src/views/layout/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKTsK</text>
+        <text encoding="base64">ICAgIGxldCBpc0VtcHR5VGVhY2hlckluZm8gPSBfLmlzRW1wdHkoYWRtaW5pc3RyYXRvci51c2VySW5mby5jbGllbnRfaWRzKSB8fCBhZG1pbmlzdHJhdG9yLnVzZXJJbmZvLmNsaWVudF9pZHNbMF0gPT09IDA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>app_user_i</text>
+        <text>clientIds</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
       </register>
-      <register name="0" type="4">
-        <text>7955080215c4efbf5beab84.03850525</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHsgYWRtaW5pc3RyYXRvciB9ID0gdGhpcy5wcm9wcy5hcHBTdG9yZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKTsK</text>
+        <text encoding="base64">ICAgIGxldCBpc0VtcHR5VGVhY2hlckluZm8gPSBfLmlzRW1wdHkoYWRtaW5pc3RyYXRvci51c2VySW5mby5jbGllbnRfaWRzKSB8fCBhZG1pbmlzdHJhdG9yLnVzZXJJbmZvLmNsaWVudF9pZHNbMF0gPT09IDA7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAkdGVhY2hlciA9IFRlYWNoZXJNYW5hZ2VyOjpnZXRUZWFjaGVyQnlVc2VySWQoJGFwcFVzZXJJZCk7CiAgICAgICAgaWYgKCEkdGVhY2hlcikgewogICAgICAgICAgICAkdGFnID0gVXNlclRhZ01hbmFnZXI6OmdldFRhZygkYXBwVXNlcklkLCBVc2VyVGFnSWRzOjpUQUdfSURfVVBEQVRFX1VTRVJfUk9MRSk7CiAgICAgICAgICAgIGlmICgkdGFnICYmICR0YWctPnZhbHVlID09IFVzZXJSb2xlOjpURUFDSEVSKSB7CiAgICAgICAgICAgICAgICAvLyC3tbvYbW9ja7XEwM/Kpsr9vt0KICAgICAgICAgICAgICAgICR1c2VyID0gVXNlck1hbmFnZXI6OmdldFVzZXJCeUlkKCRhcHBVc2VySWQpOwogICAgICAgICAgICAgICAgJG1lc3NhZ2UtPnRlYWNoZXIgPSBNb2RlbE1hcHBlcjo6Z2V0RmFrZVRlYWNoZXJNb2RlbEJ5VXNlcigkdXNlcik7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgTm90QVRlYWNoZXJFeGNlcHRpb24oJ3VzZXIgaXMgbm90IGEgdGVhY2hlci4nKTsKICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICRtZXNzYWdlLT50ZWFjaGVyID0gTW9kZWxNYXBwZXI6OmdldFRlYWNoZXJNb2RlbCgkdGVhY2hlcik7CiAgICAgICAgfQ==</text>
+        <text encoding="base64">aWYgKGlzRW1wdHlUZWFjaGVySW5mbykgewogICAgICByZXR1cm4gKAogICAgICAgIDxkaXY+CiAgICAgICAgICA8TW9kYWwKICAgICAgICAgICAgdmlzaWJsZT17dHJ1ZX0KCiAgICAgICAgICA+CiAgICAgICAgICB3d3d3CiAgICAgICAgICA8L01vZGFsPgogICAgICAgIDwvZGl2PgogICAgICApOwoKICAgIH0=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILe1u9htb2NrtcTAz8qmyv2+3Qo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ewogICAgICAgICAgaXNFbXB0eVRlYWNoZXJJbmZvICYmIE1vZGFsLmVycm9yKHsKICAgICAgICAgICAgdGl0bGU6ICdzZHMnLAogICAgICAgICAgICBjb250ZW50OiAnZWVyJywKICAgICAgICAgIH0pCiAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGVhY2hlck1vZGVsID0gbmV3IFRlYWNoZXJNb2RlbCgpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ey8qeyovfQogICAgICAgICAgey8qaXNFbXB0eVRlYWNoZXJJbmZvICYmIE1vZGFsLmVycm9yKHsqL30KICAgICAgICAgICAgey8qdGl0bGU6ICdzZCcsKi99CiAgICAgICAgICB7Lyp9KSovfQogICAgICAgIHsvKn0qL30g</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGVhY2hlck1vZGVsID0gc2VsZjo6Z2V0VGVhY2hlck1vZGVsKCR0ZWFjaGVyKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ey8qeyovfQogICAgICAgICAgey8qaXNFbXB0eVRlYWNoZXJJbmZvICYmIE1vZGFsLmVycm9yKHsqL30KICAgICAgICAgICAgey8qdGl0bGU6ICdzZCcsKi99CiAgICAgICAgICB7Lyp9KSovfQogICAgICAgIHsvKn0qL30=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRtZXNzYWdlLT50ZWFjaGVyID0gTW9kZWxNYXBwZXI6OmdldEZha2VUZWFjaGVyTW9kZWxCeVVzZXIoJHVzZXIpOwo=</text>
+      <register name="6" type="4">
+        <text>isEmptyTeacherInfo() {
+    let clientIds = this.props.appStore.administrator.userInfo.client_ids;
+    if (_.isEmpty(clientIds) || clientIds[0] === 0) {
+      return true;
+    }
+    return false;
+  }</text>
       </register>
-      <register name="7" type="4">
-        <text>public static function getTeacherByUser(User $user)
-    {
-        
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoJ3RoaXMgaXMgbWFpbiBwYWdlLicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbWVzc2FnZS0+dGVhY2hlciA9IE1vZGVsTWFwcGVyOjpnZXRUZWFjaGVyTW9kZWwoJHRlYWNoZXIpOwo=</text>
+        <text encoding="base64">ICAgIC8vIHdpbmRvdy5sb2NhbFN0b3JhZ2Uuc2V0SXRlbSgnYXBwX3VzZXJfdG9rZW4nLCAnNzk1NTA4MDIxNWM0ZWZiZjViZWFiODQuMDM4NTA1MjUnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEFUZWFjaGVyRXhjZXB0aW9uKCd1c2VyIGlzIG5vdCBhIHRlYWNoZXIuJyk7Cg==</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5sb2NhdGlvbi5yZWxvYWQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
