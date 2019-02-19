@@ -46,7 +46,9 @@
         <mark key="." line="109" column="4" />
         <mark key="^" line="104" column="42" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/routes.js" timestamp="1550561083642" />
+      <file name="D:/a_web_app/101760/client/h5/src/routes.js" timestamp="1550562060049">
+        <mark key="'" line="156" column="27" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1550541846826">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="132" column="0" />
@@ -103,7 +105,11 @@
         <mark key="]" line="32" column="4" />
         <mark key="." line="32" column="4" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/views/layout/sidebar.js" timestamp="1550560894627" />
+      <file name="D:/a_web_app/101760/client/h5/src/views/layout/sidebar.js" timestamp="1550562297616">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/ModelMapper.php" timestamp="1550458340142">
         <mark key="[" line="49" column="58" />
         <mark key="]" line="49" column="0" />
@@ -242,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="58" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" />
       <jump line="515" column="9" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" />
       <jump line="344" column="31" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
       <jump line="352" column="52" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
@@ -342,10 +347,11 @@
       <jump line="51" column="5" filename="D:/a_web_app/101760/client/h5/src/views/layout/main.js" />
       <jump line="110" column="39" filename="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" />
       <jump line="83" column="0" filename="D:/a_web_app/101760/client/h5/src/views/layout/main.js" />
+      <jump line="156" column="27" filename="D:/a_web_app/101760/client/h5/src/routes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>@withRouter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUuY3VycmVudFBhdGgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>@withRouter</text>
@@ -356,34 +362,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCB1c2VyUm9sZSA9IHdpbmRvdy5sb2NhbFN0b3JhZ2UuZ2V0SXRlbSgndXNlclJvbGUnKTsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBpc1RlYWNoZXJSb2xlOiB1c2VyUm9sZSA9PT0gUm9sZS5URUFDSEVSCiAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGlmICghZW1wdHkoJHNjaG9vbElkKSkgewoKICAgICAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc3RhdGUuY3VycmVudFBhdGgpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGdldEZpZWxkc0Vycm9yKCkpOwogICAgaWYgKGdldEZpZWxkc0Vycm9yKCkuc2Nob29sX2lkID09IHVuZGVmaW5lZCkgewogICAgICByZXR1cm47CiAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocm91dGUpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAkYXBwVXNlcklkID0gMjQyOwogICAgICAgICRhcHBUb2tlbiA9ICc3OTU1MDgwMjE1YzRlZmJmNWJlYWI4NC4wMzg1MDUyNSc7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCIvdXNlciIgKyByb3V0ZS5wYXRoLCBjdXJyZW50UGF0aCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAkYXBwVXNlcklkID0gMjQyOwogICAgICAgICRhcHBUb2tlbiA9ICc3OTU1MDgwMjE1YzRlZmJmNWJlYWI4NC4wMzg1MDUyNSc7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcihyb3V0ZS5uYW1lKTsK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgZGQoJHVzZXIpOwogICAgICAgICRhcHBVc2VySWQgPSAoaW50KSR1c2VyLT5pZDsKICAgICAgICAkYXBwVG9rZW4gPSAoc3RyaW5nKSR1c2VyLT5zZXNzaW9uOw==</text>
+        <text encoding="base64">IGlmICghZW1wdHkoJHNjaG9vbElkKSkgewoKICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc2Vzc2lvbik7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGdldEZpZWxkc0Vycm9yKCkpOwogICAgaWYgKGdldEZpZWxkc0Vycm9yKCkuc2Nob29sX2lkID09IHVuZGVmaW5lZCkgewogICAgICByZXR1cm47CiAgICB9</text>
       </register>
       <register name="7" type="4">
-        <text>this.setState({
-              visible: false
-            })</text>
+        <text encoding="base64">ICAgICAgICAkYXBwVXNlcklkID0gMjQyOwogICAgICAgICRhcHBUb2tlbiA9ICc3OTU1MDgwMjE1YzRlZmJmNWJlYWI4NC4wMzg1MDUyNSc7</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PE1vZGFsCiAgICAgICAgICB2aXNpYmxlPXt0aGlzLnN0YXRlLmlzU2hvd0NvbXBsZXRlVGVhY2hlckluZm9Nb2RhbH0KICAgICAgICAgIG9uQ2FuY2VsPXsoKSA9PiB7CiAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICAgIGlzU2hvd0NvbXBsZXRlVGVhY2hlckluZm9Nb2RhbDogZmFsc2UsCiAgICAgICAgICAgIH0pCiAgICAgICAgICB9fQogICAgICAgICAgdGl0bGU9eyfH683qyca49sjL0MXPoid9CiAgICAgICAgPgoKICAgICAgICA8L01vZGFsPg==</text>
+        <text encoding="base64">ICAkYXBwVXNlcklkID0gMjQyOwogICAgICAgICRhcHBUb2tlbiA9ICc3OTU1MDgwMjE1YzRlZmJmNWJlYWI4NC4wMzg1MDUyNSc7</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFN0eWxlIGZyb20gIi4uLy4uL3ZpZXdzL3VzZXIvdXNlci1pbmZvLmxlc3MiOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgZGQoJHVzZXIpOwogICAgICAgICRhcHBVc2VySWQgPSAoaW50KSR1c2VyLT5pZDsKICAgICAgICAkYXBwVG9rZW4gPSAoc3RyaW5nKSR1c2VyLT5zZXNzaW9uOw==</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
