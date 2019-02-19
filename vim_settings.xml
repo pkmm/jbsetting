@@ -39,12 +39,14 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="32" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/SchoolClassService.php" timestamp="1550560379919" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" timestamp="1550454821747">
         <mark key="[" line="109" column="4" />
         <mark key="]" line="109" column="4" />
         <mark key="." line="109" column="4" />
         <mark key="^" line="104" column="42" />
       </file>
+      <file name="D:/a_web_app/101760/client/h5/src/routes.js" timestamp="1550561083642" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1550541846826">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="132" column="0" />
@@ -56,12 +58,6 @@
         <mark key="[" line="45" column="69" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
-      </file>
-      <file name="D:/a_web_app/101760/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1548922013345">
-        <mark key="'" line="10" column="52" />
-        <mark key="[" line="148" column="30" />
-        <mark key="]" line="148" column="30" />
-        <mark key="." line="148" column="30" />
       </file>
       <file name="D:/a_web_app/101760/client/h5/config.js" timestamp="1548919978586">
         <mark key="[" line="0" column="29" />
@@ -91,13 +87,13 @@
         <mark key="." line="30" column="2" />
         <mark key="^" line="55" column="76" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/views/mySchoolClass/index.jsx" timestamp="1548923325462">
-        <mark key="[" line="133" column="13" />
-        <mark key="]" line="133" column="13" />
-        <mark key="." line="133" column="13" />
-        <mark key="^" line="132" column="12" />
+      <file name="D:/a_web_app/101760/client/h5/src/views/mySchoolClass/index.jsx" timestamp="1550561004692">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="138" column="12" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" timestamp="1550543286222">
+      <file name="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" timestamp="1550560901980">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="44" column="7" />
@@ -107,6 +103,7 @@
         <mark key="]" line="32" column="4" />
         <mark key="." line="32" column="4" />
       </file>
+      <file name="D:/a_web_app/101760/client/h5/src/views/layout/sidebar.js" timestamp="1550560894627" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/ModelMapper.php" timestamp="1550458340142">
         <mark key="[" line="49" column="58" />
         <mark key="]" line="49" column="0" />
@@ -159,12 +156,6 @@
       </file>
       <file name="D:/aizuoye-paper/server/php/app/Manager/AuthManager.php" timestamp="1548324908517">
         <mark key="[" line="75" column="44" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1548731108148">
-        <mark key="'" line="94" column="27" />
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="238" column="0" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Manager/TeacherManager.php" timestamp="1550545609448">
         <mark key="[" line="72" column="11" />
@@ -245,12 +236,6 @@
       <file name="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" timestamp="1550544763111" />
       <file name="D:/a_web_app/101760/server/php/app/Manager/PaperManager.php" timestamp="1550545860605">
         <mark key="[" line="152" column="5" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2019-01-29.log" timestamp="1548742449038">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Services/V2/AuthService.php" timestamp="1550541538860">
         <mark key="[" line="55" column="42" />
@@ -360,10 +345,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGlmICghZW1wdHkoJHNjaG9vbElkKSkgewoKICAgICAgICAgICAgfQ==</text>
+        <text>@withRouter</text>
       </register>
       <register name="-" type="4">
-        <text>getFieldsError</text>
+        <text>@withRouter</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
