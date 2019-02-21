@@ -9,11 +9,11 @@
       <file name="/a.dummy" timestamp="1548671752916">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/views/layout/main.js" timestamp="1550641028207">
-        <mark key="[" line="32" column="54" />
-        <mark key="]" line="32" column="54" />
-        <mark key="." line="32" column="54" />
-        <mark key="^" line="32" column="55" />
+      <file name="D:/a_web_app/101760/client/h5/src/views/layout/main.js" timestamp="1550713396161">
+        <mark key="[" line="32" column="72" />
+        <mark key="]" line="32" column="70" />
+        <mark key="." line="32" column="70" />
+        <mark key="^" line="32" column="70" />
       </file>
       <file name="D:/a_web_app/101760/client/h5/src/stores/appStore.js" timestamp="1550641915607">
         <mark key="[" line="149" column="4" />
@@ -244,10 +244,10 @@
         <mark key="]" line="153" column="37" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/server/php/app/Manager/PaperManager.php" timestamp="1550631258523">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="167" column="15" />
-        <mark key="." line="164" column="0" />
+      <file name="D:/a_web_app/101760/server/php/app/Manager/PaperManager.php" timestamp="1550713457975">
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="168" column="15" />
+        <mark key="." line="165" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2019-01-29.log" timestamp="1548742449038">
         <mark key="'" line="1" column="0" />
