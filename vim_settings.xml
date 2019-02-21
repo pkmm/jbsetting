@@ -3,15 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/a_web_app/101760/client/h5/src/views/layout/main.js" timestamp="1550713396161">
-        <mark key="[" line="32" column="72" />
-        <mark key="]" line="32" column="70" />
-        <mark key="." line="32" column="70" />
-        <mark key="^" line="32" column="70" />
-      </file>
-      <file name="D:/a_web_app/101760/server/php/app/Http/Middleware/Authenticate.php" timestamp="1550717712626">
-        <mark key="[" line="67" column="100" />
-      </file>
       <file name="D:/a_web_app/101760/client/h5/src/stores/appStore.js" timestamp="1550722170186">
         <mark key="[" line="149" column="4" />
         <mark key="]" line="149" column="4" />
@@ -26,38 +17,17 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/SchoolClassService.php" timestamp="1550560379919" />
       <file name="D:/a_web_app/101760/client/h5/src/routes.js" timestamp="1550627279503" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1550718626386">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="D:/a_web_app/101760/server/php/app/Http/Controllers/RESTFul/UserController.php" timestamp="1550731234826" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1550732657608">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/a_web_app/101760/server/php/storage/logs/laravel.log" timestamp="1550716631689">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/a_web_app/101760/client/h5/src/views/mySchoolClass/index.less" timestamp="1548923198083">
-        <mark key="[" line="45" column="69" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="D:/a_web_app/101760/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1550630372786">
-        <mark key="'" line="10" column="52" />
-        <mark key="[" line="179" column="24" />
-        <mark key="]" line="179" column="24" />
-        <mark key="." line="179" column="24" />
-        <mark key="^" line="179" column="38" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-01-29.log" timestamp="1548743606883">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/HomeworkService.php" timestamp="1548920691537">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Utils/HttpPoster.php" timestamp="1550718383132">
         <mark key="[" line="41" column="0" />
@@ -69,29 +39,13 @@
         <mark key="]" line="15" column="20" />
         <mark key="." line="15" column="20" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" timestamp="1550720886963">
-        <mark key="'" line="246" column="52" />
-        <mark key="[" line="247" column="52" />
-        <mark key="]" line="160" column="30" />
-        <mark key="." line="160" column="30" />
-        <mark key="^" line="160" column="38" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Aliyun/AliyunManager.php" timestamp="1548845675570">
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="4" />
-        <mark key="." line="32" column="4" />
-      </file>
       <file name="D:/a_web_app/101760/client/h5/src/views/layout/sidebar.js" timestamp="1550562297616">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/UserService.php" timestamp="1550717568682">
-        <mark key="[" line="461" column="94" />
-        <mark key="]" line="461" column="94" />
-        <mark key="^" line="461" column="91" />
-        <mark key="." line="461" column="94" />
-      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/UserService.php" timestamp="1550717568682" />
+      <file name="D:/a_web_app/101760/client/h5/API/Generated/v2/model/ClientMessage.js" timestamp="1550728290311" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/ModelMapper.php" timestamp="1550715093740">
         <mark key="[" line="69" column="28" />
         <mark key="]" line="49" column="0" />
@@ -103,71 +57,24 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Manager/ConvertModelManager.php" timestamp="1550715068268" />
-      <file name="D:/a_web_app/101760/server/php/app/Manager/UserManager.php" timestamp="1550715058516">
-        <mark key="[" line="117" column="17" />
-      </file>
-      <file name="D:/a_web_app/101760/server/php/app/Services/V2/AppTeacherService.php" timestamp="1550717725232">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Aliyun/AliyunStsManager.php" timestamp="1548900637030">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="D:/a_web_app/101760/server/php/app/Http/web_routes.php" timestamp="1548836875758">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="D:/a_web_app/101760/server/php/app/Http/routes.php" timestamp="1548836913133">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="D:/a_web_app/101760/server/php/app/Services/V1/AppTeacherService.php" timestamp="1548746053460">
-        <mark key="[" line="71" column="6" />
-        <mark key="]" line="71" column="6" />
-        <mark key="." line="71" column="6" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1550718776232">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1550732173159" />
       <file name="D:/aizuoye_pc_v21/server/php/tests/V2_4/ExerciseTest.php" timestamp="1550570646409" />
       <file name="D:/a_web_app/101760/server/php/app/Manager/TeacherManager.php" timestamp="1550718796601">
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/views/user/settings.js" timestamp="1550721608839" />
-      <file name="D:/a_web_app/101760/server/php/app/Utils/ExcelUtil.php" timestamp="1548901701774">
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="12" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2019-01-28.log" timestamp="1548729555172">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/a_web_app/101760/client/h5/src/views/user/settings.js" timestamp="1550729873315" />
+      <file name="D:/a_web_app/101760/server/php/app/Http/Controllers/RESTFul/ClientController.php" timestamp="1550731217442">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_4/schoolClass/CreateClassMessage.php" timestamp="1550558974881" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/User/UserMapper.php" timestamp="1550570180747">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="^" line="144" column="23" />
-        <mark key="." line="144" column="0" />
-      </file>
-      <file name="D:/a_web_app/101760/client/h5/API/apiBase.js" timestamp="1548741940795">
-        <mark key="[" line="47" column="13" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Model/Teacher.php" timestamp="1550564044981">
-        <mark key="[" line="33" column="15" />
+      <file name="D:/a_web_app/101760/client/h5/API/apiBase.js" timestamp="1550730429447">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Manager/ClientManager.php" timestamp="1550545449521" />
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-02-21.log" timestamp="1550718616123">
@@ -175,20 +82,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" timestamp="1550721933661">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="112" column="34" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="111" column="11" />
-      </file>
-      <file name="D:/a_web_app/101760/server/php/app/Manager/PaperManager.php" timestamp="1550718392637">
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="168" column="15" />
-        <mark key="." line="165" column="0" />
+      <file name="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" timestamp="1550731589768">
+        <mark key="[" line="128" column="14" />
+        <mark key="]" line="128" column="14" />
+        <mark key="." line="128" column="14" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="34" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
       <jump line="0" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
       <jump line="135" column="8" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" />
       <jump line="41" column="6" filename="D:/aizuoye_pc_v21/server/php/app/Manager/StudentManager.php" />
@@ -288,13 +188,14 @@
       <jump line="82" column="92" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-02-21.log" />
       <jump line="270" column="23" filename="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" />
       <jump line="25" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" />
+      <jump line="248" column="30" filename="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2UuZXJyb3IoJ7GjtObKp7DcJyk7Cg==</text>
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcZW51bXNcVXNlclJvbGU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>resp.result != 1</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -303,33 +204,31 @@
         <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2UuZXJyb3IoJ7GjtObKp7DcJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQVBJLmFwcFRlYWNoZXIudXBkYXRlQXBwVGVhY2hlcih2YWx1ZXMubmFtZSwgdmFsdWVzLmdyYWRlLCB2YWx1ZXMuY291cnNlX2lkLCB2YWx1ZXMuc2Nob29sX2lkLCAocmVzcCkgPT4gewogICAgICAgIHRoaXMucHJvcHMuaGlkZU1vZGFsKCk7CiAgICAgICAgY29uc3Qge3VwZGF0ZVVzZXJJbmZvfSA9IHRoaXMucHJvcHMuYXBwU3RvcmU7CiAgICAgICAgdXBkYXRlVXNlckluZm8oey4uLnJlc3AubG9naW5faW5mb30pOwogICAgICAgIHRoaXMuZ2V0U2Nob29sTmFtZSgpOwogICAgICAgIG1lc3NhZ2Uuc3VjY2VzcygnsaO05rPJuaYnKTsKICAgICAgfSwgKCkgPT4gewogICAgICAgIG1lc3NhZ2UuZXJyb3IoJ7GjtObKp7DcJyk7CiAgICAgIH0pCg==</text>
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcZW51bXNcVXNlclJvbGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IodXNlckluZm8pCg==</text>
+        <text encoding="base64">dXNlIEFwcFxNYW5hZ2VyXFVzZXJUYWdNYW5hZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsaWVudElkID0gdXNlckluZm8uY2xpZW50X2lkc1swXTsK</text>
+        <text encoding="base64">dXNlIEFwcFxNYW5hZ2VyXFVzZXJNYW5hZ2VyOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>if (clientId == null) {
-      
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIEFwcFxNYW5hZ2VyXFRhZ1xDb25zdGFudHNcVXNlclRhZ0lkczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtvYnNlcnZlfSBmcm9tICJtb2J4IjsK</text>
+        <text encoding="base64">PD9waHAKLyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IFVzZXIKICogRGF0ZTogMjAxNy0xMS0yMAogKiBUaW1lOiAxMDo1MgogKi8KCm5hbWVzcGFjZSBBcHBcTWFuYWdlcjsKCnVzZSBBcHBcRXhjZXB0aW9uc1xOb1N1Y2hDbGFzc0V4Y2VwdGlvbjsKdXNlIEFwcFxFeGNlcHRpb25zXE5vU3VjaFVzZXJFeGNlcHRpb247CnVzZSBBcHBcRXhjZXB0aW9uc1xOb3RBVGVhY2hlckV4Y2VwdGlvbjsKdXNlIEFwcFxNb2RlbFxTY2hvb2xDbGFzczsKdXNlIEFwcFxNb2RlbFxTdHVkZW50SG9tZXdvcmtQaWN0dXJlOwp1c2UgQXBwXE1vZGVsXFRlYWNoZXI7CnVzZSBBcHBcTW9kZWxcVXNlcjsKdXNlIEFwcFxNb2RlbFxTY2hvb2xDbGFzc1RlYWNoZXI7CnVzZSBBdXRoOwp1c2UgQXBwXE1vZGVsXENsYXNzSG9tZXdvcms7CnVzZSBBcHBcTW9kZWxcU3R1ZGVudEhvbWV3b3JrUmV2aXNlZFBpY3R1cmU7CnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XENvbGxlY3Rpb247CgpjbGFzcyBUZWFjaGVyTWFuYWdlcgp7CiAgICAvKioKICAgICAqILzssunTw7unyse38crHudzA7dSxsqK3tbvY08O7pwogICAgICoKICAgICAqIEBwYXJhbSBVc2VyICR1c2VyCiAgICAgKiBAdGhyb3dzIE5vU3VjaFVzZXJFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgTm90QVRlYWNoZXJFeGNlcHRpb24KICAgICAqIEByZXR1cm4gVXNlcgogICAgICovCiAgICBwcml2YXRlIHN0YXRpYyBmdW5jdGlvbiBjaGVja1VzZXJPd25lclRlYWNoZXIoVXNlciAkdXNlcikgOiBVc2VyCiAgICB7CiAgICAgICAgJGNvdW50ID0gU2Nob29sQ2xhc3M6OnF1ZXJ5KCktPndoZXJlKCd0ZWFjaGVyX3VzZXJfaWQnLCAkdXNlci0+aWQpLT5jb3VudCgpOwogICAgICAgIAogICAgICAgIGlmICghJGNvdW50KSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOb3RBVGVhY2hlckV4Y2VwdGlvbigpOwogICAgICAgIH0KICAgICAgICAKICAgICAgICByZXR1cm4gJHVzZXI7CiAgICB9CiAgICAKICAgIC8qKgogICAgICogyLexo3VzZXLKx8DPyqajrLKit7W72HVzZXIKICAgICAqCiAgICAgKiBAcGFyYW0gVXNlcnxudWxsICR1c2VyCiAgICAgKiBAdGhyb3dzIE5vU3VjaFVzZXJFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgTm90QVRlYWNoZXJFeGNlcHRpb24KICAgICAqIEByZXR1cm4gVXNlcgogICAgICovCiAgICBwcml2YXRlIHN0YXRpYyBmdW5jdGlvbiBjaGVja1VzZXJUZWFjaGVyKFVzZXIgJHVzZXIpIDogVXNlcgogICAgewogICAgICAgIGlmICghc2VsZjo6aXNUZWFjaGVyKCR1c2VyKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90QVRlYWNoZXJFeGNlcHRpb24oKTsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgcmV0dXJuICR1c2VyOwogICAgfQoKICAgIC8qKgogICAgICogysfAz8qmwvCjvwogICAgICoKICAgICAqIEBwYXJhbSBVc2VyICR1c2VyCiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBpc1RlYWNoZXIoVXNlciAkdXNlcikgOiBib29sCiAgICB7CiAgICAgICAgJGNvdW50ID0gU2Nob29sQ2xhc3M6OnF1ZXJ5KCktPndoZXJlVGVhY2hlclVzZXJJZCgkdXNlci0+aWQpLT5jb3VudCgpOwogICAgICAgIAogICAgICAgIGlmICghJGNvdW50KSB7CiAgICAgICAgICAgICR0ZWFjaGVyID0gJHVzZXItPnRlYWNoZXI7CiAgICAgICAgICAgIGlmICgkdGVhY2hlcikgewogICAgICAgICAgICAgICAgJHNjaG9vbENsYXNzVGVhY2hlciA9IFNjaG9vbENsYXNzVGVhY2hlcjo6d2hlcmVUZWFjaGVySWQoJHRlYWNoZXItPmlkKS0+Zmlyc3QoKTsKICAgICAgICAgICAgICAgIGlmICgkc2Nob29sQ2xhc3NUZWFjaGVyKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICAvKioKICAgICAqIMi3saN1c2VyysfV4rj2sOC8trXEudzA7dSxCiAgICAgKgogICAgICogQHBhcmFtIFVzZXIgJHVzZXIKICAgICAqIEBwYXJhbSBpbnR8U2Nob29sQ2xhc3MgJGNsYXNzCiAgICAgKiBAdGhyb3dzIE5vU3VjaENsYXNzRXhjZXB0aW9uCiAgICAgKiBAcmV0dXJuIFNjaG9vbENsYXNzCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gY2hlY2tVc2VyQ2xhc3NPd25lcihVc2VyICR1c2VyLCAkY2xhc3MpIDogU2Nob29sQ2xhc3MKICAgIHsKICAgICAgICBpZiAoISgkY2xhc3MgaW5zdGFuY2VvZiBTY2hvb2xDbGFzcykpIHsKICAgICAgICAgICAgLyoqIEB2YXIgU2Nob29sQ2xhc3MgJGNsYXNzICovCiAgICAgICAgICAgICRjbGFzcyA9IFNjaG9vbENsYXNzOjpmaW5kKCRjbGFzcyk7CiAgICAgICAgfQoKICAgICAgICBpZiAoZW1wdHkoJGNsYXNzKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgTm9TdWNoQ2xhc3NFeGNlcHRpb24oKTsKICAgICAgICB9CiAgICAgICAgJHVzZXIgPSBzZWxmOjpjaGVja1VzZXJUZWFjaGVyKCR1c2VyKTsKCiAgICAgICAgaWYgKCRjbGFzcy0+dGVhY2hlcl91c2VyX2lkICE9ICR1c2VyLT5pZCkgewogICAgICAgICAgICB0aHJvdyBuZXcgTm9TdWNoQ2xhc3NFeGNlcHRpb24oJ3RoaXMgY2xhc3MgaXMgbm90IG1pbmUuJyk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJGNsYXNzOwogICAgfQogICAgCiAgICAvKioKICAgICAqILzssunTw7unyse38crH1eK49rDgvLa1xMDPyqYKICAgICAqCiAgICAgKiBAcGFyYW0gVXNlciAkdXNlcgogICAgICogQHBhcmFtIFNjaG9vbENsYXNzfGludCAkY2xhc3MKICAgICAqIEB0aHJvd3MgTm9TdWNoQ2xhc3NFeGNlcHRpb24KICAgICAqIEByZXR1cm4gU2Nob29sQ2xhc3MKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBjaGVja1VzZXJDbGFzc1RlYWNoZXIoVXNlciAkdXNlciwgJGNsYXNzKSA6IFNjaG9vbENsYXNzCiAgICB7CiAgICAgICAgaWYgKCEoJGNsYXNzIGluc3RhbmNlb2YgU2Nob29sQ2xhc3MpKSB7CiAgICAgICAgICAgIC8qKiBAdmFyIFNjaG9vbENsYXNzICRjbGFzcyAqLwogICAgICAgICAgICAkY2xhc3MgPSBTY2hvb2xDbGFzczo6ZmluZCgkY2xhc3MpOwogICAgICAgIH0KICAgICAgICBpZiAoIXNlbGY6OmlzVGVhY2hlckNsYXNzKCRjbGFzcywgJHVzZXIpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOb1N1Y2hDbGFzc0V4Y2VwdGlvbignbm90IGEgdGVhY2hlciBpbiB0aGlzIGNsYXNzLicpOwogICAgICAgIH0KICAgICAgICAKICAgICAgICByZXR1cm4gJGNsYXNzOwogICAgfQoKICAgIC8qKgogICAgICogQHBhcmFtICRjbGFzcwogICAgICogQHBhcmFtIG51bGwgJHVzZXIKICAgICAqIEByZXR1cm4gYm9vbAogICAgICogQHRocm93cyBOb1N1Y2hDbGFzc0V4Y2VwdGlvbgogICAgICog1eK49re9t6jKx8XQts/V4rj2wM/KpsrHsrvKx9XiuPaw4Ly2tcQKICAgICAqINPQwb3W1sfpv/YKICAgICAqIDEu1eK49tPDu6fKx7S0vajV4rj2sOC8trXEwM/KpgogICAgICogMi7V4rj208O7p8rH1eK49rDgvLa1xMjOv87Az8qmCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gaXNUZWFjaGVyQ2xhc3MoJGNsYXNzLCAkdXNlciA9IG51bGwpIDogYm9vbAogICAgewogICAgICAgIGlmICghKCRjbGFzcyBpbnN0YW5jZW9mIFNjaG9vbENsYXNzKSkgewogICAgICAgICAgICAvKiogQHZhciBTY2hvb2xDbGFzcyAkY2xhc3MgKi8KICAgICAgICAgICAgJGNsYXNzID0gU2Nob29sQ2xhc3M6OmZpbmQoJGNsYXNzKTsKICAgICAgICB9CgogICAgICAgIGlmIChlbXB0eSgkY2xhc3MpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOb1N1Y2hDbGFzc0V4Y2VwdGlvbigpOwogICAgICAgIH0KICAgICAgICBpZiAoISR1c2VyKSB7CiAgICAgICAgICAgICR1c2VyID0gQXV0aDo6dXNlcigpOwogICAgICAgIH0KCiAgICAgICAgLy/V4rj2sOC8trXEtLS9qNXfysfV4rj208O7pwogICAgICAgIGlmICgkY2xhc3MtPnRlYWNoZXJfdXNlcl9pZCA9PT0gJHVzZXItPmlkKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KCiAgICAgICAgaWYgKCFzZWxmOjppc1RlYWNoZXIoJHVzZXIpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgJHNjaG9vbENsYXNzVGVhY2hlciA9IFNjaG9vbENsYXNzVGVhY2hlcjo6d2hlcmVUZWFjaGVySWQoJHVzZXItPnRlYWNoZXItPmlkKS0+d2hlcmVTY2hvb2xDbGFzc0lkKCRjbGFzcy0+aWQpLT5maXJzdCgpOwogICAgICAgIAogICAgICAgIGlmICghJHNjaG9vbENsYXNzVGVhY2hlcikgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIHJldHVybiB0cnVlOwogICAgfQoKICAgIC8qKgogICAgICogyLexo3VzZXLKx9XiuPbX99K1ttTTprXEsOC8trXEwM/KpgogICAgICoKICAgICAqIEBwYXJhbSBVc2VyICR1c2VyCiAgICAgKiBAcGFyYW0gJGhvbWV3b3JrSWQKICAgICAqIEByZXR1cm4gXEFwcFxNb2RlbFxDbGFzc0hvbWV3b3JrCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gY2hlY2tVc2VyVGVhY2hlckhvbWV3b3JrKFVzZXIgJHVzZXIsICRob21ld29ya0lkKSA6IENsYXNzSG9tZXdvcmsKICAgIHsKICAgICAgICAkaG9tZXdvcmsgPSBDbGFzc0hvbWV3b3JrTWFuYWdlcjo6Y2hlY2tBbmRHZXRIb21ld29yaygkaG9tZXdvcmtJZCk7CiAgICAgICAgJGNsYXNzSWQgPSAkaG9tZXdvcmstPmNsYXNzX2lkOwogICAgICAgIHNlbGY6OmNoZWNrVXNlckNsYXNzVGVhY2hlcigkdXNlciwgJGNsYXNzSWQpOwogICAgICAgIAogICAgICAgIHJldHVybiAkaG9tZXdvcms7CiAgICB9CgoKICAgIC8qKgogICAgICogyLexo3VzZXLKx9XiuPbRp8n61/fStc28xqy21NOmtcTRp8n61/fStbbU06a1xNf30rW1xLDgvLa1xMDPyqYKICAgICAqCiAgICAgKiBAcGFyYW0gVXNlciAkdXNlcgogICAgICogQHBhcmFtIGludCAkc3R1ZGVudEhvbWV3b3JrUGljdHVyZUlkCiAgICAgKiBAcmV0dXJuIFN0dWRlbnRIb21ld29ya1BpY3R1cmV8U3R1ZGVudEhvbWV3b3JrUmV2aXNlZFBpY3R1cmUKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBjaGVja1VzZXJUZWFjaGVyU3R1ZGVudEhvbWV3b3JrUGljdHVyZSgKICAgICAgICBVc2VyICR1c2VyLAogICAgICAgIGludCAkdHlwZSwKICAgICAgICBpbnQgJHN0dWRlbnRIb21ld29ya1BpY3R1cmVJZAogICAgKSA6IFN0dWRlbnRIb21ld29ya1BpY3R1cmUgewogICAgICAgIC8qKiBAdmFyIFN0dWRlbnRIb21ld29ya1BpY3R1cmV8U3R1ZGVudEhvbWV3b3JrUmV2aXNlZFBpY3R1cmUgJHN0dWRlbnRIb21ld29ya1BpY3R1cmUgKi8KICAgICAgICAkc3R1ZGVudEhvbWV3b3JrUGljdHVyZSA9IENsYXNzSG9tZXdvcmtNYW5hZ2VyOjpjaGVja0FuZEdldFN0dWRlbnRIb21ld29ya1BpY3R1cmUoJHR5cGUsICRzdHVkZW50SG9tZXdvcmtQaWN0dXJlSWQpOwogICAgICAgICRob21ld29ya0lkID0gJHN0dWRlbnRIb21ld29ya1BpY3R1cmUtPnN0dWRlbnRIb21ld29yay0+Y2xhc3NfaG9tZXdvcmtfaWQ7CiAgICAgICAgc2VsZjo6Y2hlY2tVc2VyVGVhY2hlckhvbWV3b3JrKCR1c2VyLCAkaG9tZXdvcmtJZCk7CiAgICAgICAgCiAgICAgICAgcmV0dXJuICRzdHVkZW50SG9tZXdvcmtQaWN0dXJlOwogICAgfQogICAgCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGNoZWNrQWNjZXNzU3R1ZGVudEhvbWV3b3JrUGljdHVyZSgKICAgICAgICBVc2VyICR1c2VyLAogICAgICAgIGludCAkdHlwZSwKICAgICAgICBpbnQgJHN0dWRlbnRIb21ld29ya1BpY3R1cmVJZAogICAgKSA6IFN0dWRlbnRIb21ld29ya1BpY3R1cmUgewogICAgICAgIC8qKiBAdmFyIFN0dWRlbnRIb21ld29ya1BpY3R1cmV8U3R1ZGVudEhvbWV3b3JrUmV2aXNlZFBpY3R1cmUgJHN0dWRlbnRIb21ld29ya1BpY3R1cmUgKi8KICAgICAgICAkc3R1ZGVudEhvbWV3b3JrUGljdHVyZSA9IENsYXNzSG9tZXdvcmtNYW5hZ2VyOjpjaGVja0FuZEdldFN0dWRlbnRIb21ld29ya1BpY3R1cmUoJHR5cGUsICRzdHVkZW50SG9tZXdvcmtQaWN0dXJlSWQpOwogICAgICAgIC8v1eLVxc28ttTTprXE1eK33df30rW21NOmtcTRp8n6ttTTprXE08O7p8PHCiAgICAgICAgJHVzZXJJZHMgPSAkc3R1ZGVudEhvbWV3b3JrUGljdHVyZS0+c3R1ZGVudEhvbWV3b3JrLT5jbGFzc1N0dWRlbnQtPnN0dWRlbnRVc2Vycy0+bGlzdHMoJ3VzZXJfaWQnLCAndXNlcl9pZCcpOwogICAgICAgIGlmIChpc3NldCgkdXNlcklkc1skdXNlci0+aWRdKSkgewogICAgICAgICAgICByZXR1cm4gJHN0dWRlbnRIb21ld29ya1BpY3R1cmU7CiAgICAgICAgfQogICAgICAgICRob21ld29ya0lkID0gJHN0dWRlbnRIb21ld29ya1BpY3R1cmUtPnN0dWRlbnRIb21ld29yay0+Y2xhc3NfaG9tZXdvcmtfaWQ7CiAgICAgICAgc2VsZjo6Y2hlY2tVc2VyVGVhY2hlckhvbWV3b3JrKCR1c2VyLCAkaG9tZXdvcmtJZCk7CiAgICAgICAgcmV0dXJuICRzdHVkZW50SG9tZXdvcmtQaWN0dXJlOwogICAgfQoKICAgIC8qKgogICAgICogQGZ1bmMguPzQwsDPyqa49sjLtcTQxc+iCiAgICAgKiBAcGFyYW0gaW50ICR0ZWFjaGVyVXNlcklkCiAgICAgKiBAcGFyYW0gc3RyaW5nfG51bGwgJG5hbWUKICAgICAqIEBwYXJhbSBpbnR8bnVsbCAkZ3JhZGUKICAgICAqIEBwYXJhbSBpbnR8bnVsbCAkc2Nob29sSWQKICAgICAqIEBwYXJhbSBpbnR8bnVsbCAkY291cnNlSWQKICAgICAqIEByZXR1cm4gVGVhY2hlcnxcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyfFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XE1vZGVsfG51bGwKICAgICAqIEB0aHJvd3MgTm9TdWNoVXNlckV4Y2VwdGlvbgogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIHVwZGF0ZVRlYWNoZXJQcm9maWxlKGludCAkdGVhY2hlclVzZXJJZCwgP3N0cmluZyAkbmFtZSwgP2ludCAkZ3JhZGUsID9pbnQgJHNjaG9vbElkLCA/aW50ICRjb3Vyc2VJZCkKICAgIHsKICAgICAgICAkdGVhY2hlciA9IFRlYWNoZXI6OndoZXJlVXNlcklkKCR0ZWFjaGVyVXNlcklkKS0+Zmlyc3QoKTsKICAgICAgICBpZiAoISR0ZWFjaGVyKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOb1N1Y2hVc2VyRXhjZXB0aW9uKCk7CiAgICAgICAgfQogICAgICAgIGlmICghaXNfbnVsbCgkbmFtZSkpIHsKICAgICAgICAgICAgJHRlYWNoZXItPm5hbWUgPSAkbmFtZTsKICAgICAgICB9CiAgICAgICAgaWYgKCFpc19udWxsKCRncmFkZSkpIHsKICAgICAgICAgICAgJHRlYWNoZXItPmVudHJhbmNlX3llYXIgPSBDbGFzc01hbmFnZXI6OmdyYWRlMkVudHJhbmNlRGF0ZSgkZ3JhZGUpOwogICAgICAgIH0KICAgICAgICBpZiAoIWlzX251bGwoJHNjaG9vbElkKSkgewogICAgICAgICAgICAkdGVhY2hlci0+c2Nob29sX2lkID0gJHNjaG9vbElkOwogICAgICAgIH0KICAgICAgICBpZiAoIWlzX251bGwoJGNvdXJzZUlkKSkgewogICAgICAgICAgICAkdGVhY2hlci0+Y291cnNlX2lkID0gJGNvdXJzZUlkOwogICAgICAgIH0KICAgICAgICAkdGVhY2hlci0+c2F2ZSgpOwoKICAgICAgICByZXR1cm4gJHRlYWNoZXI7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcGFyYW0gJHVzZXJJZAogICAgICogQHJldHVybiBUZWFjaGVyfFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXJ8XElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcTW9kZWx8bnVsbAogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGdldFRlYWNoZXJCeVVzZXJJZCgkdXNlcklkKQogICAgewogICAgICAgIHJldHVybiBUZWFjaGVyOjp3aGVyZVVzZXJJZCgkdXNlcklkKS0+Zmlyc3QoKTsKICAgIH0KfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JHVzZXJJbmZvTW9kZWwtPmdyYWRlID0gMDsKICAgICAgICAkdXNlckluZm9Nb2RlbC0+c3ViamVjdCA9IDA7CiAgICAgICAgJHVzZXJJbmZvTW9kZWwtPmNsaWVudElkcyA9IFtdOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIEFwcFxFeGNlcHRpb25zXFJlcXVlc3RGYWlsRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBwVXNlcklkID0gMjQyOwogICAgICAgICRhcHBUb2tlbiA9ICc3OTU1MDgwMjE1YzRlZmJmNWJlYWI4NC4wMzg1MDUyNSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuZXJyb3IocmVzcCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBwVXNlcklkID0gMjQyOwogICAgICAgICRhcHBUb2tlbiA9ICc3OTU1MDgwMjE1YzRlZmJmNWJlYWI4NC4wMzg1MDUyNSc7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKGlzc2V0KCR1cFNvdXJjZUpzb25bJ3NjaG9vbF9pZCddKSkgewogICAgICAgICAgICB1bnNldCgkdXBTb3VyY2VKc29uWydzY2hvb2xfaWQnXSk7CiAgICAgICAgICAgIENsaWVudFVzZXJNYXA6OnVwZGF0ZU9yQ3JlYXRlKFsKICAgICAgICAgICAgICAgICd1c2VyX2lkJyA9PiAkY2wKICAgICAgICAgICAgXSwgW10pOwogICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQ29sbGVjdGlvbjsK</text>
+        <text encoding="base64">Y29uc29sZS5lcnJvcih0aGlzLnBhcmFtcykK</text>
       </register>
       <register name=":" type="4">
         <text>268</text>
