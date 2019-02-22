@@ -24,11 +24,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/components/completeStudentInfo/completeStudentInfo.jsx" timestamp="1550733934591">
-        <mark key="'" line="10" column="52" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
       <file name="D:/a_web_app/101760/server/php/app/Utils/HttpPoster.php" timestamp="1550736838699">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -67,6 +62,7 @@
         <mark key="." line="103" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_4/schoolClass/CreateClassMessage.php" timestamp="1550558974881" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/User/UserMapper.php" timestamp="1550804646518" />
       <file name="D:/a_web_app/101760/server/php/app/Manager/ClientManager.php" timestamp="1550545449521" />
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-02-21.log" timestamp="1550737085331">
         <mark key="[" line="0" column="0" />
