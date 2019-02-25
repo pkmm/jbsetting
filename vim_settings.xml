@@ -85,6 +85,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/SMSManager.php" timestamp="1550801643783" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ABTest/ABTestKeys.php" timestamp="1551092552877">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+      </file>
       <file name="D:/aizuoye-paper/client/h5/src/views/schoolClass/index.jsx" timestamp="1548139068072">
         <mark key="[" line="13" column="1" />
       </file>
@@ -121,7 +126,7 @@
         <mark key="^" line="186" column="37" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/server/php/app/Manager/PaperSourceManager.php" timestamp="1550815827532" />
+      <file name="D:/a_web_app/101760/server/php/app/Manager/PaperSourceManager.php" timestamp="1551092901034" />
       <file name="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" timestamp="1551075822547">
         <mark key="[" line="365" column="29" />
       </file>
@@ -334,11 +339,11 @@
       <jump line="124" column="80" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbFxVc2VyQWJUZXN0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>是否显示protal入口</text>
       </register>
       <register name="-" type="4">
-        <text>'is_show_portal_entrance'</text>
+        <text>是否显示protal入口</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
