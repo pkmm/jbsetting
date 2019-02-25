@@ -4,17 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/SchoolClassService.php" timestamp="1550560379919" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" timestamp="1550818416363">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" timestamp="1551076453951">
         <mark key="'" line="1067" column="13" />
         <mark key="[" line="1058" column="0" />
         <mark key="]" line="1074" column="0" />
         <mark key="." line="1074" column="0" />
-      </file>
-      <file name="D:/a_web_app/101760/client/h5/src/routes.js" timestamp="1550743137821">
-        <mark key="[" line="198" column="32" />
-        <mark key="]" line="198" column="32" />
-        <mark key="." line="198" column="32" />
-        <mark key="^" line="198" column="42" />
       </file>
       <file name="D:/a_web_app/101760/server/php/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/QueriesRelationships.php" timestamp="1550813866402" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1550801766480">
@@ -30,12 +24,6 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/server/php/app/Utils/HttpPoster.php" timestamp="1550736838699">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="36" column="26" />
-      </file>
       <file name="D:/a_web_app/101760/client/h5/src/views/mySchoolClass/index.jsx" timestamp="1550561004692">
         <mark key="[" line="15" column="20" />
         <mark key="]" line="15" column="20" />
@@ -47,6 +35,9 @@
         <mark key="." line="45" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/UserService.php" timestamp="1550717568682" />
+      <file name="D:/a_web_app/101760/server/php/app/Services/V2/AppTeacherService.php" timestamp="1550736350774">
+        <mark key="[" line="54" column="0" />
+      </file>
       <file name="D:/a_web_app/101760/server/php/app/Http/web_routes.php" timestamp="1548836875758">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -87,17 +78,11 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Manager/PaperSourceManager.php" timestamp="1550815827532" />
-      <file name="D:/a_web_app/101760/client/h5/src/stores/appStore.js" timestamp="1550739343409">
-        <mark key="[" line="82" column="36" />
-        <mark key="]" line="153" column="4" />
-        <mark key="." line="153" column="4" />
-        <mark key="^" line="155" column="33" />
+      <file name="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" timestamp="1551075822547">
+        <mark key="[" line="365" column="29" />
       </file>
-      <file name="D:/a_web_app/101760/server/php/app/Services/V2/Mapper/UserMapper.php" timestamp="1550718832162">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="8" />
-        <mark key="^" line="21" column="32" />
-        <mark key="." line="21" column="8" />
+      <file name="D:/a_web_app/101760/server/php/app/Http/Middleware/Authenticate.php" timestamp="1550717712626">
+        <mark key="[" line="67" column="100" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" timestamp="1550802861935">
         <mark key="[" line="9" column="0" />
@@ -137,6 +122,9 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Manager/ConvertModelManager.php" timestamp="1550715068268" />
+      <file name="D:/a_web_app/101760/server/php/app/Manager/UserManager.php" timestamp="1550715058516">
+        <mark key="[" line="117" column="17" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Aliyun/AliyunStsManager.php" timestamp="1548900637030">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -184,6 +172,9 @@
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Model/Teacher.php" timestamp="1550564044981">
+        <mark key="[" line="33" column="15" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1551059225136" />
     </filemarks>
