@@ -56,6 +56,13 @@
         <mark key="^" line="40" column="35" />
         <mark key="." line="37" column="19" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/tests/V2_4/UserTest.php" timestamp="1550570522613">
+        <mark key="'" line="246" column="20" />
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="42" />
+        <mark key="^" line="44" column="41" />
+        <mark key="." line="246" column="0" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/tests/V2_4/ExerciseTest.php" timestamp="1550570646409" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/Middleware/AfwConnector.php" timestamp="1551091102208">
         <mark key="[" line="63" column="5" />
@@ -121,8 +128,16 @@
         <mark key="]" line="204" column="0" />
         <mark key="." line="204" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" timestamp="1551075822547">
+      <file name="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" timestamp="1551168752698">
+        <mark key="'" line="455" column="45" />
         <mark key="[" line="365" column="29" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/tests/Portal/SchoolTest.php" timestamp="1551168833378">
+        <mark key="'" line="39" column="29" />
+        <mark key="[" line="48" column="15" />
+        <mark key="]" line="39" column="29" />
+        <mark key="^" line="39" column="29" />
+        <mark key="." line="39" column="29" />
       </file>
       <file name="D:/a_web_app/101760/client/h5/src/views/layout/main.js" timestamp="1551086275946">
         <mark key="[" line="32" column="102" />
@@ -153,6 +168,13 @@
         <mark key="^" line="130" column="58" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Http/Controllers/RESTFul/UserController.php" timestamp="1550731234826" />
+      <file name="D:/a_web_app/101760/client/h5/src/views/mySchoolClass/classStudentList.jsx" timestamp="1548682214133">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="42" column="2" />
+        <mark key="]" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+        <mark key="^" line="42" column="10" />
+      </file>
       <file name="D:/a_web_app/101760/client/h5/config.js" timestamp="1548919978586">
         <mark key="[" line="0" column="29" />
       </file>
@@ -244,8 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="D:/aizuoye_api_demo_new/server/php/storage/logs/laravel.log" />
-      <jump line="0" column="0" filename="D:/aizuoye_api_demo_new/server/php/storage/logs/laravel.log" />
       <jump line="22" column="0" filename="D:/aizuoye_pc_v21/server/php/database/migrations/2019_01_18_110320_AlertTableTeacherAddField.php" />
       <jump line="143" column="27" filename="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" />
       <jump line="239" column="26" filename="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" />
@@ -344,6 +364,8 @@
       <jump line="130" column="58" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" />
       <jump line="22" column="24" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" />
       <jump line="124" column="80" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" />
+      <jump line="447" column="45" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" />
+      <jump line="39" column="29" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/SchoolTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
