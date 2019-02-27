@@ -118,7 +118,7 @@
         <mark key="." line="150" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/Portal/teacher/InformUserPaperRemarkedMessage.php" timestamp="1551085487481" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" timestamp="1551091879295">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" timestamp="1551263663798">
         <mark key="'" line="124" column="80" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -163,19 +163,23 @@
         <mark key="[" line="117" column="17" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/SchoolClass/SchoolClassMapper.php" timestamp="1550817867894" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1551263564381">
+        <mark key="'" line="26" column="6" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1550825015332" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Jobs/AddStudentToSchoolClass.php" timestamp="1550737867340">
         <mark key="[" line="28" column="5" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1551263945216" />
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-02-22.log" timestamp="1550802627268">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/CfgABTest.php" timestamp="1551084189632" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1550801698752" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1551263959461" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/Kernel.php" timestamp="1551091156335" />
       <file name="D:/a_web_app/101760/server/php/API/Generated/V2/paperSource/GetOtherPaperSourceMessage.php" timestamp="1551146981742" />
       <file name="D:/a_web_app/101760/client/h5/API/apiBase.js" timestamp="1550730429447">
@@ -194,7 +198,6 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1551059225136" />
     </filemarks>
     <jumps>
-      <jump line="216" column="27" filename="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" />
       <jump line="137" column="8" filename="D:/aizuoye-paper/client/h5/src/views/paper-source/result-list.js" />
       <jump line="9" column="66" filename="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" />
       <jump line="181" column="34" filename="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" />
@@ -294,6 +297,7 @@
       <jump line="300" column="14" filename="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" />
       <jump line="299" column="15" filename="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" />
       <jump line="255" column="26" filename="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" />
+      <jump line="26" column="6" filename="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
