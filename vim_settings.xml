@@ -5,7 +5,7 @@
     <filemarks>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/ABTestManager.php" timestamp="1551084545117" />
       <file name="D:/a_web_app/101760/client/h5/src/views/paper-source/source-list.jsx" timestamp="1551318690810" />
-      <file name="D:/a_web_app/101760/client/h5/src/views/paper-source/source-edit.jsx" timestamp="1551318356254">
+      <file name="D:/a_web_app/101760/client/h5/src/views/paper-source/source-edit.jsx" timestamp="1551319977785">
         <mark key="'" line="291" column="25" />
         <mark key="[" line="249" column="0" />
         <mark key="]" line="251" column="127" />
@@ -81,12 +81,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" timestamp="1551246350833">
+      <file name="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" timestamp="1551320019321">
         <mark key="'" line="256" column="26" />
-        <mark key="[" line="43" column="24" />
-        <mark key="]" line="256" column="26" />
+        <mark key="[" line="254" column="24" />
+        <mark key="]" line="254" column="24" />
         <mark key="^" line="256" column="26" />
-        <mark key="." line="256" column="26" />
+        <mark key="." line="254" column="24" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Manager/PaperManager.php" timestamp="1551146174827">
         <mark key="'" line="184" column="37" />
@@ -94,12 +94,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="184" column="37" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2019-01-29.log" timestamp="1548742449038">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Manager/PaperSourceManager.php" timestamp="1551177185136">
         <mark key="[" line="203" column="0" />
@@ -122,10 +116,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/server/php/app/Http/Middleware/Authenticate.php" timestamp="1550717712626">
-        <mark key="[" line="67" column="100" />
-      </file>
-      <file name="D:/a_web_app/101760/client/h5/src/stores/appStore.js" timestamp="1551317892176">
+      <file name="D:/a_web_app/101760/client/h5/src/stores/appStore.js" timestamp="1551320162360">
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
@@ -146,14 +137,11 @@
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="10" />
       </file>
-      <file name="D:/a_web_app/101760/server/php/app/Services/V2/PaperSourceService.php" timestamp="1551147023693">
-        <mark key="[" line="73" column="47" />
-      </file>
-      <file name="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" timestamp="1551245769831">
+      <file name="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" timestamp="1551320082160">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+        <mark key="[" line="237" column="31" />
+        <mark key="]" line="237" column="29" />
+        <mark key="." line="237" column="29" />
         <mark key="^" line="124" column="36" />
       </file>
       <file name="D:/a_web_app/101760/client/h5/API/Generated/v2/model/ClientMessage.js" timestamp="1550728290311" />
@@ -167,13 +155,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/server/php/app/Manager/ConvertModelManager.php" timestamp="1551178005394">
+      <file name="D:/a_web_app/101760/server/php/app/Manager/ConvertModelManager.php" timestamp="1551319752242">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="19" column="11" />
         <mark key="." line="19" column="11" />
-      </file>
-      <file name="D:/a_web_app/101760/server/php/app/Manager/UserManager.php" timestamp="1551147476514">
-        <mark key="[" line="117" column="17" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/SchoolClass/SchoolClassMapper.php" timestamp="1550817867894" />
       <file name="D:/a_web_app/101760/client/h5/src/views/paper-source/result-list.js" timestamp="1551318995010">
@@ -205,19 +190,10 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/tests/V2_4/SchoolClassTest.php" timestamp="1550570600532">
-        <mark key="'" line="402" column="8" />
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="407" column="42" />
-        <mark key="." line="407" column="0" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Aliyun/AliyunSmsManager.php" timestamp="1550802489100">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Model/Teacher.php" timestamp="1550564044981">
-        <mark key="[" line="33" column="15" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1551059225136" />
     </filemarks>
@@ -325,10 +301,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>slice(0, Subjects.values().length-1).</text>
+        <text>if (i == Subjects.OTHER) return null;</text>
       </register>
       <register name="-" type="4">
-        <text>slice(0, Subjects.values().length-1).</text>
+        <text>if (i == Subjects.OTHER) return null;</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
