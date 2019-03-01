@@ -24,12 +24,16 @@
         <mark key="." line="198" column="32" />
         <mark key="^" line="198" column="42" />
       </file>
+      <file name="D:/a_web_app/101760/server/php/app/Console/Commands/CorrectPaperJobDispatcher.php" timestamp="1551405846404" />
       <file name="D:/a_web_app/101760/server/php/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/QueriesRelationships.php" timestamp="1550813866402" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1551085192545">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="143" column="4" />
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
+      </file>
+      <file name="D:/a_web_app/101760/client/h5/API/Generated/v2/paper/ReCorrectMessage.js" timestamp="1551405558163">
+        <mark key="'" line="26" column="0" />
       </file>
       <file name="D:/a_web_app/101760/server/php/storage/logs/laravel.log" timestamp="1550716631689">
         <mark key="[" line="0" column="0" />
@@ -102,7 +106,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" timestamp="1551320019321">
+      <file name="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" timestamp="1551404808250">
         <mark key="'" line="256" column="26" />
         <mark key="[" line="254" column="24" />
         <mark key="]" line="254" column="24" />
@@ -126,7 +130,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/stores/appStore.js" timestamp="1551337559101">
+      <file name="D:/a_web_app/101760/client/h5/src/stores/appStore.js" timestamp="1551405397351">
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
@@ -214,7 +218,6 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1551059225136" />
     </filemarks>
     <jumps>
-      <jump line="125" column="37" filename="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" />
       <jump line="32" column="21" filename="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" />
       <jump line="187" column="54" filename="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" />
       <jump line="276" column="26" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" />
@@ -314,6 +317,7 @@
       <jump line="252" column="31" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
       <jump line="0" column="0" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
       <jump line="248" column="60" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
+      <jump line="26" column="0" filename="D:/a_web_app/101760/client/h5/API/Generated/v2/paper/ReCorrectMessage.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
