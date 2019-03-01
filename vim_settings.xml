@@ -27,7 +27,7 @@
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Console/Commands/CorrectPaperJobDispatcher.php" timestamp="1551405846404" />
       <file name="D:/a_web_app/101760/server/php/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/QueriesRelationships.php" timestamp="1550813866402" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1551085192545">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1551420958961">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="143" column="4" />
         <mark key="]" line="145" column="0" />
@@ -186,6 +186,9 @@
         <mark key="[" line="163" column="35" />
         <mark key="]" line="163" column="35" />
         <mark key="." line="163" column="35" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1551421162303">
+        <mark key="'" line="26" column="6" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1550825015332" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Jobs/AddStudentToSchoolClass.php" timestamp="1550737867340">
