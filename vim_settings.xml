@@ -18,11 +18,12 @@
         <mark key="]" line="1054" column="0" />
         <mark key="." line="1054" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/routes.js" timestamp="1551086240025">
-        <mark key="[" line="198" column="32" />
-        <mark key="]" line="198" column="32" />
-        <mark key="." line="198" column="32" />
-        <mark key="^" line="198" column="42" />
+      <file name="D:/a_web_app/101760/client/h5/src/routes.js" timestamp="1551419616553">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="185" column="25" />
+        <mark key="]" line="185" column="25" />
+        <mark key="." line="185" column="25" />
+        <mark key="^" line="185" column="35" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Console/Commands/CorrectPaperJobDispatcher.php" timestamp="1551405846404" />
       <file name="D:/a_web_app/101760/server/php/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/QueriesRelationships.php" timestamp="1550813866402" />
@@ -186,9 +187,6 @@
         <mark key="]" line="163" column="35" />
         <mark key="." line="163" column="35" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1551263564381">
-        <mark key="'" line="26" column="6" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentProfileManager.php" timestamp="1550825015332" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Jobs/AddStudentToSchoolClass.php" timestamp="1550737867340">
         <mark key="[" line="28" column="5" />
@@ -218,8 +216,6 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1551059225136" />
     </filemarks>
     <jumps>
-      <jump line="32" column="21" filename="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" />
-      <jump line="187" column="54" filename="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" />
       <jump line="276" column="26" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" />
       <jump line="51" column="18" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/SchoolTest.php" />
       <jump line="391" column="38" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" />
@@ -318,13 +314,15 @@
       <jump line="0" column="0" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
       <jump line="248" column="60" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
       <jump line="26" column="0" filename="D:/a_web_app/101760/client/h5/API/Generated/v2/paper/ReCorrectMessage.js" />
+      <jump line="185" column="35" filename="D:/a_web_app/101760/client/h5/src/routes.js" />
+      <jump line="0" column="0" filename="D:/a_web_app/101760/client/h5/src/routes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTIwcHg7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SchoolClass</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>SchoolClass</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
