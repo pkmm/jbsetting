@@ -122,6 +122,12 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1551753744428">
         <mark key="'" line="26" column="6" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/SchoolManageTable.vue" timestamp="1551939730172">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="51" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/Middleware/AfwConnector.php" timestamp="1551091102208">
         <mark key="[" line="63" column="5" />
         <mark key="]" line="11" column="5" />
@@ -299,8 +305,8 @@
       <jump line="0" column="0" filename="D:/a_web_app/101760/client/h5/src/routes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SchoolClass</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwhLS08ZWwtYnV0dG9uICBAY2xpY2s9ImRpYWxvZ0NpdHlWaXNpYmxlID0gdHJ1ZSI+zO2807PHytA8L2VsLWJ1dHRvbj4tLT4K</text>
       </register>
       <register name="-" type="4">
         <text>SchoolClass</text>
@@ -312,22 +318,22 @@
         <text encoding="base64">ICAgICAgICAgIG1lc3NhZ2UuZXJyb3IoJ7GjtObKp7DcJyk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIDwhLS08ZWwtYnV0dG9uICBAY2xpY2s9ImRpYWxvZ0NpdHlWaXNpYmxlID0gdHJ1ZSI+zO2807PHytA8L2VsLWJ1dHRvbj4tLT4K</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">PCEtLTxkaXYgY2xhc3M9ImJsb2NrIiBzdHlsZT0iZmxvYXQ6cmlnaHQ7Ij4tLT4KICAgICAgPCEtLTxlbC1kaWFsb2cgdGl0bGU9IsztvNOzx8rQIiA6dmlzaWJsZS5zeW5jPSJkaWFsb2dDaXR5VmlzaWJsZSI+LS0+CiAgICAgICAgPCEtLTxkaXY+LS0+CiAgICAgICAgICA8IS0tPGVsLWNhc2NhZGVyLS0+CiAgICAgICAgICAgIDwhLS1wbGFjZWhvbGRlcj0iyc/Su7y2Ii0tPgogICAgICAgICAgICA8IS0tZmlsdGVyYWJsZS0tPgogICAgICAgICAgICA8IS0tY2hhbmdlLW9uLXNlbGVjdC0tPgogICAgICAgICAgICA8IS0tOm9wdGlvbnM9Im9wdGlvbnMiLS0+CiAgICAgICAgICAgIDwhLS12LW1vZGVsPSJuZXdDaXR5LmNpdHlTZWxlY3RPcHRpb25zIi0tPgogICAgICAgICAgPCEtLSZndDstLT4KICAgICAgICAgIDwhLS08L2VsLWNhc2NhZGVyPrK70aHU8cnP0ru8tiAgvs3Kx9fuuN+8tqOoyqG8trWlzrujqS0tPgogICAgICAgICAgPCEtLTxlbC1pbnB1dCB2LW1vZGVsPSJuZXdDaXR5LmNpdHlOYW1lIiBwbGFjZWhvbGRlcj0is8fK0MP7Ij48L2VsLWlucHV0Pi0tPgogICAgICAgIDwhLS08L2Rpdj4tLT4KICAgICAgICA8IS0tPHNwYW4gc2xvdD0iZm9vdGVyIiBjbGFzcz0iZGlhbG9nLWZvb3RlciI+LS0+CiAgICAgICAgICA8IS0tPGVsLWJ1dHRvbiBAY2xpY2s9ImRpYWxvZ0NpdHlWaXNpYmxlID0gZmFsc2UiPsihIM/7PC9lbC1idXR0b24+LS0+CiAgICAgICAgICA8IS0tPGVsLWJ1dHRvbiB0eXBlPSJwcmltYXJ5IiBAY2xpY2s9ImFkZENpdHkiPsi3ILaoPC9lbC1idXR0b24+LS0+CiAgICAgICAgPCEtLTwvc3Bhbj4tLT4KICAgICAgPCEtLTwvZWwtZGlhbG9nPi0tPgogICAgPCEtLTwvZGl2Pi0tPg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICB3aWR0aDogMTIwcHg7Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBoZWlnaHQ6IDM2cHg7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAvL2Rpc3BsYXk6IGZsZXg7CiAgLy9qdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIC8vd2lkdGg6IDEyOHB4OwogICAgLy9oZWlnaHQ6IDM4cHg7</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vd2lkdGg6IDEyOHB4Owo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vaGVpZ2h0OiAzOHB4Owo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIC8vd2lkdGg6IDEyOHB4Owo=</text>
@@ -336,7 +342,7 @@
         <text encoding="base64">ICAgIC8vaGVpZ2h0OiAzOHB4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDM2cHg7Cg==</text>
+        <text encoding="base64">ICAgIC8vd2lkdGg6IDEyOHB4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>200</text>
