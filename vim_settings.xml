@@ -19,33 +19,25 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushLetters.php" timestamp="1552024588874" />
-      <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/examples/schedule_example.php" timestamp="1552027547302" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushLetters.php" timestamp="1552032657477">
+        <mark key="[" line="53" column="60" />
+        <mark key="]" line="53" column="60" />
+        <mark key="." line="53" column="60" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/examples/schedule_example.php" timestamp="1552028254097" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Kernel.php" timestamp="1552028779214" />
       <file name="D:/a_web_app/101760/client/h5/src/views/paper-source/source-edit.jsx" timestamp="1551319977785">
         <mark key="'" line="291" column="25" />
         <mark key="[" line="249" column="0" />
         <mark key="]" line="251" column="127" />
         <mark key="." line="251" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Models/Letter/SysBatchLetter.php" timestamp="1552030130539" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" timestamp="1551261269123">
         <mark key="'" line="1067" column="13" />
         <mark key="[" line="1054" column="0" />
         <mark key="]" line="1054" column="0" />
         <mark key="." line="1054" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" timestamp="1551263663798">
-        <mark key="'" line="124" column="80" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="130" column="58" />
-      </file>
-      <file name="D:/a_web_app/101760/client/h5/src/routes.js" timestamp="1551419616553">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="185" column="25" />
-        <mark key="]" line="185" column="25" />
-        <mark key="." line="185" column="25" />
-        <mark key="^" line="185" column="35" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/Portal/TeacherService.php" timestamp="1551420958961">
         <mark key="'" line="20" column="0" />
@@ -107,10 +99,14 @@
         <mark key="]" line="163" column="35" />
         <mark key="." line="163" column="35" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/AdminLetterService.php" timestamp="1552030824991">
+        <mark key="'" line="214" column="4" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1552026999034">
         <mark key="[" line="76" column="22" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterAdminManager.php" timestamp="1552024943794" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterAdminManager.php" timestamp="1552030948182" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Models/Letter/LetterOnIndex.php" timestamp="1552029929237" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1551753744428">
         <mark key="'" line="26" column="6" />
       </file>
@@ -135,7 +131,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1552014641425" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1552029693287" />
       <file name="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/index.less" timestamp="1551352636032">
         <mark key="[" line="29" column="21" />
         <mark key="]" line="30" column="0" />
@@ -169,28 +165,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" timestamp="1551404808250">
-        <mark key="'" line="256" column="26" />
-        <mark key="[" line="254" column="24" />
-        <mark key="]" line="254" column="24" />
-        <mark key="^" line="256" column="26" />
-        <mark key="." line="254" column="24" />
-      </file>
-      <file name="D:/a_web_app/101760/server/php/app/Manager/PaperManager.php" timestamp="1551146174827">
-        <mark key="'" line="184" column="37" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="184" column="37" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="D:/a_web_app/101760/server/php/app/Manager/PaperSourceManager.php" timestamp="1551352302013">
         <mark key="[" line="203" column="0" />
         <mark key="]" line="203" column="0" />
         <mark key="." line="203" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Model/User.php" timestamp="1552032341589" />
     </filemarks>
     <jumps>
-      <jump line="276" column="26" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" />
       <jump line="51" column="18" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/SchoolTest.php" />
       <jump line="391" column="38" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" />
       <jump line="237" column="58" filename="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" />
@@ -290,13 +272,14 @@
       <jump line="26" column="0" filename="D:/a_web_app/101760/client/h5/API/Generated/v2/paper/ReCorrectMessage.js" />
       <jump line="185" column="35" filename="D:/a_web_app/101760/client/h5/src/routes.js" />
       <jump line="0" column="0" filename="D:/a_web_app/101760/client/h5/src/routes.js" />
+      <jump line="214" column="4" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/AdminLetterService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAkZTsK</text>
+      <register name="&quot;" type="4">
+        <text>复</text>
       </register>
       <register name="-" type="4">
-        <text>SchoolClass</text>
+        <text>复</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
