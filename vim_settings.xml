@@ -8,6 +8,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_1/AdminLetterService.php" timestamp="1552014945647" />
       <file name="D:/a_web_app/101760/client/h5/src/stores/appStore.js" timestamp="1551405397351">
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="0" />
@@ -119,10 +120,11 @@
         <mark key="]" line="163" column="35" />
         <mark key="." line="163" column="35" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterAdminManager.php" timestamp="1552015043798" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" timestamp="1551753744428">
         <mark key="'" line="26" column="6" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/SchoolManageTable.vue" timestamp="1551939730172">
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/SchoolManageTable.vue" timestamp="1552013794571">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -149,6 +151,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1552014641425" />
       <file name="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/index.less" timestamp="1551352636032">
         <mark key="[" line="29" column="21" />
         <mark key="]" line="30" column="0" />
@@ -164,7 +167,7 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/User/UserMapper.php" timestamp="1551922979145">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/User/UserMapper.php" timestamp="1552014556108">
         <mark key="[" line="135" column="34" />
       </file>
       <file name="D:/a_web_app/101760/client/h5/API/apiBase.js" timestamp="1550730429447">
