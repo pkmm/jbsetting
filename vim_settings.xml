@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1552293837359">
-        <mark key="[" line="184" column="20" />
-        <mark key="]" line="184" column="20" />
-        <mark key="." line="184" column="20" />
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1552295968000">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="11" />
+        <mark key="." line="35" column="11" />
+        <mark key="^" line="35" column="11" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1552027286576">
         <mark key="[" line="47" column="16" />
@@ -41,7 +42,9 @@
         <mark key="]" line="1054" column="0" />
         <mark key="." line="1054" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Models/Letter/Letter.php" timestamp="1552282695350" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Models/Letter/Letter.php" timestamp="1552295341347">
+        <mark key="[" line="68" column="27" />
+      </file>
       <file name="D:/a_web_app/101760/server/php/app/Utils/HttpPoster.php" timestamp="1550736838699">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -64,6 +67,9 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/UserService.php" timestamp="1552284792127" />
       <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/examples/admin_example.php" timestamp="1552027397399" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Account/Observers/DoSession.php" timestamp="1552284838591" />
+      <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1552026999034">
+        <mark key="[" line="76" column="22" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterAdminManager.php" timestamp="1552030948182" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/LetterAction.js" timestamp="1552290595471">
         <mark key="[" line="4" column="0" />
@@ -87,8 +93,11 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1552282625936" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1552287615764" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1552029693287" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1552295479212" />
       <file name="D:/aizuoye_pc_v21/server/php/app/traits/ObserverableTrait.php" timestamp="1552284817896" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/User/UserMapper.php" timestamp="1552014556108">
+        <mark key="[" line="135" column="34" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Account/Login/DeviceLogin.php" timestamp="1552284435778" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/User.php" timestamp="1552032341589" />
     </filemarks>
