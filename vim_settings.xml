@@ -147,7 +147,7 @@
         <mark key="]" line="53" column="60" />
         <mark key="." line="53" column="60" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/examples/schedule_example.php" timestamp="1552373199112" />
+      <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/examples/schedule_example.php" timestamp="1552381725607" />
       <file name="D:/a_web_app/101760/server/php/app/Services/V2/Mapper/UserMapper.php" timestamp="1550718832162">
         <mark key="[" line="21" column="8" />
         <mark key="]" line="21" column="8" />
@@ -210,7 +210,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1552372228862" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1552381943827">
+        <mark key="[" line="229" column="70" />
+        <mark key="]" line="197" column="42" />
+        <mark key="." line="197" column="42" />
+        <mark key="^" line="197" column="42" />
+      </file>
       <file name="/Dummy.txt" timestamp="1552375369395">
         <mark key="[" line="0" column="0" />
       </file>
@@ -226,10 +231,10 @@
         <mark key="^" line="363" column="30" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/examples/grouppush_example.php" timestamp="1552373168016" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" timestamp="1552378189884">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" timestamp="1552382179502">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="D:/a_web_app/101760/client/h5/API/apiBase.js" timestamp="1550730429447">
         <mark key="[" line="45" column="0" />
@@ -350,8 +355,8 @@
       <jump line="310" column="95" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGdldElPU01lc3NhZ2UoKTphcnJheSB7CgogICAgfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gtPK/qtChs8zQ8go=</text>
       </register>
       <register name="-" type="4">
         <text>builder_id</text>
@@ -362,10 +367,28 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAhZW1wdHkoJGJ1aWxkZXJJZCkgJiYgJG5vdGlmaWNhdGlvblsnYnVpbGRlcl9pZCddID0gJGJ1aWxkZXJJZDsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGdldElPU01lc3NhZ2UoKTphcnJheSB7CgogICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gtPK/qtChs8zQ8go=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">aWYgKCRsZXR0ZXItPnR5cGUgPT0gTGV0dGVyVHlwZTo6U0hPUFBJTkdfTUFMTCkgewogICAgICAgICAgICAkZXh0cmFzID0gWwogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIF07CiAgICAgICAgfSBlbHNlIGlmICgkbGV0dGVyLT50eXBlID09IExldHRlclR5cGU6Ok9QRVJBVElPTl9BQ1RJVklUSUVTKSB7CgogICAgICAgIH0=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">JGRlc2MgPSAnbmV3IGxldHRlcic7CiAgICAgICAgaWYgKCRsZXR0ZXItPnR5cGUgPT09IExldHRlclR5cGU6OlRFWFQpIHsKICAgICAgICAgICAgLy8gzsTX1s/7z6KjuqG+z7XNs8/7z6Khv87E19bE2sjdvdjIocewMzDX1gogICAgICAgICAgICAvLyC0+M7Esb61xLOswbS906O6ob7Ptc2zz/vPoqG/zsSxvsTayN3HsDMw19YKICAgICAgICAgICAgJGNvbnRlbnRMZW5ndGggPSBtYl9zdHJsZW4oJGxldHRlci0+Y29udGVudCk7Ci8vICAgICAgICAgICAgIGlmICgkY29udGVudExlbmd0aCA+IHNlbGY6OkxFVFRFUl9NSU5fTEVOR1RIKSB7Ci8vICAgICAgICAgICAgICAgICAkdGV4dCA9IG1iX3N1YnN0cigkbGV0dGVyLT5jb250ZW50LCAwLCBtaW4oc2VsZjo6TEVUVEVSX01JTl9MRU5HVEgsICRjb250ZW50TGVuZ3RoKSkgLiAnLi4uJzsKLy8gICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJHRleHQgPSAkbGV0dGVyLT5jb250ZW50IC4gJyAnIC4gJGxldHRlci0+YWN0aW9uX2xhYmVsOwovLyAgICAgICAgICAgICB9CiAgICAgICAgICAgICR0aXRsZSA9ICRsZXR0ZXItPnRpdGxlOwoKICAgICAgICB9IGVsc2Ug</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKGVtcHR5KCR0aXRsZSkpIHsKICAgICAgICAgICAgCiAgICAgICAgfQogICAgICAgIAogICAgICAgIGlmIChlbXB0eSgkdGV4dCkpIHsKICAgICAgICAgICAgJHRleHQgPQogICAgICAgIH0=</text>
+      </register>
+      <register name="5" type="4">
+        <text>else {
+            // TODO 图片消息：【系统消息】你收到一张图片
+            return;
+        }</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGdldElPU01lc3NhZ2UoKTphcnJheSB7CgogICAgfQ==</text>
+      </register>
+      <register name="7" type="4">
         <text>/**
      * 
      * @param string $msgContent
@@ -375,32 +398,14 @@
      * @return array
      */</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>public static function getNotification(): array {
         $notification = [];
         $notification['android'] = self::getAndroidNotification()
     }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkc291bmQgPSBudWxsLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgID9hcnJheSAkZXh0cmFzLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA/YXJyYXkgJGludGVudAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>function getName(string $a, ?int $age)
-{
-    $f = new ReflectionFunction()
-}</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFxEQjo6ZW5hYmxlUXVlcnlMb2coKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKFxEQjo6Z2V0UXVlcnlMb2coKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc291bmQgPSBudWxsLAo=</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
