@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1552355794234">
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1552360711487">
         <mark key="[" line="33" column="23" />
         <mark key="]" line="33" column="23" />
         <mark key="." line="33" column="23" />
@@ -45,6 +45,9 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Models/Letter/Letter.php" timestamp="1552295341347">
         <mark key="[" line="68" column="27" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/AdminLetterService.php" timestamp="1552360611222">
+        <mark key="[" line="98" column="35" />
+      </file>
       <file name="D:/a_web_app/101760/server/php/app/Utils/HttpPoster.php" timestamp="1550736838699">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -52,11 +55,11 @@
         <mark key="^" line="36" column="26" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/User/UserInviteManager.php" timestamp="1552273757118" />
-      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_11_164442_ModifyLetterTable.php" timestamp="1552294005318">
-        <mark key="[" line="29" column="32" />
-        <mark key="]" line="29" column="32" />
-        <mark key="." line="29" column="32" />
-        <mark key="^" line="29" column="36" />
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_11_164442_ModifyLetterTable.php" timestamp="1552359500231">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="33" column="32" />
+        <mark key="." line="33" column="32" />
+        <mark key="^" line="33" column="39" />
       </file>
       <file name="D:/a_web_app/101760/client/h5/src/views/user/user-info.less" timestamp="1551352110511">
         <mark key="[" line="61" column="0" />
@@ -70,7 +73,9 @@
       <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1552026999034">
         <mark key="[" line="76" column="22" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterAdminManager.php" timestamp="1552030948182" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterAdminManager.php" timestamp="1552360228889">
+        <mark key="[" line="184" column="104" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/LetterAction.js" timestamp="1552290595471">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -93,7 +98,11 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1552282625936" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1552287615764" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1552295479212" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1552359791319">
+        <mark key="[" line="353" column="12" />
+        <mark key="]" line="353" column="12" />
+        <mark key="." line="353" column="12" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/traits/ObserverableTrait.php" timestamp="1552284817896" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/User/UserMapper.php" timestamp="1552014556108">
         <mark key="[" line="135" column="34" />
@@ -205,16 +214,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">di1pZj0iIWlzRGlzcGxheU9uSW5kZXgiPg==</text>
+        <text>$letterData['action'] == LetterAction::LINK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">di1pZj0iIWlzRGlzcGxheU9uSW5kZXgiPg==</text>
+        <text>$letterData['action'] == LetterAction::LINK</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCd0aXRsZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCdzY2hlZHVsZV9hdCcpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
@@ -254,7 +263,7 @@
       return '无特殊行为';</text>
       </register>
       <register name=":" type="4">
-        <text>200</text>
+        <text>354</text>
       </register>
     </registers>
     <search>
@@ -290,7 +299,6 @@
         <entry>createOr</entry>
       </history-search>
       <history-cmd>
-        <entry>172</entry>
         <entry>778</entry>
         <entry>173</entry>
         <entry>272</entry>
@@ -310,6 +318,7 @@
         <entry>358</entry>
         <entry>268</entry>
         <entry>200</entry>
+        <entry>354</entry>
       </history-cmd>
       <history-expr />
       <history-input />
