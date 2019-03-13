@@ -25,7 +25,16 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Models/Letter/Letter.php" timestamp="1552295341347">
         <mark key="[" line="68" column="27" />
       </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/.env" timestamp="1552466303008">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
+        <mark key="^" line="29" column="16" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/User/UserInviteManager.php" timestamp="1552273757118" />
+      <file name="D:/a_web_app/app_server_dev/server/php/tests/V2_5/UserTest.php" timestamp="1552467045339">
+        <mark key="[" line="419" column="51" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/UserService.php" timestamp="1552284792127" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/LetterAction.js" timestamp="1552290595471">
         <mark key="[" line="4" column="0" />
@@ -79,10 +88,10 @@
       <file name="D:/a_web_app/101760/server/php/app/Manager/UserManager.php" timestamp="1551147476514">
         <mark key="[" line="117" column="17" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1552463436878">
-        <mark key="[" line="99" column="8" />
-        <mark key="]" line="99" column="8" />
-        <mark key="." line="99" column="8" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/WeChatIntegralMallManager.php" timestamp="1552466678607">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/examples/admin_example.php" timestamp="1552027397399" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/Account/Observers/DoSession.php" timestamp="1552284838591" />
@@ -94,6 +103,13 @@
       <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1552373440748">
         <mark key="[" line="79" column="38" />
       </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/User/UserMapper.php" timestamp="1552467601672">
+        <mark key="'" line="127" column="47" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="127" column="47" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterAdminManager.php" timestamp="1552369779215">
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="0" />
@@ -101,7 +117,7 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Models/Letter/LetterOnIndex.php" timestamp="1552029929237" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterBatchReply.vue" timestamp="1552287666571" />
-      <file name="D:/a_web_app/app_server_dev/server/php/database/migrations/2019_03_13_152235_CreateMiniProgramMallBannerDetailTable.php" timestamp="1552462296374">
+      <file name="D:/a_web_app/app_server_dev/server/php/database/migrations/2019_03_13_152235_CreateMiniProgramMallBannerDetailTable.php" timestamp="1552465536519">
         <mark key="[" line="16" column="35" />
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
@@ -112,7 +128,7 @@
         <mark key="^" line="234" column="34" />
         <mark key="." line="266" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552462346109">
+      <file name="/Dummy.txt" timestamp="1552466857521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1552370197077">
@@ -135,7 +151,6 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/User.php" timestamp="1552032341589" />
     </filemarks>
     <jumps>
-      <jump line="391" column="38" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" />
       <jump line="237" column="58" filename="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" />
       <jump line="124" column="58" filename="D:/aizuoye-paper/client/h5/src/views/mySchoolClass/index.jsx" />
       <jump line="102" column="45" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" />
@@ -235,13 +250,14 @@
       <jump line="0" column="0" filename="D:/a_web_app/101760/client/h5/src/routes.js" />
       <jump line="214" column="4" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/AdminLetterService.php" />
       <jump line="310" column="95" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" />
+      <jump line="129" column="47" filename="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/User/UserMapper.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">TWluaVByb2dyYW1NYWxsQmFubmVyRGV0YWlsOjp1cGRhdGVPckNyZWF0ZShbCiAgICAgICAgICAgICd1aWQnID0+ICR1aWQsCiAgICAgICAgXSwgWwogICAgICAgICAgICAndGl0ZTsnCiAgICAgICAgXSk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIEFwcFxNb2RlbFxNaW5pUHJvZ3JhbU1hbGxCYW5uZXJEZXRhaWw7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>redis</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -249,47 +265,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAhZW1wdHkoJGJ1aWxkZXJJZCkgJiYgJG5vdGlmaWNhdGlvblsnYnVpbGRlcl9pZCddID0gJGJ1aWxkZXJJZDsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">TWluaVByb2dyYW1NYWxsQmFubmVyRGV0YWlsOjp1cGRhdGVPckNyZWF0ZShbCiAgICAgICAgICAgICd1aWQnID0+ICR1aWQsCiAgICAgICAgXSwgWwogICAgICAgICAgICAndGl0ZTsnCiAgICAgICAgXSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIEFwcFxNb2RlbFxNaW5pUHJvZ3JhbU1hbGxCYW5uZXJEZXRhaWw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3VpZCcpLT5pbmRleCgnaWR4X3VpZCcpOwo=</text>
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjJfNVxtb2RlbFxNaW5pUHJvZ3JhbU1hbGxCYW5lckRldGFpbE1vZGVsOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>case LetterType.TEXT:
-      return '纯文本消息';</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbWFsbEJhbm5lcnMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBURVhUOiAwLAo=</text>
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>//        if (count($deviceTokens) == 0) {
-//            \Log::info('Send letter of user in ' . json_encode($userIds) . ' not found device tokens');
-//            return;
-//        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbm93KTtkaWU7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ZWxzZWlmICgkbGV0dGVyLT5hY3Rpb24gPT0gTGV0dGVyQWN0aW9uOjpPUEVOX0FQUF9QQUdFKSB7CiAgICAgICAgICAgICAgICAvLyC08r+qYXBwxNqyv7XE0rPD5gogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
+        <text>foreach ( as $item) {
+            
+        }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">TWluaVByb2dyYW1NYWxsQmFubmVyRGV0YWlsOjp1cGRhdGVPckNyZWF0ZShbCiAgICAgICAgICAgICd1aWQnID0+ICR1aWQsCiAgICAgICAgXSwgWwogICAgICAgICAgICAndGl0ZTsnCiAgICAgICAgXSk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvILj5vt3Tw7untcRpZLvxyKF0b2tlbrXE1rUg08PT2reiy80K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3VpZCcpLT5pbmRleCgnaWR4X3VpZCcpOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>/**
-     * @param string|array $alert
-     * @param array|null $extras
-     * @param int|null $badge
-     * @param bool|null $contentAvailable
-     * @param bool|null $mutableContent
-     * @param string|null $category
-     * @param string|null $threadId
-     * @param null|string|array $sound
-     * @return array
-     * @throws JPushException
-     */</text>
+        <text>case LetterType.TEXT:
+      return '纯文本消息';</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
