@@ -120,6 +120,12 @@
       <file name="D:/a_web_app/101760/server/php/app/Http/Middleware/Authenticate.php" timestamp="1550717712626">
         <mark key="[" line="67" column="100" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/LetterType.js" timestamp="1552458681255">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="16" column="18" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_1/AdminLetterService.php" timestamp="1552014945647" />
       <file name="D:/a_web_app/101760/client/h5/src/stores/appStore.js" timestamp="1551405397351">
         <mark key="[" line="150" column="0" />
@@ -182,11 +188,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1552446694780">
-        <mark key="[" line="198" column="14" />
-        <mark key="]" line="198" column="14" />
-        <mark key="." line="198" column="14" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1552458593149">
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="0" />
         <mark key="^" line="234" column="34" />
+        <mark key="." line="266" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1552375369395">
         <mark key="[" line="0" column="0" />
@@ -329,7 +335,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZWxzZWlmICgkbGV0dGVyLT5hY3Rpb24gPT0gTGV0dGVyQWN0aW9uOjpPUEVOX0FQUF9QQUdFKSB7CiAgICAgICAgICAgICAgICAvLyC08r+qYXBwxNqyv7XE0rPD5gogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
+        <text>case LetterType.TEXT:
+      return '纯文本消息';</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICRleHRyYXNbJ3BhZ2VfdXJsJ10gPSAkbGV0dGVyLT5hY3Rpb25fdmFsdWU7</text>
@@ -341,15 +348,28 @@
         <text encoding="base64">ICAgICAgICAhZW1wdHkoJGJ1aWxkZXJJZCkgJiYgJG5vdGlmaWNhdGlvblsnYnVpbGRlcl9pZCddID0gJGJ1aWxkZXJJZDsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZWxzZWlmICgkbGV0dGVyLT5hY3Rpb24gPT0gTGV0dGVyQWN0aW9uOjpPUEVOX0FQUF9QQUdFKSB7CiAgICAgICAgICAgICAgICAvLyC08r+qYXBwxNqyv7XE0rPD5gogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
+        <text>case LetterType.TEXT:
+      return '纯文本消息';</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBURVhUOiAwLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvILj5vt3Tw7untcRpZLvxyKF0b2tlbrXE1rUg08PT2reiy80K</text>
+      <register name="3" type="4">
+        <text>//        if (count($deviceTokens) == 0) {
+//            \Log::info('Send letter of user in ' . json_encode($userIds) . ' not found device tokens');
+//            return;
+//        }</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ZWxzZWlmICgkbGV0dGVyLT5hY3Rpb24gPT0gTGV0dGVyQWN0aW9uOjpPUEVOX0FQUF9QQUdFKSB7CiAgICAgICAgICAgICAgICAvLyC08r+qYXBwxNqyv7XE0rPD5gogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvILj5vt3Tw7untcRpZLvxyKF0b2tlbrXE1rUg08PT2reiy80K</text>
+      </register>
+      <register name="7" type="4">
         <text>/**
      * @param string|array $alert
      * @param array|null $extras
@@ -363,20 +383,11 @@
      * @throws JPushException
      */</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkZGV2aWNlVG9rZW5zID0gc2VsZjo6ZmluZFB1c2hEZXZpY2VUb2tlbnNCeVVzZXJJZHMoJHVzZXJJZHMpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">JGNsaWVudCA9IEpQdXNoTWFuYWdlcjo6Z2V0Q2xpZW50KCk7CiAgICAgICAgJGFuZHJvaWROb3RpZmljYXRpb24gPSBKUHVzaE1hbmFnZXI6OmJ1aWxkQW5kcm9pZE5vdGlmaWNhdGlvbigkY29udGVudCwgJHRpdGxlLCAkZXh0cmFzKTsKICAgICAgICAkaW9zTm90aWZpY2F0aW9uID0gSlB1c2hNYW5hZ2VyOjpidWlsZElvc05vdGlmaWNhdGlvbigkY29udGVudCwgJGV4dHJhcyk7CiAgICAgICAgJG1zZyA9IEpQdXNoTWFuYWdlcjo6YnVpbGRNZXNzYWdlKCRjb250ZW50LCAkdGl0bGUsIG51bGwsICRleHRyYXMpOwogICAgICAgICRwdXNoZXIgPSAkY2xpZW50LT5wdXNoKCktPmlvc05vdGlmaWNhdGlvbigkY29udGVudCwgJGlvc05vdGlmaWNhdGlvbiktPmFuZHJvaWROb3RpZmljYXRpb24oJGNvbnRlbnQsICRhbmRyb2lkTm90aWZpY2F0aW9uKQogICAgICAgICAgICAtPm1lc3NhZ2UoJG1zZyk7CiAgICAgICAgaWYgKGlzX251bGwoJHNjaGVkdWxlQXQpKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAkcHVzaGVyLT5zZW5kKCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEpQdXNoRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgICAgICAvLyB0b2RvLgogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJHJlc3BvbnNlID0gJGNsaWVudC0+c2NoZWR1bGUoKS0+Y3JlYXRlU2luZ2xlU2NoZWR1bGUoJHRpdGxlLCAkcHVzaGVyLT5idWlsZCgpLCBbCiAgICAgICAgICAgICAgICAndGltZScgPT4gZGF0ZSgnWS1tLWQgSDppOnMnLCBzdHJ0b3RpbWUoJHNjaGVkdWxlQXQpKQogICAgICAgICAgICBdKTsKICAgICAgICB9</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZGV2aWNlVG9rZW5zID0gc2VsZjo6ZmluZFB1c2hEZXZpY2VUb2tlbnNCeVVzZXJJZHMoJHVzZXJJZHMpOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICRkZXZpY2VUb2tlbkFuZHJvaWQgPSAkZGV2aWNlVG9rZW5zWzBdOwovLyAgICAgICAgJGRldmljZVRva2VuSW9zID0gJGRldmljZVRva2Vuc1sxXTsKLy8KLy8gICAgICAgICRkZXZpY2VUb2tlbkFuZHJvaWRDaHVuayA9IGFycmF5X2NodW5rKCRkZXZpY2VUb2tlbkFuZHJvaWQsIHNlbGY6OlBVU0hfTUFYX0NPVU5UX09OQ0UpOwovLyAgICAgICAgZm9yZWFjaCAoJGRldmljZVRva2VuQW5kcm9pZENodW5rIGFzICR0b2tlbnMpIHsKLy8gICAgICAgICAgICAkYW5kcm9pZENhc3QgPSBzZWxmOjpnZXRBbmRyb2lkUHVzaCgKLy8gICAgICAgICAgICAgICAgJHRva2VucywKLy8gICAgICAgICAgICAgICAgJHRpdGxlLAovLyAgICAgICAgICAgICAgICAkdGV4dCwKLy8gICAgICAgICAgICAgICAgJGRlc2MsCi8vICAgICAgICAgICAgICAgIFsKLy8gICAgICAgICAgICAgICAgICAgICdkYXRhJyA9PiBqc29uX2VuY29kZShbJ2NvZGUnID0+IHNlbGY6OkxFVFRFUl0pLAovLyAgICAgICAgICAgICAgICAgICAgJ3JvdXRlcicgPT4gQXBwUHVzaDo6R09UT19NRVNTQUdFCi8vICAgICAgICAgICAgICAgIF0KLy8gICAgICAgICAgICApOwovLyAgICAgICAgICAgIHNlbGY6OmRvU2VuZFB1c2goJGFuZHJvaWRDYXN0KTsKLy8gICAgICAgIH0KLy8KLy8gICAgICAgICRkZXZpY2VUb2tlbklvc0NodW5rID0gYXJyYXlfY2h1bmsoJGRldmljZVRva2VuSW9zLCBzZWxmOjpQVVNIX01BWF9DT1VOVF9PTkNFKTsKLy8gICAgICAgIGZvcmVhY2ggKCRkZXZpY2VUb2tlbklvc0NodW5rIGFzICR0b2tlbnMpIHsKLy8gICAgICAgICAgICAkaW9zQ2FzdCA9IHNlbGY6OmdldElvc1B1c2goCi8vICAgICAgICAgICAgICAgICR0b2tlbnMsCi8vICAgICAgICAgICAgICAgICR0aXRsZSwKLy8gICAgICAgICAgICAgICAgJHRleHQsCi8vICAgICAgICAgICAgICAgICRkZXNjLAovLyAgICAgICAgICAgICAgICBudWxsLAovLyAgICAgICAgICAgICAgICBudWxsLAovLyAgICAgICAgICAgICAgICBbCi8vICAgICAgICAgICAgICAgICAgICAnZGF0YScgPT4ganNvbl9lbmNvZGUoWydjb2RlJyA9PiBzZWxmOjpMRVRURVJdKSwKLy8gICAgICAgICAgICAgICAgICAgICdyb3V0ZXInID0+IEFwcFB1c2g6OkdPVE9fTUVTU0FHRQovLyAgICAgICAgICAgICAgICBdCi8vICAgICAgICAgICAgKTsKLy8gICAgICAgICAgICBzZWxmOjpkb1NlbmRQdXNoKCRpb3NDYXN0KTsKLy8gICAgICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
