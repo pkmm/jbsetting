@@ -10,10 +10,11 @@
         <mark key="." line="268" column="14" />
         <mark key="^" line="268" column="48" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1552377085116">
-        <mark key="[" line="51" column="3" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1552457683940">
+        <mark key="[" line="35" column="48" />
+        <mark key="]" line="35" column="13" />
+        <mark key="." line="35" column="46" />
+        <mark key="^" line="35" column="45" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Console/Kernel.php" timestamp="1552028779214" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/Models/LetterContent.php" timestamp="1552283126939" />
@@ -202,7 +203,7 @@
         <mark key="^" line="363" column="30" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/examples/grouppush_example.php" timestamp="1552373168016" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" timestamp="1552445789330">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" timestamp="1552457757645">
         <mark key="[" line="59" column="4" />
         <mark key="]" line="59" column="4" />
         <mark key="." line="59" column="4" />
