@@ -38,8 +38,10 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/UserService.php" timestamp="1552284792127" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/Homework/HomeworkMathMapper.php" timestamp="1552549295296" />
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/HistoryMathManager.php" timestamp="1552551038554">
-        <mark key="[" line="216" column="0" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/HistoryMathManager.php" timestamp="1552552304499">
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/LetterAction.js" timestamp="1552290595471">
         <mark key="[" line="4" column="0" />
@@ -261,7 +263,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbFxNaW5pUHJvZ3JhbU1hbGxCYW5uZXJEZXRhaWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wb3NlciB1cGRhdGUgc3ltZm9ueS92YXItZHVtcGVyCg==</text>
       </register>
       <register name="-" type="4">
         <text>redis</text>
@@ -273,34 +275,33 @@
         <text encoding="base64">ICAgICAgICAhZW1wdHkoJGJ1aWxkZXJJZCkgJiYgJG5vdGlmaWNhdGlvblsnYnVpbGRlcl9pZCddID0gJGJ1aWxkZXJJZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbFxNaW5pUHJvZ3JhbU1hbGxCYW5uZXJEZXRhaWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wb3NlciB1cGRhdGUgc3ltZm9ueS92YXItZHVtcGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjJfNVxtb2RlbFxNaW5pUHJvZ3JhbU1hbGxCYW5lckRldGFpbE1vZGVsOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbFxNaW5pUHJvZ3JhbU1hbGxCYW5uZXJEZXRhaWw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbWFsbEJhbm5lcnMpOwo=</text>
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjJfNVxtb2RlbFxNaW5pUHJvZ3JhbU1hbGxCYW5lckRldGFpbE1vZGVsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbWFsbEJhbm5lcnMpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbm93KTtkaWU7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>foreach ( as $item) {
             
         }</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">TWluaVByb2dyYW1NYWxsQmFubmVyRGV0YWlsOjp1cGRhdGVPckNyZWF0ZShbCiAgICAgICAgICAgICd1aWQnID0+ICR1aWQsCiAgICAgICAgXSwgWwogICAgICAgICAgICAndGl0ZTsnCiAgICAgICAgXSk7</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3VpZCcpLT5pbmRleCgnaWR4X3VpZCcpOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>case LetterType.TEXT:
-      return '纯文本消息';</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
