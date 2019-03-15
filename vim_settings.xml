@@ -23,8 +23,11 @@
       <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1552373484966">
         <mark key="[" line="62" column="38" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Models/Letter/Letter.php" timestamp="1552295341347">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Models/Letter/Letter.php" timestamp="1552636499376">
         <mark key="[" line="68" column="27" />
+        <mark key="]" line="72" column="5" />
+        <mark key="^" line="72" column="5" />
+        <mark key="." line="72" column="5" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/.env" timestamp="1552466303008">
         <mark key="[" line="29" column="15" />
@@ -157,6 +160,7 @@
         <mark key="]" line="59" column="4" />
         <mark key="." line="59" column="4" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Model/AppPush.php" timestamp="1552636560712" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/Teacher.php" timestamp="1550564044981">
         <mark key="[" line="33" column="15" />
       </file>
