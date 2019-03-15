@@ -61,8 +61,9 @@
         <mark key="^" line="3" column="51" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/examples/config.php.example" timestamp="1552372645468" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_1/ErrorTopicService.php" timestamp="1552616841963" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1552287615764" />
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/ErrorTopic/YytErrorTopicsManager.php" timestamp="1552550235817" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/ErrorTopic/YytErrorTopicsManager.php" timestamp="1552616910715" />
       <file name="D:/aizuoye_pc_v21/server/php/app/traits/ObserverableTrait.php" timestamp="1552284817896" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/User/UserMapper.php" timestamp="1552014556108">
         <mark key="[" line="135" column="34" />
@@ -84,6 +85,7 @@
         <mark key="." line="53" column="60" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/examples/schedule_example.php" timestamp="1552381725607" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/ErrorTopicsManager.php" timestamp="1552616934362" />
       <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/examples/huawei_push_example.php" timestamp="1552373553309" />
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_11_164442_ModifyLetterTable.php" timestamp="1552359500231">
         <mark key="[" line="36" column="32" />
