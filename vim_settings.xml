@@ -51,7 +51,7 @@
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UserTagManager.php" timestamp="1552877517393" />
       <file name="D:/aizuoye_trunk/server/php/app/Providers/AppServiceProvider.php" timestamp="1552898310268">
-        <mark key="[" line="66" column="11" />
+        <mark key="[" line="65" column="11" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Services/V2/PaperSourceService.php" timestamp="1551147023693">
         <mark key="[" line="73" column="47" />
@@ -109,8 +109,13 @@
         <mark key="." line="363" column="77" />
         <mark key="^" line="363" column="30" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Providers/AppServiceProvider.php" timestamp="1552898321275">
-        <mark key="[" line="66" column="11" />
+      <file name="D:/aizuoye_trunk/server/php/database/migrations/2019_03_13_152235_CreateMiniProgramMallBannerDetailTable.php" timestamp="1552899182866">
+        <mark key="[" line="16" column="32" />
+      </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Providers/AppServiceProvider.php" timestamp="1552899159127">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="8" />
+        <mark key="." line="5" column="8" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/User/UserMapper.php" timestamp="1552014556108">
         <mark key="[" line="135" column="34" />
@@ -223,20 +228,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[];
-                foreach ($userIds as $userId) {
-                    $ret = UserMathHistoryModelManager::list(
-                        $userId,
-                        DeletedStatus::NON_DELETED,
-                        $startId,
-                        false,
-                        $perUserPageCount
-                    );
-                    $histories = array_merge($histories, $ret);
-                }</text>
+        <text encoding="base64">CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xTY2hlbWE7</text>
       </register>
       <register name="-" type="4">
-        <text>UserMathHistoryModelManager::list($userId, DeletedStatus::NON_DELETED, $startId, false, $pageCount)</text>
+        <text>Schema::defaultStringLength(191);</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -245,6 +240,9 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBVc2VyTWF0aEhpc3RvcnlNb2RlbE1hbmFnZXI6Omxpc3QoJHVzZXJJZCwgRGVsZXRlZFN0YXR1czo6Tk9OX0RFTEVURUQsICRzdGFydElkLCBmYWxzZSwgJHBhZ2VDb3VudCk7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xTY2hlbWE7</text>
+      </register>
+      <register name="2" type="4">
         <text>[];
                 foreach ($userIds as $userId) {
                     $ret = UserMathHistoryModelManager::list(
@@ -257,29 +255,26 @@
                     $histories = array_merge($histories, $ret);
                 }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">JGhpc3Rvcmllc09mQWxsRmFtaWxpZXMgPSBbXTsKICAgICAgICBmb3JlYWNoICgkdXNlcnMgYXMgJHVzZXIpIHsKICAgICAgICAgICAgJGhpc3RvcmllcyA9IFVzZXJNYXRoSGlzdG9yeU1vZGVsTWFuYWdlcjo6bGlzdCgKICAgICAgICAgICAgICAgICR1c2VyLT5pZCwKICAgICAgICAgICAgICAgIERlbGV0ZWRTdGF0dXM6Ok5PTl9ERUxFVEVELAogICAgICAgICAgICAgICAgJHN0YXJ0SWQsCiAgICAgICAgICAgICAgICBmYWxzZSwKICAgICAgICAgICAgICAgICRwYWdlQ291bnQgKiAyCiAgICAgICAgICAgICk7CiAgICAgICAgICAgICRoaXN0b3JpZXNPZkFsbEZhbWlsaWVzID0gYXJyYXlfbWVyZ2UoJGhpc3Rvcmllc09mQWxsRmFtaWxpZXMsICRoaXN0b3JpZXMpOwogICAgICAgIH0KCiAgICAgICAgJGhpc3Rvcmllc09mQWxsRmFtaWxpZXMgPSBVc2VyTWF0aEhpc3RvcnlNb2RlbE1hbmFnZXI6OnNvcnRIaXN0b3JpZXMoJGhpc3Rvcmllc09mQWxsRmFtaWxpZXMsIHRydWUpOw==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkaGlzdG9yaWVzID0gVXNlck1hdGhIaXN0b3J5TW9kZWxNYW5hZ2VyOjpsaXN0KCR1c2VySWQsIERlbGV0ZWRTdGF0dXM6Ok5PTl9ERUxFVEVELCAkc3RhcnRJZCwgZmFsc2UsICRwYWdlQ291bnQgKiAyKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAkc3RvcEF0ID0gJG5vdzsKICAgICAgICBpc19udWxsKCRzdGFydEF0KSAmJiAkc3RhcnRBdCA9ICRub3c7</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb21wb3NlciB1cGRhdGUgc3ltZm9ueS92YXItZHVtcGVyCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dXNlIEFwcFxNb2RlbFxNaW5pUHJvZ3JhbU1hbGxCYW5uZXJEZXRhaWw7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjJfNVxtb2RlbFxNaW5pUHJvZ3JhbU1hbGxCYW5lckRldGFpbE1vZGVsOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbWFsbEJhbm5lcnMpOwo=</text>
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjJfNVxtb2RlbFxNaW5pUHJvZ3JhbU1hbGxCYW5lckRldGFpbE1vZGVsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
