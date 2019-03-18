@@ -43,13 +43,16 @@
       <file name="D:/a_web_app/app_server_dev/server/php/tests/V2_5/UserTest.php" timestamp="1552467045339">
         <mark key="[" line="419" column="51" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_11_164442_ModifyLetterTable.php" timestamp="1552359500231">
-        <mark key="[" line="36" column="32" />
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_11_164442_ModifyLetterTable.php" timestamp="1552897962279">
+        <mark key="[" line="18" column="71" />
         <mark key="]" line="36" column="32" />
         <mark key="." line="36" column="32" />
         <mark key="^" line="36" column="39" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UserTagManager.php" timestamp="1552877517393" />
+      <file name="D:/aizuoye_trunk/server/php/app/Providers/AppServiceProvider.php" timestamp="1552898310268">
+        <mark key="[" line="66" column="11" />
+      </file>
       <file name="D:/a_web_app/101760/server/php/app/Services/V2/PaperSourceService.php" timestamp="1551147023693">
         <mark key="[" line="73" column="47" />
       </file>
@@ -105,6 +108,9 @@
         <mark key="]" line="363" column="77" />
         <mark key="." line="363" column="77" />
         <mark key="^" line="363" column="30" />
+      </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Providers/AppServiceProvider.php" timestamp="1552898321275">
+        <mark key="[" line="66" column="11" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_4/User/UserMapper.php" timestamp="1552014556108">
         <mark key="[" line="135" column="34" />
