@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1552986021464">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/a_web_app/101760/server/php/app/Http/Middleware/Authenticate.php" timestamp="1550717712626">
         <mark key="[" line="67" column="100" />
       </file>
@@ -34,6 +37,12 @@
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/tests/V2_5/UserTest.php" timestamp="1552467045339">
         <mark key="[" line="419" column="51" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_11_164442_ModifyLetterTable.php" timestamp="1552985444532">
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
+        <mark key="^" line="34" column="39" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UserTagManager.php" timestamp="1552877517393" />
       <file name="D:/aizuoye_trunk/server/php/app/Providers/AppServiceProvider.php" timestamp="1552898310268">
@@ -100,10 +109,11 @@
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_19_102104_ModifyAdminPageTableInsertRecord.php" timestamp="1552962228215">
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="8" />
-        <mark key="." line="13" column="8" />
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_19_102104_ModifyAdminPageTableInsertRecord.php" timestamp="1552985420323">
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="19" column="52" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1552980200400">
         <mark key="[" line="240" column="0" />
@@ -114,6 +124,7 @@
       <file name="/Dummy.txt" timestamp="1552466857521">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_19_164442_ModifyLetterTable.php" timestamp="1552986046686" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/AdminPage.php" timestamp="1552976614899" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_5/AdminAccessService.php" timestamp="1552977490235">
         <mark key="[" line="222" column="0" />
@@ -252,7 +263,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBVc2VyTWF0aEhpc3RvcnlNb2RlbE1hbmFnZXI6Omxpc3RCeURhdGUoJHVzZXJJZCwgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIERlbGV0ZWRTdGF0dXM6Ok5PTl9ERUxFVEVELCAkc3RhcnRJZCwgZmFsc2UsICRwYWdlQ291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2xpbmsnID0+ICcnCg==</text>
       </register>
       <register name="-" type="4">
         <text>array_values($retMap)</text>
@@ -261,24 +272,30 @@
         <text>createOr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkaGlzdG9yaWVzID0gVXNlck1hdGhIaXN0b3J5TW9kZWxNYW5hZ2VyOjpsaXN0QnlEYXRlKCR1c2VySWQsICRzdGFydERhdGUsICRlbmREYXRlLCBEZWxldGVkU3RhdHVzOjpOT05fREVMRVRFRCwgJHN0YXJ0SWQsIGZhbHNlLCAkcGFnZUNvdW50ICogMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2xpbmsnID0+ICcvdjJfNS9hZG1pbkxldHRlci9sZXR0ZXJfbWFuYWdlJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBVc2VyTWF0aEhpc3RvcnlNb2RlbE1hbmFnZXI6Omxpc3RCeURhdGUoJHVzZXJJZCwgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIERlbGV0ZWRTdGF0dXM6Ok5PTl9ERUxFVEVELCAkc3RhcnRJZCwgZmFsc2UsICRwYWdlQ291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2xpbmsnID0+ICcnCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkaGlzdG9yaWVzID0gVXNlck1hdGhIaXN0b3J5TW9kZWxNYW5hZ2VyOjpsaXN0QnlEYXRlKCR1c2VySWQsICRzdGFydERhdGUsICRlbmREYXRlLCBEZWxldGVkU3RhdHVzOjpOT05fREVMRVRFRCwgJHN0YXJ0SWQsIGZhbHNlLCAkcGFnZUNvdW50ICogMik7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">REI6OnRhYmxlKCdhZG1pbl9wYWdlJyktPndoZXJlKCduYW1lJywgJ9W+xNrQxbncwO0nKS0+dXBkYXRlKFsKICAgICAgICAgICAgJ2xpbmsnID0+ICcvdjJfNS9hZG1pbkxldHRlci9sZXR0ZXJfbWFuYWdlJwogICAgICAgIF0pOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGhpc3RvcmllcyA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBVc2VyTWF0aEhpc3RvcnlNb2RlbE1hbmFnZXI6Omxpc3RCeURhdGUoJHVzZXJJZCwgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIERlbGV0ZWRTdGF0dXM6Ok5PTl9ERUxFVEVELCAkc3RhcnRJZCwgZmFsc2UsICRwYWdlQ291bnQpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Zm9yZWFjaCAoJHJldCBhcyAkaXRlbSkgewogICAgICAgICAgICB2YXJfZHVtcCgkaXRlbS0+Z2V0SW1hZ2VVcmwoKSAuICc8YnI+Jyk7CiAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkaGlzdG9yaWVzID0gVXNlck1hdGhIaXN0b3J5TW9kZWxNYW5hZ2VyOjpsaXN0QnlEYXRlKCR1c2VySWQsICRzdGFydERhdGUsICRlbmREYXRlLCBEZWxldGVkU3RhdHVzOjpOT05fREVMRVRFRCwgJHN0YXJ0SWQsIGZhbHNlLCAkcGFnZUNvdW50ICogMik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmV0TWFwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGhpc3RvcmllcyA9Cg==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">Zm9yZWFjaCAoJHJldCBhcyAkaXRlbSkgewogICAgICAgICAgICB2YXJfZHVtcCgkaXRlbS0+Z2V0SW1hZ2VVcmwoKSAuICc8YnI+Jyk7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcmV0TWFwKTsK</text>
+      </register>
+      <register name="8" type="4">
         <text>$iterator = new \RecursiveIteratorIterator(new \RecursiveArrayIterator($retMap));
         foreach ($iterator as $item) {
             var_dump($item);
@@ -286,14 +303,8 @@
         }
         dd($ret);</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaXRlcmF0b3IpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZChhcnJheV92YWx1ZXMoJHJldE1hcCkpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuZXJyb3IoaXRlbSkK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaXRlcmF0b3IpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
