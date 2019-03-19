@@ -40,6 +40,13 @@
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/YytErrorTopic/YytErrorTopicMapper.php" timestamp="1552618923109">
         <mark key="[" line="283" column="26" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/AdminUserManager.php" timestamp="1552977856528">
+        <mark key="'" line="94" column="27" />
+        <mark key="[" line="112" column="24" />
+        <mark key="]" line="112" column="8" />
+        <mark key="^" line="112" column="8" />
+        <mark key="." line="112" column="8" />
+      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/Homework/HomeworkMathMapper.php" timestamp="1552888911567" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/HistoryMathManager.php" timestamp="1552894952050">
         <mark key="[" line="236" column="31" />
@@ -72,10 +79,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/app.js" timestamp="1552974230588">
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/app.js" timestamp="1552978011486">
         <mark key="[" line="39" column="21" />
         <mark key="]" line="39" column="21" />
         <mark key="." line="39" column="21" />
+        <mark key="^" line="39" column="18" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/examples/push_example.php" timestamp="1552959376563" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/HomeworkMathService.php" timestamp="1552888915933" />
@@ -92,13 +100,20 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1552963661365">
-        <mark key="[" line="234" column="4" />
-        <mark key="]" line="234" column="4" />
-        <mark key="." line="234" column="4" />
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1552978481509">
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="0" />
+        <mark key="." line="240" column="0" />
+        <mark key="^" line="240" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1552466857521">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Model/AdminPage.php" timestamp="1552976614899" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_5/AdminAccessService.php" timestamp="1552977490235">
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V1_6/HomeworkService.php" timestamp="1552888928389" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1552888447721">
@@ -129,7 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="58" filename="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" />
       <jump line="124" column="58" filename="D:/aizuoye-paper/client/h5/src/views/mySchoolClass/index.jsx" />
       <jump line="102" column="45" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" />
       <jump line="95" column="19" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" />
@@ -229,21 +243,11 @@
       <jump line="214" column="4" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/AdminLetterService.php" />
       <jump line="310" column="95" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" />
       <jump line="129" column="47" filename="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/User/UserMapper.php" />
+      <jump line="83" column="27" filename="D:/aizuoye_pc_v21/server/php/app/Manager/AdminUserManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-  data: {},
-  created() {
-
-    console.error('created in app.js')
-  },
-  methods: {
-    async loadPermission() {
-      axios.get('/v1/adminAccess/get_access_page_of_role')
-    }
-  }
-})</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuZXJyb3IoaXRlbSkK</text>
       </register>
       <register name="-" type="4">
         <text>79a96e9a074649138c04ec29</text>
@@ -254,55 +258,44 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBVc2VyTWF0aEhpc3RvcnlNb2RlbE1hbmFnZXI6Omxpc3QoJHVzZXJJZCwgRGVsZXRlZFN0YXR1czo6Tk9OX0RFTEVURUQsICRzdGFydElkLCBmYWxzZSwgJHBhZ2VDb3VudCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-  data: {},
-  created() {
-
-    console.error('created in app.js')
-  },
-  methods: {
-    async loadPermission() {
-      axios.get('/v1/adminAccess/get_access_page_of_role')
-    }
-  }
-})</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuZXJyb3IoaXRlbSkK</text>
       </register>
-      <register name="2" type="4">
-        <text>async loadPermission() {
-      axios.get('/v1/adminAccess/get_access_page_of_role')
-    },</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdXNlckluZm86IG51bGwsCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">U2NoZW1hOjp0YWJsZSgnYWRtaW5fcGFnZScsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgICAkdGFibGUtPgogICAgICAgIH0pOw==</text>
+        <text>f (userInfo) {
+      
+    }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      <register name="4" type="4">
+        <text>{
+  data: {
+    userInfo: null,
+  },
+  created() {
+    this.loadCurrentUserInfo();
+  },
+  methods: {
+
+  }
+});</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoYnVzLnVzZXJJbmZvLCAno7+jv6O/o78nKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xTY2hlbWE7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmVycm9yKHJlc3ApCg==</text>
       </register>
       <register name="7" type="4">
-        <text>[];
-                foreach ($userIds as $userId) {
-                    $ret = UserMathHistoryModelManager::list(
-                        $userId,
-                        DeletedStatus::NON_DELETED,
-                        $startId,
-                        false,
-                        $perUserPageCount
-                    );
-                    $histories = array_merge($histories, $ret);
-                }</text>
+        <text encoding="base64">YXN5bmMgbG9hZEN1cnJlbnRVc2VySW5mbygpIHsKICAgICAgICBhd2FpdCBheGlvcy5wb3N0KCcvdjJfNS9hZG1pbkFjY2Vzcy9nZXRfbG9naW5fdXNlcl9pbmZvJykudGhlbihyZXNwID0+IHsKICAgICAgICAgIGNvbnNvbGUuZXJyb3IocmVzcCkKICAgICAgICAgIHRoaXMudXNlckluZm8gPSByZXNwLmRhdGE7CiAgICAgICAgfSkKICAgIH0=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">JGhpc3Rvcmllc09mQWxsRmFtaWxpZXMgPSBbXTsKICAgICAgICBmb3JlYWNoICgkdXNlcnMgYXMgJHVzZXIpIHsKICAgICAgICAgICAgJGhpc3RvcmllcyA9IFVzZXJNYXRoSGlzdG9yeU1vZGVsTWFuYWdlcjo6bGlzdCgKICAgICAgICAgICAgICAgICR1c2VyLT5pZCwKICAgICAgICAgICAgICAgIERlbGV0ZWRTdGF0dXM6Ok5PTl9ERUxFVEVELAogICAgICAgICAgICAgICAgJHN0YXJ0SWQsCiAgICAgICAgICAgICAgICBmYWxzZSwKICAgICAgICAgICAgICAgICRwYWdlQ291bnQgKiAyCiAgICAgICAgICAgICk7CiAgICAgICAgICAgICRoaXN0b3JpZXNPZkFsbEZhbWlsaWVzID0gYXJyYXlfbWVyZ2UoJGhpc3Rvcmllc09mQWxsRmFtaWxpZXMsICRoaXN0b3JpZXMpOwogICAgICAgIH0KCiAgICAgICAgJGhpc3Rvcmllc09mQWxsRmFtaWxpZXMgPSBVc2VyTWF0aEhpc3RvcnlNb2RlbE1hbmFnZXI6OnNvcnRIaXN0b3JpZXMoJGhpc3Rvcmllc09mQWxsRmFtaWxpZXMsIHRydWUpOw==</text>
+        <text encoding="base64">JG1vZGVsID0gbmV3IEFkbWluUm9sZSgpOwogICAgICAgICAgICAkbW9kZWwtPmlkID0gCiAgICAgICAgICAgIHJldHVybiA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChBZG1pblVzZXJNYW5hZ2VyOjpnZXRVc2VyUm9sZSgkdXNlcikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
