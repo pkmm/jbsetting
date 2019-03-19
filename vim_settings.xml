@@ -109,11 +109,10 @@
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1552986961841">
-        <mark key="[" line="242" column="93" />
-        <mark key="]" line="236" column="24" />
-        <mark key="^" line="236" column="24" />
-        <mark key="." line="236" column="24" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1552988629499">
+        <mark key="[" line="283" column="73" />
+        <mark key="]" line="283" column="73" />
+        <mark key="." line="283" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_19_102104_ModifyAdminPageTableInsertRecord.php" timestamp="1552985420323">
         <mark key="[" line="32" column="28" />
@@ -269,7 +268,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2xpbmsnID0+ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+YW5kcm9pZE5vdGlmaWNhdGlvbigkY29udGVudCwgJGFuZHJvaWROb3RpZmljYXRpb24pCg==</text>
       </register>
       <register name="-" type="4">
         <text>array_values($retMap)</text>
@@ -281,36 +280,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2xpbmsnID0+ICcvdjJfNS9hZG1pbkxldHRlci9sZXR0ZXJfbWFuYWdlJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2xpbmsnID0+ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+YW5kcm9pZE5vdGlmaWNhdGlvbigkY29udGVudCwgJGFuZHJvaWROb3RpZmljYXRpb24pCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">REI6OnRhYmxlKCdhZG1pbl9wYWdlJyktPndoZXJlKCduYW1lJywgJ9W+xNrQxbncwO0nKS0+dXBkYXRlKFsKICAgICAgICAgICAgJ2xpbmsnID0+ICcvdjJfNS9hZG1pbkxldHRlci9sZXR0ZXJfbWFuYWdlJwogICAgICAgIF0pOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+aW9zTm90aWZpY2F0aW9uKCRjb250ZW50LCAkaW9zTm90aWZpY2F0aW9uKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBVc2VyTWF0aEhpc3RvcnlNb2RlbE1hbmFnZXI6Omxpc3RCeURhdGUoJHVzZXJJZCwgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIERlbGV0ZWRTdGF0dXM6Ok5PTl9ERUxFVEVELCAkc3RhcnRJZCwgZmFsc2UsICRwYWdlQ291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2xpbmsnID0+ICcnCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkaGlzdG9yaWVzID0gVXNlck1hdGhIaXN0b3J5TW9kZWxNYW5hZ2VyOjpsaXN0QnlEYXRlKCR1c2VySWQsICRzdGFydERhdGUsICRlbmREYXRlLCBEZWxldGVkU3RhdHVzOjpOT05fREVMRVRFRCwgJHN0YXJ0SWQsIGZhbHNlLCAkcGFnZUNvdW50ICogMik7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">REI6OnRhYmxlKCdhZG1pbl9wYWdlJyktPndoZXJlKCduYW1lJywgJ9W+xNrQxbncwO0nKS0+dXBkYXRlKFsKICAgICAgICAgICAgJ2xpbmsnID0+ICcvdjJfNS9hZG1pbkxldHRlci9sZXR0ZXJfbWFuYWdlJwogICAgICAgIF0pOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGhpc3RvcmllcyA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBVc2VyTWF0aEhpc3RvcnlNb2RlbE1hbmFnZXI6Omxpc3RCeURhdGUoJHVzZXJJZCwgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIERlbGV0ZWRTdGF0dXM6Ok5PTl9ERUxFVEVELCAkc3RhcnRJZCwgZmFsc2UsICRwYWdlQ291bnQpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Zm9yZWFjaCAoJHJldCBhcyAkaXRlbSkgewogICAgICAgICAgICB2YXJfZHVtcCgkaXRlbS0+Z2V0SW1hZ2VVcmwoKSAuICc8YnI+Jyk7CiAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkaGlzdG9yaWVzID0gVXNlck1hdGhIaXN0b3J5TW9kZWxNYW5hZ2VyOjpsaXN0QnlEYXRlKCR1c2VySWQsICRzdGFydERhdGUsICRlbmREYXRlLCBEZWxldGVkU3RhdHVzOjpOT05fREVMRVRFRCwgJHN0YXJ0SWQsIGZhbHNlLCAkcGFnZUNvdW50ICogMik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmV0TWFwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGhpc3RvcmllcyA9Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>$iterator = new \RecursiveIteratorIterator(new \RecursiveArrayIterator($retMap));
-        foreach ($iterator as $item) {
-            var_dump($item);
-            $ret[] = $item;
-        }
-        dd($ret);</text>
+        <text encoding="base64">Zm9yZWFjaCAoJHJldCBhcyAkaXRlbSkgewogICAgICAgICAgICB2YXJfZHVtcCgkaXRlbS0+Z2V0SW1hZ2VVcmwoKSAuICc8YnI+Jyk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaXRlcmF0b3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmV0TWFwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
