@@ -19,7 +19,7 @@
       <file name="D:/aizuoye_pc_v21/server/php/resources/views/ADMIN/base/sidebar.blade.php" timestamp="1552974295786">
         <mark key="[" line="5" column="61" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Model/Manager/UserMathHistoryModelManager.php" timestamp="1552894380510" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Model/Manager/UserMathHistoryModelManager.php" timestamp="1552981675390" />
       <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1552957816239">
         <mark key="[" line="62" column="14" />
         <mark key="]" line="62" column="14" />
@@ -48,10 +48,10 @@
         <mark key="." line="112" column="8" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/Homework/HomeworkMathMapper.php" timestamp="1552888911567" />
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/HistoryMathManager.php" timestamp="1552894952050">
-        <mark key="[" line="236" column="31" />
-        <mark key="]" line="236" column="25" />
-        <mark key="." line="236" column="25" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/HistoryMathManager.php" timestamp="1552981930932">
+        <mark key="[" line="294" column="11" />
+        <mark key="]" line="294" column="11" />
+        <mark key="." line="294" column="11" />
         <mark key="^" line="236" column="25" />
       </file>
       <file name="D:/a_web_app/101760/server/php/app/Manager/UserManager.php" timestamp="1551147476514">
@@ -100,7 +100,7 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1552978481509">
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1552980200400">
         <mark key="[" line="240" column="0" />
         <mark key="]" line="240" column="0" />
         <mark key="." line="240" column="0" />
@@ -246,11 +246,11 @@
       <jump line="83" column="27" filename="D:/aizuoye_pc_v21/server/php/app/Manager/AdminUserManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuZXJyb3IoaXRlbSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICRoaXN0b3J5LT5nZXRCYXRjaElkKCk7</text>
       </register>
       <register name="-" type="4">
-        <text>79a96e9a074649138c04ec29</text>
+        <text encoding="base64">ICRoaXN0b3J5LT5nZXRCYXRjaElkKCk7</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
