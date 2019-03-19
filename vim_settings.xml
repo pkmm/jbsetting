@@ -50,6 +50,7 @@
       <file name="D:/a_web_app/101760/server/php/app/Manager/UserManager.php" timestamp="1551147476514">
         <mark key="[" line="117" column="17" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/resources/views/ADMIN/page/RoleManage.blade.php" timestamp="1552964683669" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/barryvdh/laravel-ide-helper/config/ide-helper.php" timestamp="1552462066367">
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="24" />
@@ -71,9 +72,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/app.js" timestamp="1552963683054">
-        <mark key="[" line="40" column="0" />
-      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/app.js" timestamp="1552964920900" />
       <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/examples/push_example.php" timestamp="1552959376563" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/HomeworkMathService.php" timestamp="1552888915933" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/PermissionConstants.js" timestamp="1552962985274">
