@@ -16,7 +16,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/views/ADMIN/base/sidebar.blade.php" timestamp="1552962449280">
+      <file name="D:/aizuoye_pc_v21/server/php/resources/views/ADMIN/base/sidebar.blade.php" timestamp="1552974295786">
         <mark key="[" line="5" column="61" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Model/Manager/UserMathHistoryModelManager.php" timestamp="1552894380510" />
@@ -72,7 +72,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/app.js" timestamp="1552964920900" />
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/app.js" timestamp="1552974230588">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="21" />
+        <mark key="." line="39" column="21" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/examples/push_example.php" timestamp="1552959376563" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/HomeworkMathService.php" timestamp="1552888915933" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/PermissionConstants.js" timestamp="1552962985274">
@@ -228,9 +232,18 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>async loadPermission() {
+        <text>{
+  data: {},
+  created() {
+
+    console.error('created in app.js')
+  },
+  methods: {
+    async loadPermission() {
       axios.get('/v1/adminAccess/get_access_page_of_role')
-    },</text>
+    }
+  }
+})</text>
       </register>
       <register name="-" type="4">
         <text>79a96e9a074649138c04ec29</text>
@@ -242,23 +255,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBVc2VyTWF0aEhpc3RvcnlNb2RlbE1hbmFnZXI6Omxpc3QoJHVzZXJJZCwgRGVsZXRlZFN0YXR1czo6Tk9OX0RFTEVURUQsICRzdGFydElkLCBmYWxzZSwgJHBhZ2VDb3VudCk7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text>{
+  data: {},
+  created() {
+
+    console.error('created in app.js')
+  },
+  methods: {
+    async loadPermission() {
+      axios.get('/v1/adminAccess/get_access_page_of_role')
+    }
+  }
+})</text>
+      </register>
+      <register name="2" type="4">
         <text>async loadPermission() {
       axios.get('/v1/adminAccess/get_access_page_of_role')
     },</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">U2NoZW1hOjp0YWJsZSgnYWRtaW5fcGFnZScsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgICAkdGFibGUtPgogICAgICAgIH0pOw==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xTY2hlbWE7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xTY2hlbWE7</text>
+      </register>
+      <register name="7" type="4">
         <text>[];
                 foreach ($userIds as $userId) {
                     $ret = UserMathHistoryModelManager::list(
@@ -271,14 +298,11 @@
                     $histories = array_merge($histories, $ret);
                 }</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">JGhpc3Rvcmllc09mQWxsRmFtaWxpZXMgPSBbXTsKICAgICAgICBmb3JlYWNoICgkdXNlcnMgYXMgJHVzZXIpIHsKICAgICAgICAgICAgJGhpc3RvcmllcyA9IFVzZXJNYXRoSGlzdG9yeU1vZGVsTWFuYWdlcjo6bGlzdCgKICAgICAgICAgICAgICAgICR1c2VyLT5pZCwKICAgICAgICAgICAgICAgIERlbGV0ZWRTdGF0dXM6Ok5PTl9ERUxFVEVELAogICAgICAgICAgICAgICAgJHN0YXJ0SWQsCiAgICAgICAgICAgICAgICBmYWxzZSwKICAgICAgICAgICAgICAgICRwYWdlQ291bnQgKiAyCiAgICAgICAgICAgICk7CiAgICAgICAgICAgICRoaXN0b3JpZXNPZkFsbEZhbWlsaWVzID0gYXJyYXlfbWVyZ2UoJGhpc3Rvcmllc09mQWxsRmFtaWxpZXMsICRoaXN0b3JpZXMpOwogICAgICAgIH0KCiAgICAgICAgJGhpc3Rvcmllc09mQWxsRmFtaWxpZXMgPSBVc2VyTWF0aEhpc3RvcnlNb2RlbE1hbmFnZXI6OnNvcnRIaXN0b3JpZXMoJGhpc3Rvcmllc09mQWxsRmFtaWxpZXMsIHRydWUpOw==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkaGlzdG9yaWVzID0gVXNlck1hdGhIaXN0b3J5TW9kZWxNYW5hZ2VyOjpsaXN0KCR1c2VySWQsIERlbGV0ZWRTdGF0dXM6Ok5PTl9ERUxFVEVELCAkc3RhcnRJZCwgZmFsc2UsICRwYWdlQ291bnQgKiAyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
