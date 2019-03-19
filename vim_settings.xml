@@ -3,6 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1552991913274">
+        <mark key="a" line="256" column="28" />
+        <mark key="'" line="256" column="6" />
+        <mark key="[" line="28" column="47" />
+        <mark key="]" line="28" column="47" />
+        <mark key="m" line="29" column="8" />
+        <mark key="." line="28" column="47" />
+        <mark key="^" line="28" column="47" />
+      </file>
       <file name="/a.dummy" timestamp="1552986021464">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,10 +118,10 @@
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1552988629499">
-        <mark key="[" line="283" column="73" />
-        <mark key="]" line="283" column="73" />
-        <mark key="." line="283" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1552991283336">
+        <mark key="[" line="269" column="0" />
+        <mark key="]" line="280" column="89" />
+        <mark key="." line="279" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_19_102104_ModifyAdminPageTableInsertRecord.php" timestamp="1552985420323">
         <mark key="[" line="32" column="28" />
@@ -165,11 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="58" filename="D:/aizuoye-paper/client/h5/src/views/mySchoolClass/index.jsx" />
-      <jump line="102" column="45" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" />
-      <jump line="95" column="19" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" />
-      <jump line="134" column="4" filename="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" />
-      <jump line="45" column="40" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" />
       <jump line="12" column="63" filename="D:/aizuoye-paper/client/h5/src/views/user/user-info.js" />
       <jump line="46" column="0" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" />
       <jump line="6" column="20" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" />
@@ -262,16 +266,21 @@
       <jump line="185" column="35" filename="D:/a_web_app/101760/client/h5/src/routes.js" />
       <jump line="0" column="0" filename="D:/a_web_app/101760/client/h5/src/routes.js" />
       <jump line="214" column="4" filename="D:/aizuoye_pc_v21/server/php/app/Services/V2_3/AdminLetterService.php" />
-      <jump line="310" column="95" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" />
       <jump line="129" column="47" filename="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/User/UserMapper.php" />
       <jump line="83" column="27" filename="D:/aizuoye_pc_v21/server/php/app/Manager/AdminUserManager.php" />
+      <jump line="310" column="6" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" />
+      <jump line="186" column="6" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" />
+      <jump line="29" column="12" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" />
+      <jump line="189" column="14" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" />
+      <jump line="28" column="52" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" />
+      <jump line="256" column="6" filename="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+YW5kcm9pZE5vdGlmaWNhdGlvbigkY29udGVudCwgJGFuZHJvaWROb3RpZmljYXRpb24pCg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>array_values($retMap)</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -280,31 +289,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2xpbmsnID0+ICcvdjJfNS9hZG1pbkxldHRlci9sZXR0ZXJfbWFuYWdlJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+YW5kcm9pZE5vdGlmaWNhdGlvbigkY29udGVudCwgJGFuZHJvaWROb3RpZmljYXRpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAkYW5kcm9pZE5vdGlmaWNhdGlvbiA9IEpQdXNoTWFuYWdlcjo6YnVpbGRBbmRyb2lkTm90aWZpY2F0aW9uKCRjb250ZW50LCAkdGl0bGUsICRleHRyYXMpOwogICAgICAgICRpb3NOb3RpZmljYXRpb24gPSBKUHVzaE1hbmFnZXI6OmJ1aWxkSW9zTm90aWZpY2F0aW9uKCRjb250ZW50LCAkZXh0cmFzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+aW9zTm90aWZpY2F0aW9uKCRjb250ZW50LCAkaW9zTm90aWZpY2F0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+YW5kcm9pZE5vdGlmaWNhdGlvbigkY29udGVudCwgJGFuZHJvaWROb3RpZmljYXRpb24pCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+aW9zTm90aWZpY2F0aW9uKCRjb250ZW50LCAkaW9zTm90aWZpY2F0aW9uKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2xpbmsnID0+ICcnCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">REI6OnRhYmxlKCdhZG1pbl9wYWdlJyktPndoZXJlKCduYW1lJywgJ9W+xNrQxbncwO0nKS0+dXBkYXRlKFsKICAgICAgICAgICAgJ2xpbmsnID0+ICcvdjJfNS9hZG1pbkxldHRlci9sZXR0ZXJfbWFuYWdlJwogICAgICAgIF0pOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBVc2VyTWF0aEhpc3RvcnlNb2RlbE1hbmFnZXI6Omxpc3RCeURhdGUoJHVzZXJJZCwgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIERlbGV0ZWRTdGF0dXM6Ok5PTl9ERUxFVEVELCAkc3RhcnRJZCwgZmFsc2UsICRwYWdlQ291bnQpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkaGlzdG9yaWVzID0gVXNlck1hdGhIaXN0b3J5TW9kZWxNYW5hZ2VyOjpsaXN0QnlEYXRlKCR1c2VySWQsICRzdGFydERhdGUsICRlbmREYXRlLCBEZWxldGVkU3RhdHVzOjpOT05fREVMRVRFRCwgJHN0YXJ0SWQsIGZhbHNlLCAkcGFnZUNvdW50ICogMik7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGhpc3RvcmllcyA9Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Zm9yZWFjaCAoJHJldCBhcyAkaXRlbSkgewogICAgICAgICAgICB2YXJfZHVtcCgkaXRlbS0+Z2V0SW1hZ2VVcmwoKSAuICc8YnI+Jyk7CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmV0TWFwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
