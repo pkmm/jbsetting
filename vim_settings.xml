@@ -18,7 +18,7 @@
       <file name="D:/a_web_app/101760/server/php/app/Http/Middleware/Authenticate.php" timestamp="1550717712626">
         <mark key="[" line="67" column="100" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushLetters.php" timestamp="1553063253638">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushLetters.php" timestamp="1553064520750">
         <mark key="[" line="53" column="60" />
         <mark key="]" line="53" column="60" />
         <mark key="." line="53" column="60" />
@@ -28,9 +28,6 @@
         <mark key="]" line="40" column="81" />
         <mark key="^" line="36" column="71" />
         <mark key="." line="40" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/views/ADMIN/base/sidebar.blade.php" timestamp="1552974295786">
-        <mark key="[" line="5" column="61" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Model/History/Math/UserMathHistory.php" timestamp="1553051766077" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Model/Manager/UserMathHistoryModelManager.php" timestamp="1553049832598" />
@@ -50,9 +47,6 @@
         <mark key="^" line="34" column="39" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UserTagManager.php" timestamp="1552877517393" />
-      <file name="D:/aizuoye_trunk/server/php/app/Providers/AppServiceProvider.php" timestamp="1552898310268">
-        <mark key="[" line="65" column="11" />
-      </file>
       <file name="D:/aizuoye_trunk/server/php/API/Generated/V2_5/model/MiniProgramMallBannerDetailModel.php" timestamp="1552959952735" />
       <file name="D:/a_web_app/101760/server/php/app/Services/V2/PaperSourceService.php" timestamp="1551147023693">
         <mark key="[" line="73" column="47" />
@@ -76,6 +70,7 @@
       <file name="D:/a_web_app/101760/server/php/app/Manager/UserManager.php" timestamp="1551147476514">
         <mark key="[" line="117" column="17" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushAllManager.php" timestamp="1553064487726" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/views/ADMIN/page/RoleManage.blade.php" timestamp="1552964683669" />
       <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1552957789471">
         <mark key="[" line="80" column="20" />
@@ -100,15 +95,12 @@
         <mark key="]" line="50" column="39" />
         <mark key="." line="50" column="39" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/PermissionConstants.js" timestamp="1552962985274">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/database/migrations/2019_03_13_152235_CreateMiniProgramMallBannerDetailTable.php" timestamp="1552891705722">
         <mark key="[" line="24" column="55" />
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1553062188198">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1553064645509">
         <mark key="[" line="277" column="0" />
         <mark key="]" line="288" column="89" />
         <mark key="." line="287" column="0" />
@@ -136,9 +128,6 @@
         <mark key="." line="222" column="0" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V1_6/HomeworkService.php" timestamp="1552888928389" />
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1552888447721">
-        <mark key="[" line="58" column="0" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1553061536179">
         <mark key="[" line="363" column="77" />
         <mark key="]" line="363" column="77" />
