@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/src/JPush/PushPayload.php" timestamp="1553071586100" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1553063591772">
         <mark key="a" line="256" column="28" />
         <mark key="'" line="256" column="6" />
@@ -12,11 +13,11 @@
         <mark key="." line="28" column="47" />
         <mark key="^" line="28" column="47" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1552457683940">
-        <mark key="[" line="35" column="48" />
-        <mark key="]" line="35" column="13" />
-        <mark key="." line="35" column="46" />
-        <mark key="^" line="35" column="45" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1553072183655">
+        <mark key="[" line="38" column="53" />
+        <mark key="]" line="38" column="51" />
+        <mark key="." line="38" column="28" />
+        <mark key="^" line="38" column="29" />
       </file>
       <file name="/a.dummy" timestamp="1552986021464">
         <mark key="[" line="0" column="0" />
@@ -156,13 +157,12 @@
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1553069512202">
-        <mark key="a" line="180" column="28" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1553072207551">
+        <mark key="a" line="182" column="28" />
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="180" column="28" />
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="314" column="0" />
+        <mark key="." line="314" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_19_102104_ModifyAdminPageTableInsertRecord.php" timestamp="1552985420323">
         <mark key="[" line="32" column="28" />
@@ -325,11 +325,11 @@
       <jump line="22" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFB1c2hBbGxNYW5hZ2VyOjpwdXNoQWxsQW5kcm9pZCgnob7Ptc2zz/vPoqG/JywgJHN5c0JhdGNoTGV0dGVyLT5zeXNMZXR0ZXItPmNvbnRlbnQsICduZXcgbGV0dGVyJywgWwovLyAgICAgICAgICAgICAgICAgICAgICAgICdkYXRhJyA9PiBqc29uX2VuY29kZShbJ2NvZGUnID0+IFB1c2hNYW5hZ2VyOjpMRVRURVJdKQovLyAgICAgICAgICAgICAgICAgICAgXSk7Ci8vICAgICAgICAgICAgICAgICAgICBQdXNoQWxsTWFuYWdlcjo6cHVzaEFsbElvcygnob7Ptc2zz/vPoqG/JywgJHN5c0JhdGNoTGV0dGVyLT5zeXNMZXR0ZXItPmNvbnRlbnQsICduZXcgbGV0dGVyJywgWwovLyAgICAgICAgICAgICAgICAgICAgICAgICdkYXRhJyA9PiBqc29uX2VuY29kZShbJ2NvZGUnID0+IFB1c2hNYW5hZ2VyOjpMRVRURVJdKQovLyAgICAgICAgICAgICAgICAgICAgXSk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRzY2hlZHVsZUF0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IGRhdGUoJ1ktbS1kIEg6aTpzJywgc3RydG90aW1lKCRzY2hlZHVsZUF0KSk=</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -337,46 +337,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnaXNfc2VuZF9hcHBfcHVzaCcK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFB1c2hBbGxNYW5hZ2VyOjpwdXNoQWxsQW5kcm9pZCgnob7Ptc2zz/vPoqG/JywgJHN5c0JhdGNoTGV0dGVyLT5zeXNMZXR0ZXItPmNvbnRlbnQsICduZXcgbGV0dGVyJywgWwovLyAgICAgICAgICAgICAgICAgICAgICAgICdkYXRhJyA9PiBqc29uX2VuY29kZShbJ2NvZGUnID0+IFB1c2hNYW5hZ2VyOjpMRVRURVJdKQovLyAgICAgICAgICAgICAgICAgICAgXSk7Ci8vICAgICAgICAgICAgICAgICAgICBQdXNoQWxsTWFuYWdlcjo6cHVzaEFsbElvcygnob7Ptc2zz/vPoqG/JywgJHN5c0JhdGNoTGV0dGVyLT5zeXNMZXR0ZXItPmNvbnRlbnQsICduZXcgbGV0dGVyJywgWwovLyAgICAgICAgICAgICAgICAgICAgICAgICdkYXRhJyA9PiBqc29uX2VuY29kZShbJ2NvZGUnID0+IFB1c2hNYW5hZ2VyOjpMRVRURVJdKQovLyAgICAgICAgICAgICAgICAgICAgXSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRzY2hlZHVsZUF0KTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBVc2VyOjpxdWVyeSgpLT5jaHVuaygxMDAwLCBmdW5jdGlvbiAoJHVzZXJzKSB7CgogICAgICAgIH0pOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcTGV0dGVyXFN5c0JhdGNoTGV0dGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRzY2hlZHVsZUF0KTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>'pushed_at',
-        'start_at',
-        'end_at',
-        'schedule_at',
-        'is_send_app_push'</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRkKHN0cnRvdGltZSgnbm93JyksIHN0cnRvdGltZSgnKzEgbWludXRlcycpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">UHVzaE1hbmFnZXI6OmRvUHVzaExldHRlcigKICAgICAgICAgICAgICAgICAgICAgICAgJHVzZXJzLT5wbHVjaygnaWQnKS0+YWxsKCksCiAgICAgICAgICAgICAgICAgICAgICAgICehvs+1zbPP+8+iob8nLAogICAgICAgICAgICAgICAgICAgICAgICAkc3lzQmF0Y2hMZXR0ZXItPnN5c0xldHRlci0+Y29udGVudCwKICAgICAgICAgICAgICAgICAgICAgICAgJ25ldyBsZXR0ZXInLAogICAgICAgICAgICAgICAgICAgICk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>foreach ($users as $user) {
-                
-            }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbigkZS0+Z2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">JHJldCA9IFVzZXJNYXRoSGlzdG9yeU1vZGVsTWFuYWdlcjo6c29ydEhpc3RvcmllcygkcmV0LCAkb3JkZXJBc2MpOwogICAgICAgICRyZXQgPSBzZWxmOjpwcm9jZXNzSGlzdG9yeUdyb3VwQnlCYXRjaCgkcmV0KTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFB1c2hBbGxNYW5hZ2VyOjpwdXNoQWxsQW5kcm9pZCgnob7Ptc2zz/vPoqG/JywgJHN5c0JhdGNoTGV0dGVyLT5zeXNMZXR0ZXItPmNvbnRlbnQsICduZXcgbGV0dGVyJywgWwovLyAgICAgICAgICAgICAgICAgICAgICAgICdkYXRhJyA9PiBqc29uX2VuY29kZShbJ2NvZGUnID0+IFB1c2hNYW5hZ2VyOjpMRVRURVJdKQovLyAgICAgICAgICAgICAgICAgICAgXSk7Ci8vICAgICAgICAgICAgICAgICAgICBQdXNoQWxsTWFuYWdlcjo6cHVzaEFsbElvcygnob7Ptc2zz/vPoqG/JywgJHN5c0JhdGNoTGV0dGVyLT5zeXNMZXR0ZXItPmNvbnRlbnQsICduZXcgbGV0dGVyJywgWwovLyAgICAgICAgICAgICAgICAgICAgICAgICdkYXRhJyA9PiBqc29uX2VuY29kZShbJ2NvZGUnID0+IFB1c2hNYW5hZ2VyOjpMRVRURVJdKQovLyAgICAgICAgICAgICAgICAgICAgXSk7</text>
       </register>
       <register name="9" type="4">
-        <text>UserMathHistoryModelManager::listByDate(
-                $userId,
-                $startDate,
-                $endDate,
-                $deletedStatus,
-                $startHistoryId,
-                $orderAsc,
-                $limitCount
-            );</text>
+        <text encoding="base64">ICAgICAgICBVc2VyOjpxdWVyeSgpLT5jaHVuaygxMDAwLCBmdW5jdGlvbiAoJHVzZXJzKSB7CgogICAgICAgIH0pOw==</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
