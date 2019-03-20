@@ -18,7 +18,7 @@
       <file name="D:/a_web_app/101760/server/php/app/Http/Middleware/Authenticate.php" timestamp="1550717712626">
         <mark key="[" line="67" column="100" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushLetters.php" timestamp="1553060728097">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushLetters.php" timestamp="1553061890976">
         <mark key="[" line="53" column="60" />
         <mark key="]" line="53" column="60" />
         <mark key="." line="53" column="60" />
@@ -103,10 +103,10 @@
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1552991283336">
-        <mark key="[" line="269" column="0" />
-        <mark key="]" line="280" column="89" />
-        <mark key="." line="279" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1553062188198">
+        <mark key="[" line="277" column="0" />
+        <mark key="]" line="288" column="89" />
+        <mark key="." line="287" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_19_102104_ModifyAdminPageTableInsertRecord.php" timestamp="1552985420323">
         <mark key="[" line="32" column="28" />
@@ -134,7 +134,7 @@
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1552888447721">
         <mark key="[" line="58" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1553060506242">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1553061536179">
         <mark key="[" line="363" column="77" />
         <mark key="]" line="363" column="77" />
         <mark key="." line="363" column="77" />
