@@ -3,15 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1553063591772">
-        <mark key="a" line="256" column="28" />
-        <mark key="'" line="256" column="6" />
-        <mark key="[" line="28" column="47" />
-        <mark key="]" line="28" column="47" />
-        <mark key="m" line="29" column="8" />
-        <mark key="." line="28" column="47" />
-        <mark key="^" line="28" column="47" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1553073338855">
         <mark key="[" line="34" column="8" />
         <mark key="]" line="34" column="8" />
@@ -24,7 +15,9 @@
         <mark key="." line="45" column="8" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Model/History/Math/UserMathHistory.php" timestamp="1553051766077" />
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Model/Manager/UserMathHistoryModelManager.php" timestamp="1553049832598" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Model/Manager/UserMathHistoryModelManager.php" timestamp="1553083889740">
+        <mark key="[" line="239" column="5" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1552957816239">
         <mark key="[" line="62" column="14" />
         <mark key="]" line="62" column="14" />
@@ -44,11 +37,14 @@
         <mark key="^" line="29" column="16" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UserTagManager.php" timestamp="1552877517393" />
+      <file name="D:/aizuoye_trunk/server/php/app/Providers/AppServiceProvider.php" timestamp="1552898310268">
+        <mark key="[" line="65" column="11" />
+      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/Homework/HomeworkMathMapper.php" timestamp="1552888911567" />
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/HistoryMathManager.php" timestamp="1553079415324">
-        <mark key="[" line="262" column="42" />
-        <mark key="]" line="262" column="42" />
-        <mark key="." line="262" column="42" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/HistoryMathManager.php" timestamp="1553084838783">
+        <mark key="[" line="288" column="18" />
+        <mark key="]" line="287" column="0" />
+        <mark key="." line="287" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/LetterAction.js" timestamp="1552290595471">
         <mark key="[" line="4" column="0" />
@@ -79,6 +75,9 @@
         <mark key="[" line="50" column="39" />
         <mark key="]" line="50" column="39" />
         <mark key="." line="50" column="39" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/PermissionConstants.js" timestamp="1552962985274">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1552980200400">
         <mark key="[" line="240" column="0" />
@@ -111,6 +110,9 @@
         <mark key="[" line="13" column="5" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/resources/views/ADMIN/base/sidebar.blade.php" timestamp="1552974295786">
+        <mark key="[" line="5" column="61" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_11_164442_ModifyLetterTable.php" timestamp="1552985444532">
         <mark key="[" line="20" column="8" />
@@ -148,10 +150,10 @@
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1553081927891">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1553083335032">
         <mark key="a" line="182" column="28" />
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="221" column="22" />
+        <mark key="[" line="288" column="51" />
         <mark key="]" line="221" column="26" />
         <mark key="." line="221" column="26" />
       </file>
@@ -169,6 +171,9 @@
         <mark key="." line="222" column="0" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V1_6/HomeworkService.php" timestamp="1552888928389" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1552888447721">
+        <mark key="[" line="58" column="0" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Models/Letter/SysLetter.php" timestamp="1553068026667">
         <mark key="[" line="56" column="22" />
         <mark key="]" line="60" column="26" />
@@ -185,8 +190,8 @@
         <mark key="]" line="5" column="8" />
         <mark key="." line="5" column="8" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" timestamp="1552457757645">
-        <mark key="[" line="59" column="4" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" timestamp="1553083214616">
+        <mark key="[" line="102" column="5" />
         <mark key="]" line="59" column="4" />
         <mark key="." line="59" column="4" />
       </file>
@@ -295,11 +300,11 @@
       <jump line="22" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JGxlZnRbY291bnQoJGxlZnQpIC0gMV0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgVXNlck1hdGhIaXN0b3J5ICRpdGVtICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGxlZnRbY291bnQoJGxlZnQpIC0gMV0g</text>
+        <text>count($right) - 1</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -308,36 +313,31 @@
         <text encoding="base64">ICAgICAgICAnaXNfc2VuZF9hcHBfcHVzaCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGV2aWNlVG9rZW5zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgVXNlck1hdGhIaXN0b3J5ICRpdGVtICovCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVzZXJJZCk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgJGxlZnRJdGVtID0gaXNfYXJyYXkoJGxlZnQpID8gJGxlZnRbY291bnQoJGxlZnQpIC0gMV0gOiAkbGVmdDsKICAgICAgICAgICAgJHJpZ2h0SXRlbSA9IGlzX2FycmF5KCRyaWdodCkgPyAkcmlnaHRbY291bnQoJHJpZ2h0KSAtIDFdIDogJHJpZ2h0OwogICAgICAgICAgICAkZGlmZiA9ICRsZWZ0SXRlbS0+Z2V0SGlzdG9yeUlkKCkgLSAkcmlnaHRJdGVtLT5nZXRIaXN0b3J5SWQoKTsKICAgICAgICAgICAgaWYgKCRkaWZmID09PSAwKSB7CiAgICAgICAgICAgICAgICAkZGlmZiA9ICRsZWZ0SXRlbS0+Z2V0Q3JlYXRlZEF0KCktPmdldFRpbWVzdGFtcCgpIC0gJHJpZ2h0SXRlbS0+Z2V0Q3JlYXRlZEF0KCktPmdldFRpbWVzdGFtcCgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiAkYXNjID8gJGRpZmYgOiAtJGRpZmY7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGV2aWNlVG9rZW5zKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR1c2VyLT5jbGllbnRBZGRpdGlvbmFsRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVzZXJJZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCdkZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVzZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcklkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR1c2VyLT5jbGllbnRBZGRpdGlvbmFsRGF0YSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCdkZCcpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkdXNlcklkcyk7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>[34],
-        '测试定时任务',
-        '这是内容',
-        [],
-        date('Y-m-d H:i:s', strtotime('+1 minutes')),
-        true</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
