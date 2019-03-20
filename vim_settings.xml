@@ -74,6 +74,7 @@
         <mark key="." line="20" column="8" />
         <mark key="^" line="34" column="39" />
       </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1553080151120" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UserTagManager.php" timestamp="1552877517393" />
       <file name="D:/aizuoye_trunk/server/php/API/Generated/V2_5/model/MiniProgramMallBannerDetailModel.php" timestamp="1552959952735" />
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_20_154100_ModifySysLetterTableAddField.php" timestamp="1553067741272">
@@ -82,10 +83,10 @@
         <mark key="." line="30" column="23" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/Homework/HomeworkMathMapper.php" timestamp="1552888911567" />
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/HistoryMathManager.php" timestamp="1553051380274">
-        <mark key="[" line="262" column="40" />
-        <mark key="]" line="262" column="40" />
-        <mark key="." line="262" column="40" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/HistoryMathManager.php" timestamp="1553079415324">
+        <mark key="[" line="262" column="42" />
+        <mark key="]" line="262" column="42" />
+        <mark key="." line="262" column="42" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushAllManager.php" timestamp="1553064487726" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/views/ADMIN/page/RoleManage.blade.php" timestamp="1552964683669" />
@@ -116,6 +117,7 @@
         <mark key="^" line="535" column="3" />
         <mark key="." line="535" column="3" />
       </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushAllManager.php" timestamp="1553079820187" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/app.js" timestamp="1552978011486">
         <mark key="[" line="39" column="21" />
         <mark key="]" line="39" column="21" />
@@ -292,11 +294,11 @@
       <jump line="22" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGV2aWNlVG9rZW5zKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JGxlZnRbY291bnQoJGxlZnQpIC0gMV0g</text>
       </register>
       <register name="-" type="4">
-        <text>你好呀! 个新账号，通过奖状进行手动关联，其中两个账号首页出现自动关联的轮播提示，数据库搜索到三个账号是关联的</text>
+        <text encoding="base64">JGxlZnRbY291bnQoJGxlZnQpIC0gMV0g</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
