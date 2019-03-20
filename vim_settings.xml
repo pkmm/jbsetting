@@ -18,6 +18,11 @@
       <file name="D:/a_web_app/101760/server/php/app/Http/Middleware/Authenticate.php" timestamp="1550717712626">
         <mark key="[" line="67" column="100" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushLetters.php" timestamp="1553060728097">
+        <mark key="[" line="53" column="60" />
+        <mark key="]" line="53" column="60" />
+        <mark key="." line="53" column="60" />
+      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Http/routes.php" timestamp="1552983129802">
         <mark key="[" line="37" column="71" />
         <mark key="]" line="40" column="81" />
@@ -128,6 +133,12 @@
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V1_6/HomeworkService.php" timestamp="1552888928389" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1552888447721">
         <mark key="[" line="58" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1553060506242">
+        <mark key="[" line="363" column="77" />
+        <mark key="]" line="363" column="77" />
+        <mark key="." line="363" column="77" />
+        <mark key="^" line="363" column="30" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V1/AdminAccessService.php" timestamp="1552959747281" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/StringConstants.js" timestamp="1552962852449">
