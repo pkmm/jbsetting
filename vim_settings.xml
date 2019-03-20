@@ -139,12 +139,12 @@
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="35" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1553073567924">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1553075471255">
         <mark key="a" line="182" column="28" />
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="211" column="0" />
-        <mark key="]" line="211" column="0" />
-        <mark key="." line="211" column="0" />
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="286" column="0" />
+        <mark key="." line="286" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_19_102104_ModifyAdminPageTableInsertRecord.php" timestamp="1552985420323">
         <mark key="[" line="32" column="28" />
@@ -293,7 +293,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR1c2VyLT5jbGllbnRBZGRpdGlvbmFsRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGV2aWNlVG9rZW5zKTsK</text>
       </register>
       <register name="-" type="4">
         <text>你好呀! 个新账号，通过奖状进行手动关联，其中两个账号首页出现自动关联的轮播提示，数据库搜索到三个账号是关联的</text>
@@ -305,36 +305,36 @@
         <text encoding="base64">ICAgICAgICAnaXNfc2VuZF9hcHBfcHVzaCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR1c2VyLT5jbGllbnRBZGRpdGlvbmFsRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGV2aWNlVG9rZW5zKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCdkZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVzZXJJZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcklkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVzZXIpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR1c2VyLT5jbGllbnRBZGRpdGlvbmFsRGF0YSk7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCdkZCcpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkdXNlcklkcyk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcklkcyk7Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>[34],
         '测试定时任务',
         '这是内容',
         [],
         date('Y-m-d H:i:s', strtotime('+1 minutes')),
         true</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvIGRlbGV0ZQovLyAgICAgICAgJGRldmljZVRva2VucyA9IFsnMWExMDE4OTcwYWUzYTUzMGZjOCddOw==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRyZXNwb25zZSk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHRvZG8gcHJpdmF0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
