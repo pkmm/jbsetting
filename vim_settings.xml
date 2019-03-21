@@ -209,7 +209,9 @@
         <mark key="^" line="50" column="49" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1553081204560" />
-      <file name="D:/a_web_app/jush_replace/server/php/app/Manager/PushManager.php" timestamp="1553136954039" />
+      <file name="D:/a_web_app/jush_replace/server/php/app/Manager/PushManager.php" timestamp="1553137919362">
+        <mark key="[" line="490" column="5" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="25" column="34" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" />
