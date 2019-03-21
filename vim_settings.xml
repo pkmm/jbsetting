@@ -2,7 +2,16 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1553145607202">
+        <mark key="a" line="182" column="28" />
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="308" column="86" />
+        <mark key="]" line="308" column="86" />
+        <mark key="." line="308" column="86" />
+        <mark key="^" line="289" column="77" />
+      </file>
+    </filemarks>
     <jumps>
       <jump line="25" column="34" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" />
       <jump line="21" column="22" filename="D:/aizuoye-paper/client/h5/src/components/completeStudentInfo/index.jsx" />
