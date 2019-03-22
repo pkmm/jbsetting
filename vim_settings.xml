@@ -14,8 +14,10 @@
         <mark key="." line="50" column="39" />
         <mark key="^" line="50" column="47" />
       </file>
-      <file name="D:/a_web_app/jush_replace/server/php/resources/assets/js/components/constants/LetterAction.js" timestamp="1553222252023">
-        <mark key="[" line="3" column="22" />
+      <file name="D:/a_web_app/jush_replace/server/php/resources/assets/js/components/constants/LetterAction.js" timestamp="1553258009018">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
       </file>
       <file name="D:/a_web_app/jush_replace/server/php/app/Models/Letter/SysLetter.php" timestamp="1553241595445">
         <mark key="[" line="63" column="15" />
@@ -120,10 +122,10 @@
       <file name="D:/aizuoye_pc_v21/server/php/resources/views/ADMIN/base/sidebar.blade.php" timestamp="1552974295786">
         <mark key="[" line="5" column="61" />
       </file>
-      <file name="D:/a_web_app/jush_replace/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1553222757674">
-        <mark key="[" line="168" column="44" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
+      <file name="D:/a_web_app/jush_replace/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1553258099206">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="12" />
+        <mark key="." line="33" column="12" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_11_164442_ModifyLetterTable.php" timestamp="1552985444532">
         <mark key="[" line="20" column="8" />
@@ -328,11 +330,11 @@
       <jump line="0" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2019-03-21.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGV4dHJhc1snYWN0aW9uJ10gPSAkbGV0dGVyLT5hY3Rpb247CiAgICAgICAgICAgICRleHRyYXNbJ3R5cGUnXSA9PiAK</text>
+      <register name="&quot;" type="4">
+        <text>:span=&quot;10&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>:span=&quot;10&quot;</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
@@ -341,21 +343,24 @@
         <text encoding="base64">ICAgICAgICAnaXNfc2VuZF9hcHBfcHVzaCcK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIDxlbC1jb2RkbCA6c3Bhbj0iMiI+u/LV3zwvZWwtY29kZGw+Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGV4dHJhc1snYWN0aW9uJ10gPSAkbGV0dGVyLT5hY3Rpb247CiAgICAgICAgICAgICRleHRyYXNbJ3R5cGUnXSA9PiAK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>/**
      * @param Letter|SysLetter $letter
      * @param bool $isAllUsers
      */</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">JHBhZ2VDb3VudCA9ICRwYWdlQ291bnQgPz8gc2VsZjo6UEFHRV9DT1VOVDsKICAgICAgICAkc3RhcnREYXRlID0gRGF0ZVV0aWw6OmNvbnZlcnREYXRlKCR5ZWFyIC4gJy0nIC4gJG1vbnRoIC4gJy0xJyk7CiAgICAgICAgJGVuZERhdGUgPSBEYXRlVXRpbDo6Y29udmVydERhdGUoJHllYXIgLiAnLScgLiAkbW9udGggLiAnLTEnKTsKICAgICAgICAkZW5kRGF0ZSA9ICRlbmREYXRlLT5hZGRNb250aCgpOwogICAgICAgICRlbmREYXRlID0gJGVuZERhdGUtPnN1YlNlY29uZCgpOwoKICAgICAgICAkc3RhcnRJZCA9IGVtcHR5KCRsYXN0SWQpID8gbnVsbCA6ICRsYXN0SWQgLSAxOwoKICAgICAgICAkaGlzdG9yaWVzID0gVXNlck1hdGhIaXN0b3J5TW9kZWxNYW5hZ2VyOjpsaXN0QnlEYXRlKCR1c2VySWQsICRzdGFydERhdGUsICRlbmREYXRlLCBEZWxldGVkU3RhdHVzOjpOT05fREVMRVRFRCwgJHN0YXJ0SWQsIGZhbHNlLCAkcGFnZUNvdW50ICogMik7CgogICAgICAgICRyZWNvcmRzID0gW107CiAgICAgICAgc2VsZjo6bWFrZUJhdGNoSGlzdG9yaWVzKAogICAgICAgICAgICAkcmVjb3JkcywKICAgICAgICAgICAgJGhpc3RvcmllcywKICAgICAgICAgICAgaW50dmFsKCRwYWdlQ291bnQgLyAzKSwKICAgICAgICAgICAgJHBhZ2VDb3VudCwKICAgICAgICAgICAgJHBhZ2VDb3VudCAqIDUsCiAgICAgICAgICAgIGZhbHNlLAogICAgICAgICAgICBmdW5jdGlvbiAoJHN0YXJ0SWQpIHVzZSAoJHVzZXJJZCwgJHBhZ2VDb3VudCwgJHN0YXJ0RGF0ZSwgJGVuZERhdGUpIHsKICAgICAgICAgICAgICAgIHJldHVybiBVc2VyTWF0aEhpc3RvcnlNb2RlbE1hbmFnZXI6Omxpc3RCeURhdGUoJHVzZXJJZCwgJHN0YXJ0RGF0ZSwgJGVuZERhdGUsIERlbGV0ZWRTdGF0dXM6Ok5PTl9ERUxFVEVELCAkc3RhcnRJZCwgZmFsc2UsICRwYWdlQ291bnQpOwogICAgICAgICAgICB9CiAgICAgICAgKTsKICAgICAgICByZXR1cm4gYXJyYXlfdmFsdWVzKCRyZWNvcmRzKTs=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">fQoKICAgIA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>$pageCount = $pageCount ?? self::PAGE_COUNT;
         $startId = empty($lastId) ? null : $lastId - 1;
 
@@ -375,17 +380,14 @@
         );
         return array_values($records);</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LyoqCiAgICAgKiDE3Mq508O8q7nizcbLzbXEv827p7bLtcTTw7unCiAgICAgKiBAcGFyYW0gYXJyYXkgJHVzZXJJZHMKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHJpdmF0ZSBzdGF0aWMgZnVuY3Rpb24gZ2V0VXNlcklkc0NhblVzZUpQdXNoKGFycmF5ICR1c2VySWRzKTogYXJyYXkKICAgIHsKICAgICAgICByZXR1cm4gVXNlckNsaWVudEFkZGl0aW9uYWxEYXRhOjp3aGVyZUluKCd1c2VyX2lkJywgJHVzZXJJZHMpCiAgICAgICAgICAgIC0+d2hlcmUoJ2FwcF92ZXJzaW9uJywgJz49JywgQ29uZmlnOjpWMl81KQogICAgICAgICAgICAtPmdldCgpCiAgICAgICAgICAgIC0+cGx1Y2soJ3VzZXJfaWQnKQogICAgICAgICAgICAtPmFsbCgpOwogICAgfQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">cHJpdmF0ZSBzdGF0aWMgZnVuY3Rpb24gcHVzaExldHRlckJ5VW1lbmcoCiAgICAgICAgYXJyYXkgJHVzZXJJZHMsCiAgICAgICAgc3RyaW5nICR0aXRsZSwKICAgICAgICBzdHJpbmcgJHRleHQsCiAgICAgICAgc3RyaW5nICRkZXNjID0gJ25ldyBsZXR0ZXInCiAgICApIHsKICAgICAgICAkZGV2aWNlVG9rZW5zID0gc2VsZjo6ZmluZFB1c2hEZXZpY2VUb2tlbnNCeVVzZXJJZHMoJHVzZXJJZHMpOwogICAgICAgICRkZXZpY2VUb2tlbkFuZHJvaWQgPSAkZGV2aWNlVG9rZW5zWzBdOwogICAgICAgICRkZXZpY2VUb2tlbklvcyA9ICRkZXZpY2VUb2tlbnNbMV07CgogICAgICAgICRkZXZpY2VUb2tlbkFuZHJvaWRDaHVuayA9IGFycmF5X2NodW5rKCRkZXZpY2VUb2tlbkFuZHJvaWQsIHNlbGY6OlBVU0hfTUFYX0NPVU5UX09OQ0UpOwogICAgICAgIGZvcmVhY2ggKCRkZXZpY2VUb2tlbkFuZHJvaWRDaHVuayBhcyAkdG9rZW5zKSB7CiAgICAgICAgICAgICRhbmRyb2lkQ2FzdCA9IHNlbGY6OmdldEFuZHJvaWRQdXNoKAogICAgICAgICAgICAgICAgJHRva2VucywKICAgICAgICAgICAgICAgICR0aXRsZSwKICAgICAgICAgICAgICAgICR0ZXh0LAogICAgICAgICAgICAgICAgJGRlc2MsCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgJ2RhdGEnID0+IGpzb25fZW5jb2RlKFsnY29kZScgPT4gc2VsZjo6TEVUVEVSXSksCiAgICAgICAgICAgICAgICAgICAgJ3JvdXRlcicgPT4gQXBwUHVzaDo6R09UT19NRVNTQUdFCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICk7CiAgICAgICAgICAgIHNlbGY6OmRvU2VuZFB1c2goJGFuZHJvaWRDYXN0KTsKICAgICAgICB9CgogICAgICAgICRkZXZpY2VUb2tlbklvc0NodW5rID0gYXJyYXlfY2h1bmsoJGRldmljZVRva2VuSW9zLCBzZWxmOjpQVVNIX01BWF9DT1VOVF9PTkNFKTsKICAgICAgICBmb3JlYWNoICgkZGV2aWNlVG9rZW5Jb3NDaHVuayBhcyAkdG9rZW5zKSB7CiAgICAgICAgICAgICRpb3NDYXN0ID0gc2VsZjo6Z2V0SW9zUHVzaCgKICAgICAgICAgICAgICAgICR0b2tlbnMsCiAgICAgICAgICAgICAgICAkdGl0bGUsCiAgICAgICAgICAgICAgICAkdGV4dCwKICAgICAgICAgICAgICAgICRkZXNjLAogICAgICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgJ2RhdGEnID0+IGpzb25fZW5jb2RlKFsnY29kZScgPT4gc2VsZjo6TEVUVEVSXSksCiAgICAgICAgICAgICAgICAgICAgJ3JvdXRlcicgPT4gQXBwUHVzaDo6R09UT19NRVNTQUdFCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICk7CiAgICAgICAgICAgIHNlbGY6OmRvU2VuZFB1c2goJGlvc0Nhc3QpOwogICAgICAgIH0KICAgIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBdKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGEnID0+IGpzb25fZW5jb2RlKFsnY29kZScgPT4gUHVzaE1hbmFnZXI6OkxFVFRFUl0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
