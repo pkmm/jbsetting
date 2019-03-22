@@ -75,8 +75,9 @@
         <mark key="^" line="240" column="28" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V1/AdminAccessService.php" timestamp="1552959747281" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterManager.php" timestamp="1553224792060" />
       <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/src/JPush/PushPayload.php" timestamp="1553071586100" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushLetters.php" timestamp="1553068276931">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushLetters.php" timestamp="1553223895330">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
@@ -103,7 +104,7 @@
         <mark key="." line="20" column="8" />
         <mark key="^" line="34" column="39" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1553080151120" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1553223766434" />
       <file name="D:/aizuoye_trunk/server/php/API/Generated/V2_5/model/MiniProgramMallBannerDetailModel.php" timestamp="1552959952735" />
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_20_154100_ModifySysLetterTableAddField.php" timestamp="1553067741272">
         <mark key="[" line="30" column="23" />
