@@ -92,12 +92,6 @@
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/PermissionConstants.js" timestamp="1552962985274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1552980200400">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
-        <mark key="^" line="240" column="28" />
-      </file>
       <file name="D:/aizuoye-paper/server/php/app/Manager/PaperSourceManager.php" timestamp="1553240199702" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V1/AdminAccessService.php" timestamp="1552959747281" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterManager.php" timestamp="1553224792060" />
@@ -175,9 +169,9 @@
         <mark key="]" line="47" column="12" />
         <mark key="." line="47" column="12" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1553246005473">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1553259874105">
         <mark key="a" line="207" column="74" />
-        <mark key="[" line="150" column="27" />
+        <mark key="[" line="485" column="64" />
         <mark key="]" line="150" column="27" />
         <mark key="." line="149" column="0" />
       </file>
