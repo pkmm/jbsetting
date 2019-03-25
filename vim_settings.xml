@@ -62,6 +62,7 @@
         <mark key="]" line="63" column="26" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/tests/V2_5/LetterTest.php" timestamp="1553482491729" />
       <file name="D:/a_web_app/jush_replace/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1553258691724">
         <mark key="[" line="33" column="12" />
         <mark key="]" line="33" column="12" />
@@ -113,7 +114,7 @@
         <mark key="]" line="25" column="24" />
         <mark key="." line="25" column="24" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/LetterService.php" timestamp="1553481894163">
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/LetterService.php" timestamp="1553482553119">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -205,11 +206,11 @@
         <mark key="." line="50" column="39" />
         <mark key="^" line="50" column="49" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterManager.php" timestamp="1553481352790">
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterManager.php" timestamp="1553482687837">
         <mark key="'" line="338" column="13" />
-        <mark key="[" line="344" column="16" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="D:/a_web_app/jush_replace/server/php/app/Manager/PushManager.php" timestamp="1553226463327">
         <mark key="[" line="490" column="4" />
@@ -321,7 +322,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3JlYXRlZExldHRlcnNbMF0sICRjcmVhdGVkTGV0dGVyc1sxXS0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbGV0dGVycyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>:span=&quot;10&quot;</text>
@@ -333,31 +334,31 @@
         <text encoding="base64">ICAgICAgICAnaXNfc2VuZF9hcHBfcHVzaCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3JlYXRlZExldHRlcnNbMF0sICRjcmVhdGVkTGV0dGVyc1sxXS0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbGV0dGVycyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlckxldHRlci0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY3JlYXRlZExldHRlcnNbMF0sICRjcmVhdGVkTGV0dGVyc1sxXS0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZChMZXR0ZXI6OmZpcnN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlckxldHRlci0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlckxldHRlci0+aXNfc2VuZF9hcHBfcHVzaCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChMZXR0ZXI6OmZpcnN0KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3JlYXRlZExldHRlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlckxldHRlci0+aXNfc2VuZF9hcHBfcHVzaCk7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkY3JlYXRlZExldHRlcnMpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbGFzdElkKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">YmplY3QudmFsdWVzKExldHRlckFjdGlvbikuZmlsdGVyKAogIGkgPT4gaSAhPT0gTGV0dGVyQWN0aW9uLk5PX0FDVElPTgopOw==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">T2JqZWN0LnZhbHVlcyhMZXR0ZXJUeXBlKS5maWx0ZXIoCiAgaSA9PiBpICE9PSBMZXR0ZXJUeXBlLlRFWFQKKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxlbC1jb2RkbCA6c3Bhbj0iMiI+u/LV3zwvZWwtY29kZGw+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
