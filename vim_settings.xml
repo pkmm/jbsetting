@@ -113,9 +113,9 @@
         <mark key="]" line="25" column="24" />
         <mark key="." line="25" column="24" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/LetterService.php" timestamp="1553480339239">
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="30" column="28" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/LetterService.php" timestamp="1553481894163">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1552957789471">
@@ -205,11 +205,11 @@
         <mark key="." line="50" column="39" />
         <mark key="^" line="50" column="49" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterManager.php" timestamp="1553480398211">
-        <mark key="'" line="339" column="13" />
-        <mark key="[" line="160" column="81" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterManager.php" timestamp="1553481352790">
+        <mark key="'" line="338" column="13" />
+        <mark key="[" line="344" column="16" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="D:/a_web_app/jush_replace/server/php/app/Manager/PushManager.php" timestamp="1553226463327">
         <mark key="[" line="490" column="4" />
@@ -321,7 +321,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZChMZXR0ZXI6OmZpcnN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY3JlYXRlZExldHRlcnNbMF0sICRjcmVhdGVkTGV0dGVyc1sxXS0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>:span=&quot;10&quot;</text>
@@ -333,34 +333,31 @@
         <text encoding="base64">ICAgICAgICAnaXNfc2VuZF9hcHBfcHVzaCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZChMZXR0ZXI6OmZpcnN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY3JlYXRlZExldHRlcnNbMF0sICRjcmVhdGVkTGV0dGVyc1sxXS0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlckxldHRlci0+aXNfc2VuZF9hcHBfcHVzaCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlckxldHRlci0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3JlYXRlZExldHRlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZChMZXR0ZXI6OmZpcnN0KCkpOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlckxldHRlci0+aXNfc2VuZF9hcHBfcHVzaCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkY3JlYXRlZExldHRlcnMpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbGFzdElkKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">YmplY3QudmFsdWVzKExldHRlckFjdGlvbikuZmlsdGVyKAogIGkgPT4gaSAhPT0gTGV0dGVyQWN0aW9uLk5PX0FDVElPTgopOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">T2JqZWN0LnZhbHVlcyhMZXR0ZXJUeXBlKS5maWx0ZXIoCiAgaSA9PiBpICE9PSBMZXR0ZXJUeXBlLlRFWFQKKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIDxlbC1jb2RkbCA6c3Bhbj0iMiI+u/LV3zwvZWwtY29kZGw+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGV4dHJhc1snYWN0aW9uJ10gPSAkbGV0dGVyLT5hY3Rpb247CiAgICAgICAgICAgICRleHRyYXNbJ3R5cGUnXSA9PiAK</text>
-      </register>
-      <register name="9" type="4">
-        <text>/**
-     * @param Letter|SysLetter $letter
-     * @param bool $isAllUsers
-     */</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
