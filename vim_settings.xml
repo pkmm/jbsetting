@@ -10,11 +10,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1553565888809">
-        <mark key="[" line="96" column="11" />
-        <mark key="]" line="96" column="11" />
-        <mark key="." line="96" column="11" />
-        <mark key="^" line="96" column="18" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1553568429864">
+        <mark key="[" line="76" column="59" />
+        <mark key="]" line="76" column="59" />
+        <mark key="." line="76" column="59" />
+        <mark key="^" line="76" column="74" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushLetters.php" timestamp="1553504083436">
         <mark key="[" line="60" column="118" />
@@ -185,7 +185,7 @@
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Model/AppPush.php" timestamp="1553505738044" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Model/AppPush.php" timestamp="1553568332952" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/AppPushManager.php" timestamp="1553518686719">
         <mark key="'" line="71" column="31" />
       </file>
@@ -298,11 +298,11 @@
       <jump line="7" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/jpush.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>OPEN_MINI_PROGRAM</text>
       </register>
       <register name="-" type="4">
-        <text>$response</text>
+        <text>OPEN_MINI_PROGRAM</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
