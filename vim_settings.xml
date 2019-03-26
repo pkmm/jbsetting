@@ -16,6 +16,7 @@
         <mark key="." line="35" column="40" />
         <mark key="^" line="76" column="74" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_5/model/LetterModel.php" timestamp="1553589225709" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushLetters.php" timestamp="1553585071393">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -28,6 +29,16 @@
         <mark key="^" line="40" column="71" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="D:/a_web_app/jush_replace/server/php/app/Models/Letter/SysLetter.php" timestamp="1553241595445">
+        <mark key="[" line="63" column="15" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/resources/views/ADMIN/base/sidebar.blade.php" timestamp="1552974295786">
+        <mark key="[" line="5" column="61" />
+      </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Model/Manager/UserMathHistoryModelManager.php" timestamp="1553083889740">
+        <mark key="[" line="239" column="5" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_1/letter/GetLettersMessage.php" timestamp="1553589095758" />
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/jpush.log" timestamp="1553519279419">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="0" />
@@ -45,12 +56,15 @@
         <mark key="." line="63" column="0" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/tests/V2_5/LetterTest.php" timestamp="1553482491729" />
+      <file name="D:/aizuoye_trunk/server/php/app/Providers/AppServiceProvider.php" timestamp="1552898310268">
+        <mark key="[" line="65" column="11" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2019-03-25.log" timestamp="1553519250710">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_26_161011_AddIndexToUserAdditionDataTable.php" timestamp="1553587915303">
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_26_161011_AddIndexToUserAdditionDataTable.php" timestamp="1553588780033">
         <mark key="[" line="13" column="5" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -62,6 +76,8 @@
         <mark key="]" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/API/APIBase.php" timestamp="1553589299438" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_5/User/UserMapper.php" timestamp="1553589705476" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/LetterService.php" timestamp="1553482553119">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -72,6 +88,12 @@
         <mark key="]" line="80" column="20" />
         <mark key="." line="80" column="20" />
         <mark key="^" line="80" column="37" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_5/LetterService.php" timestamp="1553589267150">
+        <mark key="[" line="21" column="50" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/PermissionConstants.js" timestamp="1552962985274">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1553587773383">
         <mark key="a" line="168" column="74" />
@@ -85,7 +107,13 @@
         <mark key="]" line="120" column="68" />
         <mark key="." line="120" column="68" />
       </file>
+      <file name="/Dummy.txt" timestamp="1553589633196">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Console/Commands/PushLetters.php" timestamp="1553583519189" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1552888447721">
+        <mark key="[" line="58" column="0" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1553587407601">
         <mark key="[" line="431" column="1" />
         <mark key="]" line="431" column="37" />
@@ -99,12 +127,14 @@
         <mark key="." line="165" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Model/AppPush.php" timestamp="1553568332952" />
+      <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_5/model/HomepagePosterModel.php" timestamp="1553590040279">
+        <mark key="'" line="774" column="52" />
+      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterManager.php" timestamp="1553583973078">
         <mark key="[" line="401" column="11" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1123" column="9" filename="D:/aizuoye_pc_v21/server/php/app/Manager/ClassManager.php" />
       <jump line="357" column="6" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" />
       <jump line="43" column="10" filename="D:/a_web_app/101760/client/h5/src/views/mySchoolClass/classStudentList.jsx" />
       <jump line="65" column="0" filename="D:/a_web_app/101760/client/h5/src/views/mySchoolClass/classStudentList.jsx" />
@@ -204,6 +234,7 @@
       <jump line="4" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2019-03-25.log" />
       <jump line="7" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/jpush.log" />
       <jump line="231" column="8" filename="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" />
+      <jump line="774" column="52" filename="D:/aizuoye_pc_v21/server/php/API/Generated/V2_5/model/HomepagePosterModel.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
