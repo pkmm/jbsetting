@@ -9,7 +9,11 @@
         <mark key="." line="35" column="40" />
         <mark key="^" line="76" column="74" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterAdminManager.php" timestamp="1553599690603" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterAdminManager.php" timestamp="1553602120264">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="D:/a_web_app/jush_replace/server/php/app/Models/Letter/SysLetter.php" timestamp="1553241595445">
         <mark key="[" line="63" column="15" />
       </file>
@@ -42,6 +46,7 @@
       <file name="D:/aizuoye_trunk/server/php/app/Providers/AppServiceProvider.php" timestamp="1552898310268">
         <mark key="[" line="65" column="11" />
       </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1553601421263" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_5/User/UserMapper.php" timestamp="1553589705476" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_5/LetterService.php" timestamp="1553589267150">
         <mark key="[" line="21" column="50" />
@@ -76,6 +81,7 @@
         <mark key="[" line="5" column="61" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_1/letter/GetLettersMessage.php" timestamp="1553589095758" />
+      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterBatchReply.vue" timestamp="1553601500239" />
       <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2019-03-25.log" timestamp="1553519250710">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -244,9 +250,8 @@
       <jump line="774" column="52" filename="D:/aizuoye_pc_v21/server/php/API/Generated/V2_5/model/HomepagePosterModel.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ype = new LetterType();
-        $type</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgnc3MnKTsK</text>
       </register>
       <register name="-" type="4">
         <text>doPushLetter</text>
@@ -257,38 +262,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRzdWJRdWVyeS0+d2hlcmVOdWxsKCdzdGFydF9hdCcpLT5vcldoZXJlKCdzdGFydF9hdCcsICc+JywgJG5vdyk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgnc3MnKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCdzcycpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCdkJyk7Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>ype = new LetterType();
         $type</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>foreach ( as $item) {
             
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBMZXR0ZXI6Omluc2VydCgkbGV0dGVycyk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkbGV0dGVycyA9IFtdOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">JGxldHRlcnNbXSA9IFsKICAgICAgICAgICAgICAgICdjb250ZW50JyA9PiAkY29udGVudCwKICAgICAgICAgICAgICAgICd1c2VyX2lkJyA9PiAkdXNlcklkLAogICAgICAgICAgICAgICAgJ3R5cGUnID0+ICR0eXBlLAogICAgICAgICAgICAgICAgJ3NlbmRfZnJvbScgPT4gTGV0dGVyU2VuZEZyb206OkFETUlOLAogICAgICAgICAgICAgICAgJ2FjdGlvbicgPT4gJGFjdGlvbiwKICAgICAgICAgICAgICAgICdhY3Rpb25fdmFsdWUnID0+ICRhY3Rpb25WYWx1ZSwKICAgICAgICAgICAgICAgICdhY3Rpb25fbGFiZWwnID0+ICRhY3Rpb25MYWJlbCwKICAgICAgICAgICAgICAgICdleHRyYV9wYXJhbScgPT4gJGV4dHJhUGFyYW0KICAgICAgICAgICAgXTs=</text>
-      </register>
-      <register name="7" type="4">
-        <text>UmengPushManger::umengPushWorker($umengUserIds, $title, $text, $desc, $extra);
-        JPushManager::jpushWorker($jpushUserIds, $title, $text, $extra);</text>
-      </register>
-      <register name="8" type="4">
-        <text>foreach ($useUmengUserIds as $useUmengUserId) {
-                LetterManager::sendLetterToUser($useUmengUserId, $content);
-            }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFxEQjo6dGFibGUoJ2xldHRlcnMnKS0+aW5zZXJ0KCRsZXR0ZXJzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
