@@ -174,8 +174,11 @@
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/src/JPush/Client.php" timestamp="1553503200308" />
       <file name="D:/aizuoye_pc_v21/server/php/API/APIBase.php" timestamp="1553589299438" />
-      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterToAllTable.vue" timestamp="1553656865278">
-        <mark key="[" line="133" column="24" />
+      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterToAllTable.vue" timestamp="1553668283388">
+        <mark key="[" line="142" column="14" />
+        <mark key="]" line="141" column="40" />
+        <mark key="." line="141" column="40" />
+        <mark key="^" line="141" column="40" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/barryvdh/laravel-ide-helper/config/ide-helper.php" timestamp="1552462066367">
         <mark key="[" line="25" column="24" />
@@ -372,7 +375,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICJMZXR0ZXJTZW5kRGV0YWlsIgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0te3tzY29wZS5yb3cuc3lzX2JhdGNoX2xldHRlci5wdXNoZWRfYXR9fS0tPgo=</text>
       </register>
       <register name="-" type="4">
         <text>doPushLetter</text>
@@ -384,34 +387,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRzdWJRdWVyeS0+d2hlcmVOdWxsKCdzdGFydF9hdCcpLT5vcldoZXJlKCdzdGFydF9hdCcsICc+JywgJG5vdyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICJMZXR0ZXJTZW5kRGV0YWlsIgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0te3tzY29wZS5yb3cuc3lzX2JhdGNoX2xldHRlci5wdXNoZWRfYXR9fS0tPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VnVlLmRlYnVnID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+e3tzY29wZS5yb3cuc3lzX2JhdGNoX2xldHRlci5wdXNoZWRfYXR9fTwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnc3MnKTsK</text>
+        <text encoding="base64">ICAgIG5hbWU6ICJMZXR0ZXJTZW5kRGV0YWlsIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCdzcycpOwo=</text>
+        <text encoding="base64">VnVlLmRlYnVnID0gdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgnc3MnKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCdzcycpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCdkJyk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>ype = new LetterType();
         $type</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>foreach ( as $item) {
             
         }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMZXR0ZXI6Omluc2VydCgkbGV0dGVycyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
