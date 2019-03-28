@@ -62,10 +62,10 @@
         <mark key="]" line="24" column="10" />
         <mark key="." line="24" column="10" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/lettersSendDetail/LetterSendDetail.vue" timestamp="1553739316377">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/lettersSendDetail/LetterSendDetail.vue" timestamp="1553740859303">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="D:/aizuoye_trunk/server/php/app/Providers/AppServiceProvider.php" timestamp="1552898310268">
         <mark key="[" line="65" column="11" />
@@ -250,7 +250,7 @@
         <mark key="." line="3" column="11" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Console/Commands/PushLetters.php" timestamp="1553583519189" />
-      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1553682240213">
+      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1553740876351">
         <mark key="[" line="163" column="22" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_5/AdminAccessService.php" timestamp="1552977490235">
