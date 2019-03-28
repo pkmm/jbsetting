@@ -3,26 +3,52 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-03-25.log" timestamp="1553519265995">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1553585297209">
         <mark key="[" line="35" column="40" />
         <mark key="]" line="35" column="40" />
         <mark key="." line="35" column="40" />
         <mark key="^" line="76" column="74" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushLetters.php" timestamp="1553585071393">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="52" column="25" />
+      </file>
       <file name="D:/a_web_app/jush_replace/server/php/resources/assets/js/components/constants/LetterAction.js" timestamp="1553258772099">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="20" column="29" />
         <mark key="." line="20" column="29" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterAdminManager.php" timestamp="1553682518594">
-        <mark key="'" line="31" column="35" />
-        <mark key="[" line="442" column="9" />
-        <mark key="]" line="434" column="69" />
-        <mark key="." line="434" column="69" />
-        <mark key="^" line="434" column="69" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterAdminManager.php" timestamp="1553752578739">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="421" column="0" />
+      </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Http/routes.php" timestamp="1553583614773">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="44" column="81" />
+        <mark key="^" line="40" column="71" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_19_101711_MotifyAdminPageTableAddIsShowSidebarField.php" timestamp="1552961842048">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="D:/a_web_app/jush_replace/server/php/app/Models/Letter/SysLetter.php" timestamp="1553241595445">
         <mark key="[" line="63" column="15" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/resources/views/ADMIN/base/sidebar.blade.php" timestamp="1552974295786">
+        <mark key="[" line="5" column="61" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Model/Manager/UserMathHistoryModelManager.php" timestamp="1553083889740">
         <mark key="[" line="239" column="5" />
@@ -40,6 +66,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/app.js" timestamp="1553753041878">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1553483755801">
         <mark key="[" line="59" column="21" />
         <mark key="]" line="60" column="0" />
@@ -56,7 +87,16 @@
         <mark key="]" line="63" column="26" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/tests/V2_5/LetterTest.php" timestamp="1553482491729" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/AdminLetter/LetterMapper.php" timestamp="1553679810832">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="D:/a_web_app/jush_replace/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1553258691724">
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="12" />
+        <mark key="." line="33" column="12" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_5/Letter/LetterMapper.php" timestamp="1553591005032">
         <mark key="[" line="24" column="10" />
         <mark key="]" line="24" column="10" />
@@ -70,96 +110,7 @@
       <file name="D:/aizuoye_trunk/server/php/app/Providers/AppServiceProvider.php" timestamp="1552898310268">
         <mark key="[" line="65" column="11" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1553601421263" />
-      <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2019-03-21.log" timestamp="1553159169373">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Model/User.php" timestamp="1553603449945" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_5/User/UserMapper.php" timestamp="1553589705476" />
-      <file name="D:/a_web_app/jush_replace/server/php/resources/assets/js/components/constants/LetterType.js" timestamp="1553258751307">
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="26" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/LetterAction.js" timestamp="1552290595471">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_5/LetterService.php" timestamp="1553589267150">
-        <mark key="[" line="21" column="50" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/HomeworkMathService.php" timestamp="1553050649895">
-        <mark key="[" line="50" column="39" />
-        <mark key="]" line="50" column="39" />
-        <mark key="." line="50" column="39" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/PermissionConstants.js" timestamp="1552962985274">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V1_2/HomeworkService.php" timestamp="1553669214761" />
-      <file name="D:/a_web_app/jush_replace/server/php/app/Services/V2_5/LetterService.php" timestamp="1553478215351">
-        <mark key="[" line="29" column="93" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterSendDetail.vue" timestamp="1553672073435">
-        <mark key="[" line="20" column="59" />
-        <mark key="]" line="20" column="57" />
-        <mark key="." line="20" column="18" />
-        <mark key="^" line="20" column="17" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterManager.php" timestamp="1553583973078">
-        <mark key="[" line="401" column="11" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/src/JPush/PushPayload.php" timestamp="1553500148282" />
-      <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-03-25.log" timestamp="1553519265995">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_5/model/LetterModel.php" timestamp="1553589225709" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushLetters.php" timestamp="1553585071393">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="52" column="25" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Http/routes.php" timestamp="1553583614773">
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="44" column="81" />
-        <mark key="^" line="40" column="71" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_19_101711_MotifyAdminPageTableAddIsShowSidebarField.php" timestamp="1552961842048">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/views/ADMIN/base/sidebar.blade.php" timestamp="1552974295786">
-        <mark key="[" line="5" column="61" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/API/Generated/V2_1/letter/GetLettersMessage.php" timestamp="1553589095758" />
-      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterBatchReply.vue" timestamp="1553736801885" />
-      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/app.js" timestamp="1553738734198">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/AdminLetter/LetterMapper.php" timestamp="1553679810832">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="D:/a_web_app/jush_replace/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1553258691724">
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="12" />
-        <mark key="." line="33" column="12" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1553672467075" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UserTagManager.php" timestamp="1553752056834" />
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_20_154100_ModifySysLetterTableAddField.php" timestamp="1553067741272">
         <mark key="[" line="30" column="23" />
         <mark key="]" line="30" column="23" />
@@ -180,7 +131,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/vendor/jpush/jpush/src/JPush/Client.php" timestamp="1553503200308" />
+      <file name="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2019-03-21.log" timestamp="1553159169373">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushAllManager.php" timestamp="1553563910599">
         <mark key="'" line="151" column="61" />
         <mark key="[" line="15" column="29" />
@@ -191,12 +146,16 @@
         <mark key="[" line="96" column="16" />
         <mark key="]" line="96" column="54" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/API/APIBase.php" timestamp="1553589299438" />
       <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterToAllTable.vue" timestamp="1553668283388">
         <mark key="[" line="142" column="14" />
         <mark key="]" line="141" column="40" />
         <mark key="." line="141" column="40" />
         <mark key="^" line="141" column="40" />
+      </file>
+      <file name="D:/a_web_app/jush_replace/server/php/resources/assets/js/components/constants/LetterType.js" timestamp="1553258751307">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="26" />
+        <mark key="." line="20" column="26" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/barryvdh/laravel-ide-helper/config/ide-helper.php" timestamp="1552462066367">
         <mark key="[" line="25" column="24" />
@@ -219,10 +178,26 @@
         <mark key="]" line="185" column="0" />
         <mark key="." line="185" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/LetterAction.js" timestamp="1552290595471">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/lettersSendDetail/SingleLetterSendDetail.vue" timestamp="1553738966821">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_5/LetterService.php" timestamp="1553589267150">
+        <mark key="[" line="21" column="50" />
+      </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/HomeworkMathService.php" timestamp="1553050649895">
+        <mark key="[" line="50" column="39" />
+        <mark key="]" line="50" column="39" />
+        <mark key="." line="50" column="39" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/PermissionConstants.js" timestamp="1552962985274">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/database/migrations/2019_03_13_152235_CreateMiniProgramMallBannerDetailTable.php" timestamp="1552891705722">
         <mark key="[" line="24" column="55" />
@@ -249,7 +224,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Console/Commands/PushLetters.php" timestamp="1553583519189" />
+      <file name="D:/a_web_app/jush_replace/server/php/app/Services/V2_5/LetterService.php" timestamp="1553478215351">
+        <mark key="[" line="29" column="93" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1553740876351">
         <mark key="[" line="163" column="22" />
       </file>
@@ -278,7 +257,15 @@
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Model/AppPush.php" timestamp="1553568332952" />
+      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterSendDetail.vue" timestamp="1553672073435">
+        <mark key="[" line="20" column="59" />
+        <mark key="]" line="20" column="57" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="17" />
+      </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterManager.php" timestamp="1553583973078">
+        <mark key="[" line="401" column="11" />
+      </file>
       <file name="D:/a_web_app/jush_replace/server/php/app/Manager/PushManager.php" timestamp="1553226463327">
         <mark key="[" line="490" column="4" />
         <mark key="]" line="490" column="4" />
@@ -286,8 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1417" column="67" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-01-29.log" />
-      <jump line="2" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel.error-2019-01-29.log" />
       <jump line="40" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-01-29.log" />
       <jump line="10" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-01-29.log" />
       <jump line="22" column="75" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-01-29.log" />
@@ -386,10 +371,12 @@
       <jump line="3" column="2" filename="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/constants/LetterSendType.js" />
       <jump line="2" column="6" filename="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/constants/LetterSendType.js" />
       <jump line="46" column="12" filename="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/lettersSendDetail/GroupLetterSendDetail.vue" />
+      <jump line="422" column="0" filename="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterAdminManager.php" />
+      <jump line="22" column="0" filename="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterAdminManager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmVycm9yKGNlbGxWYWx1ZSkK</text>
+        <text encoding="base64">VnVlLmNvbmZpZy5kZWJ1ZyA9IHRydWU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>cellValue</text>
@@ -401,31 +388,33 @@
         <text encoding="base64">PHRlbXBsYXRlPgogICAgPGRpdj4KICAgICAgICA8ZWwtdGFibGUKICAgICAgICAgICAgICAgIDpkYXRhPSJsZXR0ZXJzIgogICAgICAgICAgICAgICAgc3R5bGU9IndpZHRoOiAxMDAlOyIKICAgICAgICA+CiAgICAgICAgICAgIDxlbC10YWJsZS1jb2x1bW4KICAgICAgICAgICAgICAgICAgICBwcm9wPSJpZCIKICAgICAgICAgICAgICAgICAgICBsYWJlbD0iSUQiCiAgICAgICAgICAgID4KICAgICAgICAgICAgPC9lbC10YWJsZS1jb2x1bW4+CgogICAgICAgICAgICA8ZWwtdGFibGUtY29sdW1uCiAgICAgICAgICAgICAgICAgICAgcHJvcD0idGl0bGUiCiAgICAgICAgICAgICAgICAgICAgbGFiZWw9IlRpdGxlIgogICAgICAgICAgICA+CiAgICAgICAgICAgIDwvZWwtdGFibGUtY29sdW1uPgogICAgICAgICAgICA8ZWwtdGFibGUtY29sdW1uCiAgICAgICAgICAgICAgICAgICAgcHJvcD0iY29udGVudCIKICAgICAgICAgICAgICAgICAgICBsYWJlbD0iQ29udGVudCIKICAgICAgICAgICAgPgogICAgICAgICAgICA8L2VsLXRhYmxlLWNvbHVtbj4KICAgICAgICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgICAgICAgICAgICAgIHByb3A9ImNyZWF0ZWRfYXQiCiAgICAgICAgICAgICAgICAgICAgbGFiZWw9IkNyZWF0ZWRBdCIKICAgICAgICAgICAgPgogICAgICAgICAgICA8L2VsLXRhYmxlLWNvbHVtbj4KICAgICAgICAgICAgPGVsLXRhYmxlLWNvbHVtbgogICAgICAgICAgICAgICAgICAgIGxhYmVsPSK3osvN17TMrCIKICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPHRlbXBsYXRlIHNsb3Qtc2NvcGU9InNjb3BlIj4KICAgICAgICAgICAgICAgICAgICA8ZWwtcHJvZ3Jlc3MgOnBlcmNlbnRhZ2U9Ik1hdGgucm91bmQoc2NvcGUucm93LnB1c2hlZF9jb3VudCAvIHNjb3BlLnJvdy50b3RhbF9jb3VudCkiPjwvZWwtcHJvZ3Jlc3M+CiAgICAgICAgICAgICAgICA8L3RlbXBsYXRlPgogICAgICAgICAgICA8L2VsLXRhYmxlLWNvbHVtbj4KCiAgICAgICAgPC9lbC10YWJsZT4KICAgICAgICA8ZGl2IGNsYXNzPSJibG9jayIgc3R5bGU9ImZsb2F0OnJpZ2h0OyI+CiAgICAgICAgICAgIDxlbC1wYWdpbmF0aW9uCiAgICAgICAgICAgICAgICAgICAgbGF5b3V0PSJ0b3RhbCwgc2l6ZXMsIHByZXYsIHBhZ2VyLCBuZXh0LCBqdW1wZXIiCiAgICAgICAgICAgICAgICAgICAgQHNpemUtY2hhbmdlPSJoYW5kbGVTaXplQ2hhbmdlIgogICAgICAgICAgICAgICAgICAgIDpjdXJyZW50LXBhZ2Uuc3luYz0icGFnZSIKICAgICAgICAgICAgICAgICAgICBAY3VycmVudC1jaGFuZ2U9Im9uQ3VycmVudENoYW5nZSIKICAgICAgICAgICAgICAgICAgICA6cGFnZS1zaXplcz0iWzEwLCAxMDAsIDIwMCwgMzAwXSIKICAgICAgICAgICAgICAgICAgICA6cGFnZS1zaXplPSJwZXJwYWdlIgogICAgICAgICAgICAgICAgICAgIDp0b3RhbD0idG90YWwiPgogICAgICAgICAgICA8L2VsLXBhZ2luYXRpb24+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KPC90ZW1wbGF0ZT4KCjxzY3JpcHQ+CiAgaW1wb3J0IHtMZXR0ZXJTZW5kVHlwZX0gZnJvbSAnLi4vY29uc3RhbnRzL0xldHRlclNlbmRUeXBlJzsKCiAgZXhwb3J0IGRlZmF1bHQgewogICAgbmFtZTogIkdyb3VwTGV0dGVyU2VuZERldGFpbCIsCiAgICBkYXRhKCkgewogICAgICByZXR1cm4gewogICAgICAgIGxldHRlcnM6IFtdLAogICAgICAgIHBhZ2U6IDEsCiAgICAgICAgcGVycGFnZTogMTAsCiAgICAgICAgdG90YWw6IDAsCiAgICAgIH07CiAgICB9LAogICAgY3JlYXRlZCgpIHsKICAgICAgdGhpcy5nZXREYXRhKCk7CiAgICB9LAogICAgbWV0aG9kczogewogICAgICBnZXREYXRhKCkgewogICAgICAgIGF4aW9zLnBvc3QoJy92Ml81L2FkbWluTGV0dGVyL2dldF9sZXR0ZXJzX3NlbmRfZGV0YWlsX2J5X21lJywgewogICAgICAgICAgcGFnZTogdGhpcy5wYWdlLAogICAgICAgICAgcGVycGFnZTogdGhpcy5wZXJwYWdlLAogICAgICAgICAgbGV0dGVyX3NlbmRfdHlwZTogTGV0dGVyU2VuZFR5cGUuR1JPVVAsCiAgICAgICAgfSkudGhlbihyZXNwID0+IHsKICAgICAgICAgIHRoaXMubGV0dGVycyA9IHJlc3AuZGF0YS5sZXR0ZXJfc2VuZF9kZXRhaWxzOwogICAgICAgICAgdGhpcy50b3RhbCA9IHJlc3AuZGF0YS50b3RhbDsKICAgICAgICB9KQogICAgICB9LAogICAgICBoYW5kbGVTaXplQ2hhbmdlKHNpemUpIHsKICAgICAgICB0aGlzLnBlcnBhZ2UgPSBzaXplOwogICAgICAgIHRoaXMuZ2V0RGF0YSgpOwogICAgICB9LAogICAgICBvbkN1cnJlbnRDaGFuZ2UocGFnZSkgewogICAgICAgIHRoaXMucGFnZSA9IHBhZ2U7CiAgICAgICAgdGhpcy5nZXREYXRhKCk7CiAgICAgIH0KICAgIH0KICB9Cjwvc2NyaXB0PgoKPHN0eWxlIHNjb3BlZD4KCjwvc3R5bGU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmVycm9yKGNlbGxWYWx1ZSkK</text>
+        <text encoding="base64">VnVlLmNvbmZpZy5kZWJ1ZyA9IHRydWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgbW9tZW50IGZyb20gJ21vbWVudCc7Cg==</text>
+        <text encoding="base64">dXNlIFBzeVxUYWJDb21wbGV0aW9uXEF1dG9Db21wbGV0ZXI7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA6ZGF0YWZvcm1hdGFzPSIiCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IC8qKgogICAgICogsunRr87St6LLzbXEy73QxaOssruw/MCoueOypQogICAgICogQHBhcmFtIGludCAkdXNlcklkCiAgICAgKiBAcGFyYW0gaW50ICRwYWdlCiAgICAgKiBAcGFyYW0gaW50ICRwZXJwYWdlCiAgICAgKiBAcGFyYW0gaW50ICRsZXR0ZXJTZW5kVHlwZQogICAgICogQHJldHVybiBMZXR0ZXJbXXxhcnJheXxcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxDb2xsZWN0aW9ufFxJbGx1bWluYXRlXERhdGFiYXNlXFF1ZXJ5XEJ1aWxkZXJbXXxcSWxsdW1pbmF0ZVxTdXBwb3J0XENvbGxlY3Rpb24KICAgICAqLw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGF0ZUZvcm1hdHRlcihyb3csIGNvbHVtbiwgY2VsbFZhbHVlLCBpbmRleCkgewogICAgICAgIHJldHVybiBtb21lbnQoY2VsbFZhbHVlKS5mb3JtYXQoJ1lZWVktTU0tREQgSEg6TU06U1MnKTsKICAgICAgfSwK</text>
+      <register name="4" type="4">
+        <text>else if ($letterSendType == LetterSendType::BROADCAST){
+            
+        }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBWdWUudXNlKG1vbWVudAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmVycm9yKGNlbGxWYWx1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VnVlLnVzZShtb21lbnQpCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgbW9tZW50IGZyb20gJ21vbWVudCc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA6ZGF0YWZvcm1hdGFzPSIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERhdGUoY2VsbFZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgZGF0ZUZvcm1hdHRlcihyb3csIGNvbHVtbiwgY2VsbFZhbHVlLCBpbmRleCkgewogICAgICAgIHJldHVybiBtb21lbnQoY2VsbFZhbHVlKS5mb3JtYXQoJ1lZWVktTU0tREQgSEg6TU06U1MnKTsKICAgICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmVycm9yKHJvdywgY29sdW1uLCBjZWxsVmFsdWUsIGluZGV4KQo=</text>
+        <text encoding="base64">ICBWdWUudXNlKG1vbWVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
