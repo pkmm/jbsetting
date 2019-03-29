@@ -6,11 +6,21 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1553828864408">
         <mark key="[" line="91" column="57" />
       </file>
+      <file name="D:/a_web_app/paper_dev/server/php/.env" timestamp="1553848688611">
+        <mark key="[" line="65" column="25" />
+        <mark key="]" line="65" column="25" />
+        <mark key="." line="65" column="25" />
+      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Console/Commands/ImportStudentEntranceYear.php" timestamp="1553756009914">
         <mark key="[" line="56" column="25" />
         <mark key="]" line="56" column="59" />
         <mark key="^" line="56" column="59" />
         <mark key="." line="56" column="59" />
+      </file>
+      <file name="D:/a_web_app/paper_dev/client/h5/config.js" timestamp="1553848677357">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/storage/logs/laravel.error-2019-03-28.log" timestamp="1553758226736">
         <mark key="'" line="0" column="0" />
@@ -147,11 +157,11 @@
       <jump line="21" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdWInCg==</text>
+      <register name="&quot;" type="4">
+        <text>14</text>
       </register>
       <register name="-" type="4">
-        <text>cellValue</text>
+        <text>14</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
