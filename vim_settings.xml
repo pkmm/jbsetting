@@ -22,11 +22,6 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/storage/logs/laravel.error-2019-03-28.log" timestamp="1553758226736">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8483" column="47" />
-      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/.env" timestamp="1553758467535">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -37,6 +32,9 @@
         <mark key="[" line="229" column="0" />
         <mark key="]" line="229" column="0" />
         <mark key="." line="229" column="0" />
+      </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/package-lock.json" timestamp="1554113773719">
+        <mark key="[" line="13435" column="5" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1553827743640">
         <mark key="[" line="163" column="22" />
