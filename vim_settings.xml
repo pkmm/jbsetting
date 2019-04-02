@@ -6,11 +6,11 @@
       <file name="/a.dummy" timestamp="1553756726110">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1554189500824">
-        <mark key="[" line="100" column="23" />
-        <mark key="]" line="100" column="23" />
-        <mark key="^" line="100" column="23" />
-        <mark key="." line="100" column="23" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1554190249522">
+        <mark key="[" line="34" column="73" />
+        <mark key="]" line="34" column="73" />
+        <mark key="^" line="34" column="74" />
+        <mark key="." line="34" column="73" />
       </file>
       <file name="D:/a_web_app/paper_dev/server/php/.env" timestamp="1553848688611">
         <mark key="[" line="65" column="25" />
@@ -72,6 +72,7 @@
         <mark key="]" line="24" column="10" />
         <mark key="." line="24" column="10" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/User/UserInviteManager.php" timestamp="1554190226451" />
       <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/lettersSendDetail/LetterSendDetail.vue" timestamp="1553740859303">
         <mark key="[" line="28" column="29" />
         <mark key="]" line="39" column="0" />
@@ -182,7 +183,7 @@
         <mark key="]" line="120" column="68" />
         <mark key="." line="120" column="68" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1554188274650">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1554190215813">
         <mark key="a" line="275" column="38" />
         <mark key="b" line="157" column="28" />
         <mark key="'" line="275" column="4" />
@@ -215,7 +216,7 @@
         <mark key="]" line="5" column="8" />
         <mark key="." line="5" column="8" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" timestamp="1554189495806">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" timestamp="1554190321327">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="210" column="19" />
         <mark key="]" line="218" column="17" />
@@ -339,11 +340,11 @@
       <jump line="185" column="26" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PushAllManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNzZXQoJHJlc3BvbnNlWydib2R5J11bJ21zZ19pZCddKSkgewogICAgICAgICAgICAgICAgICAgICAgICAkbXNnSWQgPSAkcmVzcG9uc2VbJ2JvZHknXVsnbXNnX2lkJ107CiAgICAgICAgICAgICAgICAgICAgICAgICRsb2cgPSBuZXcgSnB1c2hMb2coKTsKICAgICAgICAgICAgICAgICAgICAgICAgJGxvZy0+cHVzaF9jb250ZW50ID0gJGNvbnRlbnQ7CiAgICAgICAgICAgICAgICAgICAgICAgICRsb2ctPm1zZ19pZCA9ICRtc2dJZDsKICAgICAgICAgICAgICAgICAgICAgICAgJGxvZy0+c2F2ZSgpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>2019-04-03 10:25:25</text>
       </register>
       <register name="-" type="4">
-        <text>comment</text>
+        <text>2019-04-03 10:25:25</text>
       </register>
       <register name="/" type="4">
         <text>doPushLetter</text>
