@@ -3,30 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1553828864408">
-        <mark key="[" line="91" column="57" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1554174759306">
+        <mark key="[" line="96" column="23" />
+        <mark key="]" line="96" column="23" />
+        <mark key="^" line="96" column="23" />
+        <mark key="." line="96" column="23" />
       </file>
       <file name="D:/a_web_app/paper_dev/server/php/.env" timestamp="1553848688611">
         <mark key="[" line="65" column="25" />
         <mark key="]" line="65" column="25" />
         <mark key="." line="65" column="25" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Console/Commands/ImportStudentEntranceYear.php" timestamp="1553756009914">
-        <mark key="[" line="56" column="25" />
-        <mark key="]" line="56" column="59" />
-        <mark key="^" line="56" column="59" />
-        <mark key="." line="56" column="59" />
-      </file>
       <file name="D:/a_web_app/paper_dev/client/h5/config.js" timestamp="1553848677357">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/.env" timestamp="1553758467535">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="65" column="27" />
-        <mark key="." line="65" column="0" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1553828447540">
         <mark key="[" line="229" column="0" />
@@ -36,10 +27,11 @@
       <file name="D:/a_web_app/app_server_dev/server/php/package-lock.json" timestamp="1554170047546">
         <mark key="[" line="13435" column="5" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1554175037574" />
       <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1553827743640">
         <mark key="[" line="163" column="22" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" timestamp="1553829652338">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" timestamp="1554174231468">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="225" column="41" />
         <mark key="]" line="155" column="0" />
@@ -156,10 +148,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>14</text>
+        <text>aizuoye100://zuoye.ai/app/tab/exercise</text>
       </register>
       <register name="-" type="4">
-        <text>14</text>
+        <text>aizuoye100://zuoye.ai/app/tab/exercise</text>
       </register>
       <register name="/" type="4">
         <text>createOr</text>
