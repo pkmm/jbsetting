@@ -6,11 +6,11 @@
       <file name="/a.dummy" timestamp="1553756726110">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1554190249522">
-        <mark key="[" line="34" column="73" />
-        <mark key="]" line="34" column="73" />
-        <mark key="^" line="34" column="74" />
-        <mark key="." line="34" column="73" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1554195342606">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="41" column="11" />
+        <mark key="^" line="41" column="11" />
+        <mark key="." line="41" column="11" />
       </file>
       <file name="D:/a_web_app/paper_dev/server/php/.env" timestamp="1553848688611">
         <mark key="[" line="65" column="25" />
@@ -22,6 +22,12 @@
         <mark key="[" line="20" column="29" />
         <mark key="]" line="20" column="29" />
         <mark key="." line="20" column="29" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Kernel.php" timestamp="1554195979507">
+        <mark key="[" line="102" column="55" />
+        <mark key="]" line="102" column="55" />
+        <mark key="^" line="101" column="61" />
+        <mark key="." line="102" column="55" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_19_101711_MotifyAdminPageTableAddIsShowSidebarField.php" timestamp="1552961842048">
         <mark key="[" line="13" column="5" />
@@ -81,6 +87,11 @@
       <file name="D:/aizuoye_trunk/server/php/app/Providers/AppServiceProvider.php" timestamp="1552898310268">
         <mark key="[" line="65" column="11" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/SyncJpushStaus.php" timestamp="1554195995010">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_20_154100_ModifySysLetterTableAddField.php" timestamp="1553067741272">
         <mark key="[" line="30" column="23" />
         <mark key="]" line="30" column="23" />
@@ -114,10 +125,10 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushAllManager.php" timestamp="1554185324686">
         <mark key="'" line="185" column="26" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_04_02_143722_CreateJPushLogTable.php" timestamp="1554189266002">
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="28" />
-        <mark key="." line="21" column="28" />
+      <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_04_02_143722_CreateJPushLogTable.php" timestamp="1554196213058">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="D:/a_web_app/jush_replace/server/php/resources/assets/js/components/constants/LetterType.js" timestamp="1553258751307">
         <mark key="[" line="20" column="26" />
@@ -183,14 +194,13 @@
         <mark key="]" line="120" column="68" />
         <mark key="." line="120" column="68" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1554190215813">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1554196589990">
         <mark key="a" line="275" column="38" />
         <mark key="b" line="157" column="28" />
         <mark key="'" line="275" column="4" />
         <mark key="[" line="336" column="0" />
-        <mark key="]" line="358" column="0" />
-        <mark key="^" line="338" column="11" />
-        <mark key="." line="358" column="0" />
+        <mark key="]" line="336" column="0" />
+        <mark key="." line="336" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1554187335249">
         <mark key="[" line="0" column="0" />
@@ -216,12 +226,11 @@
         <mark key="]" line="5" column="8" />
         <mark key="." line="5" column="8" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" timestamp="1554190321327">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" timestamp="1554195818353">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="210" column="19" />
-        <mark key="]" line="218" column="17" />
-        <mark key="." line="212" column="0" />
-        <mark key="^" line="199" column="19" />
+        <mark key="[" line="230" column="46" />
+        <mark key="]" line="231" column="0" />
+        <mark key="." line="231" column="0" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Console/Commands/ImportUserEntranceYear.php" timestamp="1553759490154">
         <mark key="[" line="78" column="10" />
@@ -340,44 +349,44 @@
       <jump line="185" column="26" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PushAllManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2019-04-03 10:25:25</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkbXNnSWQgPSBudWxsOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>2019-04-03 10:25:25</text>
+        <text encoding="base64">LT53aXRob3V0T3ZlcmxhcHBpbmcoKTs=</text>
       </register>
       <register name="/" type="4">
         <text>doPushLetter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNzZXQoJHJlc3BvbnNlWydib2R5J11bJ21zZ19pZCddKSkgewogICAgICAgICAgICAgICAgICAgICAgICAkbXNnSWQgPSAkcmVzcG9uc2VbJ2JvZHknXVsnbXNnX2lkJ107CiAgICAgICAgICAgICAgICAgICAgICAgICRsb2cgPSBuZXcgSnB1c2hMb2coKTsKICAgICAgICAgICAgICAgICAgICAgICAgJGxvZy0+cHVzaF9jb250ZW50ID0gJGNvbnRlbnQ7CiAgICAgICAgICAgICAgICAgICAgICAgICRsb2ctPm1zZ19pZCA9ICRtc2dJZDsKICAgICAgICAgICAgICAgICAgICAgICAgJGxvZy0+c2F2ZSgpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBKcHVzaExvZzo6d2hlcmUoJ2NyZWF0ZWRfYXQnLCAnPj0nLCBEYXRlVXRpbDo6bm93KCktPnN1YkRheSgyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJG1zZ0lkOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAkbXNnSWQgPSBudWxsOwo=</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKCFpc19udWxsKCRtc2dJZCkpIHsKICAgICAgICAgICAgJGpwdXNoTG9nID0gbmV3IEpwdXNoTG9nKCk7CiAgICAgICAgICAgICRqcHVzaExvZy0+cHVzaF9jb250ZW50ID0gJHRleHQ7CiAgICAgICAgICAgICRqcHVzaExvZy0+bXNnX2lkID0gJG1zZ0lkOwogICAgICAgICAgICAkanB1c2hMb2ctPnNhdmUoKTsKICAgICAgICB9</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyb3V0ZXInID0+IGlzc2V0KCRleHRyYVsncm91dGVyJ10pID8gJGV4dHJhWydyb3V0ZXInXSA6ICcnLAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZGJpZ0ludGVnZXIoJ2V2ZW50X2lkJyktPmluZGV4KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdkYXRhJyA9PiBpc3NldCgkZXh0cmFbJ2RhdGEnXSkgPyAkZXh0cmFbJ2RhdGEnXSA6ICcnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkcmV0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBcTG9nOjppbmZvKCdTZW5kIGxldHRlciBieSBKUHVzaCAnIC4ganNvbl9lbmNvZGUoJHJlc3BvbnNlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkbXNnSWRzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkaW5mbyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkcmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRtc2dJZCA9IGpzb25fZGVjb2RlKCRyZXNwb25zZVsnYm9keSddWydtc2dpZHMnXSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCczNDMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3BvbnNlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
