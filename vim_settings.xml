@@ -123,7 +123,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushAllManager.php" timestamp="1554185324686">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushAllManager.php" timestamp="1554256385216">
         <mark key="'" line="185" column="26" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_04_02_143722_CreateJPushLogTable.php" timestamp="1554196213058">
@@ -155,9 +155,6 @@
         <mark key="[" line="185" column="0" />
         <mark key="]" line="185" column="0" />
         <mark key="." line="185" column="0" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/package-lock.json" timestamp="1554170047546">
-        <mark key="[" line="13435" column="5" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/LetterAction.js" timestamp="1552290595471">
         <mark key="[" line="4" column="0" />
@@ -195,14 +192,14 @@
         <mark key="]" line="120" column="68" />
         <mark key="." line="120" column="68" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1554204285031">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1554256305537">
         <mark key="a" line="275" column="38" />
         <mark key="b" line="157" column="28" />
         <mark key="'" line="275" column="4" />
-        <mark key="[" line="356" column="0" />
-        <mark key="]" line="366" column="12" />
-        <mark key="." line="366" column="12" />
-        <mark key="^" line="366" column="12" />
+        <mark key="[" line="357" column="0" />
+        <mark key="]" line="367" column="12" />
+        <mark key="." line="367" column="12" />
+        <mark key="^" line="367" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1554187335249">
         <mark key="[" line="0" column="0" />
@@ -211,9 +208,6 @@
         <mark key="[" line="29" column="93" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterManageTable.vue" timestamp="1553827743640">
-        <mark key="[" line="163" column="22" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_5/AdminAccessService.php" timestamp="1552977490235">
         <mark key="[" line="222" column="0" />
