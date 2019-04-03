@@ -18,7 +18,9 @@
         <mark key="." line="65" column="25" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushLetters.php" timestamp="1554203490094" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UmengPushManger.php" timestamp="1554186482566" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UmengPushManger.php" timestamp="1554259495386">
+        <mark key="'" line="100" column="39" />
+      </file>
       <file name="D:/a_web_app/jush_replace/server/php/resources/assets/js/components/constants/LetterAction.js" timestamp="1553258772099">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="20" column="29" />
@@ -123,7 +125,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushAllManager.php" timestamp="1554258346466">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushAllManager.php" timestamp="1554258917686">
         <mark key="'" line="185" column="26" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_04_02_143722_CreateJPushLogTable.php" timestamp="1554196213058">
@@ -249,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="6" filename="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" />
       <jump line="246" column="20" filename="D:/aizuoye_pc_v21/server/php/tests/V2_4/UserTest.php" />
       <jump line="402" column="8" filename="D:/aizuoye_pc_v21/server/php/tests/V2_4/SchoolClassTest.php" />
       <jump line="246" column="52" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
@@ -349,6 +350,7 @@
       <jump line="156" column="4" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" />
       <jump line="294" column="4" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" />
       <jump line="185" column="26" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PushAllManager.php" />
+      <jump line="100" column="39" filename="D:/aizuoye_pc_v21/server/php/app/Manager/UmengPushManger.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
