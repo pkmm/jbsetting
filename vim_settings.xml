@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1553756726110">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1554195342606">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="41" column="11" />
@@ -35,15 +32,6 @@
         <mark key="[" line="13" column="5" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="D:/a_web_app/jush_replace/server/php/app/Models/Letter/SysLetter.php" timestamp="1553241595445">
-        <mark key="[" line="63" column="15" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/views/ADMIN/base/sidebar.blade.php" timestamp="1552974295786">
-        <mark key="[" line="5" column="61" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Model/Manager/UserMathHistoryModelManager.php" timestamp="1553083889740">
-        <mark key="[" line="239" column="5" />
       </file>
       <file name="D:/a_web_app/paper_dev/client/h5/config.js" timestamp="1553848677357">
         <mark key="[" line="0" column="26" />
@@ -84,9 +72,6 @@
         <mark key="[" line="28" column="29" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="D:/aizuoye_trunk/server/php/app/Providers/AppServiceProvider.php" timestamp="1552898310268">
-        <mark key="[" line="65" column="11" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/SyncJpushStaus.php" timestamp="1554195995010">
         <mark key="[" line="65" column="0" />
@@ -166,16 +151,10 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_5/LetterService.php" timestamp="1553589267150">
-        <mark key="[" line="21" column="50" />
-      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/HomeworkMathService.php" timestamp="1553050649895">
         <mark key="[" line="50" column="39" />
         <mark key="]" line="50" column="39" />
         <mark key="." line="50" column="39" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/PermissionConstants.js" timestamp="1552962985274">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/database/migrations/2019_03_13_152235_CreateMiniProgramMallBannerDetailTable.php" timestamp="1552891705722">
         <mark key="[" line="24" column="55" />
@@ -201,9 +180,6 @@
         <mark key="." line="345" column="13" />
         <mark key="^" line="345" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554187335249">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/a_web_app/jush_replace/server/php/app/Services/V2_5/LetterService.php" timestamp="1553478215351">
         <mark key="[" line="29" column="93" />
         <mark key="]" line="19" column="0" />
@@ -213,9 +189,6 @@
         <mark key="[" line="222" column="0" />
         <mark key="]" line="222" column="0" />
         <mark key="." line="222" column="0" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1552888447721">
-        <mark key="[" line="58" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1554203860891">
         <mark key="[" line="466" column="26" />
@@ -238,9 +211,6 @@
         <mark key="[" line="78" column="10" />
         <mark key="]" line="78" column="10" />
         <mark key="." line="78" column="10" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterManager.php" timestamp="1553583973078">
-        <mark key="[" line="401" column="11" />
       </file>
       <file name="D:/a_web_app/jush_replace/server/php/app/Manager/PushManager.php" timestamp="1553226463327">
         <mark key="[" line="490" column="4" />
