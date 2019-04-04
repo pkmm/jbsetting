@@ -46,6 +46,9 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Admin/AdminLetterService.php" timestamp="1554364511771">
+        <mark key="'" line="293" column="31" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1554182101677">
         <mark key="[" line="59" column="22" />
         <mark key="]" line="63" column="0" />
@@ -227,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="52" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
       <jump line="164" column="63" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-02-20.log" />
       <jump line="32" column="45" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-02-20.log" />
       <jump line="55" column="49" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-02-20.log" />
@@ -327,6 +329,7 @@
       <jump line="100" column="39" filename="D:/aizuoye_pc_v21/server/php/app/Manager/UmengPushManger.php" />
       <jump line="9" column="25" filename="D:/dev_lll/52pkm.cn/app/error/CommonError.php" />
       <jump line="430" column="26" filename="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterAdminManager.php" />
+      <jump line="291" column="31" filename="D:/aizuoye_pc_v21/server/php/app/Services/Admin/AdminLetterService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
