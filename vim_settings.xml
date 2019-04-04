@@ -17,7 +17,6 @@
         <mark key="]" line="65" column="25" />
         <mark key="." line="65" column="25" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushLetters.php" timestamp="1554203490094" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/UmengPushManger.php" timestamp="1554263014689">
         <mark key="'" line="100" column="39" />
       </file>
@@ -81,7 +80,6 @@
         <mark key="]" line="24" column="10" />
         <mark key="." line="24" column="10" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/User/UserInviteManager.php" timestamp="1554190226451" />
       <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/lettersSendDetail/LetterSendDetail.vue" timestamp="1553740859303">
         <mark key="[" line="28" column="29" />
         <mark key="]" line="39" column="0" />
@@ -194,7 +192,7 @@
         <mark key="]" line="120" column="68" />
         <mark key="." line="120" column="68" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1554266465937">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1554340965854">
         <mark key="a" line="275" column="38" />
         <mark key="b" line="157" column="28" />
         <mark key="'" line="275" column="4" />
