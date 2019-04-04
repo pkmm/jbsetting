@@ -41,13 +41,11 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="D:/dev_lll/52pkm.cn/app/Exceptions/Handler.php" timestamp="1554349999926" />
       <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/app.js" timestamp="1553753041878">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="D:/dev_lll/52pkm.cn/app/error/BusinessException.php" timestamp="1554351147513" />
       <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1554182101677">
         <mark key="[" line="59" column="22" />
         <mark key="]" line="63" column="0" />
@@ -96,7 +94,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/dev_lll/52pkm.cn/app/Exceptions/RequestFiledException.php" timestamp="1554346647767" />
       <file name="D:/dev_lll/52pkm.cn/app/Http/Controllers/TestController.php" timestamp="1554351790286">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -112,13 +109,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/dev_lll/52pkm.cn/app/Providers/AppServiceProvider.php" timestamp="1554356973230" />
       <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/LetterReply.vue" timestamp="1553828447540">
         <mark key="[" line="229" column="0" />
         <mark key="]" line="229" column="0" />
         <mark key="." line="229" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/thirdparty/UMPush/UmengNotification.php" timestamp="1554349197212" />
+      <file name="D:/aizuoye_pc_v21/server/php/thirdparty/UMPush/UmengNotification.php" timestamp="1554363003150" />
       <file name="D:/dev_lll/52pkm.cn/composer.json" timestamp="1554350767045">
         <mark key="[" line="10" column="15" />
       </file>
@@ -137,7 +133,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="D:/dev_lll/52pkm.cn/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php" timestamp="1554356997896" />
       <file name="D:/a_web_app/jush_replace/server/php/resources/assets/js/components/constants/LetterType.js" timestamp="1553258751307">
         <mark key="[" line="20" column="26" />
         <mark key="]" line="20" column="26" />
@@ -153,15 +148,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/.env.base" timestamp="1554182108923">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="38" />
-        <mark key="." line="82" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterAdminManager.php" timestamp="1554202740164">
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterAdminManager.php" timestamp="1554363354649">
+        <mark key="'" line="429" column="26" />
+        <mark key="[" line="430" column="5" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="429" column="26" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/LetterAction.js" timestamp="1552290595471">
         <mark key="[" line="4" column="0" />
@@ -190,9 +182,9 @@
         <mark key="." line="16" column="35" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Jobs/PushAppPushes.php" timestamp="1553159348689">
-        <mark key="[" line="44" column="12" />
-        <mark key="]" line="44" column="12" />
-        <mark key="." line="44" column="12" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Console/Commands/PushUserNotification.php" timestamp="1553584204426">
         <mark key="[" line="120" column="68" />
@@ -207,7 +199,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="D:/dev_lll/52pkm.cn/bootstrap/app.php" timestamp="1554357164949" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_5/AdminAccessService.php" timestamp="1552977490235">
         <mark key="[" line="222" column="0" />
         <mark key="]" line="222" column="0" />
@@ -216,7 +207,6 @@
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1552888447721">
         <mark key="[" line="58" column="0" />
       </file>
-      <file name="D:/a_web_app/paper_dev/server/php/app/Manager/TeacherManager.php" timestamp="1554345492030" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Providers/AppServiceProvider.php" timestamp="1552899159127">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="8" />
@@ -237,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="402" column="8" filename="D:/aizuoye_pc_v21/server/php/tests/V2_4/SchoolClassTest.php" />
       <jump line="246" column="52" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
       <jump line="164" column="63" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-02-20.log" />
       <jump line="32" column="45" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-02-20.log" />
@@ -337,10 +326,11 @@
       <jump line="185" column="26" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PushAllManager.php" />
       <jump line="100" column="39" filename="D:/aizuoye_pc_v21/server/php/app/Manager/UmengPushManger.php" />
       <jump line="9" column="25" filename="D:/dev_lll/52pkm.cn/app/error/CommonError.php" />
+      <jump line="430" column="26" filename="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterAdminManager.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcZW51bXNcTGV0dGVyVHlwZTsK</text>
       </register>
       <register name="-" type="4">
         <text>EmBusinessError</text>
@@ -352,31 +342,31 @@
         <text encoding="base64">ICAgICAgICAgICAgUHVzaEFsbE1hbmFnZXI6OnB1c2hBbGxBbmRyb2lkKCR0aXRsZSwgJHRleHQsICRkZXNjLCAkZXh0cmEpOwogICAgICAgICAgICBQdXNoQWxsTWFuYWdlcjo6cHVzaEFsbElvcygkdGl0bGUsICR0ZXh0LCAkZGVzYywgJGV4dHJhKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcZW51bXNcTGV0dGVyVHlwZTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQnVzaW5lc3NFeGNlcHRpb24obmV3IEVtQnVzaW5lc3NFcnJvcig0NSwgJzIyMicpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBFcnJvckNvZGU6Ogo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgQnVzaW5lc3NFeGNlcHRpb24obmV3IEVtQnVzaW5lc3NFcnJvcig0NSwgJzIyMicpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFcnJvckNvZGU6Ogo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAkaW52YWxpZCA9IG5ldyBFbUJ1c2luZXNzRXJyb3IoMjMsICcyJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IElOVkFMSURfUEFSQU1FVEVSUyA9IG5ldyBzdGF0aWMoMzQsICczNDM0Jyk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAkaW52YWxpZCA9IG5ldyBFbUJ1c2luZXNzRXJyb3IoMjMsICcyJyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAKICAgIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IElOVkFMSURfUEFSQU1FVEVSUyA9IG5ldyBzdGF0aWMoMzQsICczNDM0Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>354</text>
