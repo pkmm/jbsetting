@@ -47,10 +47,10 @@
         <mark key="[" line="49" column="0" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/.env" timestamp="1554689750170" />
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1554708547563">
-        <mark key="[" line="339" column="21" />
-        <mark key="]" line="339" column="21" />
-        <mark key="." line="339" column="21" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1554711015817">
+        <mark key="[" line="340" column="15" />
+        <mark key="]" line="340" column="15" />
+        <mark key="." line="340" column="15" />
       </file>
       <file name="D:/aizuoye_trunk/server/php/app/Providers/AppServiceProvider.php" timestamp="1552898310268">
         <mark key="[" line="65" column="11" />
@@ -65,13 +65,19 @@
       <file name="D:/dev_lll/52pkm.cn/composer.json" timestamp="1554350767045">
         <mark key="[" line="10" column="15" />
       </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/TeacherManager.php" timestamp="1554709594395" />
       <file name="D:/a_web_app/app_server_dev/server/php/storage/logs/laravel.error-2019-04-08.log" timestamp="1554690491433">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Console/Commands/SyncJpushStatus.php" timestamp="1554366488058">
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Jobs/PushAppPushes.php" timestamp="1554709333834">
+        <mark key="[" line="44" column="75" />
+        <mark key="]" line="44" column="75" />
+        <mark key="." line="44" column="75" />
+      </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Console/Commands/SyncJpushStatus.php" timestamp="1554710329870">
         <mark key="[" line="26" column="4" />
         <mark key="]" line="26" column="4" />
         <mark key="." line="26" column="4" />
@@ -212,10 +218,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>用户基本上使用极光，更新为极光</text>
+        <text>new app push</text>
       </register>
       <register name="-" type="4">
-        <text>用户基本上使用极光，更新为极光</text>
+        <text>new app push</text>
       </register>
       <register name="/" type="4">
         <text>doPushLetter</text>
