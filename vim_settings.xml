@@ -117,7 +117,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/vendor/jpush/jpush/src/JPush/Http.php" timestamp="1554723292194" />
+      <file name="D:/a_web_app/app_server_dev/server/php/vendor/jpush/jpush/src/JPush/Http.php" timestamp="1554775093453" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Console/Commands/ImportUserEntranceYear.php" timestamp="1553759490154">
         <mark key="[" line="78" column="10" />
         <mark key="]" line="78" column="10" />
@@ -149,10 +149,11 @@
         <mark key="]" line="86" column="21" />
         <mark key="." line="86" column="21" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Http/routes.php" timestamp="1554714327985">
-        <mark key="[" line="39" column="68" />
-        <mark key="]" line="39" column="68" />
-        <mark key="." line="39" column="68" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Http/routes.php" timestamp="1554775166808">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="31" />
+        <mark key="." line="30" column="31" />
+        <mark key="^" line="30" column="31" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/database/migrations/2019_03_19_101711_MotifyAdminPageTableAddIsShowSidebarField.php" timestamp="1552961842048">
         <mark key="[" line="13" column="5" />
