@@ -13,16 +13,20 @@
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php" timestamp="1554791114227" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentManager.php" timestamp="1554866187790" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php" timestamp="1554791652127" />
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Http/routes.php" timestamp="1554777798402">
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="31" />
-        <mark key="." line="30" column="31" />
-        <mark key="^" line="30" column="31" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Http/routes.php" timestamp="1554875907549">
+        <mark key="[" line="32" column="73" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="31" column="31" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/UserService.php" timestamp="1554866364564" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Access/Gate.php" timestamp="1554791617919" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Contracts/Auth/UserProvider.php" timestamp="1554791314433">
         <mark key="[" line="12" column="46" />
+      </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UserTagManager.php" timestamp="1554875899204">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="81" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UserManager.php" timestamp="1554865328036">
         <mark key="'" line="1434" column="53" />
@@ -40,6 +44,9 @@
       <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/DBModelManager.php" timestamp="1554778704023" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Contracts/Cache/Factory.php" timestamp="1554790714298" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_3/User/UserMapper.php" timestamp="1554790494297" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/StudentFamilyRecommendManager.php" timestamp="1554876103535">
+        <mark key="[" line="58" column="0" />
+      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_3/UserService.php" timestamp="1554794074007" />
     </filemarks>
     <jumps>
@@ -146,7 +153,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbFxUZWFjaGVyOwo=</text>
+        <text encoding="base64">ICAgIGRkKFsnc2QnXSk7Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -158,37 +165,37 @@
         <text>doPushLetter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VVNFX0pQVVNIPXRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3R1ZGVudEZhbWlseVJlY29tbWVuZE1hbmFnZXI6OmdlbmVyYXRlUmVjb21tZW5kU3R1ZGVudEZhbWlseSgkdXNlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbFxUZWFjaGVyOwo=</text>
+        <text encoding="base64">ICAgIGRkKFsnc2QnXSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbFxUZWFjaGVyOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkc2Nob29sID0gVGVhY2hlck1hbmFnZXI6OmdldFNjaG9vbE9mVGVhY2hlcigkdXNlcik7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">aWYgKFRlYWNoZXJNYW5hZ2VyOjppc1RlYWNoZXIoJHVzZXIpICYmICR1c2VyLT50ZWFjaGVyKSB7CiAgICAgICAgICAgICRjbGFzcyA9IFNjaG9vbENsYXNzVGVhY2hlcjo6d2hlcmVUZWFjaGVySWQoJHVzZXItPnRlYWNoZXItPmlkKQogICAgICAgICAgICAgICAgLT5vcmRlckJ5KCdpZCcsICdkZXNjJykKICAgICAgICAgICAgICAgIC0+Zmlyc3QoKTsKICAgICAgICAgICAgJHNjaG9vbENsYXNzID0gU2Nob29sQ2xhc3M6OndoZXJlSWQoJGNsYXNzLT5zY2hvb2xfY2xhc3NfaWQpLT53aXRoKCdzY2hvb2wnKS0+Zmlyc3QoKTsKICAgICAgICAgICAgJHNjaG9vbCA9ICRzY2hvb2xDbGFzcy0+c2Nob29sOwogICAgICAgIH0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHN0dWRlbnQgPSAkdXNlci0+c3R1ZGVudDsKICAgICAgICAgICAgJHN0dWRlbnRQcm9maWxlID0gJHN0dWRlbnQgPyAkc3R1ZGVudC0+c3R1ZGVudFByb2ZpbGUgOiBudWxsOwogICAgICAgICAgICBpZiAoJHN0dWRlbnRQcm9maWxlICYmICRzdHVkZW50UHJvZmlsZS0+c2Nob29sX2lkKSB7CiAgICAgICAgICAgICAgICAkc2Nob29sID0gU2Nob29sTWFuYWdlcjo6Z2V0U2Nob29sQnlTY2hvb2xJZCgkc3R1ZGVudFByb2ZpbGUtPnNjaG9vbF9pZCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vILLpv7RUQUfW0LXE0afQowogICAgICAgICAgICBpZiAoISRzY2hvb2wpIHsKICAgICAgICAgICAgICAgICR0YWcgPSBVc2VyVGFnTWFuYWdlcjo6Z2V0VGFnKCR1c2VyLT5pZCwgVXNlclRhZ0lkczo6VEFHX0lEX1VTRVJfU0VUX1NDSE9PTF9JRCk7CiAgICAgICAgICAgICAgICBpZiAoJHRhZykgewogICAgICAgICAgICAgICAgICAgICRzY2hvb2wgPSBTY2hvb2xNYW5hZ2VyOjpnZXRTY2hvb2xCeVNjaG9vbElkKCR0YWctPnZhbHVlKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>public static function getSchoolName():string
     {
         
     }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">SlBVU0hfQVBQX0tFWT0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">SlBVU0hfTUFTVEVSX1NFQ1JFVD0K</text>
+        <text encoding="base64">SlBVU0hfQVBQX0tFWT0K</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
