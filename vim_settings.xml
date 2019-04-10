@@ -11,13 +11,13 @@
         <mark key="^" line="232" column="0" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php" timestamp="1554791114227" />
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentManager.php" timestamp="1554789683718" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentManager.php" timestamp="1554862909508" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php" timestamp="1554791652127" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Access/Gate.php" timestamp="1554791617919" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Contracts/Auth/UserProvider.php" timestamp="1554791314433">
         <mark key="[" line="12" column="46" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UserManager.php" timestamp="1554861140832" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UserManager.php" timestamp="1554863275281" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Cache/CacheManager.php" timestamp="1554790844981" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/DBModelManager.php" timestamp="1554778704023" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Contracts/Cache/Factory.php" timestamp="1554790714298" />
