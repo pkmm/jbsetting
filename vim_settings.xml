@@ -3,7 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentProfileManager.php" timestamp="1554794169598" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentProfileManager.php" timestamp="1554860322062">
+        <mark key="'" line="210" column="58" />
+        <mark key="[" line="210" column="28" />
+        <mark key="]" line="210" column="49" />
+        <mark key="." line="210" column="49" />
+        <mark key="^" line="232" column="0" />
+      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php" timestamp="1554791114227" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentManager.php" timestamp="1554789683718" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php" timestamp="1554791652127" />
@@ -18,9 +24,6 @@
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_3/UserService.php" timestamp="1554794074007" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/a_web_app/101760/server/php/storage/logs/laravel.log" />
-      <jump line="63" column="67" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-02-21.log" />
-      <jump line="4558" column="0" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-02-21.log" />
       <jump line="82" column="92" filename="D:/aizuoye_pc_v21/server/php/storage/logs/laravel-2019-02-21.log" />
       <jump line="270" column="23" filename="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" />
       <jump line="25" column="0" filename="D:/aizuoye_pc_v21/server/php/app/Manager/TeacherManager.php" />
@@ -118,13 +121,19 @@
       <jump line="52" column="85" filename="D:/a_web_app/app_server_dev/server/php/storage/logs/laravel.error-2019-04-08.log" />
       <jump line="59" column="0" filename="D:/a_web_app/app_server_dev/server/php/storage/logs/laravel.error-2019-04-08.log" />
       <jump line="273" column="49" filename="D:/a_web_app/app_server_dev/server/php/app/Manager/JPushManager.php" />
+      <jump line="53" column="55" filename="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentProfileManager.php" />
+      <jump line="23" column="0" filename="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentProfileManager.php" />
+      <jump line="210" column="58" filename="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentProfileManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">SlBVU0hfQVBQX0tFWT0K</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
+      </register>
+      <register name="g" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>new app push</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>doPushLetter</text>
