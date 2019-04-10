@@ -11,7 +11,7 @@
         <mark key="^" line="232" column="0" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php" timestamp="1554791114227" />
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentManager.php" timestamp="1554862909508" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentManager.php" timestamp="1554866187790" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php" timestamp="1554791652127" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Http/routes.php" timestamp="1554777798402">
         <mark key="[" line="30" column="32" />
@@ -19,6 +19,7 @@
         <mark key="." line="30" column="31" />
         <mark key="^" line="30" column="31" />
       </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/UserService.php" timestamp="1554866364564" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Access/Gate.php" timestamp="1554791617919" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Contracts/Auth/UserProvider.php" timestamp="1554791314433">
         <mark key="[" line="12" column="46" />
@@ -190,7 +191,7 @@
         <text encoding="base64">SlBVU0hfTUFTVEVSX1NFQ1JFVD0K</text>
       </register>
       <register name=":" type="4">
-        <text>split</text>
+        <text>453</text>
       </register>
     </registers>
     <search>
@@ -226,7 +227,6 @@
         <entry>doPushLetter</entry>
       </history-search>
       <history-cmd>
-        <entry>272</entry>
         <entry>53</entry>
         <entry>/%s/data/weChatDecodeData</entry>
         <entry>255</entry>
@@ -246,6 +246,7 @@
         <entry>354</entry>
         <entry>21</entry>
         <entry>split</entry>
+        <entry>453</entry>
       </history-cmd>
       <history-expr />
       <history-input />
