@@ -16,6 +16,12 @@
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentManager.php" timestamp="1554880120003" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php" timestamp="1554791652127" />
+      <file name="D:/a_web_app/app_server_dev/server/php/.env.prod" timestamp="1554722947076">
+        <mark key="[" line="62" column="20" />
+        <mark key="]" line="62" column="20" />
+        <mark key="." line="62" column="20" />
+        <mark key="^" line="62" column="13" />
+      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Http/routes.php" timestamp="1554875907549">
         <mark key="[" line="32" column="73" />
         <mark key="]" line="36" column="0" />
@@ -28,6 +34,12 @@
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/UserService.php" timestamp="1554885351998" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/views/ADMIN/base/sidebar.blade.php" timestamp="1552974295786">
         <mark key="[" line="5" column="61" />
+      </file>
+      <file name="D:/dev_lll/52pkm.cn/app/error/EmBusinessError.php" timestamp="1554948675739">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="8" column="48" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Model/Manager/UserMathHistoryModelManager.php" timestamp="1553083889740">
         <mark key="[" line="239" column="5" />
@@ -57,6 +69,12 @@
       <file name="D:/dev_lll/52pkm.cn/composer.json" timestamp="1554350767045">
         <mark key="[" line="10" column="15" />
       </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/.env.test" timestamp="1554722962105">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="55" column="13" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/TeacherManager.php" timestamp="1554883356385">
         <mark key="'" line="263" column="36" />
         <mark key="[" line="17" column="0" />
@@ -70,6 +88,12 @@
         <mark key="." line="25" column="24" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/DBModelManager.php" timestamp="1554882606073" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Console/Commands/SyncJpushStatus.php" timestamp="1554722689352">
+        <mark key="[" line="67" column="33" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="69" column="16" />
+      </file>
       <file name="/PHP Console" timestamp="1554877525650">
         <mark key="[" line="0" column="0" />
       </file>
