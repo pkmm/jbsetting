@@ -23,6 +23,7 @@
       <file name="D:/a_web_app/app_server_dev/server/php/app/Model/Manager/UserMathHistoryModelManager.php" timestamp="1553083889740">
         <mark key="[" line="239" column="5" />
       </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/resources/assets/js/components/HomepagePosterEditor.vue" timestamp="1555051118390" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Access/Gate.php" timestamp="1554791617919" />
       <file name="D:/a_web_app/app_server_dev/server/php/.env.dev" timestamp="1554367964653">
         <mark key="[" line="49" column="0" />
@@ -34,7 +35,7 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="81" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UserManager.php" timestamp="1554885018164">
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UserManager.php" timestamp="1555049588656">
         <mark key="'" line="82" column="6" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -65,10 +66,12 @@
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/constants/PermissionConstants.js" timestamp="1552962985274">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/ErrorTopic/YytErrorTopicsManager.php" timestamp="1555049806599" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Contracts/Cache/Factory.php" timestamp="1554790714298" />
       <file name="/fragment.php" timestamp="1554877046721">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Http/Controllers/Pages/LiveController.php" timestamp="1555049797518" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php" timestamp="1554791114227" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentManager.php" timestamp="1554880120003" />
       <file name="D:/a_web_app/app_server_dev/server/php/.env.prod" timestamp="1554722947076">
@@ -77,11 +80,10 @@
         <mark key="." line="62" column="20" />
         <mark key="^" line="62" column="13" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Http/routes.php" timestamp="1554875907549">
-        <mark key="[" line="32" column="73" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="31" column="31" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Http/routes.php" timestamp="1555050888934">
+        <mark key="[" line="40" column="67" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/UserService.php" timestamp="1554885351998" />
       <file name="D:/aizuoye_pc_v21/server/php/resources/views/ADMIN/base/sidebar.blade.php" timestamp="1552974295786">
@@ -93,7 +95,8 @@
         <mark key="^" line="8" column="48" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/HomepagePosterManager.php" timestamp="1554949844094" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/HomepagePosterManager.php" timestamp="1555050240260" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Services/V2_5/YytErrorTopic/YytErrorTopicMapper.php" timestamp="1555049830168" />
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/barryvdh/laravel-ide-helper/config/ide-helper.php" timestamp="1554881490645">
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="24" />
@@ -229,7 +232,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbFxTdHVkZW50UHJvZmlsZTsK</text>
+        <text encoding="base64">ICAgICR0eSA9IFxBcHBcTW9kZWxcQ2l0eTo6d2hlcmVJZCgkbG9jYXRpb24tPmdldFByb3ZpbmNlSWQoKSktPmZpcnN0KCk7Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -244,31 +247,31 @@
         <text encoding="base64">ICAgICAgICAgICAgU3R1ZGVudEZhbWlseVJlY29tbWVuZE1hbmFnZXI6OmdlbmVyYXRlUmVjb21tZW5kU3R1ZGVudEZhbWlseSgkdXNlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbFxTdHVkZW50UHJvZmlsZTsK</text>
+        <text encoding="base64">ICAgICR0eSA9IFxBcHBcTW9kZWxcQ2l0eTo6d2hlcmVJZCgkbG9jYXRpb24tPmdldFByb3ZpbmNlSWQoKSktPmZpcnN0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbFxTY2hvb2xDbGFzc1RlYWNoZXI7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbFxTdHVkZW50UHJvZmlsZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbFxTY2hvb2xDbGFzczsK</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbFxTY2hvb2xDbGFzc1RlYWNoZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbFxTY2hvb2xDbGFzczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNfbnVsbCgkc2Nob29sKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc2Nob29sID0gQ2xhc3NNYW5hZ2VyOjpnZXRTdHVkZW50U2Nob29sKCR1c2VyLT5pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNfbnVsbCgkc2Nob29sKSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDTxc/Isum/tNPDu6e1xNGnyfrL+cr0tcTRp9Cjw/uzxgo=</text>
+        <text encoding="base64">ICAgICAgICAkc2Nob29sID0gQ2xhc3NNYW5hZ2VyOjpnZXRTdHVkZW50U2Nob29sKCR1c2VyLT5pZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkc2Nob29sID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyDTxc/Isum/tNPDu6e1xNGnyfrL+cr0tcTRp9Cjw/uzxgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbFxTY2hvb2w7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc2Nob29sID0gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
