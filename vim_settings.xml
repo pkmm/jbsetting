@@ -46,8 +46,10 @@
       <file name="D:/a_web_app/app_server_dev/server/php/vendor/laravel/framework/src/Illuminate/Contracts/Auth/UserProvider.php" timestamp="1554791314433">
         <mark key="[" line="12" column="46" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1555332146457">
-        <mark key="[" line="287" column="27" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1555385127369">
+        <mark key="[" line="288" column="25" />
+        <mark key="]" line="288" column="25" />
+        <mark key="." line="288" column="25" />
       </file>
       <file name="D:/aizuoye_trunk/server/php/app/Providers/AppServiceProvider.php" timestamp="1552898310268">
         <mark key="[" line="65" column="11" />
@@ -86,6 +88,9 @@
       <file name="/Dummy.txt" timestamp="1555054741036">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Console/Commands/PushLetters.php" timestamp="1555384510842">
+        <mark key="[" line="66" column="64" />
+      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/Admin/AdminCity/AdminCityMapper.php" timestamp="1555055091193">
         <mark key="[" line="9" column="1" />
       </file>
@@ -97,8 +102,16 @@
         <mark key="]" line="98" column="44" />
         <mark key="." line="98" column="44" />
       </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/storage/logs/laravel-2019-04-16.log" timestamp="1555385161190">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UmengPushManger.php" timestamp="1554690002205">
         <mark key="[" line="32" column="0" />
+      </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/JPushManager.php" timestamp="1555384287720">
+        <mark key="[" line="167" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -204,14 +217,14 @@
       <jump line="82" column="6" filename="D:/a_web_app/app_server_dev/server/php/app/Manager/UserManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxIdHRwXFJlcXVlc3RzXFJlcXVlc3Q7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>everyTenMinutes</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>doPushLetter</text>
@@ -220,31 +233,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy5nZXRDaXRpZXNPZlByb3ZpbmNlKG5ld1Byb3ZpbmNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxIdHRwXFJlcXVlc3RzXFJlcXVlc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCdsb3cgMS42Jyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VVNFX1VNRU5HX1BVU0g9dHJ1ZQo=</text>
+        <text encoding="base64">dXNlIEFwcFxIdHRwXFJlcXVlc3RzXFJlcXVlc3Q7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VVNFX1VNRU5HX1BVU0g9dHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBQQ0EgZnJvbSAnYXJlYS1kYXRhL3BjYSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBDQTogUENBLAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBQQ0EgZnJvbSAnYXJlYS1kYXRhL3BjYSc7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBDQTogUENBLAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmVycm9yKG4sIG8pCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IC8vIGxldCBwcm92aW5jZUNvZGUgPSBbXTsKICAgICAgICAgICAgICAgICAgICAvLyBPYmplY3Qua2V5cyhQQ0FbJzg2J10pLmZvckVhY2goY29kZSA9PiB7CiAgICAgICAgICAgICAgICAgICAgLy8gICAgIHByb3ZpbmNlLmZvckVhY2gociA9PiB7CiAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICBpZiAociA9PSBQQ0FbJzg2J11bY29kZV0pIHsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICBwcm92aW5jZUNvZGUucHVzaChjb2RlKTsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgLy8gICAgIH0pCiAgICAgICAgICAgICAgICAgICAgLy8gfSk7</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ly8gbGV0IHRtcENpdGllcyA9IFtdOwogICAgICAgICAgICAgICAgLy8gbi5mb3JFYWNoKGkgPT4gewogICAgICAgICAgICAgICAgLy8gICAgIGxldCBwcm92aW5jZSA9IFBDQVsnODYnXVtpXTsKICAgICAgICAgICAgICAgIC8vICAgICBsZXQgY2l0aWVzID0gUENBW2ldOwogICAgICAgICAgICAgICAgLy8gICAgIGxldCB0bXBPYmogPSB7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgIGxhYmVsOiBwcm92aW5jZSwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgb3B0aW9uczogW10sCiAgICAgICAgICAgICAgICAvLyAgICAgfTsKICAgICAgICAgICAgICAgIC8vICAgICBPYmplY3Qua2V5cyhjaXRpZXMpLmZvckVhY2goa2V5ID0+IHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdG1wT2JqLm9wdGlvbnMucHVzaCh7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICBsYWJlbDogY2l0aWVzW2tleV0sCiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICB2YWx1ZToga2V5LAogICAgICAgICAgICAgICAgLy8gICAgICAgICB9KQogICAgICAgICAgICAgICAgLy8gICAgIH0pOwogICAgICAgICAgICAgICAgLy8gICAgIHRtcENpdGllcy5wdXNoKHRtcE9iaik7CiAgICAgICAgICAgICAgICAvLyB9KTsKICAgICAgICAgICAgICAgIC8vIHRoaXMuY2l0aWVzID0gWy4uLnRtcENpdGllc107</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">dGhpcy5zZWxlY3RlZFVzZXJMb2NhdGlvbnMuZm9yRWFjaChsb2MgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBpZiAobG9jLmluZGV4T2YocHJvdmluY2UuY2l0eV9uYW1lKSAhPT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICB0bXBTZWxlY3RlZENpdGllcy5wdXNoKGxvYyk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgIH0p</text>
+        <text encoding="base64">Ly8gbGV0IHRtcENpdGllcyA9IFtdOwogICAgICAgICAgICAgICAgLy8gbi5mb3JFYWNoKGkgPT4gewogICAgICAgICAgICAgICAgLy8gICAgIGxldCBwcm92aW5jZSA9IFBDQVsnODYnXVtpXTsKICAgICAgICAgICAgICAgIC8vICAgICBsZXQgY2l0aWVzID0gUENBW2ldOwogICAgICAgICAgICAgICAgLy8gICAgIGxldCB0bXBPYmogPSB7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgIGxhYmVsOiBwcm92aW5jZSwKICAgICAgICAgICAgICAgIC8vICAgICAgICAgb3B0aW9uczogW10sCiAgICAgICAgICAgICAgICAvLyAgICAgfTsKICAgICAgICAgICAgICAgIC8vICAgICBPYmplY3Qua2V5cyhjaXRpZXMpLmZvckVhY2goa2V5ID0+IHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgdG1wT2JqLm9wdGlvbnMucHVzaCh7CiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICBsYWJlbDogY2l0aWVzW2tleV0sCiAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICB2YWx1ZToga2V5LAogICAgICAgICAgICAgICAgLy8gICAgICAgICB9KQogICAgICAgICAgICAgICAgLy8gICAgIH0pOwogICAgICAgICAgICAgICAgLy8gICAgIHRtcENpdGllcy5wdXNoKHRtcE9iaik7CiAgICAgICAgICAgICAgICAvLyB9KTsKICAgICAgICAgICAgICAgIC8vIHRoaXMuY2l0aWVzID0gWy4uLnRtcENpdGllc107</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
