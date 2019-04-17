@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentManager.php" timestamp="1555486077021">
-        <mark key="[" line="684" column="8" />
-        <mark key="]" line="684" column="8" />
-        <mark key="." line="684" column="8" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentManager.php" timestamp="1555517035766">
+        <mark key="[" line="688" column="12" />
+        <mark key="]" line="688" column="27" />
+        <mark key="." line="688" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1555467882813">
         <mark key="[" line="32" column="30" />
@@ -186,14 +186,14 @@
       <jump line="5" column="824" filename="D:/a_web_app/app_server_dev/server/php/storage/logs/jpush.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$user = UserManager::getUserById($userId);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDRp8n60MXPorK7tObU2rXEyrG68tDCvagK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$user = UserManager::getUserById($userId);</text>
+        <text encoding="base64">ILK7vfjQ0Lj80MI=</text>
       </register>
       <register name="/" type="4">
         <text>doPushLetter</text>
@@ -202,31 +202,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRyb3V0ZXIgPSBBcHBQdXNoOjpHT1RPX0hPTUVXT1JLX0RFVEFJTCAuICc/aG9tZXdvcmtJZD0nIC4gcmF3dXJsZGVjb2RlKCRub3RpY2UtPmNsYXNzX2hvbWV3b3JrX2lkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbWVzc2FnZS0+c2V0RnJvbU9STSgnbWVzc2FnZScsICJzdWNjZXNzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDRp8n60MXPorK7tObU2rXEyrG68tDCvagK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcQWRtaW5cYWRtaW5DaXR5XEdldENpdGllc01lc3NhZ2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbWVzc2FnZS0+c2V0RnJvbU9STSgnbWVzc2FnZScsICJzdWNjZXNzIik7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcQWRtaW5cYWRtaW5DaXR5XEdldENpdGllc01lc3NhZ2U7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">cHVibGljIHN0YXRpYyBmdW5jdGlvbiBnZXRDaXRpZXMoR2V0Q2l0aWVzTWVzc2FnZSAkbWVzc2FnZSkKICAgIHsKICAgICAgICAkbGV2ZWwgPSAkbWVzc2FnZS0+Z2V0TGV2ZWwoKSA/PyAxOwogICAgICAgIAogICAgfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">JGNpdGllcyA9IExvY2F0aW9uTWFuYWdlcjo6Z2V0UG8oJGxldmVsKTsKICAgICAgICAkbWVzc2FnZS0+Y2l0eUluZm9zID0gQWRtaW5DaXR5TWFwcGVyOjpnZXRDaXR5SW5mb01vZGVscygkY2l0aWVzKTsKICAgICAgICAkbWVzc2FnZS0+c2V0RnJvbU9STSgnbWVzc2FnZScsICJzdWNjZXNzIik7</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcQWRtaW5cYWRtaW5DaXR5XEdldFByb3ZpbmNlc09mQ2hpbmFNZXNzYWdlOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">VnVlLnVzZShWdWVBcmFlTGlua2FnZSkK</text>
+        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcQWRtaW5cYWRtaW5DaXR5XEdldFByb3ZpbmNlc09mQ2hpbmFNZXNzYWdlOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">VnVlLnVzZShWdWVBcmFlTGlua2FnZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICd2dWUtYXJlYS1saW5rYWdlL2Rpc3QvaW5kZXguY3NzJzsK</text>
+        <text encoding="base64">VnVlLnVzZShWdWVBcmFlTGlua2FnZSkK</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
