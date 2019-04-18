@@ -3,6 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" timestamp="1555401710141">
+        <mark key="a" line="75" column="11" />
+        <mark key="[" line="410" column="51" />
+        <mark key="]" line="315" column="0" />
+        <mark key="." line="315" column="0" />
+      </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Console/Commands/PushLetters.php" timestamp="1555398570708">
+        <mark key="[" line="66" column="64" />
+      </file>
+      <file name="D:/a_/server/php/.env" timestamp="1555566888555" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentManager.php" timestamp="1555517035766">
         <mark key="[" line="688" column="12" />
         <mark key="]" line="688" column="27" />
@@ -11,35 +21,27 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Http/routes.php" timestamp="1555467882813">
         <mark key="[" line="32" column="30" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1555467987452" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Http/Controllers/AdminH5Controller.php" timestamp="1555483828213" />
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Model/AppPush.php" timestamp="1555486836960" />
+      <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1555331943083">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/vendor/barryvdh/laravel-ide-helper/config/ide-helper.php" timestamp="1554881490645">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+      </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/storage/logs/laravel-2019-04-16.log" timestamp="1555397530454">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Http/routes.php" timestamp="1555401333152">
         <mark key="[" line="39" column="76" />
         <mark key="]" line="39" column="76" />
         <mark key="." line="39" column="76" />
         <mark key="^" line="37" column="34" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/LocationManager.php" timestamp="1555401644030">
-        <mark key="[" line="109" column="15" />
-        <mark key="]" line="109" column="15" />
-        <mark key="." line="109" column="15" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" timestamp="1555401710141">
-        <mark key="a" line="75" column="11" />
-        <mark key="[" line="410" column="51" />
-        <mark key="]" line="315" column="0" />
-        <mark key="." line="315" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/package.json" timestamp="1555466363368" />
-      <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1555331943083">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/.env" timestamp="1555398129552" />
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1555396247412" />
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UserTagManager.php" timestamp="1555484444921" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/UserManager.php" timestamp="1555484638960">
         <mark key="'" line="82" column="6" />
         <mark key="[" line="1055" column="25" />
@@ -52,35 +54,26 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Admin/AdminCityService.php" timestamp="1555401734225">
-        <mark key="[" line="21" column="46" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/_ide_helper.php" timestamp="1555485908093" />
-      <file name="D:/a_web_app/app_server_dev/server/php/vendor/barryvdh/laravel-ide-helper/config/ide-helper.php" timestamp="1554881490645">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/app.js" timestamp="1555400102262">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/LocationManager.php" timestamp="1555401644030">
+        <mark key="[" line="109" column="15" />
+        <mark key="]" line="109" column="15" />
+        <mark key="." line="109" column="15" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Admin/AdminCityService.php" timestamp="1555401734225">
+        <mark key="[" line="21" column="46" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1555332010361">
         <mark key="[" line="287" column="27" />
         <mark key="]" line="287" column="7" />
         <mark key="^" line="287" column="7" />
         <mark key="." line="287" column="7" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Console/Commands/PushLetters.php" timestamp="1555398570708">
-        <mark key="[" line="66" column="64" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/storage/logs/laravel-2019-04-16.log" timestamp="1555397530454">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
