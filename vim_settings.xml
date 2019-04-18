@@ -40,10 +40,10 @@
         <mark key="]" line="109" column="15" />
         <mark key="." line="109" column="15" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1555573842185">
-        <mark key="[" line="168" column="98" />
-        <mark key="]" line="305" column="0" />
-        <mark key="." line="305" column="0" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1555576083719">
+        <mark key="[" line="359" column="29" />
+        <mark key="]" line="360" column="0" />
+        <mark key="." line="360" column="0" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" timestamp="1555401710141">
         <mark key="a" line="75" column="11" />
@@ -59,7 +59,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1555573652851">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1555576373503">
         <mark key="[" line="433" column="40" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/storage/logs/laravel-2019-04-16.log" timestamp="1555397530454">
@@ -76,6 +76,7 @@
         <mark key="]" line="1055" column="25" />
         <mark key="." line="1055" column="25" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" timestamp="1555575595807" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/Admin/AdminCityService.php" timestamp="1555401734225">
         <mark key="[" line="21" column="46" />
         <mark key="]" line="24" column="0" />
@@ -187,13 +188,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ3NzcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcFB1c2g6OkdPVE9fTUVTU0FHRQo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>LetterAction::OPEN_APP_PAGE</text>
       </register>
       <register name="/" type="4">
         <text>doPushLetter</text>
@@ -202,33 +203,33 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRyb3V0ZXIgPSBBcHBQdXNoOjpHT1RPX0hPTUVXT1JLX0RFVEFJTCAuICc/aG9tZXdvcmtJZD0nIC4gcmF3dXJsZGVjb2RlKCRub3RpY2UtPmNsYXNzX2hvbWV3b3JrX2lkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ3NzcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcFB1c2g6OkdPVE9fTUVTU0FHRQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExldHRlckFjdGlvbjo6T1BFTl9BUFBfUEFHRSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExldHRlclR5cGU6Ok9OTFlfSlVNUF9BUFBfUEFHRSwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcFB1c2g6OkdPVE9fTUVTU0FHRQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ3NzcycpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ3dvcmwgPz8/PycpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>dd(
                 'ss'
             );</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdHVkZW50LT5zYXZlKCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdHVkZW50LT5uYW1lID0gJHN0dWRlbnROYW1lOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdHVkZW50ID0gJHVzZXItPnN0dWRlbnQ7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlaWYgKGVtcHR5KCR1c2VyLT5zdHVkZW50LT5uYW1lKSkgeyAvLyDI57n70NXD+8rHv9W1xKOsuPzQwtDVw/sK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdHVkZW50LT5zYXZlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
