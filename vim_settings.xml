@@ -19,54 +19,24 @@
         <mark key="." line="225" column="30" />
         <mark key="^" line="225" column="30" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/vendor/barryvdh/laravel-ide-helper/config/ide-helper.php" timestamp="1554881490645">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Http/routes.php" timestamp="1555401333152">
         <mark key="[" line="39" column="76" />
         <mark key="]" line="39" column="76" />
         <mark key="." line="39" column="76" />
         <mark key="^" line="37" column="34" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/app.js" timestamp="1555400102262">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/LocationManager.php" timestamp="1555401644030">
-        <mark key="[" line="109" column="15" />
-        <mark key="]" line="109" column="15" />
-        <mark key="." line="109" column="15" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Services/V2_5/LetterService.php" timestamp="1555578757279" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1555638191091">
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1555639319177">
         <mark key="[" line="113" column="11" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/resources/assets/js/components/HomepagePosterEditor.vue" timestamp="1555401710141">
-        <mark key="a" line="75" column="11" />
-        <mark key="[" line="410" column="51" />
-        <mark key="]" line="315" column="0" />
-        <mark key="." line="315" column="0" />
+        <mark key="]" line="343" column="25" />
+        <mark key="." line="343" column="25" />
+        <mark key="^" line="343" column="25" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Console/Commands/PushLetters.php" timestamp="1555398570708">
         <mark key="[" line="66" column="64" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/.env" timestamp="1555331943083">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1555578722879">
         <mark key="[" line="433" column="40" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/storage/logs/laravel-2019-04-16.log" timestamp="1555397530454">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1555571620687">
         <mark key="[" line="168" column="98" />
@@ -78,12 +48,10 @@
         <mark key="." line="1055" column="25" />
       </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Manager/JPushManager.php" timestamp="1555578910773" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Admin/AdminCityService.php" timestamp="1555401734225">
-        <mark key="[" line="21" column="46" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Letter/LetterManager.php" timestamp="1555571643762" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Student/StudentManager.php" timestamp="1555639425969">
+        <mark key="[" line="688" column="45" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1058" column="13" filename="D:/aizuoye_pc_v21/server/php/app/Manager/UserManager.php" />
