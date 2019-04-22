@@ -9,35 +9,61 @@
         <mark key="^" line="25" column="85" />
         <mark key="." line="25" column="87" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555912706257">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/a_/server/php/.env" timestamp="1555918749504">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
       </file>
-      <file name="D:/a_/server/php/app/Http/Kernel.php" timestamp="1555913461296">
-        <mark key="[" line="37" column="54" />
-      </file>
-      <file name="D:/a_/server/php/.env" timestamp="1555915639465" />
       <file name="D:/a_web_app/app_server_dev/server/php/app/Managers/Student/StudentManager.php" timestamp="1555569218309">
         <mark key="[" line="699" column="0" />
         <mark key="]" line="699" column="0" />
         <mark key="." line="699" column="0" />
         <mark key="^" line="689" column="11" />
       </file>
-      <file name="D:/a_/server/php/app/Http/web_routes.php" timestamp="1555914803530">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-        <mark key="^" line="7" column="17" />
-      </file>
-      <file name="D:/a_/server/php/app/Providers/AppServiceProvider.php" timestamp="1555915236116">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="38" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1555571696520">
         <mark key="[" line="225" column="30" />
         <mark key="]" line="225" column="30" />
         <mark key="." line="225" column="30" />
         <mark key="^" line="225" column="30" />
+      </file>
+      <file name="D:/a_/server/php/app/Http/Middleware/ResponseSignature.php" timestamp="1555918821447">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="D:/a_/server/php/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php" timestamp="1555916700586" />
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Http/routes.php" timestamp="1555401333152">
+        <mark key="[" line="39" column="76" />
+        <mark key="]" line="39" column="76" />
+        <mark key="." line="39" column="76" />
+        <mark key="^" line="37" column="34" />
+      </file>
+      <file name="D:/a_/server/php/app/Http/Middleware/ResponseWrapper.php" timestamp="1555918827486">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1555651839684">
+        <mark key="[" line="113" column="11" />
+        <mark key="]" line="337" column="25" />
+        <mark key="." line="337" column="25" />
+        <mark key="^" line="337" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555912706257">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/a_/server/php/app/Http/Kernel.php" timestamp="1555913461296">
+        <mark key="[" line="37" column="54" />
+      </file>
+      <file name="D:/a_/server/php/app/Http/web_routes.php" timestamp="1555917790038">
+        <mark key="[" line="7" column="7898" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/a_/server/php/app/Providers/AppServiceProvider.php" timestamp="1555915236116">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="51" column="38" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="D:/a_/server/php/app/Http/Middleware/RequestLogger.php" timestamp="1555915373463">
         <mark key="[" line="19" column="0" />
@@ -49,29 +75,15 @@
         <mark key="]" line="434" column="0" />
         <mark key="." line="434" column="0" />
       </file>
-      <file name="D:/a_/server/php/app/Http/Middleware/ResponseSignature.php" timestamp="1555914068461">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="5" />
-        <mark key="." line="9" column="5" />
-        <mark key="^" line="22" column="28" />
-      </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1555571620687">
         <mark key="[" line="168" column="98" />
       </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Http/routes.php" timestamp="1555401333152">
-        <mark key="[" line="39" column="76" />
-        <mark key="]" line="39" column="76" />
-        <mark key="." line="39" column="76" />
-        <mark key="^" line="37" column="34" />
+      <file name="D:/a_/server/php/app/Exceptions/Handler.php" timestamp="1555918626960">
+        <mark key="[" line="54" column="19" />
+        <mark key="]" line="54" column="19" />
+        <mark key="." line="54" column="19" />
       </file>
-      <file name="D:/a_/server/php/app/Http/Middleware/ResponseWrapper.php" timestamp="1555913384713" />
       <file name="D:/a_/server/php/app/Http/api_routes_v1.php" timestamp="1555914816119" />
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/PushManager.php" timestamp="1555651839684">
-        <mark key="[" line="113" column="11" />
-        <mark key="]" line="337" column="25" />
-        <mark key="." line="337" column="25" />
-        <mark key="^" line="337" column="25" />
-      </file>
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Student/StudentManager.php" timestamp="1555639425969">
         <mark key="[" line="688" column="45" />
       </file>
@@ -180,13 +192,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnZGYnKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgnMjMnKWRkOwo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>admin</text>
+        <text>de</text>
       </register>
       <register name="/" type="4">
         <text>doPushLetter</text>
@@ -195,31 +207,31 @@
         <text encoding="base64">ICAgICAgICBEQjo6c3RhdGVtZW50KCdBTFRFUiBgbGV0dGVyc2AgTU9ESUZZIENPTFVNTiBgY3JlYXRlZF9hdGAgVElNRVNUQU1QIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAnKTsKICAgICAgICBEQjo6c3RhdGVtZW50KCdBTFRFUiBgbGV0dGVyc2AgTU9ESUZZIENPTFVNTiBgdXBkYXRlZF9hdGAgVElNRVNUQU1QIERFRkFVTFQgQ1VSUkVOVF9USU1FU1RBTVAgT04gVVBEQVRFIENVUlJFTlRfVElNRVNUQU1QJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnZGYnKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgnMjMnKWRkOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBVUkw6OmZvcmNlU2NoZW1hKCdodHRwcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgnemNjJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgVVJMOjpmb3JjZVNjaGVtYSgnaHR0cHMnKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gcmVzcG9uc2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoNDU0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U2NoZW1hOjp0YWJsZSgnbGV0dGVycycsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgICR0YWJsZS0+dGltZXN0YW1wKCdjcmVhdGVkX2F0JyktPmNoYW5nZSgpOwogICAgICAgICAgICAkdGFibGUtPnRpbWVzdGFtcCgndXBkYXRlZF9hdCcpLT5jaGFuZ2UoKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJzAwJyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">U2NoZW1hOjp0YWJsZSgnbGV0dGVycycsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgICR0YWJsZS0+dGltZXN0YW1wKCdjcmVhdGVkX2F0JyktPnVzZUN1cnJlbnQoKS0+Y2hhbmdlKCk7CiAgICAgICAgICAgICR0YWJsZS0+dGltZXN0YW1wKCd1cGRhdGVkX2F0JyktPmRlZmF1bHQoREI6OnJhdygiQ1VSUkVOVF9USU1FU1RBTVAgT04gVVBEQVRFIENVUlJFTlRfVElNRVNUQU1QIikpLT5jaGFuZ2UoKTsKICAgICAgICB9KTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndXBkYXRlZF9hdCcgPT4gJG5vdywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJzM0Jyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY3JlYXRlZF9hdCcgPT4gJG5vdywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoODkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfHwgJGxldHRlci0+dHlwZSA9PSBMZXR0ZXJUeXBlOjpURVhUCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgnMjMyMycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
