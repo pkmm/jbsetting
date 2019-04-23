@@ -13,14 +13,46 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
+      <file name="/a.dummy" timestamp="1555987008000">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/a_/client/admin/app/frame/auth/loginView.jsx" timestamp="1555998448154">
+        <mark key="[" line="33" column="14" />
+      </file>
+      <file name="D:/a_/server/php/app/Model/AdminOptionLog.php" timestamp="1555986441846" />
+      <file name="D:/a_/server/php/app/Manager/AdminUserOperationLogManager.php" timestamp="1555987884803">
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+      </file>
+      <file name="D:/a_/server/php/app/Model/AdminUserOperationLog.php" timestamp="1555987188912" />
+      <file name="D:/a_/server/php/app/Http/Kernel.php" timestamp="1555989212989">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="D:/a_/server/php/vendor/barryvdh/laravel-ide-helper/config/ide-helper.php" timestamp="1555919659061">
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="25" />
+        <mark key="." line="26" column="25" />
+      </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1555571620687">
+        <mark key="[" line="168" column="98" />
+      </file>
+      <file name="D:/a_/server/php/config/auth.php" timestamp="1555989151681">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Student/StudentManager.php" timestamp="1555639425969">
+        <mark key="[" line="688" column="45" />
+      </file>
       <file name="D:/a_/server/php/app/Manager/AdminAuthManager.php" timestamp="1555986157439">
         <mark key="'" line="117" column="7" />
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1555987008000">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/a_/server/php/app/Services/V1/MaintainService.php" timestamp="1555989016108">
         <mark key="[" line="76" column="37" />
@@ -39,17 +71,10 @@
         <mark key="]" line="29" column="32" />
         <mark key="." line="29" column="32" />
       </file>
-      <file name="D:/a_/server/php/app/Model/AdminOptionLog.php" timestamp="1555986441846" />
       <file name="D:/a_/server/php/app/Http/Middleware/ResponseWrapper.php" timestamp="1555918827486">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
-      </file>
-      <file name="D:/a_/server/php/app/Manager/AdminUserOperationLogManager.php" timestamp="1555987884803">
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-        <mark key="^" line="17" column="24" />
       </file>
       <file name="D:/a_/server/php/composer.json" timestamp="1555919922317">
         <mark key="[" line="10" column="40" />
@@ -59,18 +84,6 @@
       <file name="/Dummy.txt" timestamp="1555987201356">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/a_/server/php/app/Model/AdminUserOperationLog.php" timestamp="1555987188912" />
-      <file name="D:/a_/server/php/app/Http/Kernel.php" timestamp="1555989212989">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="D:/a_/server/php/app/Http/web_routes.php" timestamp="1555921555737">
-        <mark key="[" line="7" column="3" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="D:/a_/server/php/app/Providers/AppServiceProvider.php" timestamp="1555915236116">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="51" column="38" />
@@ -79,31 +92,31 @@
       <file name="D:/a_/server/php/app/Utils/IpUtil.php" timestamp="1555922066424">
         <mark key="[" line="34" column="5" />
       </file>
-      <file name="D:/a_/server/php/vendor/barryvdh/laravel-ide-helper/config/ide-helper.php" timestamp="1555919659061">
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="26" column="25" />
-        <mark key="." line="26" column="25" />
-      </file>
       <file name="D:/a_/server/php/app/Model/AdminUserLoginLog.php" timestamp="1555922393209">
         <mark key="[" line="44" column="49" />
         <mark key="]" line="44" column="49" />
         <mark key="^" line="44" column="54" />
         <mark key="." line="44" column="49" />
       </file>
+      <file name="D:/a_/client/admin/config.js" timestamp="1555998587610">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+      </file>
       <file name="D:/a_/server/php/config/ide-helper.php" timestamp="1555919727727">
         <mark key="[" line="43" column="12" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1555571620687">
-        <mark key="[" line="168" column="98" />
-      </file>
-      <file name="D:/a_/server/php/config/auth.php" timestamp="1555989151681">
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="25" />
-        <mark key="." line="30" column="25" />
       </file>
       <file name="D:/a_/server/php/app/Model/AdminOperationLog.php" timestamp="1555986935358">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="23" />
+      </file>
+      <file name="D:/a_/client/admin/webpack.config.js" timestamp="1555999022748">
+        <mark key="'" line="50" column="10" />
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="252" column="11" />
+        <mark key="." line="252" column="0" />
+        <mark key="^" line="252" column="0" />
       </file>
       <file name="D:/a_/server/php/app/Exceptions/Handler.php" timestamp="1555918626960">
         <mark key="[" line="54" column="19" />
@@ -125,12 +138,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Student/StudentManager.php" timestamp="1555639425969">
-        <mark key="[" line="688" column="45" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="24" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" />
       <jump line="124" column="80" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" />
       <jump line="447" column="45" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" />
       <jump line="39" column="29" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/SchoolTest.php" />
@@ -230,16 +239,17 @@
       <jump line="5" column="824" filename="D:/a_web_app/app_server_dev/server/php/storage/logs/jpush.log" />
       <jump line="116" column="7" filename="D:/a_/server/php/app/Manager/AdminAuthManager.php" />
       <jump line="0" column="0" filename="D:/a_/server/php/app/Model/AdminOperationLog.php" />
+      <jump line="50" column="10" filename="D:/a_/client/admin/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxIdHRwXE1pZGRsZXdhcmVcRGVtb0F1dGhlbnRpY2F0ZTsK</text>
+      <register name="&quot;" type="4">
+        <text>10.35.10.83</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>User</text>
+        <text>10.35.10.83</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
