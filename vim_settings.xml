@@ -34,6 +34,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="D:/a_/server/php/app/Http/Middleware/RequestLogger.php" timestamp="1555915373463">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="D:/a_/server/php/vendor/barryvdh/laravel-ide-helper/config/ide-helper.php" timestamp="1555919659061">
         <mark key="[" line="26" column="25" />
         <mark key="]" line="26" column="25" />
@@ -50,20 +55,22 @@
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Student/StudentManager.php" timestamp="1555639425969">
         <mark key="[" line="688" column="45" />
       </file>
-      <file name="D:/a_/server/php/app/Manager/AdminAuthManager.php" timestamp="1555986157439">
+      <file name="D:/a_/server/php/app/Manager/AdminAuthManager.php" timestamp="1556002628633">
         <mark key="'" line="117" column="7" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
+        <mark key="[" line="130" column="67" />
+        <mark key="]" line="130" column="67" />
+        <mark key="." line="130" column="67" />
       </file>
       <file name="D:/a_/client/admin/package.json" timestamp="1555999867319" />
-      <file name="D:/a_/server/php/app/Services/V1/MaintainService.php" timestamp="1555989016108">
-        <mark key="[" line="76" column="37" />
-        <mark key="]" line="73" column="7" />
-        <mark key="^" line="73" column="7" />
-        <mark key="." line="73" column="7" />
+      <file name="D:/a_/server/php/app/Services/V1/MaintainService.php" timestamp="1556002966148">
+        <mark key="[" line="75" column="48" />
+        <mark key="]" line="75" column="48" />
+        <mark key="." line="75" column="48" />
+        <mark key="^" line="75" column="66" />
       </file>
       <file name="D:/a_/server/php/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php" timestamp="1555916700586" />
+      <file name="D:/a_/server/php/app/Http/Middleware/AdminAuthenticate.php" timestamp="1556002239454" />
+      <file name="D:/a_/server/php/app/Utils/NetworkUtils.php" timestamp="1556003258239" />
       <file name="D:/a_/server/php/app/Model/AdminUserChangePasswordLog.php" timestamp="1555985235695">
         <mark key="[" line="26" column="4" />
         <mark key="]" line="26" column="4" />
@@ -84,13 +91,18 @@
         <mark key="]" line="10" column="40" />
         <mark key="." line="10" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555987201356">
+      <file name="/Dummy.txt" timestamp="1556003194958">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/a_/server/php/app/Providers/AppServiceProvider.php" timestamp="1555915236116">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="51" column="38" />
         <mark key="." line="50" column="0" />
+      </file>
+      <file name="D:/a_/server/php/app/Services/V1/SystemService.php" timestamp="1556003367365">
+        <mark key="[" line="86" column="9" />
+        <mark key="]" line="86" column="9" />
+        <mark key="." line="86" column="9" />
       </file>
       <file name="D:/a_/server/php/app/Utils/IpUtil.php" timestamp="1555922066424">
         <mark key="[" line="34" column="5" />
@@ -101,6 +113,11 @@
         <mark key="^" line="44" column="54" />
         <mark key="." line="44" column="49" />
       </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1555655006987">
+        <mark key="[" line="434" column="0" />
+        <mark key="]" line="434" column="0" />
+        <mark key="." line="434" column="0" />
+      </file>
       <file name="D:/a_/client/admin/config.js" timestamp="1555998587610">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="12" column="41" />
@@ -110,13 +127,24 @@
       <file name="D:/a_/server/php/config/ide-helper.php" timestamp="1555919727727">
         <mark key="[" line="43" column="12" />
       </file>
+      <file name="D:/a_/server/php/app/Services/V1/ItemService.php" timestamp="1556003873930">
+        <mark key="[" line="60" column="35" />
+        <mark key="]" line="109" column="34" />
+        <mark key="^" line="109" column="34" />
+        <mark key="." line="109" column="34" />
+      </file>
       <file name="D:/a_/server/php/app/Model/AdminOperationLog.php" timestamp="1555986935358">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="23" />
       </file>
-      <file name="D:/a_/client/admin/webpack.config.js" timestamp="1555999022748">
+      <file name="D:/a_/server/php/app/Manager/SystemManager.php" timestamp="1556003680834">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="40" column="9" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="D:/a_/client/admin/webpack.config.js" timestamp="1556001520638">
         <mark key="'" line="50" column="10" />
-        <mark key="[" line="252" column="0" />
+        <mark key="[" line="159" column="18" />
         <mark key="]" line="252" column="11" />
         <mark key="." line="252" column="0" />
         <mark key="^" line="252" column="0" />
@@ -143,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="80" filename="D:/aizuoye_pc_v21/server/php/app/Manager/PortalManager.php" />
       <jump line="447" column="45" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" />
       <jump line="39" column="29" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/SchoolTest.php" />
       <jump line="191" column="33" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
@@ -243,16 +270,17 @@
       <jump line="116" column="7" filename="D:/a_/server/php/app/Manager/AdminAuthManager.php" />
       <jump line="0" column="0" filename="D:/a_/server/php/app/Model/AdminOperationLog.php" />
       <jump line="50" column="10" filename="D:/a_/client/admin/webpack.config.js" />
+      <jump line="74" column="72" filename="D:/a_/server/php/app/Services/V1/MaintainService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkbyBsb2dpbiAyNDIzNDIzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IEFkbWluQXV0aE1hbmFnZXI6OmdldEJ5QXV0aCgpOwogICAgICAgIGlmICgkdXNlcikgewogICAgICAgICAgICBBZG1pblVzZXJPcGVyYXRpb25Mb2dNYW5hZ2VyOjpkb0xvZygKICAgICAgICAgICAgICAgICR1c2VyLAogICAgICAgICAgICAgICAgT3BlcmF0aW9uQWN0aW9uVHlwZTo6VVBEQVRFLAogICAgICAgICAgICAgICAgT3BlcmF0aW9uUmVzb3VyY2VUeXBlOjpBU1NFVFMsCiAgICAgICAgICAgICAgICAkc3lzdGVtT3BlcmF0ZSA9PSBTeXN0ZW1PcGVyYXRpb246OlJFU1RBUlQKICAgICAgICAgICAgICAgICAgICA/IE9wZXJhdGlvblJlc291cmNlOjpSRVNUQVJUX1NFUlZFUgogICAgICAgICAgICAgICAgICAgIDogT3BlcmF0aW9uUmVzb3VyY2U6OlNIT1dET1dOX1NFUlZFUgogICAgICAgICAgICApOwogICAgICAgIH0K</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>10.35.10.83</text>
+        <text encoding="base64">JG1lc3NhZ2UtPmdldE9wZXJhdGlvbigp</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
@@ -261,31 +289,40 @@
         <text encoding="base64">U2NoZW1hOjpjcmVhdGUoJ2FkbWluX29wdGlvbl9sb2cnLCBmdW5jdGlvbiAoQmx1ZXByaW50ICR0YWJsZSkgewogICAgICAgICAgICAkdGFibGUtPmJpZ0luY3JlbWVudHMoJ2lkJyk7CiAgICAgICAgICAgICR0YWJsZS0+YmlnSW50ZWdlcigiYWRtaW5fdXNlcl9pZCIpLT5jb21tZW50KCK53MDt1LFJZCIpOwogICAgICAgICAgICAkdGFibGUtPnRpbnlJbnRlZ2VyKCdvcHRpb24nKS0+Y29tbWVudCgistnX98Dg0M0iKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2Rlc2NyaXB0aW9uJyktPmNvbW1lbnQoIrLZ1/fD6Mr2Iik7CiAgICAgICAgICAgICR0YWJsZS0+dGltZXN0YW1wcygpOwogICAgICAgIH0pOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkbyBsb2dpbiAyNDIzNDIzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IEFkbWluQXV0aE1hbmFnZXI6OmdldEJ5QXV0aCgpOwogICAgICAgIGlmICgkdXNlcikgewogICAgICAgICAgICBBZG1pblVzZXJPcGVyYXRpb25Mb2dNYW5hZ2VyOjpkb0xvZygKICAgICAgICAgICAgICAgICR1c2VyLAogICAgICAgICAgICAgICAgT3BlcmF0aW9uQWN0aW9uVHlwZTo6VVBEQVRFLAogICAgICAgICAgICAgICAgT3BlcmF0aW9uUmVzb3VyY2VUeXBlOjpBU1NFVFMsCiAgICAgICAgICAgICAgICAkc3lzdGVtT3BlcmF0ZSA9PSBTeXN0ZW1PcGVyYXRpb246OlJFU1RBUlQKICAgICAgICAgICAgICAgICAgICA/IE9wZXJhdGlvblJlc291cmNlOjpSRVNUQVJUX1NFUlZFUgogICAgICAgICAgICAgICAgICAgIDogT3BlcmF0aW9uUmVzb3VyY2U6OlNIT1dET1dOX1NFUlZFUgogICAgICAgICAgICApOwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxIdHRwXE1pZGRsZXdhcmVcRGVtb0F1dGhlbnRpY2F0ZTsK</text>
+        <text encoding="base64">ICAgICAgICBBZG1pblVzZXJPcGVyYXRpb25Mb2dNYW5hZ2VyOjpkb0xvZygpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmcgJHVzZXJJUCwK</text>
+      <register name="3" type="4">
+        <text encoding="base64">c3dpdGNoICgkbWVzc2FnZS0+Z2V0T3BlcmF0aW9uKCkpIHsKICAgICAgICAgICAgIGNhc2UgU3lzdGVtT3BlcmF0aW9uOjpSRVNUQVJUOgogICAgICAgICAgICAgICAgIFN5c3RlbVV0aWxzOjpyZXN0YXJ0U2VydmVyKCk7CiAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgY2FzZSBTeXN0ZW1PcGVyYXRpb246OlNIVVRET1dOOgogICAgICAgICAgICAgICAgIFN5c3RlbVV0aWxzOjpzaHV0ZG93blNlcnZlcigpOwogICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      <register name="4" type="4">
+        <text>NetworkUtils::setNetwork($type, $config);
+        $user = AdminAuthManager::getByAuth();
+        if ($user) {
+            AdminUserOperationLogManager::doLog(
+                $user,
+                OperationActionType::UPDATE,
+                OperationResourceType::ASSETS,
+                OperationResource::CHANGE_NETWORK
+            );
+        }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9nLT50YXJnZXRfdXNlcl9pZCA9ICR1c2VyLT5pZDsK</text>
+        <text encoding="base64">ICAgICAgICBBZG1pblVzZXJPcGVyYXRpb25Mb2dNYW5hZ2VyOjpkb0xvZyhBZG1pbkF1dGhNYW5hZ2VyOjpnZXRCeUF1dGgoKSwKICAgICAgICAgICAgT3BlcmF0aW9uQWN0aW9uVHlwZTo6VVBEQVRFLAogICAgICAgICAgICBPcGVyYXRpb25SZXNvdXJjZVR5cGU6OlVTRVIsCiAgICAgICAgICAgIE9wZXJhdGlvblJlc291cmNlOjpDSEFSR0UKICAgICAgICApOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHRhcmdldFVzZXIoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+YmVsb25nc1RvKEFkbWluVXNlcjo6Y2xhc3MsICdvYmplY3RfdXNlcl9pZCcsICdpZCcpOwogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBBZG1pblVzZXJPcGVyYXRpb25Mb2dNYW5hZ2VyOjpkb0xvZyhBZG1pbkF1dGhNYW5hZ2VyOjpnZXRCeUF1dGgoKSwgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ3RhcmdldF91c2VyX2lkJyktPmNvbW1lbnQoJ7G70N64xNXfJyk7Cg==</text>
+        <text encoding="base64">dXNlIEF1dGg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFQSVxHZW5lcmF0ZWRcVjFcYWRtaW5BdXRoXENoYW5nZVBhc3N3b3JkTWVzc2FnZTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkbyBsb2dpbiAyNDIzNDIzJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxFeGNlcHRpb25zXEludmFsaWRQYXJhbWV0ZXJzRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxIdHRwXE1pZGRsZXdhcmVcRGVtb0F1dGhlbnRpY2F0ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
