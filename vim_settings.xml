@@ -16,40 +16,6 @@
       <file name="/a.dummy" timestamp="1555987008000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/a_/client/admin/app/frame/auth/loginView.jsx" timestamp="1556000104149">
-        <mark key="[" line="35" column="35" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="D:/a_/server/php/app/Model/AdminOptionLog.php" timestamp="1555986441846" />
-      <file name="D:/a_/server/php/app/Manager/AdminUserOperationLogManager.php" timestamp="1555987884803">
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-      </file>
-      <file name="D:/a_/server/php/app/Model/AdminUserOperationLog.php" timestamp="1555987188912" />
-      <file name="D:/a_/server/php/app/Http/Middleware/RequestLogger.php" timestamp="1555915373463">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="D:/a_/server/php/vendor/barryvdh/laravel-ide-helper/config/ide-helper.php" timestamp="1555919659061">
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="26" column="25" />
-        <mark key="." line="26" column="25" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1555571620687">
-        <mark key="[" line="168" column="98" />
-      </file>
-      <file name="D:/a_/server/php/config/auth.php" timestamp="1555989151681">
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="25" />
-        <mark key="." line="30" column="25" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Student/StudentManager.php" timestamp="1555639425969">
-        <mark key="[" line="688" column="45" />
-      </file>
       <file name="D:/a_/server/php/app/Manager/AdminAuthManager.php" timestamp="1556002628633">
         <mark key="'" line="117" column="7" />
         <mark key="[" line="130" column="67" />
@@ -65,13 +31,15 @@
         <mark key="." line="75" column="48" />
         <mark key="^" line="75" column="66" />
       </file>
-      <file name="D:/a_/server/php/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php" timestamp="1555916700586" />
-      <file name="D:/a_/server/php/app/Http/Middleware/AdminAuthenticate.php" timestamp="1556002239454" />
-      <file name="D:/a_/server/php/app/Utils/NetworkUtils.php" timestamp="1556003258239" />
       <file name="D:/a_/server/php/app/Model/AdminUserChangePasswordLog.php" timestamp="1555985235695">
         <mark key="[" line="26" column="4" />
         <mark key="]" line="26" column="4" />
         <mark key="." line="26" column="4" />
+      </file>
+      <file name="D:/a_/client/admin/app/frame/auth/loginView.jsx" timestamp="1556000104149">
+        <mark key="[" line="35" column="35" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="D:/a_/server/php/database/migrations/2019_04_22_155053_ModifyAdminUserLoginLogTable.php" timestamp="1555922240439">
         <mark key="[" line="29" column="32" />
@@ -82,6 +50,12 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="D:/a_/server/php/app/Manager/AdminUserOperationLogManager.php" timestamp="1555987884803">
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="24" />
       </file>
       <file name="D:/a_/server/php/composer.json" timestamp="1555919922317">
         <mark key="[" line="10" column="40" />
@@ -101,8 +75,24 @@
         <mark key="]" line="86" column="9" />
         <mark key="." line="86" column="9" />
       </file>
+      <file name="D:/Aaaaa/client/admin/app/frame/auth/loginView.jsx" timestamp="1556006782455">
+        <mark key="[" line="34" column="40" />
+        <mark key="]" line="34" column="45" />
+        <mark key="^" line="34" column="45" />
+        <mark key="." line="34" column="45" />
+      </file>
       <file name="D:/a_/server/php/app/Utils/IpUtil.php" timestamp="1555922066424">
         <mark key="[" line="34" column="5" />
+      </file>
+      <file name="D:/a_/server/php/app/Http/Middleware/RequestLogger.php" timestamp="1555915373463">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="D:/a_/server/php/vendor/barryvdh/laravel-ide-helper/config/ide-helper.php" timestamp="1555919659061">
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="25" />
+        <mark key="." line="26" column="25" />
       </file>
       <file name="D:/a_/server/php/app/Model/AdminUserLoginLog.php" timestamp="1555922393209">
         <mark key="[" line="44" column="49" />
@@ -123,6 +113,14 @@
       </file>
       <file name="D:/a_/server/php/config/ide-helper.php" timestamp="1555919727727">
         <mark key="[" line="43" column="12" />
+      </file>
+      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1555571620687">
+        <mark key="[" line="168" column="98" />
+      </file>
+      <file name="D:/a_/server/php/config/auth.php" timestamp="1555989151681">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="25" />
+        <mark key="." line="30" column="25" />
       </file>
       <file name="D:/a_/server/php/app/Services/V1/ItemService.php" timestamp="1556003873930">
         <mark key="[" line="60" column="35" />
@@ -157,6 +155,9 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Student/StudentManager.php" timestamp="1555639425969">
+        <mark key="[" line="688" column="45" />
       </file>
     </filemarks>
     <jumps>
