@@ -17,9 +17,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/a_/client/admin/app/frame/auth/loginView.jsx" timestamp="1556000104149">
-        <mark key="[" line="34" column="35" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="35" column="35" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="D:/a_/server/php/app/Model/AdminOptionLog.php" timestamp="1555986441846" />
       <file name="D:/a_/server/php/app/Manager/AdminUserOperationLogManager.php" timestamp="1555987884803">
@@ -29,11 +29,6 @@
         <mark key="^" line="17" column="24" />
       </file>
       <file name="D:/a_/server/php/app/Model/AdminUserOperationLog.php" timestamp="1555987188912" />
-      <file name="D:/a_/server/php/app/Http/Kernel.php" timestamp="1555989212989">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="D:/a_/server/php/app/Http/Middleware/RequestLogger.php" timestamp="1555915373463">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -61,7 +56,9 @@
         <mark key="]" line="130" column="67" />
         <mark key="." line="130" column="67" />
       </file>
-      <file name="D:/a_/client/admin/package.json" timestamp="1555999867319" />
+      <file name="D:/a_/client/admin/package.json" timestamp="1556006254922">
+        <mark key="[" line="48" column="42" />
+      </file>
       <file name="D:/a_/server/php/app/Services/V1/MaintainService.php" timestamp="1556002966148">
         <mark key="[" line="75" column="48" />
         <mark key="]" line="75" column="48" />
@@ -118,7 +115,7 @@
         <mark key="]" line="434" column="0" />
         <mark key="." line="434" column="0" />
       </file>
-      <file name="D:/a_/client/admin/config.js" timestamp="1555998587610">
+      <file name="D:/a_/client/admin/config.js" timestamp="1556005045243">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="12" column="41" />
         <mark key="." line="12" column="41" />
@@ -133,16 +130,12 @@
         <mark key="^" line="109" column="34" />
         <mark key="." line="109" column="34" />
       </file>
-      <file name="D:/a_/server/php/app/Model/AdminOperationLog.php" timestamp="1555986935358">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="23" />
-      </file>
       <file name="D:/a_/server/php/app/Manager/SystemManager.php" timestamp="1556003680834">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="40" column="9" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="D:/a_/client/admin/webpack.config.js" timestamp="1556001520638">
+      <file name="D:/a_/client/admin/webpack.config.js" timestamp="1556005913880">
         <mark key="'" line="50" column="10" />
         <mark key="[" line="159" column="18" />
         <mark key="]" line="252" column="11" />
@@ -154,10 +147,6 @@
         <mark key="]" line="54" column="19" />
         <mark key="." line="54" column="19" />
       </file>
-      <file name="D:/a_/server/php/database/migrations/2019_01_15_185405_create_admin_table.php" timestamp="1555986803423">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="39" column="10" />
-      </file>
       <file name="D:/a_/server/php/database/migrations/2019_04_23_102517_ModifyOperatorLogTable.php" timestamp="1555987060305">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="43" column="11" />
@@ -165,9 +154,9 @@
         <mark key="^" line="37" column="7" />
       </file>
       <file name="D:/a_/server/php/app/Services/V1/AdminAuthService.php" timestamp="1555924476234">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
