@@ -4,14 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="D:/Aaaaa/server/php/app/Manager/AdminAuthManager.php" timestamp="1556025166321" />
-      <file name="/a.dummy" timestamp="1555987008000">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Aaaaa/client/admin/app/component/securityAudit/index.jsx" timestamp="1556088546593">
+      <file name="D:/Aaaaa/client/admin/app/component/securityAudit/index.jsx" timestamp="1556098383635">
         <mark key="[" line="19" column="12" />
         <mark key="]" line="8" column="37" />
         <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="22" />
+        <mark key="^" line="8" column="22" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Services/V1/AdminAuthService.php" timestamp="1556025150716">
         <mark key="[" line="34" column="0" />
@@ -25,34 +22,27 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="D:/Aaaaa/server/php/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1556092023832" />
-      <file name="D:/a_/server/php/app/Manager/AdminUserOperationLogManager.php" timestamp="1555987884803">
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-      </file>
       <file name="D:/Aaaaa/server/php/app/Services/V1/AdminUser/SecurityAuditMapper.php" timestamp="1556078611938">
         <mark key="[" line="52" column="28" />
         <mark key="]" line="52" column="28" />
         <mark key="^" line="52" column="42" />
         <mark key="." line="52" column="28" />
       </file>
-      <file name="D:/Aaaaa/client/admin/app/component/securityAudit/OperationLog.jsx" timestamp="1556087963256">
+      <file name="D:/Aaaaa/client/admin/app/component/securityAudit/OperationLog.jsx" timestamp="1556097347995">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="D:/Aaaaa/client/admin/app/component/securityAudit/LoginLog.jsx" timestamp="1556094340323">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="D:/Aaaaa/client/admin/API/Generated/api.js" timestamp="1556096708400" />
+      <file name="D:/Aaaaa/client/admin/app/component/securityAudit/table.jsx" timestamp="1556098653084">
+        <mark key="[" line="30" column="58" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/Aaaaa/client/admin/app/frame/auth/loginView.jsx" timestamp="1556008190825">
-        <mark key="[" line="34" column="58" />
-        <mark key="]" line="34" column="45" />
-        <mark key="^" line="34" column="45" />
-        <mark key="." line="34" column="45" />
+      <file name="D:/Aaaaa/client/admin/app/component/securityAudit/LoginLog.jsx" timestamp="1556098836793">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="D:/Aaaaa/client/admin/app/component/charge/index.jsx" timestamp="1556088675336" />
       <file name="D:/Aaaaa/client/admin/app/webRoute.jsx" timestamp="1556085796576">
@@ -61,9 +51,6 @@
         <mark key="]" line="16" column="45" />
         <mark key="^" line="16" column="53" />
         <mark key="." line="16" column="45" />
-      </file>
-      <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1555571620687">
-        <mark key="[" line="168" column="98" />
       </file>
       <file name="D:/Aaaaa/client/admin/webpack.config.js" timestamp="1556008174345" />
       <file name="D:/Aaaaa/server/php/database/migrations/2019_04_22_165607_CreateUserChangePasswordLogTable.php" timestamp="1556092915018">
@@ -78,27 +65,19 @@
         <mark key="^" line="41" column="24" />
         <mark key="." line="41" column="24" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Student/StudentManager.php" timestamp="1555639425969">
-        <mark key="[" line="688" column="45" />
-      </file>
       <file name="D:/Aaaaa/server/php/app/Model/AdminUser.php" timestamp="1556025392887" />
-      <file name="D:/Aaaaa/client/admin/app/component/common/restfulTable.jsx" timestamp="1556094211673" />
+      <file name="D:/Aaaaa/client/admin/app/component/common/restfulTable.jsx" timestamp="1556098541860">
+        <mark key="'" line="178" column="22" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="72" />
+      </file>
       <file name="D:/Aaaaa/server/deploy/server.conf" timestamp="1556009510151">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="12" column="53" />
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="8" />
       </file>
-      <file name="D:/a_/client/admin/package.json" timestamp="1556006254922">
-        <mark key="[" line="48" column="42" />
-      </file>
       <file name="D:/Aaaaa/client/admin/app/newFrame/routes/dashboard.jsx" timestamp="1556086518015" />
-      <file name="D:/a_/server/php/app/Services/V1/MaintainService.php" timestamp="1556002966148">
-        <mark key="[" line="75" column="48" />
-        <mark key="]" line="75" column="48" />
-        <mark key="." line="75" column="48" />
-        <mark key="^" line="75" column="66" />
-      </file>
       <file name="D:/Aaaaa/server/php/app/Services/V1/SecurityAuditService.php" timestamp="1556093346551">
         <mark key="[" line="42" column="59" />
         <mark key="]" line="42" column="59" />
@@ -110,15 +89,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="D:/Aaaaa/client/admin/app/component/common/addon/labelAble.jsx" timestamp="1556094081241" />
+      <file name="D:/Aaaaa/client/admin/app/component/common/addon/labelAble.jsx" timestamp="1556097014197" />
       <file name="D:/Aaaaa/server/php/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php" timestamp="1556025364104" />
       <file name="D:/Aaaaa/client/admin/app/newFrame/index.jsx" timestamp="1556086694148">
         <mark key="[" line="27" column="2" />
         <mark key="]" line="27" column="2" />
         <mark key="." line="27" column="2" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1556087618636">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Aaaaa/client/admin/app/component/securityAudit/ChangePasswordLog.jsx" timestamp="1556088487054">
         <mark key="[" line="4" column="0" />
@@ -126,37 +102,13 @@
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="42" />
       </file>
-      <file name="D:/a_/server/php/app/Utils/IpUtil.php" timestamp="1555922066424">
-        <mark key="[" line="34" column="5" />
-      </file>
-      <file name="D:/a_/server/php/app/Model/AdminUserLoginLog.php" timestamp="1555922393209">
-        <mark key="[" line="44" column="49" />
-        <mark key="]" line="44" column="49" />
-        <mark key="^" line="44" column="54" />
-        <mark key="." line="44" column="49" />
-      </file>
       <file name="D:/Aaaaa/server/php/config/auth.php" timestamp="1556025353407" />
       <file name="D:/Aaaaa/client/admin/app/component/test/index.jsx" timestamp="1556085356532" />
-      <file name="D:/a_/client/admin/config.js" timestamp="1556005045243">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="12" column="41" />
-        <mark key="." line="12" column="41" />
-        <mark key="^" line="12" column="41" />
-      </file>
-      <file name="D:/a_/server/php/config/ide-helper.php" timestamp="1555919727727">
-        <mark key="[" line="43" column="12" />
-      </file>
-      <file name="D:/Aaaaa/client/admin/app/component/upgrade/index.jsx" timestamp="1556085379448" />
+      <file name="D:/Aaaaa/client/admin/app/component/upgrade/index.jsx" timestamp="1556098096791" />
       <file name="D:/Aaaaa/server/php/app/Model/AdminUserLoginLog.php" timestamp="1556092993878">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
-      </file>
-      <file name="D:/a_/server/php/app/Services/V1/ItemService.php" timestamp="1556003873930">
-        <mark key="[" line="60" column="35" />
-        <mark key="]" line="109" column="34" />
-        <mark key="^" line="109" column="34" />
-        <mark key="." line="109" column="34" />
       </file>
       <file name="D:/Aaaaa/server/php/database/migrations/2019_04_23_102517_ModifyOperatorLogTable.php" timestamp="1556092944458">
         <mark key="[" line="18" column="40" />
@@ -169,15 +121,8 @@
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
-      <file name="D:/a_/server/php/database/migrations/2019_04_23_102517_ModifyOperatorLogTable.php" timestamp="1555987060305">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="43" column="11" />
-        <mark key="." line="37" column="8" />
-        <mark key="^" line="37" column="7" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="33" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
       <jump line="295" column="14" filename="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" />
       <jump line="26" column="40" filename="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" />
       <jump line="259" column="72" filename="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" />
@@ -277,49 +222,50 @@
       <jump line="74" column="72" filename="D:/a_/server/php/app/Services/V1/MaintainService.php" />
       <jump line="16" column="67" filename="D:/Aaaaa/client/admin/app/webRoute.jsx" />
       <jump line="41" column="24" filename="D:/Aaaaa/server/php/app/Manager/SecurityAuditManager.php" />
+      <jump line="178" column="22" filename="D:/Aaaaa/client/admin/app/component/common/restfulTable.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IFJlc3RGdWxUYWJsZSBmcm9tICcuLi9jb21tb24vcmVzdGZ1bFRhYmxlJwo=</text>
+        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi9ub2RlX21vZHVsZXMvcmVhY3QtYm9vdHN0cmFwLXRhYmxlL2Rpc3QvcmVhY3QtYm9vdHN0cmFwLXRhYmxlLWFsbC5taW4uY3NzJzsK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getUserChangePasswordLogModels</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGF1dG9CaW5kIGZyb20gJ3JlYWN0LWF1dG9iaW5kJwo=</text>
+        <text encoding="base64">cmVxdWlyZSgncmVhY3QtYm9vdHN0cmFwLXRhYmxlL2Rpc3QvcmVhY3QtYm9vdHN0cmFwLXRhYmxlLWFsbC5taW4uY3NzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IFJlc3RGdWxUYWJsZSBmcm9tICcuLi9jb21tb24vcmVzdGZ1bFRhYmxlJwo=</text>
+        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi9ub2RlX21vZHVsZXMvcmVhY3QtYm9vdHN0cmFwLXRhYmxlL2Rpc3QvcmVhY3QtYm9vdHN0cmFwLXRhYmxlLWFsbC5taW4uY3NzJzsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PFJlc3RGdWxUYWJsZT4KICAgICAgICAgIAogICAgICAgIDwvUmVzdEZ1bFRhYmxlPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRhdGE9e30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxUYWJsZUhlYWRlckNvbHVtbiA+PC9UYWJsZUhlYWRlckNvbHVtbj4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkYXR0cmlidXRlcyA9IFsndXNlcm5hbWUnLCAnc3VjY2VzcycsICdtZXNzYWdlJywgJ2lwJywgJ2RldmljZV90eXBlJywgJ2FnZW50JywgJ21mYSddOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">PEJvb3RzdHJhcFRhYmxlCgogICAgICAgID4KICAgICAgICAgIDxUYWJsZUhlYWRlckNvbHVtbj48L1RhYmxlSGVhZGVyQ29sdW1uPgogICAgICAgIDwvQm9vdHN0cmFwVGFibGU+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHt3aXRoUm91dGVyfSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkYXR0cmlidXRlcyA9IFsnaWQnLCAnaXAnXTsK</text>
+        <text encoding="base64">aW1wb3J0IHtUYWJsZUhlYWRlckNvbHVtbiwgQm9vdHN0cmFwVGFibGV9IGZyb20gJ3JlYWN0LWJvb3RzdHJhcC10YWJsZScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQoXEFwcFxNb2RlbFxBZG1pblVzZXJMb2dpbkxvZyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJFU1RGdWxUYWJsZSBmcm9tICcuLi9jb21tb24vcmVzdGZ1bFRhYmxlJzsK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGZvcmVhY2ggKCRtb2RlbC0+Z2V0QXR0cmlidXRlcygpIGFzICRpdGVtKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">PFJFU1RGdWxUYWJsZQogICAgICAgICAgcmVzdGZ1bEFQST17QVBJLnNlY3VyaXR5QXVkaXQuZ2V0VXNlckxvZ2luTG9nfQogICAgICAgID4KICAgICAgICAgIDxUYWJsZUhlYWRlckNvbHVtbiBkYXRhRmllbGQ9J2lkJz5JRDwvVGFibGVIZWFkZXJDb2x1bW4+CiAgICAgICAgPC9SRVNURnVsVGFibGU+</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aWYgKCRtb2RlbCBpbnN0YW5jZW9mIEFkbWluVXNlckxvZ2luTG9nKSB7CiAgICAgICAgICAgICAgICAkbW9kZWxRdWVyeS0+d2hlcmUoJycpCiAgICAgICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IFJlc3RGdWxUYWJsZSBmcm9tICcuLi9jb21tb24vY3VzdG9tUkVTVEZ1bFRhYmxlL2N1c3RvbVJlc3RmdWxUYWJsZScK</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
