@@ -17,6 +17,11 @@
       <file name="/a.dummy" timestamp="1555987008000">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Aaaaa/client/admin/app/component/securityAudit/index.jsx" timestamp="1556086875314">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="D:/Aaaaa/server/php/app/Services/V1/AdminAuthService.php" timestamp="1556025150716">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -33,23 +38,11 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="D:/a_/server/php/app/Manager/AdminUserOperationLogManager.php" timestamp="1555987884803">
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-        <mark key="^" line="17" column="24" />
-      </file>
       <file name="D:/Aaaaa/server/php/app/Services/V1/AdminUser/SecurityAuditMapper.php" timestamp="1556078611938">
         <mark key="[" line="52" column="28" />
         <mark key="]" line="52" column="28" />
         <mark key="^" line="52" column="42" />
         <mark key="." line="52" column="28" />
-      </file>
-      <file name="D:/Aaaaa/client/admin/app/frame/auth/loginView.jsx" timestamp="1556008190825">
-        <mark key="[" line="34" column="58" />
-        <mark key="]" line="34" column="45" />
-        <mark key="^" line="34" column="45" />
-        <mark key="." line="34" column="45" />
       </file>
       <file name="D:/a_/server/php/app/Http/Middleware/RequestLogger.php" timestamp="1555915373463">
         <mark key="[" line="19" column="0" />
@@ -60,6 +53,13 @@
         <mark key="[" line="26" column="25" />
         <mark key="]" line="26" column="25" />
         <mark key="." line="26" column="25" />
+      </file>
+      <file name="D:/Aaaaa/client/admin/app/webRoute.jsx" timestamp="1556085796576">
+        <mark key="'" line="16" column="67" />
+        <mark key="[" line="16" column="45" />
+        <mark key="]" line="16" column="45" />
+        <mark key="^" line="16" column="53" />
+        <mark key="." line="16" column="45" />
       </file>
       <file name="D:/a_web_app/app_server_dev/server/php/app/Manager/PushManager.php" timestamp="1555571620687">
         <mark key="[" line="168" column="98" />
@@ -79,6 +79,10 @@
         <mark key="[" line="688" column="45" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Model/AdminUser.php" timestamp="1556025392887" />
+      <file name="D:/Aaaaa/client/admin/app/component/securityAudit/SecurityAudit.jsx" timestamp="1556085533310">
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="D:/Aaaaa/server/deploy/server.conf" timestamp="1556009510151">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="12" column="53" />
@@ -88,12 +92,7 @@
       <file name="D:/a_/client/admin/package.json" timestamp="1556006254922">
         <mark key="[" line="48" column="42" />
       </file>
-      <file name="D:/a_/server/php/app/Services/V1/MaintainService.php" timestamp="1556002966148">
-        <mark key="[" line="75" column="48" />
-        <mark key="]" line="75" column="48" />
-        <mark key="." line="75" column="48" />
-        <mark key="^" line="75" column="66" />
-      </file>
+      <file name="D:/Aaaaa/client/admin/app/newFrame/routes/dashboard.jsx" timestamp="1556086518015" />
       <file name="D:/a_/server/php/app/Model/AdminUserChangePasswordLog.php" timestamp="1555985235695">
         <mark key="[" line="26" column="4" />
         <mark key="]" line="26" column="4" />
@@ -115,6 +114,11 @@
         <mark key="." line="10" column="40" />
       </file>
       <file name="D:/Aaaaa/server/php/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php" timestamp="1556025364104" />
+      <file name="D:/Aaaaa/client/admin/app/newFrame/index.jsx" timestamp="1556086694148">
+        <mark key="[" line="27" column="2" />
+        <mark key="]" line="27" column="2" />
+        <mark key="." line="27" column="2" />
+      </file>
       <file name="/Dummy.txt" timestamp="1556078863107">
         <mark key="[" line="0" column="0" />
       </file>
@@ -131,33 +135,17 @@
       <file name="D:/a_/server/php/app/Utils/IpUtil.php" timestamp="1555922066424">
         <mark key="[" line="34" column="5" />
       </file>
-      <file name="D:/a_/server/php/app/Model/AdminUserLoginLog.php" timestamp="1555922393209">
-        <mark key="[" line="44" column="49" />
-        <mark key="]" line="44" column="49" />
-        <mark key="^" line="44" column="54" />
-        <mark key="." line="44" column="49" />
-      </file>
       <file name="D:/Aaaaa/server/php/config/auth.php" timestamp="1556025353407" />
+      <file name="D:/Aaaaa/client/admin/app/component/test/index.jsx" timestamp="1556085356532" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1555655006987">
         <mark key="[" line="434" column="0" />
         <mark key="]" line="434" column="0" />
         <mark key="." line="434" column="0" />
       </file>
-      <file name="D:/a_/client/admin/config.js" timestamp="1556005045243">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="12" column="41" />
-        <mark key="." line="12" column="41" />
-        <mark key="^" line="12" column="41" />
-      </file>
       <file name="D:/a_/server/php/config/ide-helper.php" timestamp="1555919727727">
         <mark key="[" line="43" column="12" />
       </file>
-      <file name="D:/a_/server/php/app/Services/V1/ItemService.php" timestamp="1556003873930">
-        <mark key="[" line="60" column="35" />
-        <mark key="]" line="109" column="34" />
-        <mark key="^" line="109" column="34" />
-        <mark key="." line="109" column="34" />
-      </file>
+      <file name="D:/Aaaaa/client/admin/app/component/upgrade/index.jsx" timestamp="1556085379448" />
       <file name="D:/a_/server/php/app/Manager/SystemManager.php" timestamp="1556003680834">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="40" column="9" />
@@ -173,12 +161,6 @@
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
-      <file name="D:/a_/server/php/database/migrations/2019_04_23_102517_ModifyOperatorLogTable.php" timestamp="1555987060305">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="43" column="11" />
-        <mark key="." line="37" column="8" />
-        <mark key="^" line="37" column="7" />
-      </file>
       <file name="D:/a_/server/php/app/Services/V1/AdminAuthService.php" timestamp="1555924476234">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -186,7 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="447" column="45" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/TeacherTest.php" />
       <jump line="39" column="29" filename="D:/aizuoye_pc_v21/server/php/tests/Portal/SchoolTest.php" />
       <jump line="191" column="33" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
       <jump line="295" column="14" filename="D:/a_web_app/101760/client/h5/src/components/modifyUserInfo/modifyUserInfo.jsx" />
@@ -286,16 +267,17 @@
       <jump line="0" column="0" filename="D:/a_/server/php/app/Model/AdminOperationLog.php" />
       <jump line="50" column="10" filename="D:/a_/client/admin/webpack.config.js" />
       <jump line="74" column="72" filename="D:/a_/server/php/app/Services/V1/MaintainService.php" />
+      <jump line="16" column="67" filename="D:/Aaaaa/client/admin/app/webRoute.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Carbon</text>
+        <text encoding="base64">Y2xhc3MgU2VjdXJpdHlBdWRpdCBleHRlbmRzIENvbXBvbmVudCB7CiAgY29uc3RydWN0b3IocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKTsKICAgIHRoaXMuc3RhdGUgPSB7fTsKICAgIGF1dG9CaW5kKHRoaXMpOwogIH0KCiAgcmVuZGVyKCkgewogICAgcmV0dXJuICgKICAgICAgPGRpdj4KICAgICAgICA8R3JpZENvbnRhaW5lcj4KICAgICAgICAgIDxHcmlkSXRlbSB4cz17MTJ9IHNtPXsxMn0gbWQ9ezZ9PgoKICAgICAgICAgIDwvR3JpZEl0ZW0+CiAgICAgICAgPC9HcmlkQ29udGFpbmVyPgogICAgICA8L2Rpdj4KICAgICk7CiAgfQp9</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Carbon</text>
+        <text encoding="base64">Q29tcG9uZW50LCA=</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
@@ -303,35 +285,32 @@
       <register name="0" type="4">
         <text encoding="base64">U2NoZW1hOjpjcmVhdGUoJ2FkbWluX29wdGlvbl9sb2cnLCBmdW5jdGlvbiAoQmx1ZXByaW50ICR0YWJsZSkgewogICAgICAgICAgICAkdGFibGUtPmJpZ0luY3JlbWVudHMoJ2lkJyk7CiAgICAgICAgICAgICR0YWJsZS0+YmlnSW50ZWdlcigiYWRtaW5fdXNlcl9pZCIpLT5jb21tZW50KCK53MDt1LFJZCIpOwogICAgICAgICAgICAkdGFibGUtPnRpbnlJbnRlZ2VyKCdvcHRpb24nKS0+Y29tbWVudCgistnX98Dg0M0iKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2Rlc2NyaXB0aW9uJyktPmNvbW1lbnQoIrLZ1/fD6Mr2Iik7CiAgICAgICAgICAgICR0YWJsZS0+dGltZXN0YW1wcygpOwogICAgICAgIH0pOw==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRkKCRfU0VSVkVSWydIVFRQX1VTRVJfQUdFTlQnXSk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y2xhc3MgU2VjdXJpdHlBdWRpdCBleHRlbmRzIENvbXBvbmVudCB7CiAgY29uc3RydWN0b3IocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKTsKICAgIHRoaXMuc3RhdGUgPSB7fTsKICAgIGF1dG9CaW5kKHRoaXMpOwogIH0KCiAgcmVuZGVyKCkgewogICAgcmV0dXJuICgKICAgICAgPGRpdj4KICAgICAgICA8R3JpZENvbnRhaW5lcj4KICAgICAgICAgIDxHcmlkSXRlbSB4cz17MTJ9IHNtPXsxMn0gbWQ9ezZ9PgoKICAgICAgICAgIDwvR3JpZEl0ZW0+CiAgICAgICAgPC9HcmlkQ29udGFpbmVyPgogICAgICA8L2Rpdj4KICAgICk7CiAgfQp9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNlIEVsb3F1ZW50Owo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICA8ZGl2PgogICAgICAyMzIzMgogICAgPC9kaXY+</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">JHBhZ2UgPSBtYXgoMSwgJHBhZ2UpOwogICAgICAgIGlmICgkcGVycGFnZSA8PSAwKSB7CiAgICAgICAgICAgICRwZXJwYWdlID0gMjU7CiAgICAgICAgfQogICAgICAgICRsb2dzID0gQWRtaW5Vc2VyTG9naW5Mb2c6OnF1ZXJ5KCkKICAgICAgICAgICAgLT53aGVyZSgnY3JlYXRlZF9hdCcsICc+PScsICRzdGFydEF0KQogICAgICAgICAgICAtPndoZXJlKCdjcmVhdGVkX2F0JywgJzw9JywgJGVuZEF0KQogICAgICAgICAgICAtPnNraXAoKCRwYWdlIC0gMSkgKiAkcGVycGFnZSkKICAgICAgICAgICAgLT5saW1pdCgkcGVycGFnZSkKICAgICAgICAgICAgLT5nZXQoKTsKICAgICAgICByZXR1cm4gJGxvZ3M7</text>
+        <text encoding="base64">IDxDYXJkIGNsYXNzTmFtZT0iZGEtY2FyZCI+CiAgICAgICAgICAgICAgPENhcmRIZWFkZXI+CiAgICAgICAgICAgICAgICA8aDM+yf28ttL9x+Y8L2gzPgogICAgICAgICAgICAgIDwvQ2FyZEhlYWRlcj4KICAgICAgICAgICAgICA8Q2FyZEJvZHk+CiAgICAgICAgICAgICAgICA8VXBsb2FkQnV0dG9uCiAgICAgICAgICAgICAgICAgIGFwaT17YCR7Q29uZmlnLlNFUlZFUl9BRERSRVNTX1dJVEhfUFJPVE9DT0x9L3YxL21haW50YWluL3VwZ3JhZGVfZW5naW5lYH0KICAgICAgICAgICAgICAgICAgLy8gb25DaGFuZ2U9e3RoaXMub25GaWxlQ2hhbmdlfQogICAgICAgICAgICAgICAgLz4KCiAgICAgICAgICAgICAgPC9DYXJkQm9keT4KICAgICAgICAgICAgPC9DYXJkPgoKICAgICAgICAgICAgPENhcmQgY2xhc3NOYW1lPSJkYS1jYXJkIj4KICAgICAgICAgICAgICA8Q2FyZEhlYWRlcj4KICAgICAgICAgICAgICAgIDxoMz7J/by2t/7O8cb3PC9oMz4KICAgICAgICAgICAgICA8L0NhcmRIZWFkZXI+CiAgICAgICAgICAgICAgPENhcmRCb2R5PgogICAgICAgICAgICAgICAgPFVwbG9hZEJ1dHRvbgogICAgICAgICAgICAgICAgICBhcGk9e2Ake0NvbmZpZy5TRVJWRVJfQUREUkVTU19XSVRIX1BST1RPQ09MfS92MS9tYWludGFpbi91cGdyYWRlX3NlcnZlcmB9CiAgICAgICAgICAgICAgICAgIC8vIG9uQ2hhbmdlPXt0aGlzLm9uRmlsZUNoYW5nZX0KICAgICAgICAgICAgICAgIC8+CgogICAgICAgICAgICAgIDwvQ2FyZEJvZHk+CiAgICAgICAgICAgIDwvQ2FyZD4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcGVycGFnZSA9IG1pbigyNSwgJHBlcnBhZ2UpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtpbmplY3R9IGZyb20gJ21vYngtcmVhY3QnCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CmltcG9ydCB7Q29sLCBGb3JtLCBJY29uLCBJbnB1dCwgTGF5b3V0LCBtZXNzYWdlLCBNb2RhbCwgUm93LCBTZWxlY3R9IGZyb20gJ2FudGQnOwoKaW1wb3J0IHtnZXRHcmFkZVpoTWFwLCBnZXRTdWJqZWN0c01hcCwgUm9sZX0gZnJvbSAnLi4vLi4vdXRpbHMnOwppbXBvcnQgQVBJIGZyb20gJy4uLy4uLy4uL0FQSS9HZW5lcmF0ZWQvYXBpJzsKaW1wb3J0IFJFU1RGdWxBY3Rpb24gZnJvbSAnLi4vLi4vLi4vQVBJL0dlbmVyYXRlZC92MS9lbnVtL1JFU1RGdWxBY3Rpb24nOwoKY29uc3QgQ29udGVudCA9IExheW91dC5Db250ZW50OwoKY29uc3QgcHJvcFR5cGVzID0ge307CmNvbnN0IGRlZmF1bHRQcm9wcyA9IHt9OwoKQGluamVjdCgnYXBwU3RvcmUnKSBAd2l0aFJvdXRlcg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBdXRoOjp1c2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgIGRkKCRfU0VSVkVSWydIVFRQX1VTRVJfQUdFTlQnXSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>#证书文件
-    ssl_certificate     /path/to/www.example.com.crt;
-    #私钥文件
-    ssl_certificate_key /path/to/www.example.com.key;</text>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIEVsb3F1ZW50Owo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IEFkbWluQXV0aE1hbmFnZXI6OmdldEJ5QXV0aCgpOwogICAgICAgIGlmICgkdXNlcikgewogICAgICAgICAgICBBZG1pblVzZXJPcGVyYXRpb25Mb2dNYW5hZ2VyOjpkb0xvZygKICAgICAgICAgICAgICAgICR1c2VyLAogICAgICAgICAgICAgICAgT3BlcmF0aW9uQWN0aW9uVHlwZTo6VVBEQVRFLAogICAgICAgICAgICAgICAgT3BlcmF0aW9uUmVzb3VyY2VUeXBlOjpBU1NFVFMsCiAgICAgICAgICAgICAgICAkc3lzdGVtT3BlcmF0ZSA9PSBTeXN0ZW1PcGVyYXRpb246OlJFU1RBUlQKICAgICAgICAgICAgICAgICAgICA/IE9wZXJhdGlvblJlc291cmNlOjpSRVNUQVJUX1NFUlZFUgogICAgICAgICAgICAgICAgICAgIDogT3BlcmF0aW9uUmVzb3VyY2U6OlNIT1dET1dOX1NFUlZFUgogICAgICAgICAgICApOwogICAgICAgIH0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">JHBhZ2UgPSBtYXgoMSwgJHBhZ2UpOwogICAgICAgIGlmICgkcGVycGFnZSA8PSAwKSB7CiAgICAgICAgICAgICRwZXJwYWdlID0gMjU7CiAgICAgICAgfQogICAgICAgICRsb2dzID0gQWRtaW5Vc2VyTG9naW5Mb2c6OnF1ZXJ5KCkKICAgICAgICAgICAgLT53aGVyZSgnY3JlYXRlZF9hdCcsICc+PScsICRzdGFydEF0KQogICAgICAgICAgICAtPndoZXJlKCdjcmVhdGVkX2F0JywgJzw9JywgJGVuZEF0KQogICAgICAgICAgICAtPnNraXAoKCRwYWdlIC0gMSkgKiAkcGVycGFnZSkKICAgICAgICAgICAgLT5saW1pdCgkcGVycGFnZSkKICAgICAgICAgICAgLT5nZXQoKTsKICAgICAgICByZXR1cm4gJGxvZ3M7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBZG1pblVzZXJPcGVyYXRpb25Mb2dNYW5hZ2VyOjpkb0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcGVycGFnZSA9IG1pbigyNSwgJHBlcnBhZ2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
