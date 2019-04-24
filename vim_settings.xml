@@ -48,17 +48,15 @@
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="D:/Aaaaa/client/admin/app/component/securityAudit/table.jsx" timestamp="1556124507801">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="38" column="34" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
+      <file name="D:/Aaaaa/client/admin/app/component/securityAudit/table.jsx" timestamp="1556127046984">
+        <mark key="'" line="20" column="0" />
+        <mark key="^" line="44" column="24" />
       </file>
-      <file name="D:/Aaaaa/client/admin/app/component/securityAudit/LoginLog.jsx" timestamp="1556098836793">
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="D:/Aaaaa/client/admin/app/component/securityAudit/LoginLog.jsx" timestamp="1556127334582">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="D:/a_/server/php/app/Http/Middleware/RequestLogger.php" timestamp="1555915373463">
         <mark key="[" line="19" column="0" />
@@ -188,6 +186,7 @@
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
       </file>
+      <file name="D:/Aaaaa/server/php/app/Utils/DateUtil.php" timestamp="1556127297998" />
       <file name="D:/Aaaaa/client/admin/package.json" timestamp="1556118004940">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -303,13 +302,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>node_modules/jquery/dist/jquery.min.js</text>
+        <text encoding="base64">JzIwMTMtMDItMDMgMjM6MTI6MTInIA==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>node_modules/jquery/dist/jquery.min.js</text>
+        <text encoding="base64">JzIwMTMtMDItMDMgMjM6MTI6MTInIA==</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
@@ -318,31 +317,31 @@
         <text encoding="base64">ICAgICAge2Zyb206ICdub2RlX21vZHVsZXMvanF1ZXJ5L2Rpc3QvanF1ZXJ5Lm1pbi5qcycsIHRvOiAnanMnfSwK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHN0YXRpYyBkZWZhdWx0UHJvcHMgPSB7CiAgICBwcmltYXJ5S2V5Q29sdW1uOiAnSUQnCiAgfTs=</text>
+        <text encoding="base64">Y29uc3QgTmFtZSA9IChwcm9wcykgPT4gewogIGxldCBbYSwgc2V0QV0gPSB1c2VTdGF0ZSgwKTsKICByZXR1cm4gKAogICAgPGRpdj4KICAgICAge2F9CiAgICA8L2Rpdj4KICApOwp9Ow==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB3YXRjaDogdHJ1ZSwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">PEJvb3RzdHJhcFRhYmxlCiAgICAgICAgICBkYXRhPXt0aGlzLnByb3BzLmRhdGF9CiAgICAgICAgPgogICAgICAgICAgewogICAgICAgICAgICB0aGlzLnByb3BzLmNvbHVtbnMubWFwKGNvbHVtbiA9PiB7CiAgICAgICAgICAgICAgcmV0dXJuIDxUYWJsZUhlYWRlckNvbHVtbgogICAgICAgICAgICAgICAgZGF0YUZpZWxkPXtjb2x1bW59CiAgICAgICAgICAgICAgICBrZXk9e2NvbHVtbn0KICAgICAgICAgICAgICAgIGlzS2V5PXtjb2x1bW4gPT09IHRoaXMucHJvcHMucHJpbWFyeUtleUNvbHVtbn0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICB7dGhpcy5wcm9wcy5jb2x1bW5zTWFwW2NvbHVtbl19CiAgICAgICAgICAgICAgPC9UYWJsZUhlYWRlckNvbHVtbj4KICAgICAgICAgICAgfSkKICAgICAgICAgIH0KICAgICAgICA8L0Jvb3RzdHJhcFRhYmxlPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1ib290c3RyYXAtdGFibGUiOiAiXjMuMS4xIiwK</text>
+        <text encoding="base64">Ly8gcmVxdWlyZSgncmVhY3QtYm9vdHN0cmFwLXRhYmxlL2Rpc3QvcmVhY3QtYm9vdHN0cmFwLXRhYmxlLWFsbC5taW4uY3NzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi9ub2RlX21vZHVsZXMvcmVhY3QtYm9vdHN0cmFwLXRhYmxlL2Rpc3QvcmVhY3QtYm9vdHN0cmFwLXRhYmxlLWFsbC5taW4uY3NzJzsK</text>
+        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi9ub2RlX21vZHVsZXMvcmVhY3QtYm9vdHN0cmFwLXRhYmxlL2Rpc3QvcmVhY3QtYm9vdHN0cmFwLXRhYmxlLWFsbC5taW4uY3NzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGE9e30K</text>
+        <text encoding="base64">aW1wb3J0IHtCb290c3RyYXBUYWJsZSwgVGFibGVIZWFkZXJDb2x1bW59IGZyb20gJ3JlYWN0LWJvb3RzdHJhcC10YWJsZScK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUYWJsZUhlYWRlckNvbHVtbiA+PC9UYWJsZUhlYWRlckNvbHVtbj4K</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHN0YXRpYyBkZWZhdWx0UHJvcHMgPSB7CiAgICBwcmltYXJ5S2V5Q29sdW1uOiAnSUQnCiAgfTs=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PEJvb3RzdHJhcFRhYmxlCgogICAgICAgID4KICAgICAgICAgIDxUYWJsZUhlYWRlckNvbHVtbj48L1RhYmxlSGVhZGVyQ29sdW1uPgogICAgICAgIDwvQm9vdHN0cmFwVGFibGU+</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB3YXRjaDogdHJ1ZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHt3aXRoUm91dGVyfSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tJwo=</text>
+        <text encoding="base64">ICAgICJyZWFjdC1ib290c3RyYXAtdGFibGUiOiAiXjMuMS4xIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtUYWJsZUhlYWRlckNvbHVtbiwgQm9vdHN0cmFwVGFibGV9IGZyb20gJ3JlYWN0LWJvb3RzdHJhcC10YWJsZScK</text>
+        <text encoding="base64">aW1wb3J0ICcuLi8uLi8uLi9ub2RlX21vZHVsZXMvcmVhY3QtYm9vdHN0cmFwLXRhYmxlL2Rpc3QvcmVhY3QtYm9vdHN0cmFwLXRhYmxlLWFsbC5taW4uY3NzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
