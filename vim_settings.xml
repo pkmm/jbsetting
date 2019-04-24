@@ -33,6 +33,11 @@
         <mark key="." line="34" column="0" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Http/Middleware/AdminAuthenticate.php" timestamp="1556025324008" />
+      <file name="D:/Aaaaa/server/php/app/Http/web_routes.php" timestamp="1556073950752">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="D:/a_/server/php/app/Services/V1/MaintainService.php" timestamp="1556002966148">
         <mark key="[" line="75" column="48" />
         <mark key="]" line="75" column="48" />
@@ -280,7 +285,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBdXRoOjp1c2VyKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -295,24 +300,27 @@
         <text encoding="base64">U2NoZW1hOjpjcmVhdGUoJ2FkbWluX29wdGlvbl9sb2cnLCBmdW5jdGlvbiAoQmx1ZXByaW50ICR0YWJsZSkgewogICAgICAgICAgICAkdGFibGUtPmJpZ0luY3JlbWVudHMoJ2lkJyk7CiAgICAgICAgICAgICR0YWJsZS0+YmlnSW50ZWdlcigiYWRtaW5fdXNlcl9pZCIpLT5jb21tZW50KCK53MDt1LFJZCIpOwogICAgICAgICAgICAkdGFibGUtPnRpbnlJbnRlZ2VyKCdvcHRpb24nKS0+Y29tbWVudCgistnX98Dg0M0iKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2Rlc2NyaXB0aW9uJyktPmNvbW1lbnQoIrLZ1/fD6Mr2Iik7CiAgICAgICAgICAgICR0YWJsZS0+dGltZXN0YW1wcygpOwogICAgICAgIH0pOw==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBBdXRoOjp1c2VyKCk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>#证书文件
     ssl_certificate     /path/to/www.example.com.crt;
     #私钥文件
     ssl_certificate_key /path/to/www.example.com.key;</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkdXNlciA9IEFkbWluQXV0aE1hbmFnZXI6OmdldEJ5QXV0aCgpOwogICAgICAgIGlmICgkdXNlcikgewogICAgICAgICAgICBBZG1pblVzZXJPcGVyYXRpb25Mb2dNYW5hZ2VyOjpkb0xvZygKICAgICAgICAgICAgICAgICR1c2VyLAogICAgICAgICAgICAgICAgT3BlcmF0aW9uQWN0aW9uVHlwZTo6VVBEQVRFLAogICAgICAgICAgICAgICAgT3BlcmF0aW9uUmVzb3VyY2VUeXBlOjpBU1NFVFMsCiAgICAgICAgICAgICAgICAkc3lzdGVtT3BlcmF0ZSA9PSBTeXN0ZW1PcGVyYXRpb246OlJFU1RBUlQKICAgICAgICAgICAgICAgICAgICA/IE9wZXJhdGlvblJlc291cmNlOjpSRVNUQVJUX1NFUlZFUgogICAgICAgICAgICAgICAgICAgIDogT3BlcmF0aW9uUmVzb3VyY2U6OlNIT1dET1dOX1NFUlZFUgogICAgICAgICAgICApOwogICAgICAgIH0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBBZG1pblVzZXJPcGVyYXRpb25Mb2dNYW5hZ2VyOjpkb0xvZygpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">c3dpdGNoICgkbWVzc2FnZS0+Z2V0T3BlcmF0aW9uKCkpIHsKICAgICAgICAgICAgIGNhc2UgU3lzdGVtT3BlcmF0aW9uOjpSRVNUQVJUOgogICAgICAgICAgICAgICAgIFN5c3RlbVV0aWxzOjpyZXN0YXJ0U2VydmVyKCk7CiAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgY2FzZSBTeXN0ZW1PcGVyYXRpb246OlNIVVRET1dOOgogICAgICAgICAgICAgICAgIFN5c3RlbVV0aWxzOjpzaHV0ZG93blNlcnZlcigpOwogICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgfQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>NetworkUtils::setNetwork($type, $config);
         $user = AdminAuthManager::getByAuth();
         if ($user) {
@@ -324,14 +332,11 @@
             );
         }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBBZG1pblVzZXJPcGVyYXRpb25Mb2dNYW5hZ2VyOjpkb0xvZyhBZG1pbkF1dGhNYW5hZ2VyOjpnZXRCeUF1dGgoKSwKICAgICAgICAgICAgT3BlcmF0aW9uQWN0aW9uVHlwZTo6VVBEQVRFLAogICAgICAgICAgICBPcGVyYXRpb25SZXNvdXJjZVR5cGU6OlVTRVIsCiAgICAgICAgICAgIE9wZXJhdGlvblJlc291cmNlOjpDSEFSR0UKICAgICAgICApOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBZG1pblVzZXJPcGVyYXRpb25Mb2dNYW5hZ2VyOjpkb0xvZyhBZG1pbkF1dGhNYW5hZ2VyOjpnZXRCeUF1dGgoKSwgKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEF1dGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBZG1pblVzZXJPcGVyYXRpb25Mb2dNYW5hZ2VyOjpkb0xvZyhBZG1pbkF1dGhNYW5hZ2VyOjpnZXRCeUF1dGgoKSwgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
