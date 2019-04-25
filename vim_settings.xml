@@ -202,10 +202,11 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="D:/Aaaaa/server/php/app/Manager/SecurityAuditManager.php" timestamp="1556180838699">
-        <mark key="[" line="108" column="9" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="D:/Aaaaa/server/php/app/Manager/SecurityAuditManager.php" timestamp="1556182222593">
+        <mark key="[" line="95" column="12" />
+        <mark key="]" line="95" column="12" />
+        <mark key="." line="95" column="12" />
+        <mark key="^" line="95" column="24" />
       </file>
       <file name="D:/a_/server/php/app/Services/V1/AdminAuthService.php" timestamp="1555924476234">
         <mark key="[" line="4" column="0" />
@@ -317,13 +318,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>unsignedBigInteger</text>
+        <text>!is_null($query)</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>unsignedBigInteger</text>
+        <text>!is_null($query)</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
@@ -332,33 +333,33 @@
         <text encoding="base64">ICAgICAge2Zyb206ICdub2RlX21vZHVsZXMvanF1ZXJ5L2Rpc3QvanF1ZXJ5Lm1pbi5qcycsIHRvOiAnanMnfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcUXVlcnlcQnVpbGRlcjsK</text>
+        <text encoding="base64">ICAgICAgICBcREI6OmVuYWJsZVF1ZXJ5TG9nKCk7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGRkKFxEQjo6Z2V0UXVlcnlMb2coKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcUXVlcnlcQnVpbGRlcjsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9kZHRvZG8uIHF1ZXJ5Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Zm9yZWFjaCAoJG1vZGVsLT5nZXRBdHRyaWJ1dGVzKCkgYXMgJGNvbHVtbikgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>foreach ( as $item) {
 
                 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkcGFnZSA9IG1heCgwLCAkcGFnZSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAkdG90YWwgPSB3aXRoKGNsb25lICRtb2RlbFF1ZXJ5KS0+Y291bnQoKTsK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LT5za2lwKCgkcGFnZSAtIDEpICogJHBlcnBhZ2UpCiAgICAgICAgICAgIC0+bGltaXQoJHBlcnBhZ2UpCiAgICAgICAgICAgIC0+b3JkZXJCeSgnaWQnLCAnZGVzYycp</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">LT5za2lwKCgkcGFnZSAtIDEpICogJHBlcnBhZ2UpCiAgICAgICAgICAgIC0+bGltaXQoJHBlcnBhZ2Up</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
