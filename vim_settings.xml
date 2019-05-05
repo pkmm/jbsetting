@@ -25,10 +25,8 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
       </file>
-      <file name="D:/Aaaaa/server/php/app/Services/V1/AdminAuthService.php" timestamp="1557043099834">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="D:/Aaaaa/server/php/app/Services/V1/AdminAuthService.php" timestamp="1557049695933">
+        <mark key="[" line="74" column="7" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Http/web_routes.php" timestamp="1557042046813">
         <mark key="[" line="5" column="32" />
@@ -84,11 +82,11 @@
       <file name="D:/Aaaaa/client/admin/app/index.jsx" timestamp="1556248096370">
         <mark key="[" line="40" column="12" />
       </file>
-      <file name="D:/Aaaaa/server/php/app/Manager/PermissionManager.php" timestamp="1557042085486">
-        <mark key="[" line="14" column="34" />
-        <mark key="]" line="14" column="34" />
-        <mark key="^" line="14" column="44" />
-        <mark key="." line="14" column="34" />
+      <file name="D:/Aaaaa/server/php/app/Manager/PermissionManager.php" timestamp="1557049569793">
+        <mark key="[" line="17" column="5" />
+        <mark key="]" line="17" column="4" />
+        <mark key="^" line="17" column="4" />
+        <mark key="." line="17" column="4" />
       </file>
       <file name="D:/a_/server/php/config/auth.php" timestamp="1555989151681">
         <mark key="[" line="30" column="25" />
