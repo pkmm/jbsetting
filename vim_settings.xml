@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Aaaaa/server/php/app/Model/AdminUser.php" timestamp="1557040267762">
+        <mark key="[" line="54" column="7" />
+      </file>
+      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_05_145337_create_page_access_permission_maps_table.php" timestamp="1557039342188">
+        <mark key="[" line="15" column="37" />
+      </file>
       <file name="D:/a_/server/php/database/migrations/2019_04_22_165607_CreateUserChangePasswordLogTable.php" timestamp="1555985206268">
         <mark key="[" line="16" column="67" />
         <mark key="]" line="16" column="67" />
@@ -145,17 +151,10 @@
         <mark key="]" line="30" column="25" />
         <mark key="." line="30" column="25" />
       </file>
-      <file name="D:/Aaaaa/server/php/database/migrations/2019_04_23_102517_ModifyOperatorLogTable.php" timestamp="1556179748715">
+      <file name="D:/Aaaaa/server/php/database/migrations/2019_04_23_102517_ModifyOperatorLogTable.php" timestamp="1557039336517">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="20" />
         <mark key="." line="18" column="20" />
-      </file>
-      <file name="D:/Aaaaa/client/admin/webpack.config.js" timestamp="1556248085775">
-        <mark key="'" line="209" column="2" />
-        <mark key="[" line="169" column="87" />
-        <mark key="]" line="169" column="87" />
-        <mark key="." line="169" column="87" />
-        <mark key="^" line="169" column="87" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Exceptions/LoginFailedException.php" timestamp="1556523211169">
         <mark key="[" line="9" column="33" />
@@ -167,6 +166,9 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="40" column="9" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="D:/Aaaaa/server/php/app/Model/PageAccessPermissionMap.php" timestamp="1557039292109">
+        <mark key="[" line="2" column="14" />
       </file>
       <file name="D:/Aaaaa/server/php/database/migrations/2019_04_22_165607_CreateUserChangePasswordLogTable.php" timestamp="1556179743706">
         <mark key="[" line="16" column="20" />
@@ -182,6 +184,11 @@
         <mark key="[" line="30" column="4" />
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
+      </file>
+      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_05_150053_InitPageAccessPermissionMaps.php" timestamp="1557039657740">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Model/AdminUserOperationLog.php" timestamp="1556158965612">
         <mark key="[" line="33" column="0" />
@@ -320,8 +327,8 @@
       <jump line="98" column="39" filename="D:/Aaaaa/server/php/app/Manager/AdminAuthManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>errorCode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -336,35 +343,35 @@
         <text encoding="base64">ICAgICAgICBDYWNoZTo6Zm9yZXZlcihzcHJpbnRmKHNlbGY6OlVTRVJfTE9HSU5fTUFSSywgJHVzZXItPmlkKSwgJ29rJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIGh0dHBcQ2xpZW50XEN1cmxcVXNlcjsK</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENhY2hlOjpmb3JldmVyKHNwcmludGYoc2VsZjo6VVNFUl9MT0dJTl9NQVJLLCAkdXNlci0+aWQpLCAnb2snKTsK</text>
+        <text encoding="base64">dXNlIGh0dHBcQ2xpZW50XEN1cmxcVXNlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IodikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENhY2hlOjpmb3JldmVyKHNwcmludGYoc2VsZjo6VVNFUl9MT0dJTl9NQVJLLCAkdXNlci0+aWQpLCAnb2snKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IobmFtZSwgdikK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IodikK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IobmFtZSwgdikK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBbbmFtZV06IGV2ZW50LnRhcmdldC52YWx1ZSwKICAgIH0pO1YK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>this.setState({
       [name]: event.target.value,
     });</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>this.setState({
       [name]: v,
     });</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBbbmFtZV06IHYsCiAgICB9KTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICB0aGlzLmxvYWREYXRhKCkKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
