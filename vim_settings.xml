@@ -144,6 +144,12 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="8" />
       </file>
+      <file name="D:/Aaaaa/server/php/app/Services/V1/SecurityPolicyConfService.php" timestamp="1557130103925">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="44" />
+        <mark key="." line="13" column="27" />
+      </file>
       <file name="D:/Aaaaa/server/php/app/Services/V1/SecurityAuditService.php" timestamp="1556164950651">
         <mark key="[" line="19" column="8" />
         <mark key="]" line="32" column="0" />
@@ -358,14 +364,14 @@
       <jump line="98" column="39" filename="D:/Aaaaa/server/php/app/Manager/AdminAuthManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGZsYWcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>getPasswordSecurityLevel</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$canAccessUrl</text>
+        <text>getPasswordSecurityLevel</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
