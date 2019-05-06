@@ -46,6 +46,9 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="11" column="29" />
       </file>
+      <file name="D:/Aaaaa/server/php/app/Manager/SecurityPolicyConfManager.php" timestamp="1557125436816">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="D:/a_/client/admin/app/frame/auth/loginView.jsx" timestamp="1556000104149">
         <mark key="[" line="35" column="35" />
         <mark key="]" line="35" column="0" />
@@ -129,8 +132,8 @@
       <file name="D:/Aaaaa/server/deploy/deployAll.sh" timestamp="1556260653058">
         <mark key="[" line="2" column="13" />
       </file>
-      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_141421_create_password_security_confs_table.php" timestamp="1557123306423">
-        <mark key="[" line="15" column="37" />
+      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_141421_create_password_security_confs_table.php" timestamp="1557125013348">
+        <mark key="[" line="16" column="37" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Model/AdminUser.php" timestamp="1557040267762">
         <mark key="[" line="54" column="7" />
@@ -172,7 +175,7 @@
         <mark key="]" line="10" column="40" />
         <mark key="." line="10" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557042691783">
+      <file name="/Dummy.txt" timestamp="1557125746656">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Model/PasswordSecurityConf.php" timestamp="1557123270025">
@@ -222,6 +225,9 @@
         <mark key="[" line="54" column="19" />
         <mark key="]" line="54" column="19" />
         <mark key="." line="54" column="19" />
+      </file>
+      <file name="D:/Aaaaa/server/php/app/Services/V1/Mapper/PasswordSecurityConfMapper.php" timestamp="1557125968717">
+        <mark key="[" line="12" column="1" />
       </file>
       <file name="D:/Aaaaa/server/deploy/nginx.conf" timestamp="1556009389367">
         <mark key="[" line="30" column="4" />
