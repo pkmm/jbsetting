@@ -104,9 +104,9 @@
         <mark key="." line="30" column="25" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Model/SecuritySetting.php" timestamp="1557138431903">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Exceptions/LoginFailedException.php" timestamp="1556523211169">
         <mark key="[" line="9" column="33" />
@@ -149,6 +149,9 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="22" column="8" />
       </file>
+      <file name="D:/Aaaaa/server/php/app/Services/V1/SecurityPolicyConfService.php" timestamp="1557140845550">
+        <mark key="'" line="32" column="18" />
+      </file>
       <file name="D:/Aaaaa/server/php/app/Services/V1/SecurityAuditService.php" timestamp="1556164950651">
         <mark key="[" line="19" column="8" />
         <mark key="]" line="32" column="0" />
@@ -157,7 +160,7 @@
       <file name="D:/Aaaaa/server/deploy/init.sh" timestamp="1556266688576">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_175523_create_security_settings_table.php" timestamp="1557138310198">
+      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_175523_create_security_settings_table.php" timestamp="1557140657069">
         <mark key="[" line="15" column="37" />
       </file>
       <file name="D:/a_/server/php/app/Model/AdminUserChangePasswordLog.php" timestamp="1555985235695">
@@ -264,7 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="48" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
       <jump line="26" column="17" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
       <jump line="252" column="31" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
       <jump line="0" column="0" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
@@ -364,6 +366,7 @@
       <jump line="10" column="33" filename="D:/Aaaaa/server/php/app/Manager/SecurityAuditManager.php" />
       <jump line="60" column="52" filename="D:/Aaaaa/server/php/app/Manager/AdminAuthManager.php" />
       <jump line="98" column="39" filename="D:/Aaaaa/server/php/app/Manager/AdminAuthManager.php" />
+      <jump line="32" column="18" filename="D:/Aaaaa/server/php/app/Services/V1/SecurityPolicyConfService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
