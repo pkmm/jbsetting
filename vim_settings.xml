@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_05_145337_create_page_access_permission_maps_table.php" timestamp="1557041846051">
+      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_05_145337_create_page_access_permission_maps_table.php" timestamp="1557123303431">
         <mark key="[" line="16" column="72" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -129,6 +129,9 @@
       <file name="D:/Aaaaa/server/deploy/deployAll.sh" timestamp="1556260653058">
         <mark key="[" line="2" column="13" />
       </file>
+      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_141421_create_password_security_confs_table.php" timestamp="1557123306423">
+        <mark key="[" line="15" column="37" />
+      </file>
       <file name="D:/Aaaaa/server/php/app/Model/AdminUser.php" timestamp="1557040267762">
         <mark key="[" line="54" column="7" />
       </file>
@@ -171,6 +174,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1557042691783">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Aaaaa/server/php/app/Model/PasswordSecurityConf.php" timestamp="1557123270025">
+        <mark key="[" line="2" column="15" />
       </file>
       <file name="D:/Aaaaa/client/admin/app/component/securityAudit/ChangePasswordLog.jsx" timestamp="1556277839173">
         <mark key="[" line="62" column="0" />
