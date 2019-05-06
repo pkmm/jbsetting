@@ -132,7 +132,7 @@
       <file name="D:/Aaaaa/server/deploy/deployAll.sh" timestamp="1556260653058">
         <mark key="[" line="2" column="13" />
       </file>
-      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_141421_create_password_security_confs_table.php" timestamp="1557125013348">
+      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_141421_create_password_security_confs_table.php" timestamp="1557136532746">
         <mark key="[" line="16" column="37" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Model/AdminUser.php" timestamp="1557040267762">
@@ -157,6 +157,9 @@
       </file>
       <file name="D:/Aaaaa/server/deploy/init.sh" timestamp="1556266688576">
         <mark key="[" line="7" column="0" />
+      </file>
+      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_175523_create_security_settings_table.php" timestamp="1557136537300">
+        <mark key="[" line="15" column="37" />
       </file>
       <file name="D:/a_/server/php/app/Model/AdminUserChangePasswordLog.php" timestamp="1555985235695">
         <mark key="[" line="26" column="4" />
