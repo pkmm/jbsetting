@@ -107,11 +107,11 @@
         <mark key="]" line="16" column="20" />
         <mark key="." line="16" column="20" />
       </file>
-      <file name="D:/dev_lll/cyan/server/.env" timestamp="1557228732323">
-        <mark key="[" line="58" column="45" />
-        <mark key="]" line="58" column="45" />
-        <mark key="^" line="63" column="4" />
-        <mark key="." line="58" column="45" />
+      <file name="D:/dev_lll/cyan/server/.env" timestamp="1557230753084">
+        <mark key="[" line="63" column="27" />
+        <mark key="]" line="63" column="37" />
+        <mark key="^" line="64" column="6" />
+        <mark key="." line="63" column="27" />
       </file>
       <file name="D:/Aaaaa/server/php/database/migrations/2019_05_05_150053_InitPageAccessPermissionMaps.php" timestamp="1557039657740">
         <mark key="[" line="13" column="5" />
@@ -195,8 +195,10 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="D:/dev_lll/cyan/server/app/Utils/MonitorUtil.php" timestamp="1557228950913">
-        <mark key="[" line="21" column="5" />
+      <file name="D:/dev_lll/cyan/server/app/Utils/MonitorUtil.php" timestamp="1557230974434">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/a_/server/php/app/Providers/AppServiceProvider.php" timestamp="1555915236116">
         <mark key="[" line="50" column="0" />
@@ -208,6 +210,7 @@
         <mark key="]" line="86" column="9" />
         <mark key="." line="86" column="9" />
       </file>
+      <file name="D:/dev_lll/cyan/server/app/Services/VerifyCodeRecognizer.php" timestamp="1557230200245" />
       <file name="D:/aizuoye_pc_v21/server/php/app/Managers/Letter/LetterManager.php" timestamp="1555655006987">
         <mark key="[" line="434" column="0" />
         <mark key="]" line="434" column="0" />
@@ -376,14 +379,14 @@
       <jump line="137" column="0" filename="D:/dev_lll/cyan/server/config/swoole_http.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f/decode_verify_code</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIENvbmZpZzsK</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>f/decode_verify_code</text>
+        <text>WXPUSER_ID</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
@@ -392,34 +395,34 @@
         <text>'sync:student_scores'</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">dXNlIENvbmZpZzsK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgLy8gICAgICAgICRzY2hlZHVsZS0+Y2FsbChmdW5jdGlvbiAoKSB7CiAgICAgICAgLy8gICAgICAgICAgICBzZWxmOjpnZXRaY211TmV3SW5mb3MoKTsKICAgICAgICAvLyAgICAgICAgfSktPmV2ZXJ5VGVuTWludXRlcygpOw==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>private function getZcmuNewInfos()
     {
         ZcmuManager::retrieveNewInfos();
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">cHJpdmF0ZSBmdW5jdGlvbiBub3RpZnkoU2NoZWR1bGUgJHNjaGVkdWxlKQogICAgewogICAgICAgICRzY2hlZHVsZS0+Y2FsbChmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIExvZzo6aW5mbygnv6rKvMjOzvFub3RpZnkgyrG85MrHOiAnIC4gZGF0ZSgnWS1tLWQgSDppOnMnKSk7CiAgICAgICAgICAgIFNjaGVkdWxlTWFuYWdlcjo6ZGFpbHlOb3RpZnkoKTsKICAgICAgICAgICAgTG9nOjppbmZvKCfIzs7xveHK+G5vdGlmeSDKsbzkysc6ICcgLiBkYXRlKCdZLW0tZCBIOmk6cycpKTsKICAgICAgICB9KS0+ZXZlcnlNaW51dGUoKS0+cnVuSW5CYWNrZ3JvdW5kKCk7CiAgICB9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgJHRoaXMtPm5vdGlmeSgkc2NoZWR1bGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
