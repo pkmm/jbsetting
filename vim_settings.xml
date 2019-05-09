@@ -15,14 +15,16 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/dev_lll/cyan/server/routes/api.php" timestamp="1557386651489">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="26" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="29" column="0" />
+      <file name="D:/dev_lll/cyan/server/routes/api.php" timestamp="1557388405678">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1557228400459">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/dev_lll/cyan/server/app/Http/Controllers/AuthController.php" timestamp="1557389669379">
+        <mark key="[" line="93" column="21" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Http/web_routes.php" timestamp="1557295641156">
         <mark key="[" line="19" column="39" />
@@ -35,6 +37,7 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="D:/dev_lll/cyan/server/app/Http/Kernel.php" timestamp="1557388739281" />
       <file name="D:/Aaaaa/server/php/app/Manager/SecurityPolicyConfManager.php" timestamp="1557374383800">
         <mark key="[" line="28" column="11" />
       </file>
@@ -94,13 +97,14 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="11" column="29" />
       </file>
+      <file name="D:/dev_lll/cyan/server/config/auth.php" timestamp="1557389504937" />
       <file name="D:/Aaaaa/server/php/app/Model/PageAccessPermissionMap.php" timestamp="1557109818031">
         <mark key="[" line="27" column="1" />
         <mark key="]" line="35" column="4" />
         <mark key="." line="35" column="4" />
       </file>
-      <file name="D:/dev_lll/cyan/server/.env" timestamp="1557231517620">
-        <mark key="[" line="66" column="0" />
+      <file name="D:/dev_lll/cyan/server/.env" timestamp="1557389274125">
+        <mark key="[" line="9" column="15" />
         <mark key="]" line="67" column="23" />
         <mark key="." line="67" column="23" />
         <mark key="^" line="67" column="23" />
@@ -240,28 +244,28 @@
         <text encoding="base64">ICAgICdtaWRkbGV3YXJlJyA9PiAnYXBpJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcVmFsaWRhdGlvblxVbmF1dGhvcml6ZWRFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICdtaWRkbGV3YXJlJyA9PiAnYXBpJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoKCktPmxvZ291dCgpOwo=</text>
+        <text encoding="base64">ICAgICdtaWRkbGV3YXJlJyA9PiAnYXBpJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkanNvbkRhdGEpOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcVmFsaWRhdGlvblxVbmF1dGhvcml6ZWRFeGNlcHRpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdXJsID0gY29uZmlnKCdWRVJJRllfQ09ERV9TRVJWRVInKTsK</text>
+        <text encoding="base64">ICAgICAgICBhdXRoKCktPmxvZ291dCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VkVSSUZZX0NPREVfU0VSVkVSPWh0dHA6Ly80Ny4xMDEuNTguMzY6ODE4OS8K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkanNvbkRhdGEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIENvbmZpZzsK</text>
+        <text encoding="base64">ICAgICAgICAkdXJsID0gY29uZmlnKCdWRVJJRllfQ09ERV9TRVJWRVInKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VkVSSUZZX0NPREVfU0VSVkVSPWh0dHA6Ly80Ny4xMDEuNTguMzY6ODE4OS8K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8gICAgICAgICRzY2hlZHVsZS0+Y2FsbChmdW5jdGlvbiAoKSB7CiAgICAgICAgLy8gICAgICAgICAgICBzZWxmOjpnZXRaY211TmV3SW5mb3MoKTsKICAgICAgICAvLyAgICAgICAgfSktPmV2ZXJ5VGVuTWludXRlcygpOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIENvbmZpZzsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
