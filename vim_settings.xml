@@ -15,7 +15,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/dev_lll/cyan/server/routes/api.php" timestamp="1557385630276" />
+      <file name="D:/dev_lll/cyan/server/routes/api.php" timestamp="1557386651489">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="26" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1557228400459">
         <mark key="[" line="0" column="0" />
       </file>
@@ -103,6 +108,7 @@
       <file name="D:/Aaaaa/server/php/app/Services/V1/Mapper/PasswordSecurityConfMapper.php" timestamp="1557125968717">
         <mark key="[" line="12" column="1" />
       </file>
+      <file name="D:/dev_lll/cyan/server/config/app.php" timestamp="1557385974947" />
       <file name="D:/Aaaaa/server/deploy/deployAll.sh" timestamp="1556260653058">
         <mark key="[" line="2" column="13" />
       </file>
@@ -218,8 +224,8 @@
       <jump line="137" column="0" filename="D:/dev_lll/cyan/server/config/swoole_http.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tyyyy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdtaWRkbGV3YXJlJyA9PiAnYXBpJywK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -230,8 +236,8 @@
       <register name="/" type="4">
         <text>Ad</text>
       </register>
-      <register name="0" type="4">
-        <text>'sync:student_scores'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICdtaWRkbGV3YXJlJyA9PiAnYXBpJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNlIElsbHVtaW5hdGVcVmFsaWRhdGlvblxVbmF1dGhvcml6ZWRFeGNlcHRpb247Cg==</text>
