@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Aaaaa/server/php/app/Model/AdminUser.php" timestamp="1557040267762">
+        <mark key="[" line="54" column="7" />
+      </file>
+      <file name="D:/dev_lll/cyan/server/config/swoole_http.php" timestamp="1557228554528">
+        <mark key="'" line="137" column="0" />
+        <mark key="[" line="0" column="1" />
+      </file>
       <file name="D:/Aaaaa/server/php/database/migrations/2019_05_05_145337_create_page_access_permission_maps_table.php" timestamp="1557123303431">
         <mark key="[" line="16" column="72" />
         <mark key="]" line="18" column="0" />
@@ -22,10 +29,18 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="D:/Aaaaa/server/php/app/Manager/SecurityPolicyConfManager.php" timestamp="1557296033709">
+      <file name="D:/Aaaaa/server/php/app/Manager/SecurityPolicyConfManager.php" timestamp="1557366470590">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="D:/Aaaaa/server/php/app/Utils/SystemUtils.php" timestamp="1557142206410" />
+      <file name="D:/Aaaaa/server/deploy/init.sh" timestamp="1556266688576">
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_175523_create_security_settings_table.php" timestamp="1557140657069">
+        <mark key="[" line="15" column="37" />
+      </file>
+      <file name="D:/Aaaaa/server/php/app/Model/AdminUserChangePasswordLog.php" timestamp="1556178343623">
+        <mark key="[" line="24" column="28" />
+      </file>
       <file name="D:/dev_lll/cyan/server/app/Exceptions/Handler.php" timestamp="1557285557031">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -42,54 +57,14 @@
       <file name="D:/dev_lll/cyan/server/app/Contracts/NotifyInterface.php" timestamp="1557228899153">
         <mark key="[" line="8" column="1" />
       </file>
+      <file name="D:/dev_lll/cyan/server/config/services.php" timestamp="1557231051722">
+        <mark key="[" line="46" column="5" />
+      </file>
       <file name="D:/dev_lll/cyan/server/app/Console/Commands/TestTwo.php" timestamp="1557228375725">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="16" column="47" />
         <mark key="." line="16" column="34" />
         <mark key="^" line="16" column="34" />
-      </file>
-      <file name="D:/Aaaaa/client/admin/app/index.jsx" timestamp="1556248096370">
-        <mark key="[" line="40" column="12" />
-      </file>
-      <file name="D:/Aaaaa/server/php/app/Exceptions/NotFoundSSLConfException.php" timestamp="1557141781360">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="29" />
-        <mark key="^" line="11" column="31" />
-        <mark key="." line="11" column="29" />
-      </file>
-      <file name="D:/dev_lll/cyan/server/vendor/symfony/http-foundation/JsonResponse.php" timestamp="1557285469360" />
-      <file name="D:/dev_lll/cyan/server/.env" timestamp="1557231517620">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="67" column="23" />
-        <mark key="." line="67" column="23" />
-        <mark key="^" line="67" column="23" />
-      </file>
-      <file name="D:/Aaaaa/server/deploy/deployAll.sh" timestamp="1556260653058">
-        <mark key="[" line="2" column="13" />
-      </file>
-      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_141421_create_password_security_confs_table.php" timestamp="1557136532746">
-        <mark key="[" line="16" column="37" />
-      </file>
-      <file name="D:/Aaaaa/server/php/app/Model/AdminUser.php" timestamp="1557040267762">
-        <mark key="[" line="54" column="7" />
-      </file>
-      <file name="D:/dev_lll/cyan/server/config/swoole_http.php" timestamp="1557228554528">
-        <mark key="'" line="137" column="0" />
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="D:/dev_lll/cyan/server/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php" timestamp="1557285443811" />
-      <file name="D:/dev_lll/cyan/server/config/swoole_websocket.php" timestamp="1557228559307" />
-      <file name="D:/Aaaaa/server/deploy/init.sh" timestamp="1556266688576">
-        <mark key="[" line="7" column="0" />
-      </file>
-      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_175523_create_security_settings_table.php" timestamp="1557140657069">
-        <mark key="[" line="15" column="37" />
-      </file>
-      <file name="D:/Aaaaa/server/php/app/Model/AdminUserChangePasswordLog.php" timestamp="1556178343623">
-        <mark key="[" line="24" column="28" />
-      </file>
-      <file name="D:/dev_lll/cyan/server/config/services.php" timestamp="1557231051722">
-        <mark key="[" line="46" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1557228868216">
         <mark key="[" line="0" column="0" />
@@ -102,17 +77,35 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/dev_lll/cyan/server/app/Services/VerifyCodeRecognizer.php" timestamp="1557230200245" />
+      <file name="D:/Aaaaa/client/admin/app/index.jsx" timestamp="1556248096370">
+        <mark key="[" line="40" column="12" />
+      </file>
+      <file name="D:/Aaaaa/server/php/app/Exceptions/NotFoundSSLConfException.php" timestamp="1557141781360">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="11" column="29" />
+      </file>
       <file name="D:/Aaaaa/server/php/app/Model/PageAccessPermissionMap.php" timestamp="1557109818031">
         <mark key="[" line="27" column="1" />
         <mark key="]" line="35" column="4" />
         <mark key="." line="35" column="4" />
       </file>
-      <file name="D:/dev_lll/cyan/server/_ide_helper.php" timestamp="1557284721269" />
+      <file name="D:/dev_lll/cyan/server/.env" timestamp="1557231517620">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="67" column="23" />
+        <mark key="." line="67" column="23" />
+        <mark key="^" line="67" column="23" />
+      </file>
       <file name="D:/Aaaaa/server/php/app/Services/V1/Mapper/PasswordSecurityConfMapper.php" timestamp="1557125968717">
         <mark key="[" line="12" column="1" />
       </file>
-      <file name="D:/Aaaaa/server/php/storage/disable_ssl.sh" timestamp="1557194772520" />
+      <file name="D:/Aaaaa/server/deploy/deployAll.sh" timestamp="1556260653058">
+        <mark key="[" line="2" column="13" />
+      </file>
+      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_141421_create_password_security_confs_table.php" timestamp="1557136532746">
+        <mark key="[" line="16" column="37" />
+      </file>
       <file name="D:/dev_lll/cyan/server/app/Console/Commands/CheckGolangServiceStatus.php" timestamp="1557231650638">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
