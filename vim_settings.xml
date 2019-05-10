@@ -97,6 +97,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="D:/Aaaaa/server/php/app/Http/Middleware/CheckHeaderMiddleware.php" timestamp="1557469912738">
+        <mark key="[" line="17" column="5" />
+      </file>
       <file name="D:/Aaaaa/client/admin/app/index.jsx" timestamp="1556248096370">
         <mark key="[" line="40" column="12" />
       </file>
@@ -120,6 +123,9 @@
       </file>
       <file name="D:/Aaaaa/server/php/app/Services/V1/Mapper/PasswordSecurityConfMapper.php" timestamp="1557125968717">
         <mark key="[" line="12" column="1" />
+      </file>
+      <file name="D:/Aaaaa/server/php/app/Http/Kernel.php" timestamp="1557469628616">
+        <mark key="[" line="38" column="54" />
       </file>
       <file name="D:/dev_lll/cyan/server/config/app.php" timestamp="1557385974947" />
       <file name="D:/Aaaaa/server/deploy/deployAll.sh" timestamp="1556260653058">
