@@ -125,11 +125,10 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Admin/AdminLetterService.php" timestamp="1557806706922">
-        <mark key="[" line="136" column="23" />
-        <mark key="]" line="131" column="29" />
-        <mark key="." line="131" column="29" />
-        <mark key="^" line="131" column="29" />
+      <file name="D:/aizuoye_pc_v21/server/php/app/Services/Admin/AdminLetterService.php" timestamp="1557812222436">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Http/Middleware/CheckHeaderMiddleware.php" timestamp="1557469912738">
         <mark key="[" line="17" column="5" />
@@ -280,8 +279,8 @@
       <jump line="137" column="0" filename="D:/dev_lll/cyan/server/config/swoole_http.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXJfZHVtcCgkZmlsZVAtPmZnZXRzKCkp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXJfZHVtcCgkdXNlcklkKTsK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -296,31 +295,31 @@
         <text encoding="base64">ICAgICAgICBMb2c6OmluZm8oInF1ZXVlWyR0aGlzLT5xdWV1ZV2/qsq81rTQ0CIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkdXNlcklkOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXJfZHVtcCgkdXNlcklkKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkZCgoJGZpbGVQLT5mZ2V0cygpKSk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci8vICAgICAgICBkZCgkdXNlcklkcyk7INT1w7SyxcTcseS1w7j6vNLA97qmIHRoaXMgaXMgbXkgbmFtZS4=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkZmlsZVAtPmZnZXRzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkdXNlcklkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZmlsZSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkZCgoJGZpbGVQLT5mZ2V0cygpKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR1c2VySWRzW10gPSAkdXNlcklkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkZmlsZVAtPmZnZXRzKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxCdXNcRGlzcGF0Y2hlc0pvYnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZmlsZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxCdXNcRGlzcGF0Y2hlc0pvYnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR1c2VySWRzW10gPSAkdXNlcklkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2c6OmluZm8oInF1ZXVlWyR0aGlzLT5xdWV1ZV294cr41rTQ0CIpOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxCdXNcRGlzcGF0Y2hlc0pvYnM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgnc2pzamogPT8gJyAuICR0aGlzLT5xdWV1ZSk7Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxCdXNcRGlzcGF0Y2hlc0pvYnM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
