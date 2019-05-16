@@ -3,18 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Aaaaa/server/php/app/Model/AdminUser.php" timestamp="1557040267762">
+        <mark key="[" line="54" column="7" />
+      </file>
+      <file name="D:/dev_lll/cyan/server/config/swoole_http.php" timestamp="1557719687540">
+        <mark key="'" line="138" column="0" />
+        <mark key="[" line="91" column="20" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+      </file>
       <file name="D:/Aaaaa/server/php/database/migrations/2019_05_05_145337_create_page_access_permission_maps_table.php" timestamp="1557123303431">
         <mark key="[" line="16" column="72" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/aizuoye_trunk/server/php/app/Console/Commands/PushLetters.php" timestamp="1557822538912" />
       <file name="D:/dev_lll/cyan/server/routes/api.php" timestamp="1557388405678">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Jobs/PushUserRoleTagToSensorsTask.php" timestamp="1557822225051" />
       <file name="/a.dummy" timestamp="1557228400459">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,10 +33,18 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="D:/dev_lll/cyan/server/app/Http/Controllers/UserController.php" timestamp="1557742562390">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="D:/Aaaaa/server/php/app/Http/Middleware/AdminAuthenticate.php" timestamp="1557110558803">
         <mark key="[" line="51" column="33" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
+      </file>
+      <file name="D:/Aaaaa/server/php/app/Http/web_routes.php" timestamp="1557989612766">
+        <mark key="[" line="16" column="4" />
       </file>
       <file name="D:/dev_lll/cyan/server/app/Http/Kernel.php" timestamp="1557390520230">
         <mark key="[" line="61" column="0" />
@@ -42,11 +57,20 @@
       <file name="D:/Aaaaa/server/php/app/Manager/SecurityPolicyConfManager.php" timestamp="1557374383800">
         <mark key="[" line="28" column="11" />
       </file>
+      <file name="D:/Aaaaa/server/deploy/init.sh" timestamp="1556266688576">
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_175523_create_security_settings_table.php" timestamp="1557140657069">
+        <mark key="[" line="15" column="37" />
+      </file>
       <file name="D:/dev_lll/cyan/server/app/Console/Commands/SyncStudentScores.php" timestamp="1557719629306">
         <mark key="[" line="49" column="61" />
         <mark key="]" line="49" column="61" />
         <mark key="." line="49" column="61" />
         <mark key="^" line="49" column="61" />
+      </file>
+      <file name="D:/Aaaaa/server/php/app/Model/AdminUserChangePasswordLog.php" timestamp="1556178343623">
+        <mark key="[" line="24" column="28" />
       </file>
       <file name="D:/dev_lll/cyan/server/app/Exceptions/Handler.php" timestamp="1557390704515">
         <mark key="[" line="68" column="11" />
@@ -64,6 +88,9 @@
       <file name="D:/dev_lll/cyan/server/app/Contracts/NotifyInterface.php" timestamp="1557228899153">
         <mark key="[" line="8" column="1" />
       </file>
+      <file name="D:/dev_lll/cyan/server/config/services.php" timestamp="1557231051722">
+        <mark key="[" line="46" column="5" />
+      </file>
       <file name="D:/dev_lll/cyan/server/app/Console/Commands/ResetStudentCanSyncFlag.php" timestamp="1557719777250">
         <mark key="[" line="21" column="30" />
         <mark key="]" line="21" column="30" />
@@ -75,8 +102,22 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1557719647691">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Aaaaa/server/php/app/Model/PasswordSecurityConf.php" timestamp="1557123270025">
+        <mark key="[" line="2" column="15" />
+      </file>
       <file name="D:/dev_lll/cyan/server/app/Http/Controllers/StudentController.php" timestamp="1557390879723">
         <mark key="[" line="14" column="35" />
+      </file>
+      <file name="D:/dev_lll/cyan/server/app/Utils/MonitorUtil.php" timestamp="1557231000312">
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/aizuoye_pc_v21/server/php/storage/z.x" timestamp="1557818899535">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/dev_lll/cyan/server/app/Jobs/TestJob.php" timestamp="1557741635030">
         <mark key="[" line="34" column="0" />
@@ -88,64 +129,11 @@
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
       </file>
-      <file name="D:/Aaaaa/client/admin/app/index.jsx" timestamp="1556248096370">
-        <mark key="[" line="40" column="12" />
-      </file>
-      <file name="D:/aizuoye_trunk/server/php/app/Manager/SensorsManager.php" timestamp="1557822638895" />
-      <file name="D:/Aaaaa/server/deploy/deployAll.sh" timestamp="1556260653058">
-        <mark key="[" line="2" column="13" />
-      </file>
-      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_141421_create_password_security_confs_table.php" timestamp="1557136532746">
-        <mark key="[" line="16" column="37" />
-      </file>
-      <file name="D:/dev_lll/cyan/server/app/Jobs/SyncZcmuEducationSystemInfo.php" timestamp="1557742536479">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="D:/Aaaaa/server/php/app/Model/AdminUser.php" timestamp="1557040267762">
-        <mark key="[" line="54" column="7" />
-      </file>
-      <file name="D:/dev_lll/cyan/server/config/swoole_http.php" timestamp="1557719687540">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="91" column="20" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/app/Manager/SensorsManager.php" timestamp="1557822238634" />
-      <file name="D:/dev_lll/cyan/server/app/Http/Controllers/UserController.php" timestamp="1557742562390">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="D:/Aaaaa/server/deploy/init.sh" timestamp="1556266688576">
-        <mark key="[" line="7" column="0" />
-      </file>
-      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_175523_create_security_settings_table.php" timestamp="1557140657069">
-        <mark key="[" line="15" column="37" />
-      </file>
-      <file name="D:/Aaaaa/server/php/app/Model/AdminUserChangePasswordLog.php" timestamp="1556178343623">
-        <mark key="[" line="24" column="28" />
-      </file>
-      <file name="D:/dev_lll/cyan/server/config/services.php" timestamp="1557231051722">
-        <mark key="[" line="46" column="5" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1557719647691">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Aaaaa/server/php/app/Model/PasswordSecurityConf.php" timestamp="1557123270025">
-        <mark key="[" line="2" column="15" />
-      </file>
-      <file name="D:/dev_lll/cyan/server/app/Utils/MonitorUtil.php" timestamp="1557231000312">
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="D:/aizuoye_pc_v21/server/php/storage/z.x" timestamp="1557818899535">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Aaaaa/server/php/app/Http/Middleware/CheckHeaderMiddleware.php" timestamp="1557469912738">
         <mark key="[" line="17" column="5" />
+      </file>
+      <file name="D:/Aaaaa/client/admin/app/index.jsx" timestamp="1556248096370">
+        <mark key="[" line="40" column="12" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Model/PageAccessPermissionMap.php" timestamp="1557109818031">
         <mark key="[" line="27" column="1" />
@@ -157,6 +145,17 @@
       </file>
       <file name="D:/Aaaaa/server/php/app/Http/Kernel.php" timestamp="1557469628616">
         <mark key="[" line="38" column="54" />
+      </file>
+      <file name="D:/Aaaaa/server/deploy/deployAll.sh" timestamp="1556260653058">
+        <mark key="[" line="2" column="13" />
+      </file>
+      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_141421_create_password_security_confs_table.php" timestamp="1557136532746">
+        <mark key="[" line="16" column="37" />
+      </file>
+      <file name="D:/dev_lll/cyan/server/app/Jobs/SyncZcmuEducationSystemInfo.php" timestamp="1557742536479">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="D:/dev_lll/cyan/server/app/Console/Commands/CheckGolangServiceStatus.php" timestamp="1557231650638">
         <mark key="[" line="57" column="0" />
