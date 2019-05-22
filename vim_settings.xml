@@ -6,12 +6,6 @@
       <file name="D:/Aaaaa/server/php/app/Model/AdminUser.php" timestamp="1557040267762">
         <mark key="[" line="54" column="7" />
       </file>
-      <file name="D:/dev_lll/cyan/server/config/swoole_http.php" timestamp="1557719687540">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="91" column="20" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
       <file name="D:/Aaaaa/server/php/app/Utils/RequestUtil.php" timestamp="1558506101239" />
       <file name="D:/Aaaaa/server/php/database/migrations/2019_05_05_145337_create_page_access_permission_maps_table.php" timestamp="1557123303431">
         <mark key="[" line="16" column="72" />
@@ -23,7 +17,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/Aaaaa/server/deploy/server.conf" timestamp="1558336755129" />
+      <file name="D:/Aaaaa/server/deploy/server.conf" timestamp="1558512678849" />
       <file name="D:/Aaaaa/server/php/app/Services/V1/SecurityPolicyConfService.php" timestamp="1558331880707">
         <mark key="[" line="47" column="27" />
         <mark key="]" line="47" column="27" />
@@ -164,6 +158,9 @@
       </file>
       <file name="D:/Aaaaa/server/php/app/Http/Kernel.php" timestamp="1557469628616">
         <mark key="[" line="38" column="54" />
+      </file>
+      <file name="D:/Aaaaa/server/deploy/generateCertificate.sh" timestamp="1558512662913">
+        <mark key="[" line="6" column="13" />
       </file>
       <file name="D:/Aaaaa/server/deploy/deployAll.sh" timestamp="1556260653058">
         <mark key="[" line="2" column="13" />
