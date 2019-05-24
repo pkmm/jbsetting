@@ -30,10 +30,10 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="D:/Aaaaa/server/php/app/Http/web_routes.php" timestamp="1558319095624">
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="D:/Aaaaa/server/php/app/Http/web_routes.php" timestamp="1558680480178">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="D:/aizuoye_trunk/server/php/app/Manager/PushManager.php" timestamp="1558596745640" />
       <file name="D:/dev_lll/cyan/server/app/Http/Kernel.php" timestamp="1557390520230">
@@ -108,7 +108,7 @@
         <mark key="[" line="54" column="7" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Utils/RequestUtil.php" timestamp="1558506101239" />
-      <file name="D:/Aaaaa/server/deploy/server.conf" timestamp="1558512678849" />
+      <file name="D:/Aaaaa/server/deploy/server.conf" timestamp="1558680526537" />
       <file name="D:/Aaaaa/server/php/app/Services/V1/SecurityPolicyConfService.php" timestamp="1558331880707">
         <mark key="[" line="47" column="27" />
         <mark key="]" line="47" column="27" />
@@ -138,6 +138,7 @@
       <file name="/Dummy.txt" timestamp="1557719647691">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Aaaaa/server/deploy/server_without_ssl.conf" timestamp="1558680635160" />
       <file name="D:/Aaaaa/server/php/app/Model/PasswordSecurityConf.php" timestamp="1557123270025">
         <mark key="[" line="2" column="15" />
       </file>
@@ -152,7 +153,7 @@
       <file name="D:/aizuoye_pc_v21/server/php/storage/z.x" timestamp="1557818899535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Aaaaa/server/php/app/Http/Middleware/CheckHeaderMiddleware.php" timestamp="1558663141787">
+      <file name="D:/Aaaaa/server/php/app/Http/Middleware/CheckHeaderMiddleware.php" timestamp="1558680504145">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -282,13 +283,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJzg4Jyk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAkYXJyOwo=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U2VjdXJpdHlQb2xpY3lDb25mTWFuYWdlcjo6Z2V0UHJpb3JpdHlDb25mKCkg</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
@@ -297,19 +298,19 @@
         <text encoding="base64">REI6OnRhYmxlKCdzZWN1cml0eV9zZXR0aW5ncycpLT5pbnNlcnQoWwogICAgICAgICAgICAnbmFtZScgPT4gXEFwcFxNb2RlbFxTZWN1cml0eVNldHRpbmc6OlNTTCwKICAgICAgICAgICAgJ3ZhbHVlJyA9PiAnc3NsJywKICAgICAgICAgICAgJ2VuYWJsZWQnID0+IDEKICAgICAgICBdKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJzg4Jyk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAkYXJyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRkKCRyZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJzg4Jyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGUgY29kZSBoZXJlIGlzIG1lYW50IHRvIHBhc3MgdGhlIHRlc3QgYW5kIGlzIG5vdCBvZiByZWZlcmVuY2UgdmFsdWUuCg==</text>
+        <text encoding="base64">ICAgIGRkKCRyZXQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZSgpLT5kb3dubG9hZChzdG9yYWdlX3BhdGgoJ3oueCcpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUaGUgY29kZSBoZXJlIGlzIG1lYW50IHRvIHBhc3MgdGhlIHRlc3QgYW5kIGlzIG5vdCBvZiByZWZlcmVuY2UgdmFsdWUuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZSgpLT5kb3dubG9hZChzdG9yYWdlX3BhdGgoJ3oueCcpKTsKCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -321,7 +322,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
