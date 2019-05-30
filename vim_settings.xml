@@ -88,6 +88,7 @@
         <mark key="]" line="38" column="48" />
         <mark key="." line="38" column="48" />
       </file>
+      <file name="D:/register_server/server/php/app/Services/V1/UserService.php" timestamp="1559194299481" />
       <file name="D:/dev_lll/cyan/server/app/Contracts/NotifyInterface.php" timestamp="1557228899153">
         <mark key="[" line="8" column="1" />
       </file>
@@ -173,6 +174,7 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="D:/register_server/server/php/app/Services/V1/RegistrationUsersService.php" timestamp="1559193683680" />
     </filemarks>
     <jumps>
       <jump line="252" column="31" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
