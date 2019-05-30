@@ -64,7 +64,11 @@
       </file>
       <file name="D:/register_server/server/php/app/Services/V1/UserService.php" timestamp="1559197204924" />
       <file name="D:/register_server/server/php/app/Manager/UserManager.php" timestamp="1559195388745" />
-      <file name="D:/register_server/server/php/API/Generated/V1/user/UpdateUserMessage.php" timestamp="1559195943107" />
+      <file name="D:/register_server/server/php/database/migrations/2019_05_30_151556_create_user_mid_statuses_table.php" timestamp="1559201044173">
+        <mark key="[" line="17" column="50" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="D:/dev_lll/cyan/server/app/Contracts/NotifyInterface.php" timestamp="1557228899153">
         <mark key="[" line="8" column="1" />
       </file>
@@ -82,6 +86,12 @@
       <file name="D:/register_server/server/php/app/Model/User.php" timestamp="1559195426435" />
       <file name="D:/dev_lll/cyan/server/app/Http/Controllers/StudentController.php" timestamp="1557390879723">
         <mark key="[" line="14" column="35" />
+      </file>
+      <file name="D:/register_server/server/php/app/Model/UserMidStatus.php" timestamp="1559202550463">
+        <mark key="[" line="24" column="28" />
+        <mark key="]" line="17" column="41" />
+        <mark key="^" line="17" column="41" />
+        <mark key="." line="17" column="41" />
       </file>
       <file name="D:/register_server/server/php/app/Connectors/Http.php" timestamp="1559185394804" />
       <file name="D:/dev_lll/cyan/server/app/Jobs/TestJob.php" timestamp="1557741635030">
@@ -177,6 +187,9 @@
       </file>
       <file name="D:/Aaaaa/server/deploy/generateCertificate.sh" timestamp="1558512662913">
         <mark key="[" line="6" column="13" />
+      </file>
+      <file name="D:/register_server/server/php/app/Manager/ProductManager.php" timestamp="1559201922731">
+        <mark key="[" line="65" column="5" />
       </file>
       <file name="D:/dev_lll/cyan/server/app/Console/Commands/CheckGolangServiceStatus.php" timestamp="1557231650638">
         <mark key="[" line="57" column="0" />
@@ -289,7 +302,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAkYXJyOwo=</text>
+        <text encoding="base64">bmFtZXNwYWNlIAo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -304,22 +317,22 @@
         <text encoding="base64">REI6OnRhYmxlKCdzZWN1cml0eV9zZXR0aW5ncycpLT5pbnNlcnQoWwogICAgICAgICAgICAnbmFtZScgPT4gXEFwcFxNb2RlbFxTZWN1cml0eVNldHRpbmc6OlNTTCwKICAgICAgICAgICAgJ3ZhbHVlJyA9PiAnc3NsJywKICAgICAgICAgICAgJ2VuYWJsZWQnID0+IDEKICAgICAgICBdKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAkYXJyOwo=</text>
+        <text encoding="base64">bmFtZXNwYWNlIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJzg4Jyk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAkYXJyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRkKCRyZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJzg4Jyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGUgY29kZSBoZXJlIGlzIG1lYW50IHRvIHBhc3MgdGhlIHRlc3QgYW5kIGlzIG5vdCBvZiByZWZlcmVuY2UgdmFsdWUuCg==</text>
+        <text encoding="base64">ICAgIGRkKCRyZXQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZSgpLT5kb3dubG9hZChzdG9yYWdlX3BhdGgoJ3oueCcpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUaGUgY29kZSBoZXJlIGlzIG1lYW50IHRvIHBhc3MgdGhlIHRlc3QgYW5kIGlzIG5vdCBvZiByZWZlcmVuY2UgdmFsdWUuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZSgpLT5kb3dubG9hZChzdG9yYWdlX3BhdGgoJ3oueCcpKTsKCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
