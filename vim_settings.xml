@@ -13,6 +13,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="D:/register_server/server/php/app/Manager/SerialNumberManager.php" timestamp="1559289640374">
+        <mark key="[" line="24" column="3" />
+        <mark key="]" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+      </file>
       <file name="/a.dummy" timestamp="1557228400459">
         <mark key="[" line="0" column="0" />
       </file>
@@ -55,7 +60,12 @@
         <mark key="]" line="38" column="48" />
         <mark key="." line="38" column="48" />
       </file>
-      <file name="D:/register_server/server/php/app/Services/V1/UserService.php" timestamp="1559266791649" />
+      <file name="D:/register_server/server/php/app/Services/V1/UserService.php" timestamp="1559290612393">
+        <mark key="'" line="41" column="34" />
+        <mark key="[" line="34" column="7" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="D:/register_server/server/php/app/Manager/UserManager.php" timestamp="1559195388745" />
       <file name="D:/register_server/server/php/database/migrations/2019_05_30_151556_create_user_mid_statuses_table.php" timestamp="1559206431760">
         <mark key="[" line="17" column="50" />
@@ -65,11 +75,17 @@
       <file name="D:/dev_lll/cyan/server/app/Contracts/NotifyInterface.php" timestamp="1557228899153">
         <mark key="[" line="8" column="1" />
       </file>
-      <file name="D:/register_server/server/php/app/Http/routes.php" timestamp="1559195761515">
-        <mark key="[" line="38" column="18" />
-        <mark key="]" line="33" column="12" />
-        <mark key="^" line="33" column="12" />
-        <mark key="." line="33" column="12" />
+      <file name="D:/register_server/server/php/app/Http/routes.php" timestamp="1559290069266">
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="38" column="12" />
+        <mark key="^" line="38" column="12" />
+        <mark key="." line="38" column="12" />
+      </file>
+      <file name="D:/register_server/server/php/app/Services/V1/ProductService.php" timestamp="1559288051918">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="D:/dev_lll/cyan/server/app/Services/ZcmuEducationSystem.php" timestamp="1557719197969">
         <mark key="[" line="81" column="62" />
@@ -84,8 +100,10 @@
         <mark key="[" line="26" column="28" />
       </file>
       <file name="D:/register_server/server/php/app/Connectors/Http.php" timestamp="1559185394804" />
-      <file name="D:/register_server/server/php/app/Manager/ValidManager.php" timestamp="1559207182014">
-        <mark key="[" line="87" column="5" />
+      <file name="D:/register_server/server/php/app/Manager/ValidManager.php" timestamp="1559290692862">
+        <mark key="[" line="87" column="3" />
+        <mark key="]" line="87" column="3" />
+        <mark key="." line="87" column="3" />
       </file>
       <file name="D:/dev_lll/cyan/server/app/Jobs/TestJob.php" timestamp="1557741635030">
         <mark key="[" line="34" column="0" />
@@ -100,10 +118,18 @@
       <file name="D:/Aaaaa/client/admin/app/index.jsx" timestamp="1556248096370">
         <mark key="[" line="40" column="12" />
       </file>
+      <file name="D:/register_server/server/php/database/migrations/2019_05_31_153932_create_log_user_mid_failures_table.php" timestamp="1559288476729">
+        <mark key="[" line="19" column="110" />
+        <mark key="]" line="19" column="107" />
+        <mark key="." line="19" column="107" />
+        <mark key="^" line="19" column="104" />
+      </file>
       <file name="D:/Aaaaa/server/php/app/Model/SecuritySetting.php" timestamp="1558331636519">
         <mark key="[" line="24" column="22" />
       </file>
-      <file name="D:/register_server/server/php/app/Manager/UserMidLogManager.php" timestamp="1559195749750" />
+      <file name="D:/register_server/server/php/app/Manager/UserMidLogManager.php" timestamp="1559289221103">
+        <mark key="[" line="38" column="5" />
+      </file>
       <file name="D:/Aaaaa/server/deploy/deployAll.sh" timestamp="1556260653058">
         <mark key="[" line="2" column="13" />
       </file>
@@ -118,12 +144,6 @@
       <file name="D:/Aaaaa/server/php/app/Model/AdminUser.php" timestamp="1557040267762">
         <mark key="[" line="54" column="7" />
       </file>
-      <file name="D:/Aaaaa/server/php/app/Services/V1/SecurityPolicyConfService.php" timestamp="1558331880707">
-        <mark key="[" line="47" column="27" />
-        <mark key="]" line="47" column="27" />
-        <mark key="^" line="47" column="60" />
-        <mark key="." line="47" column="27" />
-      </file>
       <file name="D:/dev_lll/cyan/server/app/Http/Controllers/UserController.php" timestamp="1557742562390">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -132,11 +152,10 @@
       <file name="D:/Aaaaa/server/deploy/init.sh" timestamp="1556266688576">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="D:/Aaaaa/server/php/database/migrations/2019_05_06_175523_create_security_settings_table.php" timestamp="1558331670790">
-        <mark key="[" line="30" column="54" />
-        <mark key="]" line="33" column="11" />
-        <mark key="^" line="29" column="7" />
-        <mark key="." line="29" column="8" />
+      <file name="D:/register_server/server/php/app/Model/LogUserMidFailure.php" timestamp="1559288488875">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Model/AdminUserChangePasswordLog.php" timestamp="1556178343623">
         <mark key="[" line="24" column="28" />
@@ -145,8 +164,15 @@
         <mark key="[" line="46" column="5" />
       </file>
       <file name="D:/register_server/server/php/app/Http/api_routes_v1.php" timestamp="1559266800498" />
+      <file name="D:/register_server/server/php/app/Exceptions/ErrorCode.php" timestamp="1559289969030">
+        <mark key="[" line="36" column="10" />
+        <mark key="]" line="36" column="40" />
+      </file>
       <file name="D:/register_server/server/php/app/Http/Middleware/EncryptWrapper.php" timestamp="1559267088351" />
-      <file name="/Dummy.txt" timestamp="1559184873976">
+      <file name="D:/register_server/server/php/database/migrations/2019_05_31_153743_ModifyUserTableAddIsActiveColumn.php" timestamp="1559288268698">
+        <mark key="[" line="14" column="10" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1559289770689">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Model/PasswordSecurityConf.php" timestamp="1557123270025">
@@ -163,12 +189,6 @@
       <file name="D:/aizuoye_pc_v21/server/php/storage/z.x" timestamp="1557818899535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Aaaaa/server/php/app/Http/Middleware/CheckHeaderMiddleware.php" timestamp="1559182799414">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="31" column="26" />
-        <mark key="." line="31" column="26" />
-        <mark key="^" line="31" column="26" />
-      </file>
       <file name="D:/Aaaaa/server/php/app/Model/PageAccessPermissionMap.php" timestamp="1557109818031">
         <mark key="[" line="27" column="1" />
         <mark key="]" line="35" column="4" />
@@ -183,8 +203,8 @@
       <file name="D:/Aaaaa/server/deploy/generateCertificate.sh" timestamp="1558512662913">
         <mark key="[" line="6" column="13" />
       </file>
-      <file name="D:/register_server/server/php/app/Manager/ProductManager.php" timestamp="1559207246942">
-        <mark key="[" line="85" column="29" />
+      <file name="D:/register_server/server/php/app/Manager/ProductManager.php" timestamp="1559287729694">
+        <mark key="[" line="75" column="111" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
@@ -196,9 +216,6 @@
       <file name="D:/register_server/server/php/app/Services/V1/RegistrationUsersService.php" timestamp="1559193683680" />
     </filemarks>
     <jumps>
-      <jump line="252" column="31" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
-      <jump line="0" column="0" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
-      <jump line="248" column="60" filename="D:/a_web_app/101760/client/h5/src/views/user/user-info.js" />
       <jump line="26" column="0" filename="D:/a_web_app/101760/client/h5/API/Generated/v2/paper/ReCorrectMessage.js" />
       <jump line="185" column="35" filename="D:/a_web_app/101760/client/h5/src/routes.js" />
       <jump line="0" column="0" filename="D:/a_web_app/101760/client/h5/src/routes.js" />
@@ -296,49 +313,61 @@
       <jump line="98" column="39" filename="D:/Aaaaa/server/php/app/Manager/AdminAuthManager.php" />
       <jump line="32" column="18" filename="D:/Aaaaa/server/php/app/Services/V1/SecurityPolicyConfService.php" />
       <jump line="137" column="0" filename="D:/dev_lll/cyan/server/config/swoole_http.php" />
+      <jump line="122" column="0" filename="D:/register_server/server/php/app/Services/V1/ProductService.php" />
+      <jump line="19" column="0" filename="D:/register_server/server/php/app/Services/V1/ProductService.php" />
+      <jump line="45" column="34" filename="D:/register_server/server/php/app/Services/V1/UserService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gY2hlY2tTZXJpYWxOdW1iZXJJc0FjdGl2ZShzdHJpbmcgJHBpZCwgc3RyaW5nICRzbikKICAgIHsKICAgICAgICAkdXNlciA9IFVzZXJNYW5hZ2VyOjpnZXRGaXJzdEJ5UHJvZHVjdFJhd0lkQW5kU24oJHBpZCwgJHNuKTsKICAgICAgICAvLyDLtcP3dXNlcs6016Ky4aOszt7Q6MXQts9hY3RpdmUKICAgICAgICBpZiAoISR1c2VyKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gJHVzZXItPmlzX2FjdGl2ZTsKICAgIH0=</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>$exists</text>
+        <text>errorCode</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">REI6OnRhYmxlKCdzZWN1cml0eV9zZXR0aW5ncycpLT5pbnNlcnQoWwogICAgICAgICAgICAnbmFtZScgPT4gXEFwcFxNb2RlbFxTZWN1cml0eVNldHRpbmc6OlNTTCwKICAgICAgICAgICAgJ3ZhbHVlJyA9PiAnc3NsJywKICAgICAgICAgICAgJ2VuYWJsZWQnID0+IDEKICAgICAgICBdKTs=</text>
+        <text>ERROR_SERIAL_NUMBER_INACTIVATED</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gYm9vbAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gY2hlY2tTZXJpYWxOdW1iZXJJc0FjdGl2ZShzdHJpbmcgJHBpZCwgc3RyaW5nICRzbikKICAgIHsKICAgICAgICAkdXNlciA9IFVzZXJNYW5hZ2VyOjpnZXRGaXJzdEJ5UHJvZHVjdFJhd0lkQW5kU24oJHBpZCwgJHNuKTsKICAgICAgICAvLyDLtcP3dXNlcs6016Ky4aOszt7Q6MXQts9hY3RpdmUKICAgICAgICBpZiAoISR1c2VyKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICByZXR1cm4gJHVzZXItPmlzX2FjdGl2ZTsKICAgIH0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgTm9TdWNoVXNlckV4Y2VwdGlvbgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gc2VyaWFsTnVtYmVySXNJbkJsYWNrTGlzdChzdHJpbmcgJHByb2R1Y3RSYXdJZCwgc3RyaW5nICRzZXJpYWxOdW1iZXIpCiAgICB7CiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vU3VjaFVzZXJFeGNlcHRpb24oJ2Nhbm5vdCBmaW5kIHVzZXInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIXNlbGY6OnNlcmlhbE51bWJlcklzSW5CbGFja0xpc3QoJHByb2R1Y3RSYXdJZCwgJHNlcmlhbE51bWJlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAkYXJyOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQmxhY2tsaXN0Ojp3aGVyZVByb2R1Y3RSYXdJZCgkcHJvZHVjdFJhd0lkKS0+d2hlcmVTZXJpYWxOdW1iZXIoJHNlcmlhbE51bWJlciktPmV4aXN0cygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJzg4Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJiYgc2VsZjo6c2VyaWFsTnVtYmVySXNBY3RpdmUoJHByb2R1Y3RSYXdJZCwgJHNlcmlhbE51bWJlcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRkKCRyZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgZGQgIHRyeXsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUaGUgY29kZSBoZXJlIGlzIG1lYW50IHRvIHBhc3MgdGhlIHRlc3QgYW5kIGlzIG5vdCBvZiByZWZlcmVuY2UgdmFsdWUuCg==</text>
+      <register name="8" type="4">
+        <text>} catch (Seria $e) {
+            
+            throw $e;
+        }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZSgpLT5kb3dubG9hZChzdG9yYWdlX3BhdGgoJ3oueCcpKTsKCg==</text>
+      <register name="9" type="4">
+        <text>public static function checkMachineStatus(string $pid, string $sn, string $mid)
+    {
+        $flag = ProductManager::verifyMachineStatusForProduct($mid, $pid, $sn);
+        if (!$flag) {
+            throw new
+        }
+    }</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
