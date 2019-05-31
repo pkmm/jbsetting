@@ -42,13 +42,6 @@
       <file name="D:/dev_lll/cyan/server/app/Http/Controllers/TestController.php" timestamp="1557741302692">
         <mark key="[" line="14" column="5" />
       </file>
-      <file name="D:/Aaaaa/server/php/app/Manager/SecurityPolicyConfManager.php" timestamp="1558579664361">
-        <mark key="g" line="44" column="62" />
-        <mark key="[" line="44" column="45" />
-        <mark key="]" line="44" column="44" />
-        <mark key="^" line="44" column="44" />
-        <mark key="." line="44" column="44" />
-      </file>
       <file name="D:/dev_lll/cyan/server/app/Exceptions/Handler.php" timestamp="1557390704515">
         <mark key="[" line="68" column="11" />
         <mark key="]" line="74" column="0" />
@@ -62,7 +55,7 @@
         <mark key="]" line="38" column="48" />
         <mark key="." line="38" column="48" />
       </file>
-      <file name="D:/register_server/server/php/app/Services/V1/UserService.php" timestamp="1559206564178" />
+      <file name="D:/register_server/server/php/app/Services/V1/UserService.php" timestamp="1559266791649" />
       <file name="D:/register_server/server/php/app/Manager/UserManager.php" timestamp="1559195388745" />
       <file name="D:/register_server/server/php/database/migrations/2019_05_30_151556_create_user_mid_statuses_table.php" timestamp="1559206431760">
         <mark key="[" line="17" column="50" />
@@ -151,6 +144,8 @@
       <file name="D:/dev_lll/cyan/server/config/services.php" timestamp="1557231051722">
         <mark key="[" line="46" column="5" />
       </file>
+      <file name="D:/register_server/server/php/app/Http/api_routes_v1.php" timestamp="1559266800498" />
+      <file name="D:/register_server/server/php/app/Http/Middleware/EncryptWrapper.php" timestamp="1559267088351" />
       <file name="/Dummy.txt" timestamp="1559184873976">
         <mark key="[" line="0" column="0" />
       </file>
