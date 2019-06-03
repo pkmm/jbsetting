@@ -102,10 +102,11 @@
         <mark key="[" line="26" column="28" />
       </file>
       <file name="D:/register_server/server/php/app/Connectors/Http.php" timestamp="1559185394804" />
-      <file name="D:/register_server/server/php/app/Manager/ValidManager.php" timestamp="1559364204142">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="117" column="74" />
-        <mark key="." line="116" column="0" />
+      <file name="D:/register_server/server/php/app/Manager/ValidManager.php" timestamp="1559525623529">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="15" />
+        <mark key="." line="121" column="15" />
+        <mark key="^" line="121" column="15" />
       </file>
       <file name="D:/dev_lll/cyan/server/app/Jobs/TestJob.php" timestamp="1557741635030">
         <mark key="[" line="34" column="0" />
