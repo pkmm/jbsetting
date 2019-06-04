@@ -13,6 +13,9 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="D:/register_server/server/php/API/Generated/V1/sn/GetSNUseDetailMessage.php" timestamp="1559613122491">
+        <mark key="[" line="120" column="45" />
+      </file>
       <file name="D:/register_server/server/php/app/Manager/SerialNumberManager.php" timestamp="1559289640374">
         <mark key="[" line="24" column="3" />
         <mark key="]" line="24" column="3" />
@@ -81,12 +84,6 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
         <mark key="^" line="67" column="10" />
-      </file>
-      <file name="D:/register_server/server/php/app/Services/V1/ProductService.php" timestamp="1559288051918">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
       </file>
       <file name="D:/register_server/server/php/app/Exceptions/Valid/SerialNumberNotAllowed.php" timestamp="1559293349490" />
       <file name="D:/dev_lll/cyan/server/app/Services/ZcmuEducationSystem.php" timestamp="1557719197969">
@@ -201,10 +198,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/register_server/server/php/app/Exceptions/SerialNumberNotAllowed.php" timestamp="1559292717722" />
-      <file name="D:/register_server/server/php/app/Manager/SnManager.php" timestamp="1559562494976">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="D:/register_server/server/php/app/Manager/SnManager.php" timestamp="1559613043403">
+        <mark key="[" line="68" column="7" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Model/PageAccessPermissionMap.php" timestamp="1557109818031">
         <mark key="[" line="27" column="1" />
