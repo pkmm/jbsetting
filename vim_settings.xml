@@ -180,11 +180,11 @@
       <file name="D:/Aaaaa/server/php/app/Model/AdminUserChangePasswordLog.php" timestamp="1556178343623">
         <mark key="[" line="24" column="28" />
       </file>
-      <file name="D:/register_server/server/php/app/Services/V1/SnService.php" timestamp="1559643847689">
-        <mark key="[" line="103" column="7" />
-        <mark key="]" line="99" column="90" />
+      <file name="D:/register_server/server/php/app/Services/V1/SnService.php" timestamp="1559645930047">
+        <mark key="[" line="101" column="11" />
+        <mark key="]" line="101" column="11" />
         <mark key="^" line="98" column="7" />
-        <mark key="." line="98" column="8" />
+        <mark key="." line="101" column="11" />
       </file>
       <file name="D:/dev_lll/cyan/server/config/services.php" timestamp="1557231051722">
         <mark key="[" line="46" column="5" />
@@ -359,14 +359,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ValidManager::checkSerialNumberValid($productRawId, $sn, MethodCode::CHECK_SERIAL_NUMBER);
-        ValidManager::checkProductIdValid($productRawId, MethodCode::CHECK_SERIAL_NUMBER);</text>
+        <text encoding="base64">IHRocm93IG5ldyBOb1VzZXJFeGNlcHRpb24oTWV0aG9kQ29kZTo6Q0hFQ0tfU0VSSUFMX05VTUJFUik7</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JG1lc3NhZ2UtPmdldFBpZCgpLCAkbWVzc2FnZS0+Z2V0U24oKQ==</text>
+        <text encoding="base64">IHRocm93IG5ldyBOb1VzZXJFeGNlcHRpb24oTWV0aG9kQ29kZTo6Q0hFQ0tfU0VSSUFMX05VTUJFUik7</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
