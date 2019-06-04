@@ -8,6 +8,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="D:/register_server/server/php/app/Exceptions/Valid/MainErrorCode.php" timestamp="1559650547791">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="23" column="33" />
+        <mark key="^" line="23" column="31" />
+        <mark key="." line="23" column="33" />
+      </file>
       <file name="D:/dev_lll/cyan/server/routes/api.php" timestamp="1557388405678">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -82,7 +88,12 @@
         <mark key="." line="36" column="4" />
         <mark key="^" line="36" column="3" />
       </file>
-      <file name="D:/register_server/server/php/app/Exceptions/Valid/SerialNumberNotAllowed.php" timestamp="1559293349490" />
+      <file name="D:/register_server/server/php/app/Exceptions/Valid/SerialNumberNotAllowed.php" timestamp="1559650552868">
+        <mark key="[" line="8" column="91" />
+        <mark key="]" line="8" column="91" />
+        <mark key="^" line="8" column="95" />
+        <mark key="." line="8" column="91" />
+      </file>
       <file name="D:/dev_lll/cyan/server/app/Services/ZcmuEducationSystem.php" timestamp="1557719197969">
         <mark key="[" line="81" column="62" />
         <mark key="]" line="63" column="0" />
@@ -185,7 +196,7 @@
       <file name="D:/Aaaaa/server/php/app/Model/AdminUserChangePasswordLog.php" timestamp="1556178343623">
         <mark key="[" line="24" column="28" />
       </file>
-      <file name="D:/register_server/server/php/app/Services/V1/SnService.php" timestamp="1559646566639">
+      <file name="D:/register_server/server/php/app/Services/V1/SnService.php" timestamp="1559650449559">
         <mark key="[" line="101" column="11" />
         <mark key="]" line="101" column="11" />
         <mark key="^" line="98" column="7" />
@@ -364,13 +375,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>INVALID_SN</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>INVALID_SN</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
