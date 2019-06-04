@@ -138,6 +138,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="D:/register_server/server/php/.env" timestamp="1559646813758">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
       <file name="D:/Aaaaa/server/php/app/Model/AdminUser.php" timestamp="1557040267762">
         <mark key="[" line="54" column="7" />
       </file>
@@ -180,7 +185,7 @@
       <file name="D:/Aaaaa/server/php/app/Model/AdminUserChangePasswordLog.php" timestamp="1556178343623">
         <mark key="[" line="24" column="28" />
       </file>
-      <file name="D:/register_server/server/php/app/Services/V1/SnService.php" timestamp="1559645930047">
+      <file name="D:/register_server/server/php/app/Services/V1/SnService.php" timestamp="1559646566639">
         <mark key="[" line="101" column="11" />
         <mark key="]" line="101" column="11" />
         <mark key="^" line="98" column="7" />
@@ -359,13 +364,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHRocm93IG5ldyBOb1VzZXJFeGNlcHRpb24oTWV0aG9kQ29kZTo6Q0hFQ0tfU0VSSUFMX05VTUJFUik7</text>
+        <text>dev</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRocm93IG5ldyBOb1VzZXJFeGNlcHRpb24oTWV0aG9kQ29kZTo6Q0hFQ0tfU0VSSUFMX05VTUJFUik7</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
