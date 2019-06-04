@@ -154,10 +154,11 @@
       <file name="D:/Aaaaa/server/deploy/init.sh" timestamp="1556266688576">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="D:/register_server/server/php/app/Services/V1/mapper/SnUseDetailMapper.php" timestamp="1559620165313">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="D:/register_server/server/php/app/Services/V1/mapper/SnUseDetailMapper.php" timestamp="1559638363402">
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="42" />
+        <mark key="^" line="18" column="42" />
       </file>
       <file name="D:/register_server/server/php/app/Model/LogUserMidFailure.php" timestamp="1559288488875">
         <mark key="[" line="23" column="1" />
