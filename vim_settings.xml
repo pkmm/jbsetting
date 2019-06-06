@@ -22,7 +22,12 @@
         <mark key="]" line="24" column="3" />
         <mark key="." line="24" column="3" />
       </file>
-      <file name="D:/a_/server/php/app/Services/V1/SnService.php" timestamp="1559830914254" />
+      <file name="D:/a_/server/php/app/Services/V1/SnService.php" timestamp="1559836236320">
+        <mark key="[" line="89" column="28" />
+        <mark key="]" line="89" column="28" />
+        <mark key="." line="89" column="28" />
+        <mark key="^" line="89" column="33" />
+      </file>
       <file name="/a.dummy" timestamp="1557228400459">
         <mark key="[" line="0" column="0" />
       </file>
@@ -164,7 +169,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/a_/server/php/app/Services/V1/mapper/SnUseDetailMapper.php" timestamp="1559829816393">
+      <file name="D:/a_/server/php/app/Services/V1/mapper/SnUseDetailMapper.php" timestamp="1559834840861">
         <mark key="[" line="17" column="48" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Model/SecuritySetting.php" timestamp="1558331636519">
@@ -227,6 +232,11 @@
         <mark key="^" line="98" column="7" />
         <mark key="." line="101" column="11" />
       </file>
+      <file name="D:/a_/server/php/database/migrations/2019_06_06_231936_AddIndexToTable.php" timestamp="1559834534267">
+        <mark key="[" line="35" column="29" />
+        <mark key="]" line="35" column="29" />
+        <mark key="." line="35" column="29" />
+      </file>
       <file name="D:/dev_lll/cyan/server/config/services.php" timestamp="1557231051722">
         <mark key="[" line="46" column="5" />
       </file>
@@ -235,10 +245,11 @@
       <file name="D:/register_server/server/php/database/migrations/2019_05_31_153743_ModifyUserTableAddIsActiveColumn.php" timestamp="1559288268698">
         <mark key="[" line="14" column="10" />
       </file>
-      <file name="D:/a_/server/php/app/Manager/SnManager.php" timestamp="1559831690276">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="D:/a_/server/php/app/Manager/SnManager.php" timestamp="1559836056642">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="113" column="46" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1559547902939">
         <mark key="[" line="0" column="0" />
@@ -391,46 +402,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHVzZXItPmlzX2FjdGl2ZSA9PSBmYWxzZQ==</text>
+        <text>isIsActive</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHVzZXItPmlzX2FjdGl2ZSA9PSBmYWxzZQ==</text>
+        <text>isIsActive</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXJNYW5hZ2VyOjpnZXRGaXJzdEJ5UHJvZHVjdFJhd0lkQW5kU24oJG1lc3NhZ2UtPmdldFBpZCgpLCAkbWVzc2FnZS0+Z2V0U24oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCJwcm9kdWN0IiwgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgJHRhYmxlLT5pbmRleCgncmF3X2lkJywgJ2lkeF9yYXdfaWQnKTsKICAgICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkdG1wRmlsdGVycyA9IFtdOwovLyAgICAgICAgICAgIGZvcmVhY2ggKCRmaWx0ZXJzIGFzICRmaWx0ZXIpIHsKLy8gICAgICAgICAgICAgICAgaWYgKCRmaWx0ZXJbJ2ZpZWxkJ10gIT0gJ2NvdW50JykgewovLyAgICAgICAgICAgICAgICAgICAgJHRtcEZpbHRlcnNbXSA9ICRmaWx0ZXI7Ci8vICAgICAgICAgICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgICAgICAgICAkcXVlcnktPndoZXJlKCRmaWx0ZXJbJ2ZpZWxkJ10sICRmaWx0ZXJbJ2NvbXBhcmF0b3InXSwgJGZpbHRlclsndmFsJ10pOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgIFxEQjo6ZW5hYmxlUXVlcnlMb2coKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IC8qKgogICAgICogQHBhcmFtIGFycmF5ICR1c2VySWRzCiAgICAgKiBAcGFyYW0gYm9vbCAkaXNBY3RpdmUKICAgICAqIEByZXR1cm4gbWl4ZWQKICAgICAqLw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGRkKFxEQjo6Z2V0UXVlcnlMb2coKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVXNlcjo6d2hlcmVJbignaWQnLCAkdXNlcklkcyktPnVwZGF0ZShbJ2lzX2FjdGl2ZScgPT4gJGlzQWN0aXZlXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkaWZmID0gJGZpcnN0VmFsdWUgLSAkc2Vjb25kVmFsdWU7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">PndoZXJlSW4oJ1UucHJvZHVjdF9yYXdfaWQnLCBmdW5jdGlvbiAoQnVpbGRlciAkcXVlcnkpIHVzZSAoJHByb2R1Y3RMaW5lSWQpIHsKICAgICAgICAgICAgICAgICRxdWVyeS0+ZnJvbSgncHJvZHVjdCcpCiAgICAgICAgICAgICAgICAgICAgLT5zZWxlY3QoJ3Jhd19pZCcpCiAgICAgICAgICAgICAgICAgICAgLT53aGVyZSgncHJvZHVjdF9saW5lX2lkJywgJHByb2R1Y3RMaW5lSWQpOwogICAgICAgICAgICB9KTs=</text>
+        <text>f ($secondValue === null) {
+                        $diff = 0;
+                    } else {
+                        $diff = 1;
+                    }</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGlmICgkZmlsdGVyWydmaWVsZCddID09ICdVLmlzX2FjdGl2ZScgJiYgJGZpbHRlclsndmFsJ10gPT0gU25Vc2VEZXRhaWxTdGF0dXNGaWx0ZXJUeXBlOjpBbGwpIHsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">bHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdVLmlzX2FjdGl2ZScK</text>
+      <register name="6" type="4">
+        <text encoding="base64">LT5zb3J0KGZ1bmN0aW9uICgkZmlyc3QsICRzZWNvbmQpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9KQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGRkZGQgICAgIC0+Z3JvdXBCeSgnVS5pZCcpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPm9yZGVyQnkoJHNvcnRbJ2ZpZWxkJ10sICRzb3J0WydvcmRlciddKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">LT5sZWZ0Sm9pbigndXNlcl9taWRfdXNlZF9jb3VudHMgQVMgVU1VQycsICdVTVVDLnVzZXJfaWQnLCAnPScsICdVLmlkJykKICAgICAgICAgICAgLT5sZWZ0Sm9pbignYmxhY2tsaXN0cyBBUyBCSycsIGZ1bmN0aW9uICgkbGVmdEpvaW4pIHsKICAgICAgICAgICAgICAgICRsZWZ0Sm9pbi0+b24oJ0JLLnByb2R1Y3RfcmF3X2lkJywgJz0nLCAnVS5wcm9kdWN0X3Jhd19pZCcpCiAgICAgICAgICAgICAgICAgICAgLT5vbignQksuc2VyaWFsX251bWJlcicsICc9JywgJ1Uuc2VyaWFsX251bWJlcicpOwogICAgICAgICAgICB9KQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmRleCgncmF3X2lkJywgJ2lkeF9yYXdfaWQnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
