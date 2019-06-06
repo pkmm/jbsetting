@@ -66,7 +66,7 @@
         <mark key="]" line="38" column="48" />
         <mark key="." line="38" column="48" />
       </file>
-      <file name="D:/register_server/server/php/app/Services/V1/UserService.php" timestamp="1559643777090">
+      <file name="D:/register_server/server/php/app/Services/V1/UserService.php" timestamp="1559823803785">
         <mark key="'" line="57" column="34" />
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="96" />
@@ -93,6 +93,12 @@
         <mark key="]" line="8" column="91" />
         <mark key="^" line="8" column="95" />
         <mark key="." line="8" column="91" />
+      </file>
+      <file name="D:/register_server/server/php/database/migrations/2019_06_06_201102_ModifyBlacklists.php" timestamp="1559823283008">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="42" />
+        <mark key="." line="29" column="42" />
+        <mark key="^" line="30" column="37" />
       </file>
       <file name="D:/dev_lll/cyan/server/app/Services/ZcmuEducationSystem.php" timestamp="1557719197969">
         <mark key="[" line="81" column="62" />
@@ -240,7 +246,7 @@
         <mark key="^" line="31" column="26" />
       </file>
       <file name="D:/register_server/server/php/app/Exceptions/SerialNumberNotAllowed.php" timestamp="1559292717722" />
-      <file name="D:/register_server/server/php/app/Manager/SnManager.php" timestamp="1559639187326">
+      <file name="D:/register_server/server/php/app/Manager/SnManager.php" timestamp="1559824650114">
         <mark key="[" line="115" column="34" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
@@ -375,13 +381,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INVALID_SN</text>
+        <text encoding="base64">KS0+aW5kZXgoJ2lkeF9vcGVyYXRlX3VzZXJfaWQnKQ==</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>INVALID_SN</text>
+        <text encoding="base64">KS0+aW5kZXgoJ2lkeF9vcGVyYXRlX3VzZXJfaWQnKQ==</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
@@ -389,33 +395,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXJNYW5hZ2VyOjpnZXRGaXJzdEJ5UHJvZHVjdFJhd0lkQW5kU24oJG1lc3NhZ2UtPmdldFBpZCgpLCAkbWVzc2FnZS0+Z2V0U24oKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      </register>
+      <register name="2" type="4">
         <text>ValidManager::checkSerialNumberValid($productRawId, $sn, MethodCode::CHECK_SERIAL_NUMBER);
         ValidManager::checkProductIdValid($productRawId, MethodCode::CHECK_SERIAL_NUMBER);</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkdG90YWwsICRkYXRhKTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkcmV0KTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBcREI6OmVuYWJsZVF1ZXJ5TG9nKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgIGRkKFxEQjo6Z2V0UXVlcnlMb2coKSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZGQoc2l6ZW9mKCR0b3RhbCkpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkdG90YWxRdWVyeSA9IGNsb25lICRxdWVyeTsKICAgICAgICAkdG90YWwgPSAkdG90YWxRdWVyeS0+c2VsZWN0UmF3KCdDT1VOVChMVU0uaWQpIEFTIHVzZWRfY291bnQnKS0+Zmlyc3QoKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5ncm91cEJ5KCdVLmlkJykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc29ydCwgJGZpbHRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5ncm91cEJ5KCdVLmlkJykK</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
