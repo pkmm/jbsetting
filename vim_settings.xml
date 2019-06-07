@@ -28,9 +28,9 @@
         <mark key="]" line="24" column="3" />
         <mark key="." line="24" column="3" />
       </file>
-      <file name="D:/a_/server/php/app/Services/V1/SnService.php" timestamp="1559855702308">
-        <mark key="[" line="89" column="28" />
-        <mark key="]" line="98" column="37" />
+      <file name="D:/a_/server/php/app/Services/V1/SnService.php" timestamp="1559877459749">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="95" />
         <mark key="." line="98" column="37" />
         <mark key="^" line="98" column="37" />
       </file>
@@ -247,7 +247,11 @@
       <file name="D:/register_server/server/php/database/migrations/2019_05_31_153743_ModifyUserTableAddIsActiveColumn.php" timestamp="1559288268698">
         <mark key="[" line="14" column="10" />
       </file>
-      <file name="D:/a_/server/php/app/Services/V1/UserService.php" timestamp="1559855891355" />
+      <file name="D:/a_/server/php/app/Services/V1/UserService.php" timestamp="1559877472749">
+        <mark key="[" line="100" column="53" />
+        <mark key="]" line="100" column="95" />
+        <mark key="." line="100" column="0" />
+      </file>
       <file name="D:/a_/server/php/app/Manager/SnManager.php" timestamp="1559855581610">
         <mark key="[" line="155" column="41" />
         <mark key="]" line="155" column="41" />
@@ -404,8 +408,8 @@
       <jump line="115" column="39" filename="D:/register_server/server/php/app/Manager/ValidManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\Auth::id()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBWYWxpZE1hbmFnZXI6OmNoZWNrU2VyaWFsTnVtYmVySXNCbG9ja2VkKCRtaWQsICR1c2VyLCBNZXRob2RDb2RlOjpDSEVDS19TRVJJQUxfTlVNQkVSKTsK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -417,7 +421,7 @@
         <text>Ad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCJwcm9kdWN0IiwgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgJHRhYmxlLT5pbmRleCgncmF3X2lkJywgJ2lkeF9yYXdfaWQnKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBWYWxpZE1hbmFnZXI6OmNoZWNrU2VyaWFsTnVtYmVySXNCbG9ja2VkKCRtaWQsICR1c2VyLCBNZXRob2RDb2RlOjpDSEVDS19TRVJJQUxfTlVNQkVSKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZChcQXV0aDo6aWQoKSk7Cg==</text>
