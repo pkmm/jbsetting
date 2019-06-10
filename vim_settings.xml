@@ -156,11 +156,11 @@
         <mark key="^" line="98" column="7" />
         <mark key="." line="101" column="11" />
       </file>
-      <file name="D:/a_/server/php/database/migrations/2019_06_06_231936_AddIndexToTable.php" timestamp="1560132177863">
-        <mark key="[" line="37" column="85" />
-        <mark key="]" line="21" column="46" />
-        <mark key="." line="21" column="46" />
-        <mark key="^" line="21" column="46" />
+      <file name="D:/a_/server/php/database/migrations/2019_06_06_231936_AddIndexToTable.php" timestamp="1560134704221">
+        <mark key="[" line="41" column="31" />
+        <mark key="]" line="41" column="31" />
+        <mark key="." line="41" column="31" />
+        <mark key="^" line="41" column="33" />
       </file>
       <file name="D:/dev_lll/cyan/server/config/services.php" timestamp="1557231051722">
         <mark key="[" line="46" column="5" />
@@ -318,20 +318,20 @@
       <jump line="115" column="39" filename="D:/register_server/server/php/app/Manager/ValidManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5qb2luKCd1c2VyX21pZF91c2VkX2NvdW50cyBBUyBVTVVDJywgJ1VNVUMudXNlcl9pZCcsICc9JywgJ1UuaWQnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>email</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>\Auth::id()</text>
+        <text>email</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBWYWxpZE1hbmFnZXI6OmNoZWNrU2VyaWFsTnVtYmVySXNCbG9ja2VkKCRtaWQsICR1c2VyLCBNZXRob2RDb2RlOjpDSEVDS19TRVJJQUxfTlVNQkVSKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wSW5kZXgoJ2VtYWlsJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLT5qb2luKCd1c2VyX21pZF91c2VkX2NvdW50cyBBUyBVTVVDJywgJ1VNVUMudXNlcl9pZCcsICc9JywgJ1UuaWQnKQo=</text>
