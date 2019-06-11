@@ -38,6 +38,7 @@
         <mark key="]" line="13" column="9" />
         <mark key="." line="13" column="9" />
       </file>
+      <file name="D:/a_/server/php/API/Generated/V1/model/SNUseDetailModel.php" timestamp="1560240732938" />
       <file name="D:/dev_lll/cyan/server/app/Http/Controllers/TestController.php" timestamp="1557741302692">
         <mark key="[" line="14" column="5" />
       </file>
@@ -119,8 +120,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/a_/server/php/app/Services/V1/mapper/SnUseDetailMapper.php" timestamp="1560132597244">
-        <mark key="[" line="17" column="48" />
+      <file name="D:/a_/server/php/app/Services/V1/mapper/SnUseDetailMapper.php" timestamp="1560241209097">
+        <mark key="[" line="21" column="42" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="25" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Model/SecuritySetting.php" timestamp="1558331636519">
         <mark key="[" line="24" column="22" />
@@ -159,8 +163,11 @@
       <file name="D:/Aaaaa/server/php/app/Model/AdminUserChangePasswordLog.php" timestamp="1556178343623">
         <mark key="[" line="24" column="28" />
       </file>
-      <file name="D:/a_/server/php/app/Model/Blacklist.php" timestamp="1560232330447">
-        <mark key="[" line="28" column="64" />
+      <file name="D:/a_/server/php/app/Model/Blacklist.php" timestamp="1560241062335">
+        <mark key="[" line="26" column="102" />
+        <mark key="]" line="26" column="102" />
+        <mark key="^" line="15" column="20" />
+        <mark key="." line="26" column="102" />
       </file>
       <file name="D:/register_server/server/php/app/Services/V1/SnService.php" timestamp="1559826467061">
         <mark key="[" line="101" column="11" />
@@ -188,10 +195,11 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="D:/a_/server/php/app/Manager/SnManager.php" timestamp="1560238912311">
-        <mark key="[" line="175" column="20" />
-        <mark key="]" line="175" column="20" />
-        <mark key="." line="175" column="20" />
+      <file name="D:/a_/server/php/app/Manager/SnManager.php" timestamp="1560241248949">
+        <mark key="[" line="175" column="21" />
+        <mark key="]" line="175" column="21" />
+        <mark key="." line="175" column="21" />
+        <mark key="^" line="175" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1559547902939">
         <mark key="[" line="0" column="0" />
@@ -210,8 +218,11 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="D:/a_/server/php/database/migrations/2019_06_06_201102_ModifyBlacklists.php" timestamp="1560232247151">
-        <mark key="[" line="15" column="40" />
+      <file name="D:/a_/server/php/database/migrations/2019_06_06_201102_ModifyBlacklists.php" timestamp="1560241035732">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="31" column="43" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/a_/server/php/app/Manager/ModelManager.php" timestamp="1560148522292">
         <mark key="[" line="30" column="57" />
@@ -339,15 +350,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BlacklistOperationLog::create([
-                        'user_id'
-                    ]);</text>
+        <text>blocked_at</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>increments</text>
+        <text>blocked_at</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
@@ -355,34 +364,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICR0b3RhbCA9IERCOjpzZWxlY3QoIlNFTEVDVCBDT1VOVChESVNUSU5DVCB1c2VyX2lkKSBBUyB0b3RhbCBGUk9NIGxvZ191c2VyX21pZCIpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>BlacklistOperationLog::create([
-                        'user_id'
-                    ]);</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcUXVlcnlcQnVpbGRlcnxcQXBwXE1vZGVsXEJsYWNrbGlzdCB3aGVyZUJsb2NrZWRBdCgkdmFsdWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyAkYmxvY2tlZF9hdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ3VzZXJfaWQnKS0+aW5kZXgoJ2lkeF91c2VyX2lkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ29wZXJhdGVkX2F0JyktPnVzZUN1cnJlbnQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRmaWx0ZXJVc2VkQ291bnQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCdvcGVyYXRlZF9hdCcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkb3JtUXVlcnlEYXRhKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgICAgIGlmICgkZmlsdGVyWydmaWVsZCddID09ICdjb3VudCcpIHsKLy8gICAgICAgICAgICAgICAgICAgICRmaWx0ZXJVc2VkQ291bnQgPSB0cnVlOwovLyAgICAgICAgICAgICAgICAgICAgJHF1ZXJ5LT5qb2luKAovLyAgICAgICAgICAgICAgICAgICAgICAgIERCOjpyYXcoIihzZWxlY3QgdXNlcl9pZCwgY291bnQgZnJvbSB1c2VyX21pZF91c2VkX2NvdW50cyB3aGVyZSBjb3VudCAke2ZpbHRlclsnY29tcGFyYXRvciddfSAke2ZpbHRlclsndmFsJ119KSBBUyBVTVVDIiksCi8vICAgICAgICAgICAgICAgICAgICAgICAgIlVNVUMudXNlcl9pZCIsCi8vICAgICAgICAgICAgICAgICAgICAgICAgJz0nLAovLyAgICAgICAgICAgICAgICAgICAgICAgICdVLmlkJwovLyAgICAgICAgICAgICAgICAgICAgKTsKLy8gICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwovLyAgICAgICAgICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGRhdGEtPmJsb2NrZWRfYXQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJzxwcmU+Jyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJzwvcHJlPicpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ly8gICAgICAgIGlmICgkZmlsdGVyVXNlZENvdW50ID09IGZhbHNlKSB7Ci8vICAgICAgICAgICAgJHF1ZXJ5LT5qb2luKCd1c2VyX21pZF91c2VkX2NvdW50cyBBUyBVTVVDJywgJ1VNVUMudXNlcl9pZCcsICc9JywgJ1UuaWQnKTsKLy8gICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
