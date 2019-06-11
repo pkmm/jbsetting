@@ -115,8 +115,8 @@
       <file name="D:/Aaaaa/server/php/app/Model/SecuritySetting.php" timestamp="1558331636519">
         <mark key="[" line="24" column="22" />
       </file>
-      <file name="D:/a_/server/php/database/migrations/2019_06_06_205032_create_user_mid_used_counts_table.php" timestamp="1560133621343">
-        <mark key="[" line="17" column="55" />
+      <file name="D:/a_/server/php/database/migrations/2019_06_06_205032_create_user_mid_used_counts_table.php" timestamp="1560230330944">
+        <mark key="[" line="17" column="57" />
       </file>
       <file name="D:/register_server/server/php/app/Manager/UserMidLogManager.php" timestamp="1559826233831">
         <mark key="[" line="52" column="0" />
@@ -178,11 +178,10 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="D:/a_/server/php/app/Manager/SnManager.php" timestamp="1560227300841">
-        <mark key="[" line="111" column="117" />
-        <mark key="]" line="111" column="117" />
-        <mark key="." line="111" column="117" />
-        <mark key="^" line="116" column="28" />
+      <file name="D:/a_/server/php/app/Manager/SnManager.php" timestamp="1560230497471">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1559547902939">
         <mark key="[" line="0" column="0" />
@@ -326,8 +325,8 @@
       <jump line="115" column="39" filename="D:/register_server/server/php/app/Manager/ValidManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICRmaWx0ZXJVc2VkQ291bnQgPSBmYWxzZTsK</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -342,37 +341,35 @@
         <text encoding="base64">ICAgICR0b3RhbCA9IERCOjpzZWxlY3QoIlNFTEVDVCBDT1VOVChESVNUSU5DVCB1c2VyX2lkKSBBUyB0b3RhbCBGUk9NIGxvZ191c2VyX21pZCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5qb2luKCd1c2VyX21pZF91c2VkX2NvdW50cyBBUyBVTVVDJywgJ1VNVUMudXNlcl9pZCcsICc9JywgJ1UuaWQnKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICRmaWx0ZXJVc2VkQ291bnQgPSBmYWxzZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG9mZnNldCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">Ci8vICAgICAgICAgICAgICAgIGlmICgkZmlsdGVyWydmaWVsZCddID09ICdjb3VudCcpIHsKLy8gICAgICAgICAgICAgICAgICAgICRmaWx0ZXJVc2VkQ291bnQgPSB0cnVlOwovLyAgICAgICAgICAgICAgICAgICAgJHF1ZXJ5LT5qb2luKAovLyAgICAgICAgICAgICAgICAgICAgICAgIERCOjpyYXcoIihzZWxlY3QgdXNlcl9pZCwgY291bnQgZnJvbSB1c2VyX21pZF91c2VkX2NvdW50cyB3aGVyZSBjb3VudCAke2ZpbHRlclsnY29tcGFyYXRvciddfSAke2ZpbHRlclsndmFsJ119KSBBUyBVTVVDIiksCi8vICAgICAgICAgICAgICAgICAgICAgICAgIlVNVUMudXNlcl9pZCIsCi8vICAgICAgICAgICAgICAgICAgICAgICAgJz0nLAovLyAgICAgICAgICAgICAgICAgICAgICAgICdVLmlkJwovLyAgICAgICAgICAgICAgICAgICAgKTsKLy8gICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwovLyAgICAgICAgICAgICAgICB9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Ly8gICAgICAgIGlmICgkZmlsdGVyVXNlZENvdW50ID09IGZhbHNlKSB7Ci8vICAgICAgICAgICAgJHF1ZXJ5LT5qb2luKCd1c2VyX21pZF91c2VkX2NvdW50cyBBUyBVTVVDJywgJ1VNVUMudXNlcl9pZCcsICc9JywgJ1UuaWQnKTsKLy8gICAgICAgIH0=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5qb2luKCd1c2VyX21pZF91c2VkX2NvdW50cyBBUyBVTVVDJywgJ1VNVUMudXNlcl9pZCcsICc9JywgJ1UuaWQnKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG9mZnNldCk7Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>&quot;INSERT INTO user_mid_used_counts(user_id, `count`)
             SELECT user_id, COUNT(*) AS `count` FROM log_user_mid 
             GROUP BY user_id
             LIMIT ${limit} OFFSET ${offset}
            &quot;)</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFnZXMgPSAoKQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>oreach ($ as $item) {
-            
-        }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdG90YWwgPSBEQjo6c3RhdGVtZW50KCJTRUxFQ1QgQ09VTlQoRElTVElOQ1QgdXNlcl9pZCkgRlJPTSBsb2dfdXNlcl9taWQiKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtb2Nr0ru49sr9vt0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGQoXERCOjpnZXRRdWVyeUxvZygpKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">XERCOjplbmFibGVRdWVyeUxvZygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
