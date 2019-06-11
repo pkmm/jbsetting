@@ -17,8 +17,8 @@
       <file name="D:/a_/server/php/.env" timestamp="1559827174501">
         <mark key="[" line="9" column="12" />
       </file>
-      <file name="D:/a_/server/php/app/Services/V1/SnService.php" timestamp="1560130699249">
-        <mark key="[" line="98" column="0" />
+      <file name="D:/a_/server/php/app/Services/V1/SnService.php" timestamp="1560232891069">
+        <mark key="[" line="90" column="63" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
@@ -50,6 +50,11 @@
         <mark key="[" line="15" column="20" />
         <mark key="]" line="15" column="20" />
         <mark key="." line="15" column="20" />
+      </file>
+      <file name="D:/a_/server/php/database/migrations/2019_06_11_135334_create_blacklist_operation_logs_table.php" timestamp="1560232868953">
+        <mark key="[" line="16" column="85" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/Aaaaa/client/admin/app/index.html" timestamp="1556125069207">
         <mark key="[" line="5" column="78" />
@@ -101,6 +106,11 @@
         <mark key="." line="119" column="49" />
         <mark key="^" line="119" column="78" />
       </file>
+      <file name="D:/a_/server/php/app/Model/BlacklistOperationLog.php" timestamp="1560232857761">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="D:/Aaaaa/client/admin/app/index.jsx" timestamp="1556248096370">
         <mark key="[" line="40" column="12" />
       </file>
@@ -115,7 +125,7 @@
       <file name="D:/Aaaaa/server/php/app/Model/SecuritySetting.php" timestamp="1558331636519">
         <mark key="[" line="24" column="22" />
       </file>
-      <file name="D:/a_/server/php/database/migrations/2019_06_06_205032_create_user_mid_used_counts_table.php" timestamp="1560230330944">
+      <file name="D:/a_/server/php/database/migrations/2019_06_06_205032_create_user_mid_used_counts_table.php" timestamp="1560232422535">
         <mark key="[" line="17" column="57" />
       </file>
       <file name="D:/register_server/server/php/app/Manager/UserMidLogManager.php" timestamp="1559826233831">
@@ -149,8 +159,8 @@
       <file name="D:/Aaaaa/server/php/app/Model/AdminUserChangePasswordLog.php" timestamp="1556178343623">
         <mark key="[" line="24" column="28" />
       </file>
-      <file name="D:/a_/server/php/app/Model/Blacklist.php" timestamp="1559855641519">
-        <mark key="[" line="28" column="63" />
+      <file name="D:/a_/server/php/app/Model/Blacklist.php" timestamp="1560232330447">
+        <mark key="[" line="28" column="64" />
       </file>
       <file name="D:/register_server/server/php/app/Services/V1/SnService.php" timestamp="1559826467061">
         <mark key="[" line="101" column="11" />
@@ -178,10 +188,10 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="D:/a_/server/php/app/Manager/SnManager.php" timestamp="1560230497471">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="D:/a_/server/php/app/Manager/SnManager.php" timestamp="1560233361077">
+        <mark key="[" line="175" column="20" />
+        <mark key="]" line="175" column="20" />
+        <mark key="." line="175" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1559547902939">
         <mark key="[" line="0" column="0" />
@@ -199,6 +209,9 @@
         <mark key="[" line="115" column="34" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
+      </file>
+      <file name="D:/a_/server/php/database/migrations/2019_06_06_201102_ModifyBlacklists.php" timestamp="1560232247151">
+        <mark key="[" line="15" column="40" />
       </file>
       <file name="D:/a_/server/php/app/Manager/ModelManager.php" timestamp="1560148522292">
         <mark key="[" line="30" column="57" />
@@ -325,14 +338,16 @@
       <jump line="115" column="39" filename="D:/register_server/server/php/app/Manager/ValidManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRmaWx0ZXJVc2VkQ291bnQgPSBmYWxzZTsK</text>
+      <register name="&quot;" type="4">
+        <text>BlacklistOperationLog::create([
+                        'user_id'
+                    ]);</text>
       </register>
       <register name="g" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>increments</text>
       </register>
       <register name="/" type="4">
         <text>Ad</text>
@@ -340,36 +355,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICR0b3RhbCA9IERCOjpzZWxlY3QoIlNFTEVDVCBDT1VOVChESVNUSU5DVCB1c2VyX2lkKSBBUyB0b3RhbCBGUk9NIGxvZ191c2VyX21pZCIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRmaWx0ZXJVc2VkQ291bnQgPSBmYWxzZTsK</text>
+      <register name="1" type="4">
+        <text>BlacklistOperationLog::create([
+                        'user_id'
+                    ]);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgICAgIGlmICgkZmlsdGVyWydmaWVsZCddID09ICdjb3VudCcpIHsKLy8gICAgICAgICAgICAgICAgICAgICRmaWx0ZXJVc2VkQ291bnQgPSB0cnVlOwovLyAgICAgICAgICAgICAgICAgICAgJHF1ZXJ5LT5qb2luKAovLyAgICAgICAgICAgICAgICAgICAgICAgIERCOjpyYXcoIihzZWxlY3QgdXNlcl9pZCwgY291bnQgZnJvbSB1c2VyX21pZF91c2VkX2NvdW50cyB3aGVyZSBjb3VudCAke2ZpbHRlclsnY29tcGFyYXRvciddfSAke2ZpbHRlclsndmFsJ119KSBBUyBVTVVDIiksCi8vICAgICAgICAgICAgICAgICAgICAgICAgIlVNVUMudXNlcl9pZCIsCi8vICAgICAgICAgICAgICAgICAgICAgICAgJz0nLAovLyAgICAgICAgICAgICAgICAgICAgICAgICdVLmlkJwovLyAgICAgICAgICAgICAgICAgICAgKTsKLy8gICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwovLyAgICAgICAgICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEJpZ0ludGVnZXIoJ3VzZXJfaWQnKS0+aW5kZXgoJ2lkeF91c2VyX2lkJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRmaWx0ZXJVc2VkQ291bnQgPSBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Ly8gICAgICAgIGlmICgkZmlsdGVyVXNlZENvdW50ID09IGZhbHNlKSB7Ci8vICAgICAgICAgICAgJHF1ZXJ5LT5qb2luKCd1c2VyX21pZF91c2VkX2NvdW50cyBBUyBVTVVDJywgJ1VNVUMudXNlcl9pZCcsICc9JywgJ1UuaWQnKTsKLy8gICAgICAgIH0=</text>
+        <text encoding="base64">Ci8vICAgICAgICAgICAgICAgIGlmICgkZmlsdGVyWydmaWVsZCddID09ICdjb3VudCcpIHsKLy8gICAgICAgICAgICAgICAgICAgICRmaWx0ZXJVc2VkQ291bnQgPSB0cnVlOwovLyAgICAgICAgICAgICAgICAgICAgJHF1ZXJ5LT5qb2luKAovLyAgICAgICAgICAgICAgICAgICAgICAgIERCOjpyYXcoIihzZWxlY3QgdXNlcl9pZCwgY291bnQgZnJvbSB1c2VyX21pZF91c2VkX2NvdW50cyB3aGVyZSBjb3VudCAke2ZpbHRlclsnY29tcGFyYXRvciddfSAke2ZpbHRlclsndmFsJ119KSBBUyBVTVVDIiksCi8vICAgICAgICAgICAgICAgICAgICAgICAgIlVNVUMudXNlcl9pZCIsCi8vICAgICAgICAgICAgICAgICAgICAgICAgJz0nLAovLyAgICAgICAgICAgICAgICAgICAgICAgICdVLmlkJwovLyAgICAgICAgICAgICAgICAgICAgKTsKLy8gICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwovLyAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5qb2luKCd1c2VyX21pZF91c2VkX2NvdW50cyBBUyBVTVVDJywgJ1VNVUMudXNlcl9pZCcsICc9JywgJ1UuaWQnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG9mZnNldCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;INSERT INTO user_mid_used_counts(user_id, `count`)
-            SELECT user_id, COUNT(*) AS `count` FROM log_user_mid 
-            GROUP BY user_id
-            LIMIT ${limit} OFFSET ${offset}
-           &quot;)</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmICgkZmlsdGVyVXNlZENvdW50ID09IGZhbHNlKSB7Ci8vICAgICAgICAgICAgJHF1ZXJ5LT5qb2luKCd1c2VyX21pZF91c2VkX2NvdW50cyBBUyBVTVVDJywgJ1VNVUMudXNlcl9pZCcsICc9JywgJ1UuaWQnKTsKLy8gICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
