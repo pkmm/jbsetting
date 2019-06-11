@@ -115,6 +115,9 @@
       <file name="D:/Aaaaa/client/admin/app/index.jsx" timestamp="1556248096370">
         <mark key="[" line="40" column="12" />
       </file>
+      <file name="D:/a_/server/php/app/Services/V1/mapper/AdminUserMapper.php" timestamp="1560244483631">
+        <mark key="[" line="10" column="0" />
+      </file>
       <file name="D:/register_server/server/php/database/migrations/2019_05_31_153932_create_log_user_mid_failures_table.php" timestamp="1559825457204">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -150,6 +153,9 @@
       </file>
       <file name="D:/Aaaaa/server/php/app/Model/AdminUser.php" timestamp="1557040267762">
         <mark key="[" line="54" column="7" />
+      </file>
+      <file name="D:/a_/server/php/app/Manager/AdminAuthManager.php" timestamp="1560244570944">
+        <mark key="[" line="50" column="5" />
       </file>
       <file name="D:/Aaaaa/server/deploy/init.sh" timestamp="1556266688576">
         <mark key="[" line="7" column="0" />
@@ -201,7 +207,7 @@
         <mark key="." line="175" column="21" />
         <mark key="^" line="175" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559547902939">
+      <file name="/Dummy.txt" timestamp="1560244336356">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Aaaaa/server/php/app/Model/PasswordSecurityConf.php" timestamp="1557123270025">
@@ -244,6 +250,9 @@
         <mark key="]" line="36" column="85" />
         <mark key="^" line="36" column="9" />
         <mark key="." line="36" column="9" />
+      </file>
+      <file name="D:/a_/server/php/app/Services/V1/AdminAuthService.php" timestamp="1560244488354">
+        <mark key="[" line="46" column="7" />
       </file>
     </filemarks>
     <jumps>
