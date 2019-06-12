@@ -74,11 +74,11 @@
         <mark key="." line="36" column="4" />
         <mark key="^" line="36" column="3" />
       </file>
-      <file name="D:/a_/server/php/app/Manager/ValidManager.php" timestamp="1560161263953">
-        <mark key="[" line="118" column="12" />
-        <mark key="]" line="118" column="12" />
-        <mark key="^" line="118" column="21" />
-        <mark key="." line="118" column="12" />
+      <file name="D:/a_/server/php/app/Manager/ValidManager.php" timestamp="1560304612391">
+        <mark key="[" line="116" column="98" />
+        <mark key="]" line="119" column="12" />
+        <mark key="^" line="119" column="21" />
+        <mark key="." line="119" column="12" />
       </file>
       <file name="D:/a_/server/php/app/Model/LogUserMidFailure.php" timestamp="1560155739473">
         <mark key="[" line="24" column="28" />
@@ -196,16 +196,16 @@
       <file name="D:/register_server/server/php/database/migrations/2019_05_31_153743_ModifyUserTableAddIsActiveColumn.php" timestamp="1559288268698">
         <mark key="[" line="14" column="10" />
       </file>
-      <file name="D:/a_/server/php/app/Services/V1/UserService.php" timestamp="1560132411109">
+      <file name="D:/a_/server/php/app/Services/V1/UserService.php" timestamp="1560304412584">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="D:/a_/server/php/app/Manager/SnManager.php" timestamp="1560248798628">
-        <mark key="[" line="175" column="21" />
-        <mark key="]" line="175" column="21" />
-        <mark key="." line="175" column="21" />
-        <mark key="^" line="175" column="40" />
+      <file name="D:/a_/server/php/app/Manager/SnManager.php" timestamp="1560304400424">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="79" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1560244336356">
         <mark key="[" line="0" column="0" />
@@ -239,7 +239,7 @@
       <file name="D:/Aaaaa/server/php/app/Http/Kernel.php" timestamp="1557469628616">
         <mark key="[" line="38" column="54" />
       </file>
-      <file name="D:/a_/server/php/app/Manager/UserMidLogManager.php" timestamp="1560131382156">
+      <file name="D:/a_/server/php/app/Manager/UserMidLogManager.php" timestamp="1560304407952">
         <mark key="[" line="28" column="13" />
       </file>
       <file name="D:/Aaaaa/server/deploy/generateCertificate.sh" timestamp="1558512662913">
@@ -358,8 +358,8 @@
       <jump line="115" column="39" filename="D:/register_server/server/php/app/Manager/ValidManager.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>blocked_at</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">XERCOjplbmFibGVRdWVyeUxvZygpOwo=</text>
       </register>
       <register name="g" type="4">
         <text />
@@ -374,31 +374,31 @@
         <text encoding="base64">ICAgICR0b3RhbCA9IERCOjpzZWxlY3QoIlNFTEVDVCBDT1VOVChESVNUSU5DVCB1c2VyX2lkKSBBUyB0b3RhbCBGUk9NIGxvZ191c2VyX21pZCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcUXVlcnlcQnVpbGRlcnxcQXBwXE1vZGVsXEJsYWNrbGlzdCB3aGVyZUJsb2NrZWRBdCgkdmFsdWUpCg==</text>
+        <text encoding="base64">XERCOjplbmFibGVRdWVyeUxvZygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyAkYmxvY2tlZF9hdAo=</text>
+        <text encoding="base64">Ly9kZChcREI6OmdldFF1ZXJ5TG9nKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ29wZXJhdGVkX2F0JyktPnVzZUN1cnJlbnQoKTsK</text>
+        <text encoding="base64">ICogQG1ldGhvZCBzdGF0aWMgXElsbHVtaW5hdGVcRGF0YWJhc2VcUXVlcnlcQnVpbGRlcnxcQXBwXE1vZGVsXEJsYWNrbGlzdCB3aGVyZUJsb2NrZWRBdCgkdmFsdWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCdvcGVyYXRlZF9hdCcpOwo=</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyAkYmxvY2tlZF9hdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkb3JtUXVlcnlEYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXAoJ29wZXJhdGVkX2F0JyktPnVzZUN1cnJlbnQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGRhdGEtPmJsb2NrZWRfYXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCdvcGVyYXRlZF9hdCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJzxwcmU+Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkb3JtUXVlcnlEYXRhKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJzwvcHJlPicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGRhdGEtPmJsb2NrZWRfYXQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJzxwcmU+Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>453</text>
