@@ -54,6 +54,7 @@
       <file name="D:/a_/server/php/app/Services/V1/mapper/AdminUserMapper.php" timestamp="1560244483631">
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="D:/aizuoye-paper-trunk/server/php/app/Manager/ClientManager.php" timestamp="1560330385115" />
       <file name="D:/a_/server/php/app/Services/V1/mapper/SnUseDetailMapper.php" timestamp="1560241209097">
         <mark key="[" line="21" column="42" />
         <mark key="]" line="12" column="0" />
@@ -78,6 +79,7 @@
       <file name="D:/a_/server/php/app/Manager/AdminAuthManager.php" timestamp="1560244570944">
         <mark key="[" line="50" column="5" />
       </file>
+      <file name="D:/aizuoye-paper-trunk/server/php/app/Manager/UserManager.php" timestamp="1560330399352" />
       <file name="D:/a_/server/php/app/Model/User.php" timestamp="1560328823523" />
       <file name="D:/Aaaaa/server/deploy/init.sh" timestamp="1556266688576">
         <mark key="[" line="7" column="0" />
@@ -97,6 +99,7 @@
       <file name="D:/dev_lll/cyan/server/config/services.php" timestamp="1557231051722">
         <mark key="[" line="46" column="5" />
       </file>
+      <file name="D:/aizuoye-paper-trunk/server/php/ClientAPI/Homework/Generated/model/TeacherModel.php" timestamp="1560330437938" />
       <file name="D:/register_server/server/php/database/migrations/2019_05_31_153743_ModifyUserTableAddIsActiveColumn.php" timestamp="1559288268698">
         <mark key="[" line="14" column="10" />
       </file>
